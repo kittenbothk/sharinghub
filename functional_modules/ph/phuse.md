@@ -12,7 +12,7 @@
 
 #### 感應器Plus插件：https://github.com/kittenbothk/pxt-ModulePlus
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 #### pH感應器積木塊
 

@@ -10,7 +10,7 @@
 
 #### 載入燈條插件
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/sd5.png)
 

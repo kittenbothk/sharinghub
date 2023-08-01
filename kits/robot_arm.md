@@ -66,4 +66,4 @@ Robotbit機械臂是一套機械套件，套件可以搭建出一隻以4隻大�
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../ge-bian-cheng-ping-tai-jie-shao/makecode/makecodeextupdate.md)

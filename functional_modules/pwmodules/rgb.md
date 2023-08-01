@@ -48,7 +48,7 @@ description: x8 LED 全彩魔屏 (HKBM8012J)
 
 PowerBrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 #### 點陣魔塊積木塊
 
@@ -88,7 +88,7 @@ PowerBrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../ge-bian-cheng-ping-tai-jie-shao/makecode/makecodeextupdate.md)
 
 ### KittenBlock編程教學
 

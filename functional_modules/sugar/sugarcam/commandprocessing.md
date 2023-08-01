@@ -20,7 +20,7 @@
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 ### 二維碼掃描
 
@@ -118,8 +118,8 @@ Sugar Cam的影像就會在未來板上顯示出來。
 
 有關KittenBlock內置AI插件的教學請參考以下篇章:
 
-{% content-ref url="../../../kittenblock/features/extensions/" %}
-[extensions](../../../kittenblock/features/extensions/)
+{% content-ref url="../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/features/extensions/" %}
+[extensions](../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/features/extensions/)
 {% endcontent-ref %}
 
 <div>

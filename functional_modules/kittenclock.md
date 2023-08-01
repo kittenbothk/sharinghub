@@ -25,7 +25,7 @@ KittenClock時鐘模組可以獲取現時時間，並且在斷電後仍能靠板
 
 #### 感應器Plus插件：https://github.com/kittenbothk/pxt-SensorPlus
 
-#### [詳細方法](../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 #### KittenClock積木塊：
 
@@ -45,7 +45,7 @@ KittenClock時鐘模組可以獲取現時時間，並且在斷電後仍能靠板
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../ge-bian-cheng-ping-tai-jie-shao/makecode/makecodeextupdate.md)
 
 ### 未來板KittenBlock編程教學
 

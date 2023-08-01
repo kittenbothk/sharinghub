@@ -12,7 +12,7 @@ Meowbit上的引腳其實也支援Kittenbot的其他擴展板，在這節教程�
 
 插件地址：https://github.com/KittenBot/meow-iobit
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/sd5.png)
 

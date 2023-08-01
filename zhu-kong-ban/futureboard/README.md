@@ -1,6 +1,6 @@
 # 未來板
 
-<figure><img src="../.gitbook/assets/futureboard_blue.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/futureboard_blue.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 未來板介紹及詳細資訊
 

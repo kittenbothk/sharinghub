@@ -76,7 +76,7 @@ description: 顏色及手勢魔塊 (HKBM8012F)
 
 PowerBrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 #### 顏色手勢魔塊積木塊:
 
@@ -134,7 +134,7 @@ HSV色環可以參考下圖：
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../ge-bian-cheng-ping-tai-jie-shao/makecode/makecodeextupdate.md)
 
 ### KittenBlock編程教學
 

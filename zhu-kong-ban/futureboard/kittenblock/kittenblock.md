@@ -2,7 +2,7 @@
 
 Kittenblock是未來板的主要編程平台。
 
-Kittenblock下載: [Kittenblock安裝](../../kittenblock/kttenblockgreen.md)
+Kittenblock下載: [Kittenblock安裝](../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/kttenblockgreen.md)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/kbbanner10.png)
 

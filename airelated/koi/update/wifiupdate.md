@@ -8,7 +8,7 @@ Kittenbot會不定時推出KOI Wifi固件，提升穩定性和改善功能。
 
 ### https://github.com/KittenBot/pxt-koi[¶](broken-reference)
 
-### [詳細方法](../../../makecode/kittenbotandmakecode.md)[¶](broken-reference)
+### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)[¶](broken-reference)
 
 ### 檢查固件版本[¶](broken-reference)
 

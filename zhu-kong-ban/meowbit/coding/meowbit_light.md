@@ -8,7 +8,7 @@ Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為�
 
 #### 載入控制器插件
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/sd5.png)
 

@@ -32,7 +32,7 @@
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
 
 {% embed url="https://makecode.microbit.org/_LRV7D0FrfAtU" %}
 

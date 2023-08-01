@@ -1,4 +1,8 @@
-# MicroCode介紹
+---
+description: '#低小 # 指尖編程'
+---
+
+# 最新Microsoft MicroCode
 
 ## MicroCode介紹
 
@@ -21,10 +25,10 @@ MicroCode是由Microsoft開發的編程平台，它設計的目的是為了讓�
   * 亦實現可以離線編程
 * 支援Newbit Arcade Shield
   * 能透過Newbit Arcade Shield脫離電腦下進行編程
-  * [Newbit Arcade Shield介紹](expansion\_board/newbit-arcade-shield/arcadeshield.md)
+  * [Newbit Arcade Shield介紹](../expansion\_board/newbit-arcade-shield/arcadeshield.md)
 * 支援Jacdac模組
   * 連接Jacdac模組加入更多玩法
-  * [Jacdac介紹](jacdac/jacdac.md)
+  * [Jacdac介紹](../jacdac/jacdac.md)
 * 儲存功能
   * 寫好的程式會儲存在Micro:bit上，即使斷電再開也不會遺失進度
 
