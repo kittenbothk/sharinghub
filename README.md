@@ -31,42 +31,18 @@ coverY: 0
 [microsoft-jacdac-xi-lie](microsoft-jacdac-xi-lie/)
 {% endcontent-ref %}
 
+{% content-ref url="zhu-kong-ban/" %}
+[zhu-kong-ban](zhu-kong-ban/)
+{% endcontent-ref %}
+
 {% content-ref url="kits/" %}
 [kits](kits/)
 {% endcontent-ref %}
 
-{% content-ref url="zhu-kong-ban/futureboard/" %}
-[futureboard](zhu-kong-ban/futureboard/)
-{% endcontent-ref %}
-
-{% content-ref url="zhu-kong-ban/meowbit/" %}
-[meowbit](zhu-kong-ban/meowbit/)
-{% endcontent-ref %}
-
-{% content-ref url="zhu-kong-ban/nanobit/" %}
-[nanobit](zhu-kong-ban/nanobit/)
-{% endcontent-ref %}
-
-{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/microcode.md" %}
-[microcode.md](ge-bian-cheng-ping-tai-jie-shao/microcode.md)
-{% endcontent-ref %}
-
-{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/kittenblock/" %}
-[kittenblock](ge-bian-cheng-ping-tai-jie-shao/kittenblock/)
-{% endcontent-ref %}
-
-{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/kittencode/" %}
-[kittencode](ge-bian-cheng-ping-tai-jie-shao/kittencode/)
-{% endcontent-ref %}
-
-{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/makecode/" %}
-[makecode](ge-bian-cheng-ping-tai-jie-shao/makecode/)
+{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/" %}
+[ge-bian-cheng-ping-tai-jie-shao](ge-bian-cheng-ping-tai-jie-shao/)
 {% endcontent-ref %}
 
 {% content-ref url="studio.md" %}
 [studio.md](studio.md)
-{% endcontent-ref %}
-
-{% content-ref url="zhu-kong-ban/microbitv2.md" %}
-[microbitv2.md](zhu-kong-ban/microbitv2.md)
 {% endcontent-ref %}
