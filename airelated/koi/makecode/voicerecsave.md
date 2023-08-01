@@ -1,8 +1,14 @@
-# 獲取網絡時間 (固件版本: v1.12.0或之後)
+# 語音辨識儲存模型 (固件版本: v1.12.0或之後)
 
-連接Wifi後，KOI可以獲取到當前時間，做到報時的功能。
+在固件版本1.12.0之後，語音辨識增加了模型儲存和讀取的功能。
 
-### 編寫物聯網程式[¶](broken-reference)
+### 插入MicroSD卡[¶](broken-reference)
+
+我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/022.png" alt=""><figcaption></figcaption></figure>
+
+### 編寫語音模型訓練程式[¶](broken-reference)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,30 +22,37 @@
 
 KOI插件：https://github.com/KittenBot/pxt-KOI
 
-物聯網積木塊：
+語音識別積木塊：
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/0.6.4.png" alt=""><figcaption></figcaption></figure>
 
 編寫程式：
 
-{% embed url="https://makecode.microbit.org/_Dsi7YtP6p6JJ" %}
-
-```
-網絡時間是一組列陣，時間的格式是：年、月、日、時、分、秒。
-而這程式為例，時間的索引第3項和第4項分別就是時和分了。
-```
+{% embed url="https://makecode.microbit.org/_4Rt8VJ33HY88" %}
 
 ### 程式流程[¶](broken-reference)
 
 1: 首先將程式下載到Microbit上。
 
-2: 按下A，Microbit就會顯示當前的時間。(時區為GMT+8)
+2: 按下A，錄製第一段指令。錄製成功的話，KOI的畫面會顯示綠色，否則會顯示紅色。
+
+3: 按下B，錄製第二段指令。錄製成功的話，KOI的畫面會顯示綠色，否則會顯示紅色。
+
+```
+AI鏡頭支援最多10段語音。
+```
+
+4: 同時按下A+B，將模型儲存到SD卡上。
+
+```
+本教程將模型命名為greeting.json，名稱可以隨喜好更改，只要名稱以.json結尾即可。
+```
 
 ### 插件版本與更新[¶](broken-reference)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../../makecode/makecodeextupdate.md)
 
 ### FAQ[¶](broken-reference)
 

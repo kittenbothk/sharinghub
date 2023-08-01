@@ -1,8 +1,14 @@
-# 文字變語音 (固件版本: v1.9.5或之後)
+# 語音辨識模型運行 (固件版本: v1.12.0或之後)
 
-利用百度的雲AI，我們還可以做到文字轉語音(Text-To-Speech)的效果。
+在固件版本1.12.0之後，語音辨識增加了模型儲存和讀取的功能。
 
-### 編寫人面辨識程式[¶](broken-reference)
+### 插入MicroSD卡[¶](broken-reference)
+
+我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/022.png" alt=""><figcaption></figcaption></figure>
+
+### 編寫語音模型訓練程式[¶](broken-reference)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,43 +22,29 @@
 
 KOI插件：https://github.com/KittenBot/pxt-KOI
 
-#### 詳細方法[¶](broken-reference)
+語音識別積木塊：
 
-文字變語音積木塊：
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/0.6.4.png" alt=""><figcaption></figcaption></figure>
 
 編寫程式：
 
-```
-文字變語音需要連接WIFI。假如你已經入網，之後不需要每次都運行入網的積木。
-```
-
-{% embed url="https://makecode.microbit.org/_RJ9A2a5jsgAe" %}
+{% embed url="https://makecode.microbit.org/_ds6Eb6UmxdmM" %}
 
 ### 程式流程[¶](broken-reference)
 
 1: 首先將程式下載到Microbit上。
 
-2: 按A，KOI用英文說出 ”Hello” 。
+2: 按下A，載入先前所訓練的語音模型。
 
-3: 按B，KOI用英文說出 ”Good Morning”和”I am happy”。
+3: 按下B，辨認語音指令。辨認成功的話，KOI的畫面會顯示綠色，否則會顯示紅色。
 
-```
-語音辨識支援短句子(2-3個單字)，並且單字之間不可有空格。
-```
-
-4: 按A+B，KOI用普通話說出 ”123”。
-
-```
-MakeCode不支援中文，不過百度雲支援普通話，所以數字會以普通話讀出。
-```
+4: Microbit會顯示出辨認結果。
 
 ### 插件版本與更新[¶](broken-reference)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../../makecode/makecodeextupdate.md)
 
 ### FAQ[¶](broken-reference)
 

@@ -1,6 +1,6 @@
-# 顏色檢測追蹤
+# 線條檢測追蹤
 
-本節教程將教導大家將偵測到顏色之座標(X,Y)顯示到OLED上面。
+線條追蹤一般用作小車子巡線，本節教程將教導大家將偵測到線條之座標(X1,Y1)和(X2,Y2)顯示到OLED上面。
 
 ### Robotbit接線[¶](broken-reference)
 
@@ -22,17 +22,17 @@
 
 KOI插件：https://github.com/KittenBot/pxt-KOI
 
-#### 顏色檢測積木塊：
+線條檢測積木塊：
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/blocks_blob.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/blocks.png" alt=""><figcaption></figcaption></figure>
 
-### 編寫程式：
+編寫程式：
 
-{% embed url="https://makecode.microbit.org/_V4UeaJYT61YP" %}
+{% embed url="https://makecode.microbit.org/_T9747v0Vdd2q" %}
 
 ### 按鍵A觸發顏色追蹤[¶](broken-reference)
 
-顏色追蹤相似前大家都需要首先進行顏色校正。
+巡線追蹤和顏色追蹤相似，大家都需要首先進行顏色校正。
 
 您可以定義顏色的名稱。KOI可以校正並追蹤多種顏色。
 
@@ -48,9 +48,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 將程式下載到Microbit上。
 
-將要追蹤色塊物件放在鏡頭前（例如原子筆），按下按鍵A進行顏色校正。
+將要追蹤的筆直線狀物件放在鏡頭前（例如原子筆），按下按鍵A進行顏色校正。
 
-校正成功後，可以看到被偵測色塊的2組座標顯示在Microbit的顯示屏上。
+校正成功後，可以看到被偵測線段的2組座標顯示在Microbit的顯示屏上。
 
 ### 進階程式[¶](broken-reference)
 
@@ -64,9 +64,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 編寫程式：
 
-{% embed url="https://makecode.microbit.org/_2DKRWfEXTW9M" %}
+{% embed url="https://makecode.microbit.org/_MViMLk0uhb70" %}
 
-程式流程與基本程式相同，可以看到被偵測色塊的2組座標顯示在OLED顯示屏上。
+程式流程與基本程式相同，可以看到被偵測線段的2組座標顯示在OLED顯示屏上。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/015.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +74,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../../makecode/makecodeextupdate.md)
 
 ### FAQ[¶](broken-reference)
 
@@ -88,6 +88,6 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 · 答：不行，必須要接5V！
 
-#### 3： 如何提高色塊的準確性？[¶](broken-reference)
+#### 3： 如何提高巡線的準確性？[¶](broken-reference)
 
 · 答：盡量保持簡潔的背景，並使用與背景顏色有明顯分別的物件。

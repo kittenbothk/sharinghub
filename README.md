@@ -19,8 +19,8 @@ coverY: 0
 [jacdac](jacdac/)
 {% endcontent-ref %}
 
-{% content-ref url="koi/" %}
-[koi](koi/)
+{% content-ref url="airelated/koi/" %}
+[koi](airelated/koi/)
 {% endcontent-ref %}
 
 {% content-ref url="meowbit/" %}

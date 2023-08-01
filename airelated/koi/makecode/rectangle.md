@@ -1,8 +1,6 @@
-# 圓形追踪
+# 方形追踪
 
-### 編寫圓形追踪程式[¶](broken-reference)
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner.png" alt=""><figcaption></figcaption></figure>
+### 編寫方形追踪程式[¶](broken-reference)
 
 #### 加載KOI插件：[¶](broken-reference)
 
@@ -14,17 +12,17 @@
 
 KOI插件：https://github.com/KittenBot/pxt-KOI
 
-圓形追踪積木塊：
+方形追踪積木塊：
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-12.png" alt=""><figcaption></figcaption></figure>
 
-### 完整參考程式：
+完整參考程式：
 
-{% embed url="https://makecode.microbit.org/_P3wiD8Mur89Y" %}
+{% embed url="https://makecode.microbit.org/_HaYX6MH8VAD5" %}
 
 #### 臨界值[¶](broken-reference)
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/04-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/04-12.png" alt=""><figcaption></figcaption></figure>
 
 臨界值是影響識別率的一個參數, 需要自主嘗試並調整臨界值。
 
@@ -32,15 +30,11 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### 程式運行流程[¶](broken-reference)
 
-把程式下載到Microbit 上, 按下Microbit 上的A鍵. Microbit 點陣會顯示出檢測所得之半徑值 (佔KOI 的螢幕長度計算, 最大r 值在105 - 110 左右);
-
-同時在KOI 的螢幕上顯示出圓中心的X, Y 位置值。
+程式下載到Microbit 上, 按下Microbit 上的A鍵. KOI 的螢幕上顯示出左下角的x, y 位置值, 還有當時測得的長度與寬度 (KOI 螢幕單位佔比計算)
 
 ### 進階程式[¶](broken-reference)
 
-為方便讀取圓形資訊, 我們便可考慮多加一塊OLED顯示屏, 以提高資訊的可讀性。
-
-讀取Bar Code 及 QR Code 後可能出現大量資訊, 在KOI 的螢幕上未必有足夠時間閱讀; 此時我們便可考慮多加一塊OLED顯示屏, 以提高資訊的可讀性。
+為方便讀取方形資訊, 我們便可考慮多加一塊OLED顯示屏, 以提高資訊的可讀性。
 
 #### OLED接線[¶](broken-reference)
 
@@ -50,13 +44,13 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 #### 編寫程式[¶](broken-reference)
 
-{% embed url="https://makecode.microbit.org/_5E21sPM6vaqV" %}
+{% embed url="https://makecode.microbit.org/_LmE8H5efoffA" %}
 
 ### 插件版本與更新[¶](broken-reference)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考:[ Makecode插件版本更換](../../../makecode/makecodeextupdate.md)
 
 ### FAQ[¶](broken-reference)
 
@@ -72,4 +66,4 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 · 識別背景盡量單調，不能太雜亂;
 
-· 圓形有銳利的輪廓。
+· 方形有銳利的輪廓。

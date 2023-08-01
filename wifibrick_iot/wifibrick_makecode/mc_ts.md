@@ -15,7 +15,7 @@
 * 本文均以配合Robot:bit 作示範; 如改用Iobit 或 Armourbit, 只需作輕量修改便可。
 * 本文的範例程式會基於WiFiBrick做基礎，假如你使用KOI，請按照範例程式和教學自行作出調整。
 
-[KOI與物聯網](../../koi/makecode/iot.md)
+[KOI與物聯網](../../airelated/koi/makecode/iot.md)
 
 一如以住, 我們要到Makecode 編程平台及相關插件。
 

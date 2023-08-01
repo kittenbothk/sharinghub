@@ -14,7 +14,7 @@ layout:
 
 # AI鏡頭KOI
 
-<figure><img src="../.gitbook/assets/koi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/koi.png" alt=""><figcaption></figcaption></figure>
 
 這裡集合了KOI AI鏡頭的各種資料，包括KOI硬件介紹，編程教學和更新教學。
 

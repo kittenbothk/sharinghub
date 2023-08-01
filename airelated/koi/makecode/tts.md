@@ -1,8 +1,8 @@
-# 語音識別 (固件版本: v1.9.5或之後)
+# 文字變語音 (固件版本: v1.9.5或之後)
 
-我們可以訓練KOI聆聽語音指令。
+利用百度的雲AI，我們還可以做到文字轉語音(Text-To-Speech)的效果。
 
-### 編寫語音識別程式[¶](broken-reference)
+### 編寫人面辨識程式[¶](broken-reference)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,43 +16,43 @@
 
 KOI插件：https://github.com/KittenBot/pxt-KOI
 
-語音識別積木塊：
+#### 詳細方法[¶](broken-reference)
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/1.png" alt=""><figcaption></figcaption></figure>
+文字變語音積木塊：
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/13.png" alt=""><figcaption></figcaption></figure>
 
 編寫程式：
 
-{% embed url="https://makecode.microbit.org/_YbF1E8fUo4u7" %}
+```
+文字變語音需要連接WIFI。假如你已經入網，之後不需要每次都運行入網的積木。
+```
+
+{% embed url="https://makecode.microbit.org/_RJ9A2a5jsgAe" %}
 
 ### 程式流程[¶](broken-reference)
 
 1: 首先將程式下載到Microbit上。
 
-2: 按下A，錄製第一段指令。錄製成功的話，KOI的畫面會顯示綠色，否則會顯示紅色。Microbit上會顯示語音指令編號。
+2: 按A，KOI用英文說出 ”Hello” 。
 
-3: 完成第一段錄音之後按下B，Microbit上的語音指令編號會增加。返回步驟2開始訓練下一段指令。
-
-4: 重複步驟2-4，直至完成錄入所有指令。
+3: 按B，KOI用英文說出 ”Good Morning”和”I am happy”。
 
 ```
-AI鏡頭支援最多10段語音。
+語音辨識支援短句子(2-3個單字)，並且單字之間不可有空格。
 ```
 
-5: 完成訓練後，同時按下A和B，KOI會開始辨識指令。成功辨認的話會顯示綠色，否則顯示紅色。Microbit上亦會顯示辨識到指令的編號。
+4: 按A+B，KOI用普通話說出 ”123”。
 
-### 語音識別示範短片[¶](broken-reference)
-
-
-
-{% embed url="https://www.youtube.com/watch?feature=youtu.be&v=xlcv4hETpRI" %}
-
-
+```
+MakeCode不支援中文，不過百度雲支援普通話，所以數字會以普通話讀出。
+```
 
 ### 插件版本與更新[¶](broken-reference)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../../../makecode/makecodeextupdate.md)
 
 ### FAQ[¶](broken-reference)
 
