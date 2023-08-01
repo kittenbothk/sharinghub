@@ -27,8 +27,8 @@ coverY: 0
 [actuators](actuators/)
 {% endcontent-ref %}
 
-{% content-ref url="jacdac/" %}
-[jacdac](jacdac/)
+{% content-ref url="microsoft-jacdac-xi-lie/" %}
+[microsoft-jacdac-xi-lie](microsoft-jacdac-xi-lie/)
 {% endcontent-ref %}
 
 {% content-ref url="kits/" %}

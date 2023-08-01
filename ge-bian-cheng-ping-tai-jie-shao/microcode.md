@@ -10,6 +10,10 @@ description: '#低小 # 指尖編程'
 
 MicroCode是由Microsoft開發的編程平台，它設計的目的是為了讓更低年級的學生都可以接觸到編程教育。MicroCode使用了全圖像化的結構化編程語言，學生完全無需編程或電腦知識就可以編寫簡單的Micro:bit V2程式。
 
+## 什麼是Microsoft MicroCode?
+
+{% embed url="https://www.youtube.com/watch?v=9AQ_uVbGAEQ" %}
+
 ### [MicroCode官網](https://microsoft.github.io/microcode/#H4sIAEmiv2MAA32OWwuCMBiG/1JmB3aZIrXhFJmH5V1lwre0AhWdv75PZ9BVVy8PvKe7Zv2tJs/8mNZUvfe0OkBYtah0UY7aQDJ6IEUPkaC7TDMnTAzHhoMAWFGK4cdP//q5chwKyPEZpFw1+CPG/Svmt5Fghe8yZ+aHN3B35sDwSnMPu6aMbS2b5muZWsQ/4Tbght2SpVdMua939rhsnUs2XjLSUfWCQtEucDeaAyMf85b1ohABAAA=)
 
 ### MicroCode特色
@@ -28,7 +32,7 @@ MicroCode是由Microsoft開發的編程平台，它設計的目的是為了讓�
   * [Newbit Arcade Shield介紹](../expansion\_board/newbit-arcade-shield/arcadeshield.md)
 * 支援Jacdac模組
   * 連接Jacdac模組加入更多玩法
-  * [Jacdac介紹](../jacdac/jacdac.md)
+  * [Jacdac介紹](../microsoft-jacdac-xi-lie/jacdac.md)
 * 儲存功能
   * 寫好的程式會儲存在Micro:bit上，即使斷電再開也不會遺失進度
 
