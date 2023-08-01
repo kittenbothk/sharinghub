@@ -310,6 +310,7 @@
       * [氣候滙報機說明書](kits/powerbrick/info/instruction8.md)
       * [顏色分辨機說明書](kits/powerbrick/info/instruction9.md)
       * [風車說明書](kits/powerbrick/info/instruction10.md)
+  * [數碼教育新世代STEAM專題套件](kits/shu-ma-jiao-yu-xin-shi-dai-steam-zhuan-ti-tao-jian.md)
   * [AI衛生防疫套件](kits/aihealth/README.md)
     * [AI衛生防疫套件介紹](kits/aihealth/intro.md)
     * [AI衛生防疫套件組裝資料](kits/aihealth/info/README.md)
