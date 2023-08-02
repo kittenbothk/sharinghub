@@ -141,7 +141,7 @@
       * [Sugar Cam使用教學: 指令模式(預設)](functional\_modules/sugar/sugarcam/commandprocessing/README.md)
         * [Sugar Cam功能示範: 二維碼掃描](functional\_modules/sugar/sugarcam/commandprocessing/qrcode.md)
         * [Sugar Cam功能示範: 語音辨識](functional\_modules/sugar/sugarcam/commandprocessing/asr.md)
-        * [Sugar Cam功能示範: MP3播放](functional\_modules/sugar/sugarcam/commandprocessing/mp3.md)
+        * [Sugar Cam功能示範: 拍照與MP3播放](functional\_modules/sugar/sugarcam/commandprocessing/mp3.md)
         * [Sugar Cam功能示範: 未來板圖傳](functional\_modules/sugar/sugarcam/commandprocessing/futureboardfpv.md)
       * [智能FPV鏡頭使用教學: 遙控模式(進階)](functional\_modules/sugar/sugarcam/remotecontrol.md)
       * [串口指令集](functional\_modules/sugar/sugarcam/api.md)
