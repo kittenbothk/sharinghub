@@ -1,6 +1,6 @@
-# Sugar Cam功能示範: MP3播放
+# Sugar Cam功能示範: 拍照與MP3播放
 
-Sugar Cam可以播放MP3檔案。
+Sugar Cam可以播放MP3檔案和拍照儲存到SD卡。
 
 ### 接線教學
 
