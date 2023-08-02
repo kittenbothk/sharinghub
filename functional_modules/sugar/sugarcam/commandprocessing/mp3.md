@@ -25,3 +25,5 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 ### 拍照與播放mp3
 
 {% embed url="https://makecode.microbit.org/_Hsj08VMRFgFz" %}
+
+[參考程式](https://makecode.microbit.org/\_THicH4AroPJc)
