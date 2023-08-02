@@ -4,14 +4,14 @@
 
 
 
-{% content-ref url="basickit/" %}
-[basickit](basickit/)
+{% content-ref url="ji-chu-qi-dong/" %}
+[ji-chu-qi-dong](ji-chu-qi-dong/)
 {% endcontent-ref %}
 
-{% content-ref url="motion/" %}
-[motion](motion/)
+{% content-ref url="dong-gan-kuo-zhan.md" %}
+[dong-gan-kuo-zhan.md](dong-gan-kuo-zhan.md)
 {% endcontent-ref %}
 
-{% content-ref url="sensing/" %}
-[sensing](sensing/)
+{% content-ref url="gan-ce-kuo-zhan.md" %}
+[gan-ce-kuo-zhan.md](gan-ce-kuo-zhan.md)
 {% endcontent-ref %}
