@@ -1,6 +1,6 @@
 # 感測擴展
 
-
+<figure><img src="../../.gitbook/assets/sensing.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% content-ref url="../../functional_modules/sugar/soil.md" %}
 [soil.md](../../functional\_modules/sugar/soil.md)
