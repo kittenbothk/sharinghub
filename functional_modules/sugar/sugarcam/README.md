@@ -1,4 +1,4 @@
-# Sugar二期 智能FPV鏡頭
+# Sugar二期 Sugar Cam
 
 <figure><img src="../../../.gitbook/assets/cam_render.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@
 
 <figure><img src="../../../.gitbook/assets/cam_usb3.png" alt=""><figcaption></figcaption></figure>
 
-#### 模式切換
+### 模式切換
 
 要切換模式的話，只要將config.json的model改為相應的模式就可以。
 
