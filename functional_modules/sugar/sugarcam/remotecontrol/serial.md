@@ -30,17 +30,3 @@
 ### Micro:bit參考程式
 
 {% embed url="https://makecode.microbit.org/_DLxCC2KWoPyC" %}
-
-### 進階Hacker式玩法
-
-模組的網站頁面可以在index.html作修改，有能力的用家可以透過修改html和javascript達致自己想要的功能。
-
-<div>
-
-<figure><img src="../../../../.gitbook/assets/cam_html1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/cam_html2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
