@@ -143,6 +143,8 @@
         * [Sugar Cam功能教學: 語音辨識](functional\_modules/sugar/sugarcam/commandprocessing/asr.md)
         * [Sugar Cam功能教學: 拍照與MP3播放](functional\_modules/sugar/sugarcam/commandprocessing/mp3.md)
         * [Sugar Cam功能教學: 未來板圖傳](functional\_modules/sugar/sugarcam/commandprocessing/futureboardfpv.md)
+        * [Sugar Cam功能教學: KittenBlock編程](functional\_modules/sugar/sugarcam/commandprocessing/kittenblock.md)
+        * [功能教學: KittenBlock內置AI](functional\_modules/sugar/sugarcam/commandprocessing/kittenblockai.md)
       * [Sugar Cam使用教學: 遙控模式(進階)](functional\_modules/sugar/sugarcam/remotecontrol/README.md)
         * [Sugar Cam功能教學: 網頁圖傳及遙控](functional\_modules/sugar/sugarcam/remotecontrol/serial.md)
         * [Sugar Cam功能教學: 網頁介面自訂](functional\_modules/sugar/sugarcam/remotecontrol/html.md)
