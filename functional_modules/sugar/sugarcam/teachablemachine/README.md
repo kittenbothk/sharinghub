@@ -2,7 +2,7 @@
 
 Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考以下介紹。
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 刷入Teachable Machine專用固件
 
@@ -30,11 +30,11 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 
 打開資料夾裡的Klink.exe。
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 選擇Modules\&Applications。然後選擇Teachable Machine的Load Plugin。
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 選擇Firmware的一欄然後按Update Firmware。
 
