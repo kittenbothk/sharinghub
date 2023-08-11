@@ -14,6 +14,8 @@
 
 {% hint style="info" %}
 這個Teachable Machine最多支援8個分類，每個分類暫時未發現相片上限，一般40\~50張相已經很足夠。
+
+Teachable Machine只可使用黑白相片訓練，請確保訓練的物件輪廓清晰並有較大分別。
 {% endhint %}
 
 <div data-full-width="true">

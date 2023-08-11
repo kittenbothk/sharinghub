@@ -59,3 +59,11 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 <figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+### 切換到普通模式
+
+假如想將Sugar Cam切換到普通模式，只需按先前步驟連接Sugar Cam。
+
+然後在固件刷新程式選擇Sugar Cam並Load Plugin，再按Update Firmware即可。
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-11 123415.png" alt=""><figcaption></figcaption></figure>
