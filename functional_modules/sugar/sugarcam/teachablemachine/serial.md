@@ -4,7 +4,11 @@
 
 ### 接線教學
 
+<figure><img src="../../../../.gitbook/assets/cam_edu_wire.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### MakeCode 編程教學
+
+只需要透過序列數據就可以獲取辨認結果。
 
 {% hint style="info" %}
 請按自己的模型修改程式。
