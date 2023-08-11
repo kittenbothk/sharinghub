@@ -67,3 +67,9 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 然後在固件刷新程式選擇Sugar Cam並Load Plugin，再按Update Firmware即可。
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-11 123415.png" alt=""><figcaption></figcaption></figure>
+
+完成後就可以按照更新固件的方法刷入最新固件。
+
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
