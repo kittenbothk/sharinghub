@@ -14,7 +14,7 @@ KOI的功能現已獲得重大的提升，不但改進了原有的功能，還�
 
 巡線功能的辨識度和介面得到改善。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 新增功能一覽
 
@@ -22,7 +22,7 @@ KOI的功能現已獲得重大的提升，不但改進了原有的功能，還�
 
 KOI新增人臉口罩識別模式，可以識別到人臉的位置和有沒有佩戴口罩。
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 人臉屬性識別
 

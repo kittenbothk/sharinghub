@@ -74,6 +74,7 @@
       * [KOI Wifi固件更新](airelated/koi/update/wifiupdate.md)
     * [KOI 第三代固件功能提升介紹](airelated/koi/v3upgrade/README.md)
       * [第三代固件更新教學](airelated/koi/v3upgrade/update.md)
+      * [KOI第三代固件操作介紹](airelated/koi/v3upgrade/koi-di-san-dai-gu-jian-cao-zuo-jie-shao.md)
   * [Sugar ASR語音模組](airelated/asr.md)
 * [Wifibrick與IoT方案](wifibrick\_iot/README.md)
   * [Wifibrick](wifibrick\_iot/wifibrick/README.md)
