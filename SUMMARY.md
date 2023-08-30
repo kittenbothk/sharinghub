@@ -488,7 +488,7 @@
     * [紙電路教學套件介紹](kits/paper\_circuitry/intro.md)
     * [紙電路教學套件零件清單](kits/paper\_circuitry/info.md)
   * [Robotbit機械臂](kits/robot\_arm.md)
-  * [OTTO機械人](kits/otto-ji-xie-ren.md)
+  * [OTTO機械人](kits/otto.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
 * [各編程平台介紹](ge-bian-cheng-ping-tai-jie-shao/README.md)
   * [最新Microsoft MicroCode](ge-bian-cheng-ping-tai-jie-shao/microcode.md)

@@ -94,6 +94,10 @@ description: 各款Kittenbot套件產品的介紹和支援
 [robot\_arm.md](robot\_arm.md)
 {% endcontent-ref %}
 
+{% content-ref url="otto.md" %}
+[otto.md](otto.md)
+{% endcontent-ref %}
+
 {% content-ref url="classroom.md" %}
 [classroom.md](classroom.md)
 {% endcontent-ref %}
