@@ -4,8 +4,12 @@
 [quickstart.md](quickstart.md)
 {% endcontent-ref %}
 
-{% content-ref url="starterkit.md" %}
-[starterkit.md](starterkit.md)
+{% content-ref url="jacdacmicrocode.md" %}
+[jacdacmicrocode.md](jacdacmicrocode.md)
+{% endcontent-ref %}
+
+{% content-ref url="starterkita.md" %}
+[starterkita.md](starterkita.md)
 {% endcontent-ref %}
 
 {% content-ref url="jacdapter.md" %}
