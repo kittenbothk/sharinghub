@@ -1,4 +1,4 @@
-# Sugar Cam功能示範: 拍照與MP3播放
+# Sugar Cam功能教學: 拍照與MP3播放
 
 Sugar Cam可以播放MP3檔案和拍照儲存到SD卡。
 
@@ -20,7 +20,7 @@ Sugar Cam可以播放MP3檔案和拍照儲存到SD卡。
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ### 拍照與播放mp3
 

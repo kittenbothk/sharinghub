@@ -1,4 +1,4 @@
-# Sugar Cam功能示範: 語音辨識
+# Sugar Cam功能教學: 語音辨識
 
 Sugar Cam可以做到英語語音辨識。
 
@@ -16,7 +16,7 @@ Sugar Cam可以做到英語語音辨識。
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ### 語音辨識
 

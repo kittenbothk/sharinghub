@@ -20,7 +20,7 @@ Meowbit上的引腳其實也支援Kittenbot的其他擴展板，在這節教程�
 
 #### 插件地址：https://github.com/KittenBot/meow-robotbit
 
-#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ```
 加入Robotbit插件時也會自動一併加入引腳插件。

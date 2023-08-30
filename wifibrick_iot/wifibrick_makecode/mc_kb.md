@@ -16,7 +16,7 @@
 
 ### 安裝KittenBlock
 
-[下載KittenBlock](../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/kttenblockgreen.md)
+[下載KittenBlock](../../programmingplatforms/kittenblock/kttenblockgreen.md)
 
 ### 第一步：平台準備
 

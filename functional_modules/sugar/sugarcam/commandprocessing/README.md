@@ -20,5 +20,5 @@
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 

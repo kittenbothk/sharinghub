@@ -58,6 +58,20 @@
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/power.png)
 
+### 使用MicroCode教學
+
+MicroCode是MicroSoft開發的全圖像化離線編程平台，詳情請參考以下文章。
+
+{% content-ref url="../../programmingplatforms/microcode.md" %}
+[microcode.md](../../programmingplatforms/microcode.md)
+{% endcontent-ref %}
+
 ### Newbit的Jacdac接口可以連接各種Jacdac模組
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/jacdac.jpg)
+
+有關Newbit與Jacdac的玩法介紹，可以參考以下文章：
+
+{% content-ref url="newbitxjacdac.md" %}
+[newbitxjacdac.md](newbitxjacdac.md)
+{% endcontent-ref %}

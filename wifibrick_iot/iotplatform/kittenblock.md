@@ -24,7 +24,7 @@ Kittenblock內置IoT平台的特點在於免費，容易使用，不需外網，
 
 ### 安裝KittenBlock
 
-[下載KittenBlock](../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/kttenblockgreen.md)
+[下載KittenBlock](../../programmingplatforms/kittenblock/kttenblockgreen.md)
 
 ### Makecode 編程與KittenBlock
 

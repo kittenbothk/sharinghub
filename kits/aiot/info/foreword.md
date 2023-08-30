@@ -4,4 +4,4 @@ AIOT Starter Kit套件使用Kittenblock作為編程平台，請按照以下教�
 
 ### 安裝Kittenblock
 
-[安裝Kittenblock](../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/kttenblockgreen.md)
+[安裝Kittenblock](../../../programmingplatforms/kittenblock/kttenblockgreen.md)

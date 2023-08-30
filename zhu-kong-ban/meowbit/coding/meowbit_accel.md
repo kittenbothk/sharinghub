@@ -10,7 +10,7 @@ Meowbit上搭載了陀螺儀，Meowbit上有1個3軸的陀螺儀，可以測量X
 
 #### 載入控制器插件
 
-#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/sd5.png)
 

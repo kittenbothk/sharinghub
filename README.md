@@ -39,8 +39,8 @@ coverY: 0
 [kits](kits/)
 {% endcontent-ref %}
 
-{% content-ref url="ge-bian-cheng-ping-tai-jie-shao/" %}
-[ge-bian-cheng-ping-tai-jie-shao](ge-bian-cheng-ping-tai-jie-shao/)
+{% content-ref url="programmingplatforms/" %}
+[programmingplatforms](programmingplatforms/)
 {% endcontent-ref %}
 
 {% content-ref url="studio.md" %}

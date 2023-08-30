@@ -8,7 +8,7 @@ KOI支援Robotbit與Armourbit，兩者分別只是在於初始化積木的分別
 
 #### 加載KOI插件：https://github.com/KittenBot/pxt-koi[¶](broken-reference)
 
-#### [詳細方法](../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)[¶](broken-reference)
+#### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)[¶](broken-reference)
 
 初始化積木塊：
 

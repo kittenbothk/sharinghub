@@ -22,8 +22,8 @@
 
 有關KittenBlock內置AI插件的教學請參考以下篇章:
 
-{% content-ref url="../../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/features/extensions/" %}
-[extensions](../../../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/features/extensions/)
+{% content-ref url="../../../../programmingplatforms/kittenblock/features/extensions/" %}
+[extensions](../../../../programmingplatforms/kittenblock/features/extensions/)
 {% endcontent-ref %}
 
 <div>

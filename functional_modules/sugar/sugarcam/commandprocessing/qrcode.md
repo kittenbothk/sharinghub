@@ -1,4 +1,4 @@
-# Sugar Cam功能示範: 二維碼掃描
+# Sugar Cam功能教學: 二維碼掃描
 
 Sugar Cam可以掃描二維碼。
 
@@ -16,7 +16,7 @@ Sugar Cam可以掃描二維碼。
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../../../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ### 二維碼掃描
 

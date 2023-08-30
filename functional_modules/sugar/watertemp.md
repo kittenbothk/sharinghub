@@ -30,7 +30,7 @@
 
 Sugar插件：https://github.com/KittenBot/pxt-robotbit
 
-#### [詳細方法](../../ge-bian-cheng-ping-tai-jie-shao/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 {% embed url="https://makecode.microbit.org/_YMC0uoKHKfw4" %}
 

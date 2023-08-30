@@ -4,7 +4,7 @@ Robotbit Edu在Kittenblock編程
 
 Robotbit Edu亦支援在Kittenblock上編程。
 
-有關Kittenblock的介紹可以參考：[Kittenblock大全](../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/)
+有關Kittenblock的介紹可以參考：[Kittenblock大全](../../programmingplatforms/kittenblock/)
 
 ### 這教學會使用Micro:bit V1或V2作例子，有關未來板或Meowbit的Robotbit Edu使用教學請參考相關的教學。
 

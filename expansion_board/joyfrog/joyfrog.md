@@ -53,10 +53,10 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 *   Kittenblock
 
-    [Kittenblock大全](../../ge-bian-cheng-ping-tai-jie-shao/kittenblock/)
+    [Kittenblock大全](../../programmingplatforms/kittenblock/)
 *   MakeCode
 
-    [MakeCode編程平台教學](../../ge-bian-cheng-ping-tai-jie-shao/makecode/)
+    [MakeCode編程平台教學](../../programmingplatforms/makecode/)
 
 ### 主控板指示圖
 

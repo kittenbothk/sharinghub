@@ -11,3 +11,7 @@ Newbit Arcade Shield的資訊。
 {% content-ref url="radio.md" %}
 [radio.md](radio.md)
 {% endcontent-ref %}
+
+{% content-ref url="newbitxjacdac.md" %}
+[newbitxjacdac.md](newbitxjacdac.md)
+{% endcontent-ref %}
