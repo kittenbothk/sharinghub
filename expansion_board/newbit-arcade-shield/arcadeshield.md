@@ -36,6 +36,6 @@ MicroCode是MicroSoft開發的全圖像化離線編程平台，簡單的編程�
 
 有關Newbit與Jacdac的玩法介紹，可以參考以下文章：
 
-{% content-ref url="newbitmicrocode/newbitxjacdac.md" %}
-[newbitxjacdac.md](newbitmicrocode/newbitxjacdac.md)
+{% content-ref url="newbitxjacdac.md" %}
+[newbitxjacdac.md](newbitxjacdac.md)
 {% endcontent-ref %}

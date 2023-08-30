@@ -52,6 +52,16 @@ MR OTTO 機械人是一隻會跳舞的機械人，透過控制OTTO 的8隻舵機
 
 ### 參考程式下載
 
+#### 初始化校正舵機程式
+
+{% hint style="info" %}
+在搭建OTTO前，請使用以下程式校正所有舵機至90度。
+{% endhint %}
+
+{% embed url="https://makecode.microbit.org/_4Hg6LYRdd48z" %}
+
+[參考程式](https://makecode.microbit.org/\_4Hg6LYRdd48z)
+
 #### OTTO主體
 
 {% embed url="https://makecode.microbit.org/_1wgE6k23yV4b" %}
