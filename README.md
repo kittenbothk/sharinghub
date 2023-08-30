@@ -27,8 +27,8 @@ coverY: 0
 [actuators](actuators/)
 {% endcontent-ref %}
 
-{% content-ref url="microsoft-jacdac-xi-lie/" %}
-[microsoft-jacdac-xi-lie](microsoft-jacdac-xi-lie/)
+{% content-ref url="jacdac/" %}
+[jacdac](jacdac/)
 {% endcontent-ref %}
 
 {% content-ref url="zhu-kong-ban/" %}
