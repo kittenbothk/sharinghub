@@ -8,10 +8,10 @@ Newbit Arcade Shield的資訊。
 [arcadeshield.md](arcadeshield.md)
 {% endcontent-ref %}
 
-{% content-ref url="radio.md" %}
-[radio.md](radio.md)
+{% content-ref url="newbitarcade/" %}
+[newbitarcade](newbitarcade/)
 {% endcontent-ref %}
 
-{% content-ref url="newbitxjacdac.md" %}
-[newbitxjacdac.md](newbitxjacdac.md)
+{% content-ref url="newbitmicrocode/" %}
+[newbitmicrocode](newbitmicrocode/)
 {% endcontent-ref %}

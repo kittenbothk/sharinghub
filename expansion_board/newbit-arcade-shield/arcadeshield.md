@@ -14,64 +14,28 @@
 
 ### 編程教學
 
-#### 前往Microsoft MakeCode Arcade
+#### MakeCode Arcade
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade0.png)
+MakeCode Arcade是編寫遊戲的編程平台，配合Micro:bit V2就可以在Newbit上玩到Arcade的遊戲。
 
-[Microsoft MakeCode Arcade](https://arcade.makecode.com/)
-
-#### 開新專案
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade1.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade2.png)
-
-#### 打開『關於』欄
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade3.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade4.png)
-
-#### 點擊『實驗』
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade5.png)
-
-#### 啟用『Experimental Hardware』
-
-#### 這設定只需完成一次，不需要之後每次都設定
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade6.png)
-
-#### 選擇硬體
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade7.png)
-
-#### 選擇『N3』
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade8.png)
-
-#### 下載到Micro:bit V2上
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/arcade9.png)
-
-#### 打開電源
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/power.png)
-
-### 使用MicroCode教學
-
-MicroCode是MicroSoft開發的全圖像化離線編程平台，詳情請參考以下文章。
-
-{% content-ref url="../../programmingplatforms/microcode.md" %}
-[microcode.md](../../programmingplatforms/microcode.md)
+{% content-ref url="newbitarcade/" %}
+[newbitarcade](newbitarcade/)
 {% endcontent-ref %}
 
-### Newbit的Jacdac接口可以連接各種Jacdac模組
+#### MicroCode
+
+MicroCode是MicroSoft開發的全圖像化離線編程平台，簡單的編程邏輯和圖像化的編程令初小學生也可以接觸到編程教育。
+
+{% content-ref url="newbitmicrocode/" %}
+[newbitmicrocode](newbitmicrocode/)
+{% endcontent-ref %}
+
+### Jacdac
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/jacdac.jpg)
 
 有關Newbit與Jacdac的玩法介紹，可以參考以下文章：
 
-{% content-ref url="newbitxjacdac.md" %}
-[newbitxjacdac.md](newbitxjacdac.md)
+{% content-ref url="newbitmicrocode/newbitxjacdac.md" %}
+[newbitxjacdac.md](newbitmicrocode/newbitxjacdac.md)
 {% endcontent-ref %}
