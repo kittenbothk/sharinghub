@@ -494,7 +494,7 @@
   * [Robotbit機械臂](kits/robot\_arm.md)
   * [OTTO機械人](kits/otto.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
-  * [物聯氣象站套件(Sugar Box)](kits/weatherstation\_sugarbox/README.md)
+  * [物聯氣象站套件(Sugar Box)](kits/wu-lian-qi-xiang-zhan-tao-jian-sugar-box.md)
     * [Sugar Box物聯氣象站介紹](kits/weatherstation\_sugarbox/weatherstationintro.md)
     * [氣象站 模型案例教學](kits/weatherstation\_sugarbox/instructions/README.md)
       * [整合氣象站](kits/weatherstation\_sugarbox/instructions/complete.md)

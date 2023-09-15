@@ -4,6 +4,8 @@
 
 ### 模型搭建說明書
 
+{% file src="../../../.gitbook/assets/windvane.pdf" %}
+
 ### 模型接線圖
 
 <figure><img src="../../../.gitbook/assets/anemometer_wiring.png" alt=""><figcaption></figcaption></figure>
