@@ -1,4 +1,4 @@
-# Sugar Box物聯氣象站介紹
+# 智能氣象站介紹
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

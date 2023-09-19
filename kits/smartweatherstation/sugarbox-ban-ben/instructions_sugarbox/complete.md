@@ -1,14 +1,14 @@
-# 整合氣象站
+# SugarBox整合氣象站
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/weatherstation_building instructions.pdf" %}
+{% file src="../../../../.gitbook/assets/weatherstation_building instructions.pdf" %}
 
 ### 模型接線圖
 
-<figure><img src="../../../.gitbook/assets/weatherstation_building instructions 33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/weatherstation_building instructions 33.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode參考程式
 
