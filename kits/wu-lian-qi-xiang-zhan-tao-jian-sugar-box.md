@@ -11,3 +11,7 @@
 {% content-ref url="weatherstation_sugarbox/instructions_sugarbox/" %}
 [instructions\_sugarbox](weatherstation\_sugarbox/instructions\_sugarbox/)
 {% endcontent-ref %}
+
+{% content-ref url="weatherstation_sugarbox/instructions_robotbit/" %}
+[instructions\_robotbit](weatherstation\_sugarbox/instructions\_robotbit/)
+{% endcontent-ref %}
