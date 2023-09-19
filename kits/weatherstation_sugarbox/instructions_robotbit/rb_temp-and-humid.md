@@ -8,7 +8,7 @@
 
 ### 模型接線圖
 
-<figure><img src="../../../.gitbook/assets/temp_humid_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/temp_humid_wiring_robotbit.png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 

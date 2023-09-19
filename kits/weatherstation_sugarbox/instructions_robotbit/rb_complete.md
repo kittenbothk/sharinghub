@@ -8,7 +8,7 @@
 
 ### 模型接線圖
 
-<figure><img src="../../../.gitbook/assets/weatherstation_building instructions 33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/complete_wiring_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode參考程式
 
@@ -16,7 +16,7 @@
 風向的數值需校正。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_Pk8Vrq62KX7i" %}
+{% embed url="https://makecode.microbit.org/_57mhz2DX3afq" %}
 
 #### 模型玩法
 
