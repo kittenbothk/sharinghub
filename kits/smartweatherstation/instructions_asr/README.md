@@ -1,30 +1,30 @@
 # 語音氣象站模型案例教學
 
-{% content-ref url="asr_complete.md" %}
-[asr\_complete.md](asr\_complete.md)
+{% content-ref url="rb_complete.md" %}
+[rb\_complete.md](rb\_complete.md)
 {% endcontent-ref %}
 
-{% content-ref url="asr_lightintensity.md" %}
-[asr\_lightintensity.md](asr\_lightintensity.md)
+{% content-ref url="rb_lightintensity.md" %}
+[rb\_lightintensity.md](rb\_lightintensity.md)
 {% endcontent-ref %}
 
-{% content-ref url="asr_temp-and-humid.md" %}
-[asr\_temp-and-humid.md](asr\_temp-and-humid.md)
+{% content-ref url="rb_temp-and-humid.md" %}
+[rb\_temp-and-humid.md](rb\_temp-and-humid.md)
 {% endcontent-ref %}
 
-{% content-ref url="asr_barometer.md" %}
-[asr\_barometer.md](asr\_barometer.md)
+{% content-ref url="rb_barometer.md" %}
+[rb\_barometer.md](rb\_barometer.md)
 {% endcontent-ref %}
 
-{% content-ref url="asr_raingauge.md" %}
-[asr\_raingauge.md](asr\_raingauge.md)
+{% content-ref url="rb_raingauge.md" %}
+[rb\_raingauge.md](rb\_raingauge.md)
 {% endcontent-ref %}
 
 {% content-ref url="rb_windvane.md" %}
 [rb\_windvane.md](rb\_windvane.md)
 {% endcontent-ref %}
 
-{% content-ref url="asr_anemometer.md" %}
-[asr\_anemometer.md](asr\_anemometer.md)
+{% content-ref url="rb_anemometer.md" %}
+[rb\_anemometer.md](rb\_anemometer.md)
 {% endcontent-ref %}
 
