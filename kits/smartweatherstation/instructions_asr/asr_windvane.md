@@ -4,7 +4,9 @@
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/windvane_direction_robotbit.pdf" %}
+{% content-ref url="../building/feng-xiang-ji-shuo-ming-shu.md" %}
+[feng-xiang-ji-shuo-ming-shu.md](../building/feng-xiang-ji-shuo-ming-shu.md)
+{% endcontent-ref %}
 
 ### 模型接線圖
 

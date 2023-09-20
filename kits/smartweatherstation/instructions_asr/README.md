@@ -20,8 +20,8 @@
 [rb\_raingauge.md](rb\_raingauge.md)
 {% endcontent-ref %}
 
-{% content-ref url="rb_windvane.md" %}
-[rb\_windvane.md](rb\_windvane.md)
+{% content-ref url="asr_windvane.md" %}
+[asr\_windvane.md](asr\_windvane.md)
 {% endcontent-ref %}
 
 {% content-ref url="rb_anemometer.md" %}
