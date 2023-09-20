@@ -10,7 +10,7 @@
 
 ### 模型接線圖
 
-<figure><img src="../../../.gitbook/assets/complete_wiring_robotbit (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/complete_wiring_robotbit_iot.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode參考程式(MakerCloud)
 

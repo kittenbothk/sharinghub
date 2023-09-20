@@ -32,6 +32,16 @@
 
 ### 套件內容
 
+#### 語音氣象站:&#x20;
+
+* ASR語音模組 x1
+
+#### 物聯氣象站:
+
+* Sugar Cam x1
+
+#### 共通內容:
+
 * Robotbit Edu 擴展板 x1
 * 18650 鋰電池 x1
 * OLED 模組 x1
@@ -42,7 +52,6 @@
 * Sugar 氣壓感應模組 x1
 * Sugar I2C分線器 x1
 * Sugar 灰度感應模組 x1
-* Sugar ASR語音模組 或 Sugar Camera模組 x1
 * 連接線
 * 積木包
 * 3D打印件
