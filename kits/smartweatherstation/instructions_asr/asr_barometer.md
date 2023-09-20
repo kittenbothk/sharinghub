@@ -4,7 +4,9 @@
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/barometer_robotbit.pdf" %}
+{% content-ref url="../building/wen-shi-du-gan-ying-yi-qi-ya-ji-shuo-ming-shu.md" %}
+[wen-shi-du-gan-ying-yi-qi-ya-ji-shuo-ming-shu.md](../building/wen-shi-du-gan-ying-yi-qi-ya-ji-shuo-ming-shu.md)
+{% endcontent-ref %}
 
 ### 模型接線圖
 

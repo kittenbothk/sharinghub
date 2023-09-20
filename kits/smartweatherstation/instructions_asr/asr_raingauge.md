@@ -4,7 +4,9 @@
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/raingauge_robotbit.pdf" %}
+{% content-ref url="../building/yu-liang-ji-shuo-ming-shu.md" %}
+[yu-liang-ji-shuo-ming-shu.md](../building/yu-liang-ji-shuo-ming-shu.md)
+{% endcontent-ref %}
 
 ### 模型接線圖
 

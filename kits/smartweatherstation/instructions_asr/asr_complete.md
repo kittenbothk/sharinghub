@@ -1,10 +1,12 @@
-# 整合氣象站
+# 完整氣象站
 
 <figure><img src="../../../.gitbook/assets/complete_robotbit.png" alt=""><figcaption></figcaption></figure>
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/complete_robotbit.pdf" %}
+{% content-ref url="../building/wan-zheng-qi-xiang-zhan-shuo-ming-shu.md" %}
+[wan-zheng-qi-xiang-zhan-shuo-ming-shu.md](../building/wan-zheng-qi-xiang-zhan-shuo-ming-shu.md)
+{% endcontent-ref %}
 
 ### 模型接線圖
 

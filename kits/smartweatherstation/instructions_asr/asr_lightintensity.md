@@ -4,7 +4,9 @@
 
 ### 模型搭建說明書
 
-{% file src="../../../.gitbook/assets/lightintensity_robotbit.pdf" %}
+{% content-ref url="../building/liang-du-jian-ce-yi-shuo-ming-shu.md" %}
+[liang-du-jian-ce-yi-shuo-ming-shu.md](../building/liang-du-jian-ce-yi-shuo-ming-shu.md)
+{% endcontent-ref %}
 
 ### 模型接線圖
 
