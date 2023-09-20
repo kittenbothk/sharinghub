@@ -1,6 +1,6 @@
 # 完整氣象站
 
-<figure><img src="../../../.gitbook/assets/complete_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/complete_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 模型搭建說明書
 

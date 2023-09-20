@@ -12,18 +12,22 @@
 
 <figure><img src="../../../.gitbook/assets/complete_wiring_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
-### MakeCode參考程式
+### MakeCode參考程式(MakerCloud)
 
 {% hint style="info" %}
-風向的數值需校正。
+請自行填入MakerCloud的主題名稱和數據類型等資訊。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_57mhz2DX3afq" %}
+{% embed url="https://makecode.microbit.org/_TJYbX3bApWqr" %}
+
+### MakeCode參考程式(ThingSpeak)
+
+{% embed url="https://makecode.microbit.org/_Hrf9PpbLgb65" %}
 
 #### 模型玩法
 
-1. 可以按A和B切換多種模式，相關的數據會在OLED上顯示。
+1. 可以按A和B切換多種模式，相關的數據會在OLED上顯示，同時會向IoT平台發佈有關的數據。
    1. 模式1:  風向與風速模式
    2. 模式2: 溫度與氣壓模式
    3. 模式3: 亮度與雨量模式
-2. 說出Check Temperature或Check Humidity，語音模組會報讀溫度或濕度
+2. 在IoT平台上會看到天氣數據
