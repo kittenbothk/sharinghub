@@ -46,8 +46,8 @@ description: 各款Kittenbot套件產品的介紹和支援
 [lego\_robot\_arm.md](lego\_robot\_arm.md)
 {% endcontent-ref %}
 
-{% content-ref url="weatherstation/" %}
-[weatherstation](weatherstation/)
+{% content-ref url="smartweatherstation/" %}
+[smartweatherstation](smartweatherstation/)
 {% endcontent-ref %}
 
 {% content-ref url="fitness/" %}
