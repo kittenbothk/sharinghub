@@ -1,6 +1,6 @@
 # 亮度感測儀
 
-<figure><img src="../../../.gitbook/assets/lightintensity_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lightintensity_robotbit_2.png" alt=""><figcaption></figcaption></figure>
 
 ### 模型搭建說明書
 

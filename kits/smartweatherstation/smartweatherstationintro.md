@@ -63,19 +63,19 @@
 
 將所有功能集合到同一個項目的模型。
 
-<figure><img src="../../.gitbook/assets/complete_robotbit (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/complete_robotbit.png" alt=""><figcaption></figcaption></figure>
 
 #### 亮度感應器
 
 檢測環境亮度的應用。
 
-<figure><img src="../../.gitbook/assets/lightintensity_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lightintensity_robotbit_2.png" alt=""><figcaption></figcaption></figure>
 
 #### 溫濕度感應器
 
 檢測溫濕度和氣壓的應用。
 
-<figure><img src="../../.gitbook/assets/barometer_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barometer_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 風速計
 

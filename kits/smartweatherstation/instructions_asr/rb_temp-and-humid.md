@@ -1,6 +1,6 @@
 # 溫濕度感應儀
 
-<figure><img src="../../../.gitbook/assets/barometer_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/barometer_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 模型搭建說明書
 
@@ -10,7 +10,7 @@
 
 ### 模型接線圖
 
-<figure><img src="../../../.gitbook/assets/temp_humid_wiring_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/temp_humid_wiring_robotbit (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 
