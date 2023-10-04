@@ -1,4 +1,4 @@
-# Sugar ASR自定義命令詞教學
+# 語音模組自定義命令詞教學
 
 國語版的語音模組支援自定義的喚醒詞和命令詞，詳情請瀏覽以下篇章。
 
@@ -51,4 +51,4 @@
 
 ### 自定義命令詞功能示範
 
-{% embed url="https://youtu.be/DlXcA9r3VgI" %}
+{% embed url="https://youtu.be/mP98QdHNG-o" %}
