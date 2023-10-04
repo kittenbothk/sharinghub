@@ -1,5 +1,7 @@
 # 物聯氣象站模型案例教學
 
+{% embed url="https://youtu.be/keCfxb2Yvts" %}
+
 {% content-ref url="instructions_iot/iot_complete.md" %}
 [iot\_complete.md](instructions\_iot/iot\_complete.md)
 {% endcontent-ref %}

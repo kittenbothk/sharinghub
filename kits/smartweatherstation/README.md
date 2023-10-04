@@ -8,8 +8,8 @@
 
 * 語音智能氣象站 除可完成上述簡介功能外, 還可以利用ASR 語音模組, 以語音取得温度及濕度資訊&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../airelated/asr/" %}
+[asr](../../airelated/asr/)
 {% endcontent-ref %}
 
 * &#x20;物聯智能氣象站 同樣除可完成上述簡介功能外, 還利用Sugar AI cam 中的內置wifi連線功能, 把氣象站 收集得的數據, 傳送到雲端平台, 顯示當時的天氣狀況。
