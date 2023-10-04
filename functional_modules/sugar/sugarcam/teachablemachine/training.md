@@ -1,5 +1,7 @@
 # Sugar Cam功能教學: Teachable Machine模型訓練
 
+### Teachable Machine網上模型訓練
+
 前往Teachable Machine的官網。
 
 [Teachable Machine with Google](https://teachablemachine.withgoogle.com/train)
@@ -15,7 +17,7 @@
 {% hint style="info" %}
 這個Teachable Machine最多支援8個分類，每個分類暫時未發現相片上限，一般40\~50張相已經很足夠。
 
-Teachable Machine只可使用黑白相片訓練，請確保訓練的物件輪廓清晰並有較大分別。
+Teachable Machine只可使用黑白相片訓練，而且解像度只是96x96，所以請確保訓練的物件輪廓清晰並有較大分別。
 {% endhint %}
 
 <div data-full-width="true">
@@ -40,6 +42,8 @@ Teachable Machine只可使用黑白相片訓練，請確保訓練的物件輪廓
 
 </div>
 
+### Teachable Machine模型匯出
+
 滿意模型的準確度後就可以匯出模型檔案。按Export Model，然後選擇TensorFlow Lite，選擇TensorFlow Lite for Microcontrollers。按Download my Model。
 
 <figure><img src="../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
@@ -48,6 +52,6 @@ Teachable Machine只可使用黑白相片訓練，請確保訓練的物件輪廓
 
 <figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-然後回到Teachable Machine小程式，將模型檔案上傳到Sugar Cam。完成後再按Connect，Sugar Cam辨認的結果會顯示在小程式下方。
+然後回到Teachable Machine小程式，將模型檔案上傳到Sugar Cam。完成後再按Connect，Sugar Cam辨認的結果會顯示在小程式的左下方。
 
 <figure><img src="../../../../.gitbook/assets/dd.gif" alt=""><figcaption></figcaption></figure>

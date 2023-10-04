@@ -48,7 +48,7 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 
 {% file src="../../../../.gitbook/assets/KittenBot_Teachable Machine.zip" %}
 
-打開serial\_was.exe。
+打開serial\_ws.exe。
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 

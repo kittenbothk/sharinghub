@@ -159,7 +159,7 @@
         * [Sugar Cam功能教學: 網頁介面自訂](functional\_modules/sugar/sugarcam/remotecontrol/html.md)
       * [Sugar Cam使用教學: AI模式(進階)](functional\_modules/sugar/sugarcam/teachablemachine/README.md)
         * [Sugar Cam功能教學: Teachable Machine模型訓練](functional\_modules/sugar/sugarcam/teachablemachine/training.md)
-        * [Sugar Cam功能教學: 結合Teachable Machine與Micro:bit/未來板](functional\_modules/sugar/sugarcam/teachablemachine/serial.md)
+        * [Sugar Cam功能教學: 結合Teachable Machine與MakeCode編程](functional\_modules/sugar/sugarcam/teachablemachine/serial.md)
       * [串口指令集](functional\_modules/sugar/sugarcam/api.md)
   * [污水混濁度感應器](functional\_modules/turbidity.md)
   * [pH值感應器](functional\_modules/ph/README.md)

@@ -8,7 +8,7 @@
 
 ### 模式切換
 
-要切換到遙控模式的話，只要將config.json的model改為"remoteControl"。
+要切換到遙控模式的話，請將config.json的model改為"remoteControl"。
 
 <figure><img src="../../../../.gitbook/assets/cam_remotecontrol.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@
 
 ### 進階Hacker式玩法
 
-模組的網站頁面可以在index.html作修改，有能力的用家可以透過修改html和javascript達致自己想要的功能。
+模組的網站頁面可以在static\index.html作修改，有能力的用家可以透過修改html和javascript達致自己想要的功能。
 
 <div>
 
