@@ -6,7 +6,9 @@
 
 <figure><img src="../../../../.gitbook/assets/cam_ai1.png" alt=""><figcaption></figcaption></figure>
 
-填入模組的IP地址，點擊積木，舞台就會出現模組畫面。
+首先需要將Sugar Cam和電腦連上同一個WiFi網絡。
+
+在KittenBlock加入積木連接鏡頭，填入模組的IP地址和密碼，點擊積木，舞台就會出現鏡頭的實時畫面。
 
 <div>
 
@@ -40,9 +42,9 @@ Sugar Cam插件裏已經有基本積木，可以做到掃描二維碼、發送�
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### 遙控功能
+### 發訊功能
 
-可以透過串口指令在KittenBlock遙控Micro:bit等的主控板。
+可以透過串口指令在KittenBlock發訊到Micro:bit等的主控板。
 
 <figure><img src="../../../../.gitbook/assets/image (12).png" alt="" width="512"><figcaption></figcaption></figure>
 

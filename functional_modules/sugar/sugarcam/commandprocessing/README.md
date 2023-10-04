@@ -2,6 +2,10 @@
 
 智能FPV鏡頭的出廠就已經是設定為指令模式。主要的功能，包括WiFi圖傳，二維碼掃碼，拍照等都是在這個模式裡進行。
 
+### 指令模式示範短片
+
+{% embed url="https://youtu.be/7f5_4pYROmg" %}
+
 ### 接線教學
 
 <figure><img src="../../../../.gitbook/assets/cam_edu_wire.png" alt="" width="563"><figcaption></figcaption></figure>

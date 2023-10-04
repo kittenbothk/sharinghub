@@ -1,8 +1,12 @@
-# Sugar Cam使用教學: AI模式
+# Sugar Cam使用教學: AI模式(進階)
 
 Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考以下介紹。
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Teachable Machine功能示範短片
+
+{% embed url="https://www.youtube.com/watch?v=83YG8dMGKSw" %}
 
 ### 刷入Teachable Machine專用固件
 

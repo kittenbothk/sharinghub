@@ -1,4 +1,4 @@
-# 功能教學: KittenBlock內置AI
+# Sugar Cam功能教學: KittenBlock內置AI
 
 ### 在Kittenblock中使用編程教學
 
@@ -6,7 +6,9 @@
 
 <figure><img src="../../../../.gitbook/assets/cam_ai1.png" alt=""><figcaption></figcaption></figure>
 
-填入模組的IP地址，點擊積木，舞台就會出現模組畫面。
+首先需要將Sugar Cam和電腦連上同一個WiFi網絡。
+
+在KittenBlock加入積木連接鏡頭，填入模組的IP地址和密碼，點擊積木，舞台就會出現鏡頭的實時畫面。
 
 <div>
 

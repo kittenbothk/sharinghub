@@ -20,6 +20,12 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### 語音辨識
 
+{% hint style="info" %}
+Sugar Cam需要連網。
+
+由於此功能使用百度服務，有可能超過限額而無法使用。
+{% endhint %}
+
 {% embed url="https://makecode.microbit.org/_bA7UEc9Aad9k" %}
 
 [參考程式](https://makecode.microbit.org/\_bA7UEc9Aad9k)

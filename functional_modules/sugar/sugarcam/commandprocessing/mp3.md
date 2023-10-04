@@ -2,10 +2,6 @@
 
 Sugar Cam可以播放MP3檔案和拍照儲存到SD卡。
 
-### 接線教學
-
-<figure><img src="../../../../.gitbook/assets/cam_edu_wire.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### MakeCode編程教學
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
@@ -23,6 +19,10 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 #### [詳細方法](../../../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 ### 拍照與播放mp3
+
+{% hint style="info" %}
+mp3檔案需要放在模組的儲存空間，不能放在SD卡上。
+{% endhint %}
 
 {% embed url="https://makecode.microbit.org/_Hsj08VMRFgFz" %}
 

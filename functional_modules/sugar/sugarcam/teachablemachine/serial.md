@@ -14,7 +14,7 @@
 請按自己的模型修改程式。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_UcT4VC45wioU" %}
+{% embed url="https://makecode.microbit.org/_iu7JMC6wu5wi" %}
 
-[參考程式](https://makecode.microbit.org/\_cyb2qz69sA06)
+[參考程式](https://makecode.microbit.org/\_iu7JMC6wu5wi)
 
