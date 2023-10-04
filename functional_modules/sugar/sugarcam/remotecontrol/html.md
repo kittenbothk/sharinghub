@@ -8,10 +8,14 @@
 
 模組網頁的html檔可以在模組的Static資料夾裡面找到。
 
-
-
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-03 104320.png" alt=""><figcaption></figcaption></figure>
+
+<div>
 
 <figure><img src="../../../../.gitbook/assets/cam_html1.png" alt="" width="447"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/cam_html2.png" alt="" width="563"><figcaption></figcaption></figure>
+ 
+
+<figure><img src="../../../../.gitbook/assets/cam_html2.png" alt=""><figcaption></figcaption></figure>
+
+</div>

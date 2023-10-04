@@ -2,7 +2,7 @@
 
 ### 網頁圖傳控制
 
-在這個模式之下，可以在網頁看到實時影像。
+在這個遙控模式之下，可以在網頁看到實時影像。
 
 <figure><img src="../../../../.gitbook/assets/cam_rc1.png" alt=""><figcaption></figcaption></figure>
 

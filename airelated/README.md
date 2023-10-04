@@ -14,6 +14,10 @@ description: 介紹各款帶有AI 功能的功能模組
 
 <figure><img src="../.gitbook/assets/ASR_clean (2).png" alt="" width="375"><figcaption><p>Sugar ASR 語音模組</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/cam_render.png" alt="" width="320"><figcaption><p>Sugar Cam 鏡頭模組</p></figcaption></figure>
+
 </div>
 
 {% content-ref url="koi/" %}
@@ -22,4 +26,8 @@ description: 介紹各款帶有AI 功能的功能模組
 
 {% content-ref url="asr/" %}
 [asr](asr/)
+{% endcontent-ref %}
+
+{% content-ref url="../functional_modules/sugar/sugarcam/teachablemachine/" %}
+[teachablemachine](../functional\_modules/sugar/sugarcam/teachablemachine/)
 {% endcontent-ref %}
