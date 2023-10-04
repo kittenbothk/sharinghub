@@ -1,4 +1,4 @@
-# Sugar ASR語音模組
+# Sugar ASR語音模組介紹
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr.png)
 
@@ -47,7 +47,7 @@
 
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
-#### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 #### 完整命令表
 

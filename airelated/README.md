@@ -20,6 +20,6 @@ description: 介紹各款帶有AI 功能的功能模組
 [koi](koi/)
 {% endcontent-ref %}
 
-{% content-ref url="asr.md" %}
-[asr.md](asr.md)
+{% content-ref url="asr/" %}
+[asr](asr/)
 {% endcontent-ref %}
