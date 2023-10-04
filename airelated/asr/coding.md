@@ -40,9 +40,23 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 參考程式用法：
 
-喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
+#### 操作教學
 
-按下A鍵或B鍵，語音模組就會說出相應指令。
+#### 1. 開電後模組會讀出固件版本，完成之後就可以開始使用。
+
+#### 2. 使用時需要先使用喚醒指令喚醒語音模組。模組喚醒會回答Uh Huh。
+
+喚醒指令有3種：
+
+1. Hey Sugar
+2. Hello KittenBot
+3. Hello Kitty
+
+#### 3. 對語音模組說出Lamp On或Lamp Off，辨識命令詞後語音模組會回答OK，Micro:bit上的LED就會亮起相應的燈。
+
+#### 4. 模組閒置10秒之後會進入睡眠模式，進入睡眠模式之後需要再次喚醒才可使用。
+
+#### 5. 按下A鍵或B鍵，語音模組就會說出相應指令。
 
 #### 示範短片
 
@@ -58,7 +72,19 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 參考程式用法：
 
-喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
+#### 1. 開電後模組會讀出固件版本，完成之後就可以開始使用。
+
+#### 2. 使用時需要先使用喚醒指令喚醒語音模組。模組喚醒會回答Uh Huh。
+
+喚醒指令有3種：
+
+1. Hey Sugar
+2. Hello KittenBot
+3. Hello Kitty
+
+#### 3. 對語音模組說出Lamp On或Lamp Off，辨識命令詞後語音模組會回答OK，Micro:bit上的LED就會亮起相應的燈。
+
+#### 4. 模組閒置10秒之後會進入睡眠模式，進入睡眠模式之後需要再次喚醒才可使用。
 
 #### 語音播報參考程式
 
@@ -66,4 +92,4 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 參考程式用法:
 
-按下A鍵或B鍵，語音模組就會說出相應指令。
+#### 1. 按下A鍵或B鍵，語音模組就會說出相應指令。

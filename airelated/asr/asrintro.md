@@ -23,6 +23,10 @@
     * 1個自定義喚醒詞
     * 10條自定義命令詞
 
+### 語音模組 示範短片
+
+{% embed url="https://www.youtube.com/watch?v=nvV9uM8g3gs" %}
+
 ### 產品參數
 
 * 電壓: 3.3V\~5V(推薦使用5V，辨識效果更好)
@@ -37,7 +41,5 @@
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr2.png)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr5.png)
-
-###
 
 ###
