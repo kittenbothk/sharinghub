@@ -6,7 +6,9 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/kbbanner10.png)
 
-### 使用數據線連接未來板
+### KittenBlock快速開始
+
+#### 使用數據線連接未來板
 
 要在Kittenblock對未來板編程，我們首先要與未來板建立連接。
 
@@ -84,7 +86,13 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-### 使用無綫網絡連接未來板(需要微信賬號)
+## 資源分享: 未來板入門PPT與參考程式
+
+為了方便各位同工試玩及備課，KittenBot HK準備了以下PowerPoint和參考程式。有興趣的同工們可以點擊以下Google Drive連結下載相關資源。
+
+#### [未來板入門 資源分享](https://drive.google.com/drive/folders/1Hr3R63DSuIFj589QeIfEtEgAwYeVcnhi?usp=drive\_link)
+
+#### 使用無綫網絡連接未來板(需要微信賬號)
 
 要在Kittenblock對未來板編程，我們首先要與未來板建立連接。
 
