@@ -2,7 +2,7 @@
 
 KOI人工智慧鏡頭 (HKBC8006A)
 
-### **配送清單**[¶](broken-reference)
+### **配送清單**
 
 · KOI人工智慧鏡頭 x1
 
@@ -12,7 +12,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/KOI-packing.png" alt=""><figcaption></figcaption></figure>
 
-### **產品簡介**[¶](broken-reference)
+### **產品簡介**
 
 · **定義：** KOI是小喵科技針對中小學和愛好者開發一款可圖形化程式設計的離線人工智慧模組，硬體含有鏡頭、麥克風、喇叭、IPS屏模、WIFI模組等等…… 可實現視覺識別、語音辨識、語音合成、物聯網等功能。模組集成了WIFI功能，可以讓你的人工智慧作品接入雲端，讓作品更加出色。
 
@@ -20,7 +20,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 · **使用人群：** 中小學教學 / 愛好者 / 已熟悉Makecode 或 Kittenblock人工智慧的進階用戶
 
-### **產品特色**[¶](broken-reference)
+### **產品特色**
 
 · AI與IoT，實現真正的離線AIoT功能
 
@@ -34,7 +34,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 {% embed url="https://youtu.be/7Bg_RKrhiEM" %}
 
-### **功能例表**[¶](broken-reference)
+### **功能例表**
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/KOIfunctiontableV2.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 {% embed url="https://youtu.be/sLrv9Ct-Fw4" %}
 
-### **產品參數**[¶](broken-reference)
+### **產品參數**
 
 · 處理器：K210
 
@@ -77,7 +77,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 3. Micropython
 4. Arduino (PlatformIO)
 
-### **認識KOI**[¶](broken-reference)
+### **認識KOI**
 
 為了後續更容易掌握模組的豐富功能，首先需要瞭解模組的每個部分，為此請通讀下列圖文。
 

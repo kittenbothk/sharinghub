@@ -48,6 +48,14 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenblock7.png)
 
+### 上傳程式到未來板
+
+可以將程式上傳到未來板離線運行。
+
+在KittenBlock打開代碼模式，程式的積木會變成Python編碼。
+
+<figure><img src="../../../.gitbook/assets/圖片1.gif" alt=""><figcaption></figcaption></figure>
+
 ### 使用無綫網絡連接未來板(需要微信賬號)
 
 要在Kittenblock對未來板編程，我們首先要與未來板建立連接。

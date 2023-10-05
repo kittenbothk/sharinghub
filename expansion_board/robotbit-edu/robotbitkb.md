@@ -8,7 +8,7 @@ Robotbit Edu亦支援在Kittenblock上編程。
 
 ### 這教學會使用Micro:bit V1或V2作例子，有關未來板或Meowbit的Robotbit Edu使用教學請參考相關的教學。
 
-[未來板Robotbit Edu使用教學](../../zhu-kong-ban/futureboard/kittenblock/robotbit.md)
+[未來板Robotbit Edu使用教學](../../mcu/futureboard/kittenblock/robotbit.md)
 
 Meowbit Robotbit Edu使用教學
 
