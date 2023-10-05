@@ -60,6 +60,10 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 {% file src="../../../.gitbook/assets/led_demo_live.sb3" %}
 
+可以在"檔案->從電腦挑選"中載入程式。
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 直接點擊綠色旗子，程式就會即時運行。
 
 {% embed url="https://www.youtube.com/watch?v=fJmy5LE3ifI" %}
@@ -85,6 +89,8 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 使用另存上傳就可以更改程式的檔案名。
 
 <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/FFUPHanvQeQ" %}
 
 ## 資源分享: 未來板入門PPT與參考程式
 
