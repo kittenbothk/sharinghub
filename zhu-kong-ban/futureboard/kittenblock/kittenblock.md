@@ -48,13 +48,41 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenblock7.png)
 
-### 上傳程式到未來板
+## 在線使用: Kittenblock實時編程
 
-可以將程式上傳到未來板離線運行。
+在連接了KittenBlock的情況下，KittenBlock的編程效果可以實時運行。
+
+請下載以下範例程式。
+
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/led_demo_live.sb3" %}
+
+直接點擊綠色旗子，程式就會即時運行。
+
+{% embed url="https://www.youtube.com/watch?v=fJmy5LE3ifI" %}
+
+## 離線使用: 上傳程式到未來板
+
+除了在線運行之外，亦可以將程式上傳到未來板離線運行。
 
 在KittenBlock打開代碼模式，程式的積木會變成Python編碼。
 
-<figure><img src="../../../.gitbook/assets/圖片1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+點擊上傳，程式就會上傳到未來板。
+
+{% hint style="info" %}
+程式默認名稱為main.py。
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+使用另存上傳就可以更改程式的檔案名。
+
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ### 使用無綫網絡連接未來板(需要微信賬號)
 

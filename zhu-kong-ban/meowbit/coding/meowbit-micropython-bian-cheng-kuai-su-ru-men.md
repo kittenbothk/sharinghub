@@ -18,7 +18,7 @@ Meowbit支援MicroPython編程，可以實現純文字的編程。
 
 #### 2. 將PyBoard固件上傳到Meowbit。
 
-{% file src="../../.gitbook/assets/meowbit.uf2.zip" %}
+{% file src="../../../.gitbook/assets/meowbit.uf2.zip" %}
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/micropython1.png)
 

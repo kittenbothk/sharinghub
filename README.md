@@ -31,8 +31,8 @@ coverY: 0
 [jacdac](jacdac/)
 {% endcontent-ref %}
 
-{% content-ref url="mcu/" %}
-[mcu](mcu/)
+{% content-ref url="zhu-kong-ban/" %}
+[zhu-kong-ban](zhu-kong-ban/)
 {% endcontent-ref %}
 
 {% content-ref url="kits/" %}
