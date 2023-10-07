@@ -71,7 +71,7 @@
 
 [Wifibrick連線到網絡(Armourbit)](https://makecode.microbit.org/\_2vTCK4Wob5Um)
 
-
+***
 
 進入下一步前, 建議先把本章程式下載到microbit 運行, 測試把wifibrick 連到網絡; 如連線順利便可進一步組織核心功能。
 

@@ -63,7 +63,9 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/wifi-07-11.png)
 
-[Armourbit 詳細介紹](../../functional\_modules/pwmodules/armourbit.md)
+{% content-ref url="../../functional_modules/pwmodules/armourbit.md" %}
+[armourbit.md](../../functional\_modules/pwmodules/armourbit.md)
+{% endcontent-ref %}
 
 採用2端都是ph2.0 4pin 的接線
 
@@ -85,7 +87,9 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
 #### Robotbit Edu
 
-[Robotbit Edu詳細介紹](../../expansion\_board/robotbit-edu/)
+{% content-ref url="../../expansion_board/robotbit-edu/" %}
+[robotbit-edu](../../expansion\_board/robotbit-edu/)
+{% endcontent-ref %}
 
 Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick連接到通訊接口就可以了。
 
@@ -107,7 +111,9 @@ Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick�
 
 Robotbit 是Kittenbot 一款長青的擴展板, 兼容自家大部份外置模組, 包括Wifibrick
 
-[Robotbit 詳細介紹](../../expansion\_board/robotbit-2.2/robotbitfull.md)
+{% content-ref url="../../expansion_board/robotbit-2.2/" %}
+[robotbit-2.2](../../expansion\_board/robotbit-2.2/)
+{% endcontent-ref %}
 
 採用ph2.0 4pin 轉杜邦線; 利用杜邦端, 分別接到Robotbit 的G, V, P2, P12
 
@@ -135,22 +141,26 @@ IoBit 接Wifibrick 的方法跟上述接Robotbit 的方法大同小異, 都是�
 
 有關各平台與WifiBrick的編程方法請參考以下指引：
 
-[MakeCode編程方法](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/MakeCode/index.rst)
+{% content-ref url="../wifibrick_makecode/" %}
+[wifibrick\_makecode](../wifibrick\_makecode/)
+{% endcontent-ref %}
 
 ### WifiBrick指示燈詳解
 
 1. 當啟動電源後，紅色燈會亮起。
 
-&#x20;![../../\_images/led11.png](https://kittenbothk.readthedocs.io/en/latest/\_images/led11.png)
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/led11.png" alt=""><figcaption></figcaption></figure>
 
 2. 在連接網絡期間，藍色燈會亮起。
 
-![../../\_images/led21.png](https://kittenbothk.readthedocs.io/en/latest/\_images/led21.png)
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/led21.png" alt=""><figcaption></figcaption></figure>
 
 3. 成功連網之後，所有燈會熄滅。
 
-&#x20;![../../\_images/led31.png](https://kittenbothk.readthedocs.io/en/latest/\_images/led31.png)
+&#x20;
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/led31.png" alt=""><figcaption></figcaption></figure>
 
 4. 成功連接MQTT之後，綠色燈會亮起。
 
-![../../\_images/led41.png](https://kittenbothk.readthedocs.io/en/latest/\_images/led41.png)
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/led41.png" alt=""><figcaption></figcaption></figure>

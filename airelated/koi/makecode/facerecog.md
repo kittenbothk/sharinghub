@@ -52,6 +52,10 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 準繩度由0-100，越高越準確。
 ```
 
+### 示範短片
+
+{% embed url="https://www.youtube.com/watch?v=XvMZMsXpg1A" %}
+
 ### 插件版本與更新[¶](broken-reference)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。

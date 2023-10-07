@@ -146,7 +146,7 @@ while True:
     time.sleep(0.1)
 ```
 
-
+***
 
 ```
 #模型載入與運行
@@ -440,7 +440,7 @@ while True:
         time.sleep(0.1)
 ```
 
-
+***
 
 ```
 #語音辨識

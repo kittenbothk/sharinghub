@@ -20,12 +20,12 @@
 [capture.md](capture.md)
 {% endcontent-ref %}
 
-{% content-ref url="recandplay.md" %}
-[recandplay.md](recandplay.md)
+{% content-ref url="recandplay/" %}
+[recandplay](recandplay/)
 {% endcontent-ref %}
 
-{% content-ref url="audacity.md" %}
-[audacity.md](audacity.md)
+{% content-ref url="recandplay/audacity.md" %}
+[audacity.md](recandplay/audacity.md)
 {% endcontent-ref %}
 
 {% content-ref url="barcodeqrcode.md" %}

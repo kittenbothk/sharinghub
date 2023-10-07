@@ -16,7 +16,7 @@
 
 #### 你亦可以用插件地址搜尋[¶](broken-reference)
 
-KOI插件：https://github.com/KittenBot/pxt-KOIa
+KOI插件：https://github.com/KittenBot/pxt-KOI
 
 讀取標籤積木塊：
 

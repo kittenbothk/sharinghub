@@ -4,7 +4,7 @@
 
 ### 網絡與百度積木塊
 
-![../../\_images/koi\_baidu.png](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_baidu.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_baidu.png)
 
 ### 參考程式1：百度AI人臉辨識
 
@@ -15,6 +15,8 @@
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_baidu\_code1.png)
 
+{% file src="../../../.gitbook/assets/facerecognition.sb3" %}
+
 ### 參考程式2：百度AI文字轉語音
 
 ```
@@ -22,3 +24,5 @@
 ```
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_baidu\_code2.png)
+
+{% file src="../../../.gitbook/assets/aitts.sb3" %}
