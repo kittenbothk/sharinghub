@@ -26,4 +26,4 @@
    1. 模式1:  風向與風速模式
    2. 模式2: 溫度與氣壓模式
    3. 模式3: 亮度與雨量模式
-2. 說出Check Temperature或Check Humidity，語音模組會報讀溫度或濕度
+2. 說出喚醒詞Hey Sugar / Hello Kittenbot，然後說出Check Temperature或Check Humidity，語音模組會報讀溫度或濕度

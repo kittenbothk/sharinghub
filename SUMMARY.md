@@ -156,7 +156,7 @@
         * [Sugar Cam功能教學: KittenBlock編程](functional\_modules/sugar/sugarcam/commandprocessing/kittenblock.md)
         * [Sugar Cam功能教學: KittenBlock內置AI](functional\_modules/sugar/sugarcam/commandprocessing/kittenblockai.md)
       * [Sugar Cam使用教學: 遙控鏡頭模式(進階)](functional\_modules/sugar/sugarcam/remotecontrol/README.md)
-        * [Sugar Cam功能教學: 網頁圖傳及遙控](functional\_modules/sugar/sugarcam/remotecontrol/serial.md)
+        * [Sugar Cam功能教學: 網頁圖傳及遙控](functional\_modules/sugar/sugarcam/remotecontrol/stream.md)
         * [Sugar Cam功能教學: 網頁介面自訂](functional\_modules/sugar/sugarcam/remotecontrol/html.md)
       * [Sugar Cam使用教學: AI模式(進階)](functional\_modules/sugar/sugarcam/teachablemachine/README.md)
         * [Sugar Cam功能教學: Teachable Machine模型訓練](functional\_modules/sugar/sugarcam/teachablemachine/training.md)

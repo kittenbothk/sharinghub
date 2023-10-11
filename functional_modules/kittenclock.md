@@ -37,9 +37,9 @@ KittenClock時鐘模組可以獲取現時時間，並且在斷電後仍能靠板
 首次使用模組或更換電池後，需利用"設定時間" 積木效正模組時間, 較正後模組便會一直運行; 故日常使用不需每次都拉出"設定時間" 的積木。
 ```
 
-{% embed url="https://makecode.microbit.org/_UdL7tp2HuihK" %}
+{% embed url="https://makecode.microbit.org/_TM8LRq0VwDDq" %}
 
-[參考程式網址](https://makecode.microbit.org/\_UdL7tp2HuihK)
+[參考程式](https://makecode.microbit.org/\_TM8LRq0VwDDq)
 
 #### 插件版本與更新
 

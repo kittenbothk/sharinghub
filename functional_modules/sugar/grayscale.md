@@ -32,6 +32,6 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](https://kittenbothk.readthedocs.io/en/latest/Makecode/powerBrickMC.html)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/gray\_code\_mc.png)
+{% embed url="https://makecode.microbit.org/_JCPLVv74fhCW" %}
 
 [參考程式](https://makecode.microbit.org/\_JCPLVv74fhCW)
