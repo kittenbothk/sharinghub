@@ -535,6 +535,8 @@
       * [風向檢測](kits/weatherstation/robotbit/winddirection\_robotbit.md)
       * [完全版氣象站](kits/weatherstation/robotbit/complete\_robotbit.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
+  * [Jacdac 新手套件A](jacdac/hardwares/starterkita.md)
+  * [Jacdac Duckybot套件](kits/jacdac-duckybot-tao-jian.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
