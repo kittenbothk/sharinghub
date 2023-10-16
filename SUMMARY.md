@@ -369,6 +369,7 @@
       * [激光測距槍](kits/future\_inventor/instructions/ruler.md)
       * [無人小車](kits/future\_inventor/instructions/car.md)
       * [智慧停車場](kits/future\_inventor/instructions/parking.md)
+      * [物聯未來套件 積木清單](kits/future\_inventor/instructions/partslist.md)
   * [AI/AIoT 智能回收箱套件](kits/ai\_recycle/README.md)
     * [AI/AIoT 智能回收箱套件](kits/ai\_recycle/intro.md)
     * [AI/AIoT 智能回收箱安裝說明書](kits/ai\_recycle/instructions.md)
