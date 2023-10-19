@@ -14,8 +14,8 @@
 [aiupgrade](aiupgrade/)
 {% endcontent-ref %}
 
-{% content-ref url="iotupgrade.md" %}
-[iotupgrade.md](iotupgrade.md)
+{% content-ref url="iotupgrade/" %}
+[iotupgrade](iotupgrade/)
 {% endcontent-ref %}
 
 {% content-ref url="asrupgrade/" %}
