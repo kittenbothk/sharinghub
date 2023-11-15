@@ -592,3 +592,4 @@
     * [KittenCode操作指引](programmingplatforms/kittencode/interface.md)
     * [KittenCode快速測試](programmingplatforms/kittencode/demo.md)
 * [Kittenbot模組與Bricklink Studio](studio.md)
+* [Kittenbot HK Sharing Hub English](http://127.0.0.1:5000/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
