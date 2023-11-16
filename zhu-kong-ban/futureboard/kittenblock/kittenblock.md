@@ -62,7 +62,7 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 可以在"檔案->從電腦挑選"中載入程式。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 直接點擊綠色旗子，程式就會即時運行。
 
