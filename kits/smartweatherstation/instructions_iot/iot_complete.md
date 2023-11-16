@@ -16,9 +16,17 @@
 
 {% hint style="info" %}
 請自行填入MakerCloud的主題名稱和數據類型等資訊。
+
+請填入獨特的dn和dsn。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_hDChL5DH4Ecz" %}
+{% embed url="https://makecode.microbit.org/_JPkFF6JiPEkq" %}
+
+{% hint style="info" %}
+請在積木填入獨特的dn和dsn。
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode參考程式(ThingSpeak)
 
