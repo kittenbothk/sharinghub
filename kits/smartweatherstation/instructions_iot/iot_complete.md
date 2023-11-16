@@ -18,7 +18,7 @@
 請自行填入MakerCloud的主題名稱和數據類型等資訊。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_TJYbX3bApWqr" %}
+{% embed url="https://makecode.microbit.org/_hDChL5DH4Ecz" %}
 
 ### MakeCode參考程式(ThingSpeak)
 
