@@ -2,7 +2,7 @@
 
 ### 未來板固件一覽[¶](broken-reference)
 
-***
+
 
 ### 最新固件[¶](broken-reference)
 

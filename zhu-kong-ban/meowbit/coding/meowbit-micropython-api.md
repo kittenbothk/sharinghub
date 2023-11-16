@@ -94,7 +94,7 @@ screen.pixel(10,10,(0,255,0))
 screen.line(50,50,100,100,(0,0,255))
 ```
 
-***
+
 
 #### 繪畫矩形
 
@@ -158,7 +158,7 @@ screen.pixel(10,10,(0,255,0))
 screen.line(50,50,100,100,(0,0,255))
 ```
 
-***
+
 
 #### 屏幕刷新
 
@@ -221,7 +221,7 @@ from meowbit import *
 screen.loadBmp('haimian.bmp')
 ```
 
-***
+
 
 ```
 # 顯示gif
@@ -265,7 +265,7 @@ while 1:
     screen.refresh()
 ```
 
-***
+
 
 ```
 from meowbit import *
@@ -278,7 +278,7 @@ while 1:
     sensor.btnTrig['b']=drawCircle
 ```
 
-***
+
 
 ```
 from meowbit import *
@@ -335,7 +335,7 @@ for i in range(5):
     sleep(1)
 ```
 
-***
+
 
 ```
 from meowbit import *
@@ -346,7 +346,7 @@ for i in range(5):
     sleep(1)
 ```
 
-***
+
 
 ```
 from meowbit import *
@@ -436,7 +436,7 @@ buzzer.rest(1)
 buzzer.melody(CORRECT)
 ```
 
-***
+
 
 ```
 from meowbit import *
