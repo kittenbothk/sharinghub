@@ -18,7 +18,7 @@
 請自行因應東南西北四個方位的數值修改程式。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_iVDVUvRx8K30" %}
+{% embed url="https://makecode.microbit.org/_9F1hfREsr59y" %}
 
 #### 模型玩法:
 
