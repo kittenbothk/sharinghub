@@ -18,8 +18,8 @@
 [yu-liang-ji-shuo-ming-shu.md](yu-liang-ji-shuo-ming-shu.md)
 {% endcontent-ref %}
 
-{% content-ref url="feng-xiang-ji-shuo-ming-shu.md" %}
-[feng-xiang-ji-shuo-ming-shu.md](feng-xiang-ji-shuo-ming-shu.md)
+{% content-ref url="windvane_building_instructions.md" %}
+[windvane\_building\_instructions.md](windvane\_building\_instructions.md)
 {% endcontent-ref %}
 
 {% content-ref url="feng-su-yi-shuo-ming-shu.md" %}

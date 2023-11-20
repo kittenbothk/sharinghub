@@ -4,8 +4,8 @@
 
 ### 模型搭建說明書
 
-{% content-ref url="../building/feng-xiang-ji-shuo-ming-shu.md" %}
-[feng-xiang-ji-shuo-ming-shu.md](../building/feng-xiang-ji-shuo-ming-shu.md)
+{% content-ref url="../building/windvane_building_instructions.md" %}
+[windvane\_building\_instructions.md](../building/windvane\_building\_instructions.md)
 {% endcontent-ref %}
 
 ### 模型接線圖

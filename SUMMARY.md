@@ -449,7 +449,7 @@
       * [亮度檢測儀說明書](kits/smartweatherstation/building/liang-du-jian-ce-yi-shuo-ming-shu.md)
       * [溫濕度感應儀/氣壓計說明書](kits/smartweatherstation/building/wen-shi-du-gan-ying-yi-qi-ya-ji-shuo-ming-shu.md)
       * [雨量計說明書](kits/smartweatherstation/building/yu-liang-ji-shuo-ming-shu.md)
-      * [風向計說明書](kits/smartweatherstation/building/feng-xiang-ji-shuo-ming-shu.md)
+      * [風向計說明書](kits/smartweatherstation/building/windvane\_building\_instructions.md)
       * [風速儀說明書](kits/smartweatherstation/building/feng-su-yi-shuo-ming-shu.md)
     * [SugarBox 版本](kits/smartweatherstation/sugarbox-ban-ben/README.md)
       * [Sugar Box物聯氣象站介紹](kits/smartweatherstation/sugarbox-ban-ben/weatherstationintro.md)
