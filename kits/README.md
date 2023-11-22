@@ -14,6 +14,10 @@ description: 各款Kittenbot套件產品的介紹和支援
 [powerbrick](powerbrick/)
 {% endcontent-ref %}
 
+{% content-ref url="smartweatherstation/" %}
+[smartweatherstation](smartweatherstation/)
+{% endcontent-ref %}
+
 {% content-ref url="aihealth/" %}
 [aihealth](aihealth/)
 {% endcontent-ref %}
@@ -44,10 +48,6 @@ description: 各款Kittenbot套件產品的介紹和支援
 
 {% content-ref url="lego_robot_arm.md" %}
 [lego\_robot\_arm.md](lego\_robot\_arm.md)
-{% endcontent-ref %}
-
-{% content-ref url="smartweatherstation/" %}
-[smartweatherstation](smartweatherstation/)
 {% endcontent-ref %}
 
 {% content-ref url="fitness/" %}
