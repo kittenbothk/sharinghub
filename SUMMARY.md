@@ -170,6 +170,7 @@
     * [pH值感應器使用教學](functional\_modules/ph/phuse.md)
     * [pH值感應器日常使用校正教學](functional\_modules/ph/phcalibrate.md)
   * [KittenClock時鐘模組](functional\_modules/kittenclock.md)
+  * [手指模辨識模組](functional\_modules/shou-zhi-mo-bian-shi-mo-zu.md)
   * [OLED顯示屏魔塊](functional\_modules/oled.md)
   * [非接觸式紅外線測溫魔塊](functional\_modules/infratemp.md)
   * [All in 1水箱連水泵組合](functional\_modules/waterpump.md)
