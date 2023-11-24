@@ -1,8 +1,8 @@
-# Sugar二期 灰度感應器模組
+# Sugar二期 聲音感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/gray\_render.png)
+![](../../.gitbook/assets/sound\_render.png)
 
-這是一個灰度感應器。
+這是一個聲音感應器。
 
 ### 產品參數
 
@@ -12,7 +12,7 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/gray\_wire.png)
+![](../../.gitbook/assets/sound\_wire.png)
 
 ### 編程教學
 
@@ -32,6 +32,6 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
-{% embed url="https://makecode.microbit.org/_JCPLVv74fhCW" %}
+{% embed url="https://makecode.microbit.org/_Wfcada27c0iK" %}
 
-[參考程式](https://makecode.microbit.org/\_JCPLVv74fhCW)
+[參考程式](https://makecode.microbit.org/\_Wfcada27c0iK)
