@@ -27,9 +27,15 @@
 
 #### OLED編程
 
+{% hint style="info" %}
+OLED可以顯示4行文字或2行大文字。
+{% endhint %}
+
 {% embed url="https://makecode.microbit.org/_C8r4uVEeiTe7" %}
 
 [參考程式網址](https://makecode.microbit.org/\_C8r4uVEeiTe7)
+
+<figure><img src="../.gitbook/assets/oled_display.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 插件版本與更新
 
