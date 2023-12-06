@@ -22,6 +22,8 @@
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/watertemp\_wire.png)
 
+<figure><img src="../../.gitbook/assets/atomizer3.jpg" alt=""><figcaption></figcaption></figure>
+
 ### 編程教學
 
 #### MakeCode編程教學
@@ -43,6 +45,20 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_gR56pF0aCEz1" %}
 
 [參考程式](https://makecode.microbit.org/\_gR56pF0aCEz1)
+
+{% hint style="info" %}
+使用霧化器前，請確保膠管裏的棉芯已足夠濕透。
+{% endhint %}
+
+<div>
+
+<figure><img src="../../.gitbook/assets/atomizer4.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/atomizer5.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 霧化器示範短片
 
