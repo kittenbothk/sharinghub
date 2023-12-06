@@ -163,7 +163,7 @@
         * [Sugar Cam功能教學: Teachable Machine模型訓練](functional\_modules/sugar/sugarcam/teachablemachine/training.md)
         * [Sugar Cam功能教學: 結合Teachable Machine與MakeCode編程](functional\_modules/sugar/sugarcam/teachablemachine/serial.md)
       * [串口指令集](functional\_modules/sugar/sugarcam/api.md)
-    * [Sugar二期 霧化器模組](functional\_modules/sugar/sugar-er-qi-wu-hua-qi-mo-zu.md)
+    * [Sugar二期 霧化器模組](functional\_modules/sugar/atomizer.md)
   * [污水混濁度感應器](functional\_modules/turbidity.md)
   * [pH值感應器](functional\_modules/ph/README.md)
     * [pH酸鹼值感應器](functional\_modules/ph/phsensor.md)

@@ -1,6 +1,14 @@
 # Sugar二期 霧化器模組
 
-![](../../.gitbook/assets/atomizer1.png)
+<div>
+
+<img src="../../.gitbook/assets/atomizer1.png" alt="">
+
+ 
+
+<figure><img src="../../.gitbook/assets/atomizer2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 這是一個霧化器，可以將水化成水霧揮發到環境當中。
 
@@ -12,7 +20,7 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](../../.gitbook/assets/sound\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/watertemp\_wire.png)
 
 ### 編程教學
 
@@ -35,3 +43,7 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_gR56pF0aCEz1" %}
 
 [參考程式](https://makecode.microbit.org/\_gR56pF0aCEz1)
+
+### 霧化器示範短片
+
+{% embed url="https://youtu.be/y3qxbMMDXus" %}
