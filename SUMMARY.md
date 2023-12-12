@@ -501,7 +501,6 @@
     * [遙控小車](kits/basic\_kart/rc.md)
     * [巡線小車](kits/basic\_kart/line.md)
     * [避障小車](kits/basic\_kart/ultrasound.md)
-    * [AI無人自動駕駛](kits/basic\_kart/ai.md)
   * [四驅麥輪車](kits/mecanum/README.md)
     * [四驅麥輪車套件介紹](kits/mecanum/intro.md)
     * [四驅麥輪車模型組裝資料](kits/mecanum/instructions/README.md)
