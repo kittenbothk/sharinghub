@@ -54,6 +54,10 @@ description: 這裡合集了PowerBrick魔塊的教程。
 [mp3.md](mp3.md)
 {% endcontent-ref %}
 
+{% content-ref url="oled.md" %}
+[oled.md](oled.md)
+{% endcontent-ref %}
+
 {% content-ref url="pwextension.md" %}
 [pwextension.md](pwextension.md)
 {% endcontent-ref %}
@@ -61,3 +65,4 @@ description: 這裡合集了PowerBrick魔塊的教程。
 {% content-ref url="poweredu.md" %}
 [poweredu.md](poweredu.md)
 {% endcontent-ref %}
+
