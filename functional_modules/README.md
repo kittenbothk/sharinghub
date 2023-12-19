@@ -2,7 +2,7 @@
 description: 支援Microbit之各種配件介紹及詳細資訊
 ---
 
-# 各種功能配件
+# 各種功能模組
 
 <figure><img src="../.gitbook/assets/modules.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,8 +26,8 @@ description: 支援Microbit之各種配件介紹及詳細資訊
 [kittenclock.md](kittenclock.md)
 {% endcontent-ref %}
 
-{% content-ref url="infratemp.md" %}
-[infratemp.md](infratemp.md)
+{% content-ref url="pwmodules/infratemp.md" %}
+[infratemp.md](pwmodules/infratemp.md)
 {% endcontent-ref %}
 
 {% content-ref url="waterpump.md" %}
