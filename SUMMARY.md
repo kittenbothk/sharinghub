@@ -173,7 +173,7 @@
     * [pH值感應器使用教學](functional\_modules/ph/phuse.md)
     * [pH值感應器日常使用校正教學](functional\_modules/ph/phcalibrate.md)
   * [KittenClock時鐘模組](functional\_modules/kittenclock.md)
-  * [手指模辨識模組](functional\_modules/shou-zhi-mo-bian-shi-mo-zu.md)
+  * [手指模辨識模組](functional\_modules/fingerprint.md)
   * [All in 1水箱連水泵組合](functional\_modules/waterpump.md)
   * [貓耳超聲波](functional\_modules/ultrasound.md)
   * [五路巡線傳感器](functional\_modules/5wayline.md)
