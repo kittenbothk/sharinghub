@@ -229,7 +229,7 @@
     * [Jacdac 震動模組](jacdac/hardwares/haptic.md)
     * [Jacdac 陀螺儀模組](jacdac/hardwares/accelerometer.md)
     * [Jacdac 繼電器模組](jacdac/hardwares/relay.md)
-    * [Jacdac 溫濕度模組](jacdac/hardwares/env.md)
+    * [Jacdac 環境溫濕度模組](jacdac/hardwares/env.md)
     * [Jacdac RGB燈帶模組](jacdac/hardwares/strip.md)
     * [Jacdac 舵機模組](jacdac/hardwares/servo.md)
     * [Jacdac 超聲波模組](jacdac/hardwares/distance.md)
