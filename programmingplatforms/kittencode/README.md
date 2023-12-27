@@ -11,7 +11,3 @@ KittenCode不但支援一般的Python編程，它更支援對KittenBot旗下產�
 {% content-ref url="interface.md" %}
 [interface.md](interface.md)
 {% endcontent-ref %}
-
-{% content-ref url="demo.md" %}
-[demo.md](demo.md)
-{% endcontent-ref %}

@@ -1,67 +1,50 @@
 # KittenCode操作指引
 
-### 主介面
+### 主頁
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/interface1.png)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FtaTaWJMtgPS7AV9dGCeT%2Fimage.png?alt=media&#x26;token=2df52af6-ba66-4fc8-a45c-6e8d04d9f60e" alt=""><figcaption></figcaption></figure>
 
-1. 功能區：專案命名與儲存，模式切換，選項等
-2. 文件區：專案內的文件，硬件文件系統
-3. 編程區：編寫程式
-4. 執行區：運行程式，上傳程式(硬件模式)，顯示程式的列印，負責執行REPL模式(硬件模式)
+在主頁，您可以:
 
-### 功能區
+1. 建立新專案
+2. 加載專案
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/interface2.png)
+### 建立專案
 
-1. 檔案區：命名檔案，儲存檔案，打開檔案等
-2. 切換模式：切換Python與MicroPython硬件模式
-3. 功能欄：Python庫管理，設定
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FRkBV3RNgszo3oYSbfu3o%2Fimage.png?alt=media&#x26;token=01711e64-7031-46e3-829c-c632813031a1" alt=""><figcaption></figcaption></figure>
 
-#### Python庫管理
+在建立專案時，您需要選擇模式並選擇硬件。(python/micropython)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/interface3.png)
+### 功能條
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/pip1.png)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2F2WF5ifTL4nxTt3gI3krg%2Fimage.png?alt=media&#x26;token=82bed191-42f1-48b5-9e9f-83626eaf93f2" alt=""><figcaption></figcaption></figure>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/pip2.png)
+由左至右:
 
-1. 安裝Python庫
-2. 選擇安裝源
+1. 退出專案
+2. 儲存
+3. 連接硬件
+4. 選擇語言
+5. 切換深色模式
 
-#### 硬件模式
+### 檔案管理
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/hardware1.png)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FdFMkDXwzNYKLFuO0BCut%2Fimage.png?alt=media&#x26;token=d7c8031d-03ff-4380-856a-ff67f67b6ba3" alt=""><figcaption></figcaption></figure>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/hardware2.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/hardware3.png)
-
-選擇硬件
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/hardware4.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/hardware5.png)
-
-連接硬件，切換硬件
-
-### 文件區
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/file12.png)
-
-1. 建立新文件，建立新資料夾
-2. 選擇檔案
+1. 建立新檔案/資料夾
+2. 打開檔案
 
 ### 編程區
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/code114.png)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2Ff28dbtaqiKurxmZCNP1X%2Fimage.png?alt=media&#x26;token=07c908df-407b-49ba-bf56-848ba6d95a1f" alt=""><figcaption></figcaption></figure>
 
-1. 選擇檔案
-2. 編程區
-3. 縮放與搜尋
+1. 編程區
+2. 運行程式
+3. 上載程式
+4. 重刷硬件固件
 
-### 執行區
+### REPL終端
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/repl1.png)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FNpzCwtW6y8t2Qae8so9n%2Fimage.png?alt=media&#x26;token=23f0e145-14fa-4c22-b872-4fb31b9f7013" alt=""><figcaption></figcaption></figure>
 
-1. 運行程式
-2. 顯示程式的列印，REPL模式輸入，清空控制台資訊
+1. REPL控制台

@@ -4,7 +4,7 @@
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/pythonLogo.jpg)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittencode1.png)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FuRdMauhnui5zxvYe5OKF%2Fimage.png?alt=media\&token=410bb702-b244-489e-9615-e30fab9e32dc)
 
 KittenCode是由KittenBot研發推出的一款Python編程平台。KittenCode支援純Python3的編程之餘亦支持第三方庫的安裝和使用；KittenCode疫支援使用Micropython進行硬件編程，可直接對Micro:bit、KOI和Meowbit等硬件編程，實現在線運行及上傳程式離線運行。
 
@@ -12,15 +12,20 @@ Python編程在STEM編程教育的重要性越來越大，香港教育局已經�
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/dse.png)
 
-### 下載KittenCode
+### 線上版KittenCode
+
+{% hint style="info" %}
+支援Google Chrome及Microsoft Edge瀏覽器。\
+不支援Safari及流動裝置瀏覽器。
+{% endhint %}
+
+[前往KittenCode官網](https://codebeta.kittenbot.net/en/home)
+
+### 下載KittenCode(舊版本)
 
 [下載Windows版KittenCode](https://drive.google.com/file/d/1OLzysWMt-g3vS1zrfxcEtUYx0pS-NtBl/view?usp=share\_link)
 
 [下載MacOS版KittenCode](https://drive.google.com/file/d/1\_FXt2yvbp8iXSf8e5zIaXO6B-S9gxJ1d/view?usp=share\_link)
-
-### 線上版KittenCode
-
-[前往KittenCode官網](https://codebeta.kittenbot.net/en/home)
 
 ### 功能和特點
 
