@@ -22,6 +22,6 @@
 [followduck.md](followduck.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../jacdac/hardwares/quickstart.md" %}
-[quickstart.md](../../../jacdac/hardwares/quickstart.md)
+{% content-ref url="../../quickstart.md" %}
+[quickstart.md](../../quickstart.md)
 {% endcontent-ref %}
