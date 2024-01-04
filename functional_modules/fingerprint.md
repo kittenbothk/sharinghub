@@ -15,7 +15,9 @@
 
 <figure><img src="../.gitbook/assets/fingerprint_wiring.png" alt=""><figcaption></figcaption></figure>
 
-### MakeCode 編程教學[¶](broken-reference)
+<figure><img src="../.gitbook/assets/fingerprint_wiring_armourbit.png" alt=""><figcaption></figcaption></figure>
+
+### MakeCode 編程教學
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png" alt=""><figcaption></figcaption></figure>
 

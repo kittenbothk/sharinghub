@@ -38,10 +38,6 @@ description: 支援Microbit之各種配件介紹及詳細資訊
 [ultrasound.md](ultrasound.md)
 {% endcontent-ref %}
 
-{% content-ref url="5wayline.md" %}
-[5wayline.md](5wayline.md)
-{% endcontent-ref %}
-
 {% content-ref url="geekfan.md" %}
 [geekfan.md](geekfan.md)
 {% endcontent-ref %}
