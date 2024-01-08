@@ -4,28 +4,34 @@
 
 ### 在KittenCode中使用未來板
 
-首先確保你已經安裝KittenCode。
+推薦使用線上版KittenCode。
 
-### 1. 打開KittenCode並切換至硬件互動模式
+[線上版KittenCode](https://codebeta.kittenbot.net/en/home)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode1.png)
+### 1. 建立新專案，並選擇未來板模式
 
-#### 2. 在硬件欄選擇未來板
+<figure><img src="https://3269773171-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FQBspIadyIZIPT59gWsd3%2Fimage.png?alt=media&#x26;token=6d7015ec-61d4-4762-aa18-03b21622a0c0" alt=""><figcaption></figcaption></figure>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode2.png)
+### 2. 以USB線連接未來板，點擊連接硬件
 
-#### 3. 使用USB線連接未來板，按KittenCode的連接按鍵
+<div>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode3.png)
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-#### 4. 選擇USB串口
+ 
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode4.png)
+<figure><img src="https://3269773171-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FU7uU5ZvZAR2nlDn3WOlB%2Fimage.png?alt=media&#x26;token=09c2ab5b-866d-4aa1-a832-73b3aea3019b" alt=""><figcaption></figcaption></figure>
 
-#### 5. 當按鍵變為綠色就代表連接成功
+</div>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode5.png)
+### 3. 等待未來板完成連接
 
-#### 6. 在REPL控制台可以使用各種指令
+<div>
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenCode6.png)
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://3269773171-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Bv9xBdKh3R9w6Vp7asd%2Fuploads%2FC86EwRtYqS9bmC7R2Vda%2Fimage.png?alt=media&#x26;token=4226d4ce-6ec8-4a44-8fc9-13ddf6c168a8" alt=""><figcaption></figcaption></figure>
+
+</div>
