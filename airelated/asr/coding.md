@@ -2,9 +2,19 @@
 
 ASR語音模組可以配合MakeCode或KittenBlock編程使用。
 
-#### 接線教學
+### 接線教學
+
+### Robotbit EDU
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr\_robotbit\_edu.png)
+
+### Armourbit
+
+{% hint style="info" %}
+編程時請注意要選擇正確引腳。
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/armourbit_asr_wiring.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 
