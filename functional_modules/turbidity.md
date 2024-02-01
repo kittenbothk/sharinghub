@@ -13,18 +13,33 @@
 * 工作溫度：5°C\~85°C
 * 重量：30g
 
-### 接線教學[¶](broken-reference)
+### 接線教學
+
+### Robotbit EDU
 
 將感應器的A引腳接到Robotbit Edu的接口，將G和V接到電源。
 
-```
-污水混濁度感應器需要類比訊號，如使用Micro:bit，請接到P0/P1/P2；如使用未來板，請接到P0/P1/P2/P12/P14/P15。
+{% hint style="info" %}
+污水混濁度感應器需要類比訊號，如使用Micro:bit，請接到P0/P1/P2；如使用未來板，請接到P0/P1/P2/P12/P14/P15。&#x20;
+
 污水混濁度感應器建議配合水溫感應器一同使用，以下圖表忽略去水溫感應器的接線，請自行參考有關教學。
-```
+{% endhint %}
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity_wire.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/turbidity_edu.png" alt=""><figcaption></figcaption></figure>
 
-### MakeCode 編程教學[¶](broken-reference)
+### Robotbit 2.2
+
+將感應器的A引腳接到Robotbit 2.2的接口，將G和V接到電源。
+
+{% hint style="info" %}
+污水混濁度感應器需要類比訊號，如使用Micro:bit，請接到P0/P1/P2；如使用未來板，請接到P0/P1/P2/P12/P14/P15。&#x20;
+
+污水混濁度感應器建議配合水溫感應器一同使用，以下圖表忽略去水溫感應器的接線，請自行參考有關教學。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/turbidity_2.2.png" alt=""><figcaption></figcaption></figure>
+
+### MakeCode 編程教學
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png" alt=""><figcaption></figcaption></figure>
 
