@@ -33,6 +33,14 @@ pH酸鹼值感應器可以檢測液體的pH值。
 
 將3V3線接到VCC針腳，GND線接到GND針腳，訊號線(P0, P1, P2)接到S針腳。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ph\_wiring.png)
+### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/ph_edu.png" alt=""><figcaption></figcaption></figure>
+
+### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/ph_Robotbit2.2.png" alt=""><figcaption></figcaption></figure>
+
+### Armourbit
 
 <figure><img src="../../.gitbook/assets/ph_armourbit.png" alt=""><figcaption></figcaption></figure>
