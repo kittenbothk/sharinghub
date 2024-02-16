@@ -553,6 +553,7 @@
   * [OTTO機械人](kits/otto.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
   * [Jacdac 新手套件A](jacdac/hardwares/starterkita.md)
+  * [KOI AI 氣墊球](kits/koi-ai-qi-dian-qiu.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
