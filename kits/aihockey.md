@@ -12,6 +12,8 @@ KOI AI 氣墊球是個可以與人工智能玩氣墊球的套件。
 
 <figure><img src="../.gitbook/assets/wiring.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
 ### 套件內容
 
 1. Robotbit EDU連底座 \*1
@@ -30,11 +32,15 @@ KOI AI 氣墊球是個可以與人工智能玩氣墊球的套件。
 
 ### 操作教學
 
-打開電源後，KOI會追蹤並阻擋紅色球片。
+打開Robotbit電源後，KOI會追蹤並阻擋紅色球片。
+
+### 示範短片
+
+{% embed url="https://drive.google.com/file/d/1oSww-0ue2Pvb40VW0xvTHu-sg5ntaYm5/view?usp=sharing" %}
 
 ### 參考程式
 
-請用KittenCode載入此py檔。
+出廠時KOI已經預載參考程式，如有需要請用KittenCode載入此py檔上載至KOI。
 
 {% file src="../.gitbook/assets/main.py" %}
 
