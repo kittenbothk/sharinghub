@@ -14,6 +14,18 @@ description: 各款Kittenbot套件產品的介紹和支援
 [powerbrick](powerbrick/)
 {% endcontent-ref %}
 
+{% content-ref url="ephsteamkit/" %}
+[ephsteamkit](ephsteamkit/)
+{% endcontent-ref %}
+
+{% content-ref url="aihockey.md" %}
+[aihockey.md](aihockey.md)
+{% endcontent-ref %}
+
+{% content-ref url="iot_make_easy/intro.md" %}
+[intro.md](iot\_make\_easy/intro.md)
+{% endcontent-ref %}
+
 {% content-ref url="smartweatherstation/" %}
 [smartweatherstation](smartweatherstation/)
 {% endcontent-ref %}
