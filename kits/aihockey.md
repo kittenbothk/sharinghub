@@ -2,7 +2,11 @@
 
 <figure><img src="../.gitbook/assets/hockey_transparent1.png" alt=""><figcaption></figcaption></figure>
 
-KOI AI 氣墊球是個可以與人工智能玩氣墊球的套件。
+AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能技術和玩樂元素。
+
+學生可以透過與KOI人工智能競技，從遊戲中了解現今機器視覺的原理，激發對人工智能的興趣。
+
+更高階的學生更可以透過Python編程編寫自己的AI氣墊球機械人。
 
 ### 搭建說明書
 
