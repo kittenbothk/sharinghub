@@ -83,15 +83,21 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 #### **模組的正方向**[¶](broken-reference)
 
-此為KOI錦鯉模組的正方向
+此為KOI錦鯉模組的正方向。
 
-舊版本：
+{% hint style="info" %}
+KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
+{% endhint %}
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-13.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false">
 
-新版本：
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-13.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newVersion.jpg" alt=""><figcaption></figcaption></figure>
+ 
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newVersion.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 #### **旋轉鏡頭**[¶](broken-reference)
 
@@ -99,7 +105,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 #### **聚焦微調**[¶](broken-reference)
 
-在新版的KOI上，可以透過扭動鏡頭的黑色外圈，微調鏡頭的聚焦點。
+有些KOI的鏡頭可以透過扭動鏡頭的黑色外圈，微調鏡頭的聚焦點。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/focus.png" alt=""><figcaption></figcaption></figure>
 
