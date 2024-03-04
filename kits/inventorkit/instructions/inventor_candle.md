@@ -1,7 +1,9 @@
 # 生日蠟燭
 
 \
-![../../../\_images/candle1.png](https://kittenbothk.readthedocs.io/en/latest/\_images/candle1.png)
+
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/candle1.png" alt=""><figcaption></figcaption></figure>
 
 ### 組裝說明書下載
 
