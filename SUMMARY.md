@@ -150,6 +150,7 @@
     * [Sugar二期 I2C分線模組](functional\_modules/sugar/i2c\_hub.md)
     * [Sugar二期 灰度感應器模組](functional\_modules/sugar/grayscale.md)
     * [Sugar二期 聲音感應模組](functional\_modules/sugar/soundsensor.md)
+    * [Sugar 二期 RFID模組](functional\_modules/sugar/sugar-er-qi-rfid-mo-zu.md)
     * [Sugar二期 Sugar Cam](functional\_modules/sugar/sugarcam/README.md)
       * [Sugar Cam使用教學: 指令模式(預設)](functional\_modules/sugar/sugarcam/commandprocessing/README.md)
         * [Sugar Cam功能教學: 二維碼掃描](functional\_modules/sugar/sugarcam/commandprocessing/qrcode.md)

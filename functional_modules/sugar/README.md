@@ -60,10 +60,6 @@ description: 這裡集合了Sugar系列各款感應器模組的介紹與教學�
 [tof.md](tof.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### Sugar 二期模組
 
 {% content-ref url="stringlights.md" %}
