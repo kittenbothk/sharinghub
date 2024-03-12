@@ -6,7 +6,7 @@
 
 ### 編程積木
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2Fg8gveE0DC4idrYoORQEx%2Fimage.png?alt=media&#x26;token=97b18306-46f0-43d8-8aba-690e1ac10ca3" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 
