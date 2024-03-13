@@ -20,6 +20,10 @@ description: 介紹各款帶有AI 功能的功能模組
 
 </div>
 
+{% content-ref url="koi2/" %}
+[koi2](koi2/)
+{% endcontent-ref %}
+
 {% content-ref url="koi/" %}
 [koi](koi/)
 {% endcontent-ref %}
