@@ -35,6 +35,10 @@ KOI 2內建 WIFI功能，可讓你的人工智慧作品接入雲端，<mark styl
 5. 加強<mark style="color:orange;">**線條追蹤**</mark>
    * 線條追蹤更快更準確
 
+### KOI 2 功能提升 示範短片
+
+{% embed url="https://youtu.be/Pw0zEsgpX-0" %}
+
 ### KOI 與 KOI 2功能對照表
 
 <figure><img src="../../.gitbook/assets/koi新舊功能對照2.png" alt=""><figcaption></figcaption></figure>
