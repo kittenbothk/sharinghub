@@ -10,9 +10,9 @@
 
 ### 參考程式
 
-{% embed url="https://makecode.microbit.org/_AVg8gXLdhVq6" %}
+{% embed url="https://makecode.microbit.org/_A30YXhaV83XP" %}
 
-[參考程式](https://makecode.microbit.org/\_AVg8gXLdhVq6)
+[參考程式](https://makecode.microbit.org/\_A30YXhaV83XP)
 
 #### 程式解說
 

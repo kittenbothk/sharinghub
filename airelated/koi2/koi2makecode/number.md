@@ -2,7 +2,7 @@
 
 ### 數字範例圖檔
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/數字追蹤.pdf" %}
 
 ### <mark style="color:green;">MakeCode編程</mark>
 
@@ -14,9 +14,9 @@
 
 ### 參考程式
 
-{% embed url="https://makecode.microbit.org/_CytL1TgYFe5o" %}
+{% embed url="https://makecode.microbit.org/_TKWhbqVVA77b" %}
 
-[參考程式](https://makecode.microbit.org/\_CytL1TgYFe5o)
+[參考程式](https://makecode.microbit.org/\_TKWhbqVVA77b)
 
 #### 程式解說
 

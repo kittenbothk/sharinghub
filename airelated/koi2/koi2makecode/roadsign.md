@@ -2,7 +2,7 @@
 
 ### 路牌範例圖檔
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/路牌追蹤.pdf" %}
 
 ### <mark style="color:green;">MakeCode編程</mark>
 
@@ -14,9 +14,9 @@
 
 ### 參考程式
 
-{% embed url="https://makecode.microbit.org/_XtKVCLH0Ag2k" %}
+{% embed url="https://makecode.microbit.org/_dEAYTjWw75JU" %}
 
-[參考程式](https://makecode.microbit.org/\_XtKVCLH0Ag2k)
+[參考程式](https://makecode.microbit.org/\_dEAYTjWw75JU)
 
 #### 程式解說
 
