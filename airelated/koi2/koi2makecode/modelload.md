@@ -10,15 +10,11 @@
 
 ### 參考程式
 
-{% hint style="info" %}
-辨認結果準確度為0\~100%。
-{% endhint %}
+{% embed url="https://makecode.microbit.org/_7L17yXciudog" %}
 
-{% embed url="https://makecode.microbit.org/_TabbEa8HxWse" %}
-
-[參考程式](https://makecode.microbit.org/\_TabbEa8HxWse)
+[參考程式](https://makecode.microbit.org/\_7L17yXciudog)
 
 ### 程式解說
 
 1. 按A鍵載入模型。
-2. 按B鍵進行辨識，Micro:bit會顯示辨識結果和準確度。
+2. 按B鍵進行辨識，Micro:bit會顯示辨識結果。
