@@ -12,7 +12,7 @@ Robotbit Edu上已經提供了4pin的通訊連供電接口，我們只需要將K
 
 <mark style="background-color:yellow;">注:  如欲為KOI 2以USB 方式額外供電, 請拔走黑 (GND) 及 紅(5V) 2跟線。</mark>
 
-<figure><img src="../../../.gitbook/assets/edu_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edu_wiring (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/edu2.png" alt="" width="375"><figcaption></figcaption></figure>
 
