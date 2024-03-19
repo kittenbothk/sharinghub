@@ -4,11 +4,19 @@
 
 ### KOI 1升級到KOI 2固件方法
 
+KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應的固件檔案。
+
 即使是舊版的KOI 1都可以升級為KOI 2的固件，享用到KOI 2的升級功能。
 
 首先下載V4固件程式。
 
-[下載地址](https://drive.google.com/file/d/1\_B01x74BJrXUgcWzhebm\_4qrPc9T-Wj5/view?usp=sharing)
+#### KOI 1 固件程式 (Micro USB)
+
+{% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
+
+#### KOI 2固件程式 (Type C)
+
+{% file src="../../.gitbook/assets/KOI Update Type C.zip" %}
 
 用USB線將KOI連接到電腦。
 
