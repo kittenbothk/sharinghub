@@ -44,13 +44,13 @@ Robotbit Edu上已經提供了4pin的通訊連供電接口，我們只需要將K
 
 <figure><img src="../../../.gitbook/assets/koi_robotbit_2.2.png" alt=""><figcaption></figcaption></figure>
 
-**重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**[**¶**](broken-reference)
+**重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**
 
-再次_檢查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示出開機畫面。
+再次_檢查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示鏡頭畫面。
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_connection2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20240320_100258.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_connection3-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20240320_100319.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **3. 使用Armourbit**
 
