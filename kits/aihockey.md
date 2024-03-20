@@ -277,3 +277,7 @@ ak = AirHockey()
 #ak.colorCalibrate(key='red2')
 ak.run()
 </code></pre>
+
+#### 舵機校正
+
+{% embed url="https://makecode.microbit.org/_XMV48YfiRJbY" %}
