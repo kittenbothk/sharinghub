@@ -14,9 +14,9 @@
 KOI 2已經放寬了40張照片的限制
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_1CbDCuRxf3Wd" %}
+{% embed url="https://makecode.microbit.org/_aqVTq4hYfCAz" %}
 
-[參考程式](https://makecode.microbit.org/\_1CbDCuRxf3Wd)
+[參考程式](https://makecode.microbit.org/\_aqVTq4hYfCAz)
 
 #### 程式解說
 
