@@ -4,7 +4,7 @@
 
 ### 搭建說明書
 
-[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart\_home\_iot/images/bath.pdf)
+{% file src="../../../.gitbook/assets/B1_Building Instruction.pdf" %}
 
 ### 參考接線
 

@@ -6,7 +6,7 @@
 
 ### 搭建說明書
 
-[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart\_home\_iot/images/window.pdf)
+{% file src="../../../.gitbook/assets/window.pdf" %}
 
 ### 參考接線
 
