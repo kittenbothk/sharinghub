@@ -14,9 +14,9 @@
 錄音與播放功能需要高速Micro SD卡，KOI原廠不配備SD卡，有需要的請自行預備。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_4TpgXrD9cisa" %}
+{% embed url="https://makecode.microbit.org/_Vg3M4XeT0MyW" %}
 
-[參考程式](https://makecode.microbit.org/\_4TpgXrD9cisa)
+[參考程式](https://makecode.microbit.org/\_Vg3M4XeT0MyW)
 
 #### 程式解說
 
