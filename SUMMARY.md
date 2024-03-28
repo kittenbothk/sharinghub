@@ -211,6 +211,7 @@
     * [pH感應器初次校正](functional\_modules/ph/phtune.md)
     * [pH值感應器使用教學](functional\_modules/ph/phuse.md)
     * [pH值感應器日常使用校正教學](functional\_modules/ph/phcalibrate.md)
+  * [PM2.5 感應器](functional\_modules/pm2.5.md)
   * [KittenClock時鐘模組](functional\_modules/kittenclock.md)
   * [手指模辨識模組](functional\_modules/fingerprint.md)
   * [All in 1水箱連水泵組合](functional\_modules/waterpump.md)
