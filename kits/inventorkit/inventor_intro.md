@@ -17,7 +17,7 @@ Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件�
 
 ### 產品內容
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/112.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_withoptions.png" alt=""><figcaption></figcaption></figure>
 
 * Robotbit Edu x1
 * Robotbit底座 x1
@@ -34,8 +34,7 @@ Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件�
 * GeekServo 9G舵機 x1
 * GeekServo 樂高風扇 x1
 * TT電機 x2
-* 3Pin 連接線 x6
-* 3Pin轉4Pin連接線(貓耳超聲波專用) x1
+* 3Pin 連接線 x7
 * 塑膠積木包 x1
 * 裝飾結構紙板 x1
 * 1m USB線 x1
