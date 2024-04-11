@@ -59,5 +59,3 @@ Jacdapter是Micro:bit V2專用的Jacdac擴展板，它為Micro:bit帶來6組Jacd
 <figure><img src="../../.gitbook/assets/powerswitch4.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-a
