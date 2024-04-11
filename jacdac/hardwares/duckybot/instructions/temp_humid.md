@@ -35,5 +35,3 @@
 <figure><img src="../../../../.gitbook/assets/powerswitch4.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-a

@@ -35,3 +35,29 @@ Jacdapter是Micro:bit V2專用的Jacdac擴展板，它為Micro:bit帶來6組Jacd
 #### 將Micro:bit插在插座上
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/connection.png)
+
+### 注意事項
+
+請使用電源板供電時，請將Jacdapter的電源切換撥向上(micro:bit方向)，並且將電源板的開關撥至On。
+
+<div>
+
+<figure><img src="../../.gitbook/assets/powerswitch1.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/powerswitch2.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/powerswitch3.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/powerswitch4.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+a
