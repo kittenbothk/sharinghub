@@ -30,5 +30,5 @@
 
 未來板Lite會一直顯示測量到空氣中的PM1.0、PM2.5及PM10懸浮粒子的濃度(ppm)。
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=8tnyf5k63L5mKK68&t=261" %}
+{% embed url="https://www.youtube.com/watch?t=17s&v=keSccyhM_FE" %}
 
