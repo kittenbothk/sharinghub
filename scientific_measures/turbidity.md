@@ -1,5 +1,7 @@
 # 污水混濁度測量
 
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FCg3h4E22a2raNnDEC8Zg%2Fimage.png?alt=media&#x26;token=d515962b-28cd-46aa-bb02-bb2ad9ae757e" alt=""><figcaption></figcaption></figure>
+
 人類的工業及農業活動會將例如重金屬、農藥、化學物、塵污水等排放到河流及海洋，不但影響清澈度，更加危害到水中生物的健康。
 
 ### 實驗準備

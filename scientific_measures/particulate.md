@@ -1,5 +1,7 @@
 # 懸浮粒子測量
 
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FUNN7tqPEQzZPgY2lEvkd%2Fimage.png?alt=media&#x26;token=32049896-d26e-4a23-b714-b0cbc091c342" alt=""><figcaption></figcaption></figure>
+
 微細懸浮粒子是懸浮在空氣中的粒子，標稱氣動直徑為2.5微米或以下，因而亦稱為PM2.5。它由不同來源排出，包括燃料燃燒過程，車輛廢氣及工業排放等 。
 
 同學可以在以下實驗測量到不同地點的PM2.5懸浮粒子濃度。

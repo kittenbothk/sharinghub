@@ -1,5 +1,7 @@
 # 聲音測量
 
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FU1NQKOt5z4AaHc4AY3g7%2Fimage.png?alt=media&#x26;token=72e9f9c9-72d7-4647-9003-b5d8c20a8e1a" alt=""><figcaption></figcaption></figure>
+
 人類的活動例如工廠、交通等都會造成噪音。噪音亦是污染的一種，噪音污染除了會影響市民心情外亦會有機會影響市民聽力。
 
 ### 實驗準備

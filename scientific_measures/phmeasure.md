@@ -1,5 +1,7 @@
 # pH酸鹼值測量
 
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FGyPNdp0KfxcB7sXjSU86%2Fimage.png?alt=media&#x26;token=e59432f7-bf84-41bd-a4ee-47b167b93876" alt=""><figcaption></figcaption></figure>
+
 人類的工業及農業活動會將例如重金屬、農藥、化學物等的污染物排到河流及海洋，影響水中的酸鹼值
 
 ### 實驗準備

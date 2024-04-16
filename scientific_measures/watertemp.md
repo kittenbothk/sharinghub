@@ -1,5 +1,7 @@
 # 水溫測量
 
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2Fwfrwq78znTkMbFksBsIP%2Fimage.png?alt=media&#x26;token=27978591-caf9-44be-b4e8-68ee866e0d10" alt=""><figcaption></figcaption></figure>
+
 河水海水的溫度是生態鏈重要的一環，人類的工業活動有機會會影響自然環境水溫，影響水中的生物。
 
 ### 實驗準備
