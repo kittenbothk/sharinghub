@@ -30,5 +30,5 @@
 
 未來板Lite會一直顯示測量到的渾濁度(NTU)。
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=uxVtkBOAPKfxZZc7&t=110" %}
+{% embed url="https://youtu.be/keSccyhM_FE?si=UaBW3P6HIvgvQomW&t=50" %}
 

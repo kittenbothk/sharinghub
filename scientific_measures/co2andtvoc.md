@@ -30,5 +30,5 @@
 
 未來板Lite會一直顯示測量到空氣中的二氧化碳及揮發性有機化合物的濃度(ppm)。
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=_nOLIIRfGWYmzKw3&t=17" %}
+{% embed url="https://youtu.be/keSccyhM_FE?si=KCR2ZkR3U05O0H81&t=261" %}
 
