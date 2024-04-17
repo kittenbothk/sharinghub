@@ -638,4 +638,5 @@
   * [污水混濁度測量](scientific\_measures/turbidity.md)
   * [聲音測量](scientific\_measures/decibels.md)
   * [pH酸鹼值測量](scientific\_measures/phmeasure.md)
+  * [未來板Lite操作教學](scientific\_measures/wei-lai-ban-lite-cao-zuo-jiao-xue.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
