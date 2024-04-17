@@ -1,8 +1,8 @@
-# Sugar二期 空氣質素感應器
+# Sugar二期 二氧化碳感應器
 
 <figure><img src="../../.gitbook/assets/co2_temp.png" alt=""><figcaption></figcaption></figure>
 
-這是一個空氣質素感應器，它可以感測到空氣中二氧化碳及揮發性有機化合物的濃度。
+這是一個二氧化碳感應器，它可以感測到空氣中二氧化碳及揮發性有機化合物的濃度。
 
 ### 產品參數
 
