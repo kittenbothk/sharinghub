@@ -46,6 +46,8 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 [參考程式](https://makecode.microbit.org/\_gR56pF0aCEz1)
 
+### 使用前注意事項
+
 {% hint style="info" %}
 使用霧化器前，請確保膠管裏的棉芯已足夠濕透。
 {% endhint %}
