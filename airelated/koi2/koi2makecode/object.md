@@ -10,6 +10,12 @@
 
 ### 參考程式
 
+{% hint style="info" %}
+可以辨認的物件包括：
+
+飛機、單車、鳥、船、瓶子、巴士、汽車、貓、椅子、牛、桌子、狗、馬、電單車、人、盆栽、沙發、火車、顯示屏
+{% endhint %}
+
 {% embed url="https://makecode.microbit.org/_A7cWUMegDAma" %}
 
 [參考程式](https://makecode.microbit.org/\_A7cWUMegDAma)
