@@ -10,11 +10,13 @@ KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應�
 
 首先下載V4固件程式。
 
-#### KOI 1 固件程式 (Micro USB)
+### KOI 升級與固件更新程式
+
+#### KOI (Micro USB) 升級與固件更新程式
 
 {% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
 
-#### KOI 2固件程式 (Type C)
+#### KOI (Micro USB) 升級與固件更新程式
 
 {% file src="../../.gitbook/assets/KOI Update Type C.zip" %}
 
