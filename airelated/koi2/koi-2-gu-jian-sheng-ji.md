@@ -16,7 +16,7 @@ KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應�
 
 {% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
 
-#### KOI (Micro USB) 升級與固件更新程式
+#### KOI 2 (Type C) 固件更新
 
 {% file src="../../.gitbook/assets/KOI Update Type C.zip" %}
 
