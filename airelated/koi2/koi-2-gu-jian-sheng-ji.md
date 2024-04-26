@@ -42,6 +42,10 @@ KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應�
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FZA4ygeOzn4ehwJZX1hQU%2Fimage.png?alt=media&#x26;token=721f8943-0d97-44b8-84c4-a9675084b194" alt=""><figcaption></figcaption></figure>
 
+### KOI 固件升級示範短片
+
+{% embed url="https://youtu.be/3I2sggAglhY" %}
+
 ### KOI V4固件刷回V1固件
 
 如需刷回V1固件，請按 KOI 1固件更新教學的步驟完成。
@@ -49,3 +53,5 @@ KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應�
 {% content-ref url="../koi/update/" %}
 [update](../koi/update/)
 {% endcontent-ref %}
+
+{% embed url="https://youtu.be/3I2sggAglhY?si=2Nvj5qgIdHGvdur2&t=238" %}
