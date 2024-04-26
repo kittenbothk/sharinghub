@@ -483,6 +483,7 @@
       * [無人消毒車說明書](kits/aihealth/ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/wu-ren-xiao-du-che-shuo-ming-shu.md)
       * [手提探溫槍說明書](kits/aihealth/ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/shou-ti-tan-wen-qiang-shuo-ming-shu.md)
       * [AI衛生防疫套件積木零件清單](kits/aihealth/ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/ai-wei-sheng-fang-yi-tao-jian-ji-mu-ling-jian-qing-dan.md)
+      * [智能模擬UV消毒燈說明書](kits/aihealth/ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/zhi-neng-mo-ni-uv-xiao-du-deng-shuo-ming-shu.md)
   * [未來板 物聯未來教學套件](kits/future\_inventor/README.md)
     * [物聯未來教學套件介紹](kits/future\_inventor/future\_inventor\_intro.md)
     * [物聯未來教學套件組裝說明書](kits/future\_inventor/instructions/README.md)
