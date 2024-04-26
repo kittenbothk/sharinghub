@@ -13,3 +13,7 @@ AI衛生防疫套件是一套針對衛生與防疫的套件，套件為BBC Micro
 {% content-ref url="info/" %}
 [info](info/)
 {% endcontent-ref %}
+
+{% content-ref url="ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/" %}
+[ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2](ai-wei-sheng-fang-yi-tao-jian-zu-zhuang-zi-liao-koi-2/)
+{% endcontent-ref %}
