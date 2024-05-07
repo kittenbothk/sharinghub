@@ -19,3 +19,11 @@
 1. 按A鍵連接WiFi與MQTT平台。
 2. 按B鍵向MQTT平台發送訊息。
 3. Micro:bit會顯示MQTT平台收到的訊息。
+
+### MakerCloud創客雲 參考程式
+
+{% embed url="https://makecode.microbit.org/_R9z5ruECw4Jk" %}
+
+發送訊息的積木必須按照以下格式填寫，請將主題名稱填進話題，並且將話題的數據類型識別碼取代數據類型。
+
+<figure><img src="../../../.gitbook/assets/path1361.png" alt=""><figcaption></figcaption></figure>

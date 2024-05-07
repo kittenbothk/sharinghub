@@ -76,6 +76,10 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/armourbit_connection2-3.png" alt=""><figcaption></figcaption></figure>
 
+然後在程式裡面只需要使用初始化Armourbit的積木然後選擇相應的接口(範例接線為Port2)就可以成功連接KOI 2。
+
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">MakeCode插件快速解說</mark>
 
 ### 加入MakeCode插件
