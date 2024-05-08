@@ -16,11 +16,13 @@ Armourbit用家請使用初始化Armourbit積木。
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://makecode.microbit.org/_WcuHcFew85su" %}
+### 入門應用
 
-[參考程式](https://makecode.microbit.org/\_WcuHcFew85su)
+{% embed url="https://makecode.microbit.org/_4WhKFv4LUevY" %}
 
-### 程式解說
+[參考程式](https://makecode.microbit.org/\_4WhKFv4LUevY)
+
+#### 程式解說
 
 {% hint style="info" %}
 成功載入模型時，KOI會顯示Load Successfully的畫面。
@@ -29,4 +31,22 @@ Armourbit用家請使用初始化Armourbit積木。
 {% endhint %}
 
 1. 按A鍵載入模型。
-2. 按B鍵進行辨識，Micro:bit會顯示辨識結果。
+2. 按B鍵進行辨識，Micro:bit會顯示辨識結果以及相似值(0-100)。
+
+### 進階應用
+
+{% embed url="https://makecode.microbit.org/_WcuHcFew85su" %}
+
+[參考程式](https://makecode.microbit.org/\_WcuHcFew85su)
+
+#### 程式解說
+
+{% hint style="info" %}
+成功載入模型時，KOI會顯示Load Successfully的畫面。
+
+載入到模型後KOI就會自動進行圖像辨識。
+{% endhint %}
+
+1. 按A鍵載入模型。
+2. 按B鍵進行辨識，Micro:bit會顯示辨識結果以及相似值(0-100)。
+3. 假如辨認結果為A，Micro:bit會顯示心形圖案；假如辨認結果為B，Micro:bit會顯示笑臉圖案。
