@@ -12,6 +12,10 @@ KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應�
 
 ### KOI 升級與固件更新程式
 
+### <mark style="color:red;">**注意！**</mark>
+
+### <mark style="color:red;">**進行升級前，請務必移除KOI的micro SD卡。**</mark>
+
 #### KOI (Micro USB) 升級與固件更新程式
 
 {% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
