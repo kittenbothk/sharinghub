@@ -67,6 +67,7 @@
       * [預載模型 數字追蹤](airelated/koi2/kittenblock/number.md)
       * [預載模型 物件追蹤](airelated/koi2/kittenblock/object.md)
     * [KOI 2固件升級](airelated/koi2/koi-2-gu-jian-sheng-ji.md)
+    * [KOI 2 串口指令API](airelated/koi2/koi-2-chuan-kou-zhi-ling-api.md)
   * [AI鏡頭KOI](airelated/koi/README.md)
     * [KOI錦鯉介紹](airelated/koi/intro.md)
     * [Makecode上KOI各種功能編程指引](airelated/koi/makecode/README.md)
