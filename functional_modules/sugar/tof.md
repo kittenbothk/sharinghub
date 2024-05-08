@@ -13,9 +13,17 @@
 
 ### 產品接線
 
+#### Robotbit Edu
+
 用4Pin 連接線將模組連接到Robotbit Edu的藍色4Pin接口。
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/tof\_wire.png)
+
+#### Robotbit 2.2
+
+用4Pin 連接線將模組連接到Robotbit 2.2的I2C接口。
+
+<figure><img src="../../.gitbook/assets/tof_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 

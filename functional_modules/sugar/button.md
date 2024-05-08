@@ -12,9 +12,17 @@
 
 ### 產品接線[¶](broken-reference)
 
+#### Robotbit EDU
+
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button_wire1.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit 2.2
+
+用3Pin 連接線將模組與Robotbit 2.2連接起來。
+
+<figure><img src="../../.gitbook/assets/button_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學[¶](broken-reference)
 

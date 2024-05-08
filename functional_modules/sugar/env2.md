@@ -10,9 +10,17 @@
 
 ### 產品接線
 
+#### Robotbit Edu
+
 用4PIN連接線將模組連接到Robotbit上的I2C接口。
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/env\_wire1.png)
+
+#### Robotbit 2.2
+
+用4PIN連接線將模組連接到Robotbit 2.2接口。
+
+<figure><img src="../../.gitbook/assets/env_wiring_2.2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 
