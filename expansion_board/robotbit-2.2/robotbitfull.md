@@ -33,7 +33,7 @@ _需配套Microbit進行使用_
     亦可選擇以外部電源輸入方式，以電池盒供電 (提升動力之選; 最高可輸入6V電壓,即4粒1.5V 3A/2A電池)
 *   Robotbit 專用底座: 保護之餘, 還提供標準樂高孔, 跟樂高積本無縫接軌。
 
-    ![](https://kittenbothk.readthedocs.io/en/latest/\_images/with\_base2.png)
+    ![](<../../.gitbook/assets/Robotbit V2.2+P.png>)
 
     [底座安裝示範](https://youtu.be/FhimDxoAsj4)
 * 板載蜂鳴器，為micro:bit 發聲。

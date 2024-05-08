@@ -1,6 +1,6 @@
 # RobotBit 2.2
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/with_base2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Robotbit V2.2+P.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="robotbitfull.md" %}
 [robotbitfull.md](robotbitfull.md)
