@@ -1,6 +1,6 @@
 # KOI 2介紹
 
-<figure><img src="../../.gitbook/assets/bc3feb6b9975f486daa495d866a219fe.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/orange1.webp" alt=""><figcaption></figcaption></figure>
 
 Kittenbot 於2024年第二季推出了KOI 2 AI 人工智能鏡頭, 以更簡易, 更穏定的性能去配合教育的需求。
 
@@ -19,6 +19,20 @@ KOI 2內建 WIFI功能，可讓你的人工智慧作品接入雲端，<mark styl
 齊備的功能可以讓你系統性地體驗與學習人工智慧!
 
 · **使用人群：** 中小學教學 / 愛好者 / 已熟悉Makecode 或 Kittenblock人工智慧的進階用戶
+
+<div>
+
+<figure><img src="../../.gitbook/assets/orange2.webp" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/orange3.webp" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/orange5.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">新KOI主要功能提升一覽</mark>
 

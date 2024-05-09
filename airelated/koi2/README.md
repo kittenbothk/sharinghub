@@ -15,3 +15,7 @@
 {% content-ref url="koi-2-gu-jian-sheng-ji.md" %}
 [koi-2-gu-jian-sheng-ji.md](koi-2-gu-jian-sheng-ji.md)
 {% endcontent-ref %}
+
+{% content-ref url="../koi/command.md" %}
+[command.md](../koi/command.md)
+{% endcontent-ref %}
