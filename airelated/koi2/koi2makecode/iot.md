@@ -1,5 +1,9 @@
 # IoT物聯網
 
+### WiFi須知
+
+### 注意！KOI 2只能連接2.4GHz的網絡，請確保WiFi熱點支援2.4GHz的網絡。
+
 ### MakeCode編程
 
 #### 加入KOI 2插件 [**https://github.com/KittenBot/pxt-koi2**](https://github.com/KittenBot/pxt-koi2)
