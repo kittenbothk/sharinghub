@@ -20,9 +20,9 @@ Armourbit用家請使用初始化Armourbit積木。
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://makecode.microbit.org/_1dtD0H7yaWwC" %}
+{% embed url="https://makecode.microbit.org/_fJrUpDRcu8gi" %}
 
-[參考程式](https://makecode.microbit.org/\_1dtD0H7yaWwC)
+[參考程式](https://makecode.microbit.org/\_fJrUpDRcu8gi)
 
 #### 程式解說
 
@@ -32,7 +32,9 @@ Armourbit用家請使用初始化Armourbit積木。
 
 ### MakerCloud創客雲 參考程式
 
-{% embed url="https://makecode.microbit.org/_R9z5ruECw4Jk" %}
+{% embed url="https://makecode.microbit.org/_DovYtzcEhbfk" %}
+
+[參考程式](https://makecode.microbit.org/\_DovYtzcEhbfk)
 
 發送訊息的積木必須按照以下格式填寫，請將主題名稱填進話題，並且將話題的數據類型識別碼取代數據類型。
 

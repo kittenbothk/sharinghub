@@ -16,9 +16,9 @@ Armourbit用家請使用初始化Armourbit積木。
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://makecode.microbit.org/_HUyCVU8zLYwu" %}
+{% embed url="https://makecode.microbit.org/_Dzi86CLsa6je" %}
 
-[參考程式](https://makecode.microbit.org/\_HUyCVU8zLYwu)
+[參考程式](https://makecode.microbit.org/\_Dzi86CLsa6je)
 
 #### 程式解說
 
