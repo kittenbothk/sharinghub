@@ -10,11 +10,11 @@
 
 ### 模型訓練參考程式
 
-{% embed url="https://makecode.microbit.org/_fCaK6oC71ad7" %}
+{% embed url="https://makecode.microbit.org/_4c99hoUu71bC" %}
 
-[Armourbit版參考程式](https://makecode.microbit.org/\_A465ksKCq4ia)
+[Armourbit版參考程式](https://makecode.microbit.org/\_9cYWWg5kwJ2C)
 
-[Robotbit版參考程式](https://makecode.microbit.org/\_fCaK6oC71ad7)
+[Robotbit版參考程式](https://makecode.microbit.org/\_4c99hoUu71bC)
 
 #### 訓練方法
 
