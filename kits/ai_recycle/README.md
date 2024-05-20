@@ -10,6 +10,10 @@
 [instructions.md](instructions.md)
 {% endcontent-ref %}
 
-{% content-ref url="tutorial.md" %}
-[tutorial.md](tutorial.md)
+{% content-ref url="tutorial_koi1.md" %}
+[tutorial\_koi1.md](tutorial\_koi1.md)
+{% endcontent-ref %}
+
+{% content-ref url="tutorial_koi2.md" %}
+[tutorial\_koi2.md](tutorial\_koi2.md)
 {% endcontent-ref %}
