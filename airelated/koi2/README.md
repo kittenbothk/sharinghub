@@ -12,8 +12,8 @@
 [kittenblock](kittenblock/)
 {% endcontent-ref %}
 
-{% content-ref url="koi-2-gu-jian-sheng-ji.md" %}
-[koi-2-gu-jian-sheng-ji.md](koi-2-gu-jian-sheng-ji.md)
+{% content-ref url="koi-koi-1-2-gu-jian-sheng-ji.md" %}
+[koi-koi-1-2-gu-jian-sheng-ji.md](koi-koi-1-2-gu-jian-sheng-ji.md)
 {% endcontent-ref %}
 
 {% content-ref url="../koi/command.md" %}

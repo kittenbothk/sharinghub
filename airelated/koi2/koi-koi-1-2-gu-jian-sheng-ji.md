@@ -1,28 +1,39 @@
-# KOI 2固件升級
+# KOI (KOI 1 & 2) 固件升級
 
-### KOI 2固件升級方法
+### KOI (1 & 2) 分別有自己的固件升級檔案, 請選擇合適檔案進行升級。
 
-### KOI 1升級到KOI 2固件方法
+* 2者的升級的操作方法是一樣, 具體可參考後面的視頻說明。
 
-KOI 1和KOI 2的固件升級方法是一樣的，只是需要注意下載相應的固件檔案。
+###
 
-即使是舊版的KOI 1都可以升級為KOI 2的固件，享用到KOI 2的升級功能。
+### 💡KOI 1升級到 KOI2
 
-首先下載V4固件程式。
+KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級功能。
 
-### KOI 升級與固件更新程式
+首先需把KOI 1 的固件更新至V4。
 
 ### <mark style="color:red;">**注意！**</mark>
 
-### <mark style="color:red;">**進行升級前，請務必移除KOI的micro SD卡。**</mark>
+### <mark style="color:red;">**進行升級前，請移除KOI上的micro SD卡。**</mark>
 
-#### KOI (Micro USB) 升級與固件更新程式
+#### 升級 KOI 1 (Micro USB) 至V4固件
+
+_<mark style="color:orange;">最新版本號 V4.0.3</mark>_
 
 {% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
 
-#### KOI 2 (Type C) 固件更新
+### 💡KOI 2 (Type C) 定期固件更新
+
+_<mark style="color:orange;">最新版本號 V4.0.3</mark>_
 
 {% file src="../../.gitbook/assets/KOI Update Type C.zip" %}
+
+此版本適用於:&#x20;
+
+1. 原裝KOI 2 (Type C 插頭) 的定時更新。
+2. 較早時已為KOI1 升級至V4 或以上, 其後再次更新。
+
+## KOI 固件更新操作方法
 
 用USB線將KOI連接到電腦。
 
