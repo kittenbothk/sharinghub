@@ -88,7 +88,7 @@ KOI 2內建 WIFI功能，可讓你的人工智慧作品接入雲端，<mark styl
 1. Kittenblock
 2. Makecode
 3. Micropython
-4. Arduino (PlatformIO)
+4. [ObjectBlocks](https://www.objectblocks.cc/)
 
 ### KOI 與 KOI 2 外觀分別
 
