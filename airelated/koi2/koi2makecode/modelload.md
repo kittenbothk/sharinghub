@@ -18,9 +18,9 @@ Armourbit用家請使用初始化Armourbit積木。
 
 ### 入門應用
 
-{% embed url="https://makecode.microbit.org/_4WhKFv4LUevY" %}
+{% embed url="https://makecode.microbit.org/_8Am6cMfY2YR6" %}
 
-[參考程式](https://makecode.microbit.org/\_4WhKFv4LUevY)
+[參考程式](https://makecode.microbit.org/\_8Am6cMfY2YR6)
 
 #### 程式解說
 
@@ -35,9 +35,9 @@ Armourbit用家請使用初始化Armourbit積木。
 
 ### 進階應用
 
-{% embed url="https://makecode.microbit.org/_WcuHcFew85su" %}
+{% embed url="https://makecode.microbit.org/_0VP8RzDaiLXu" %}
 
-[參考程式](https://makecode.microbit.org/\_WcuHcFew85su)
+[參考程式](https://makecode.microbit.org/\_0VP8RzDaiLXu)
 
 #### 程式解說
 
