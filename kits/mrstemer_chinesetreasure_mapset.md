@@ -12,6 +12,16 @@ MRSTEMer尋找中華瑰寶場地套件是Kittenbot HK特地為MRSTEMer比賽而�
 
 {% file src="../.gitbook/assets/MRSTEMer中華瑰寶場地組裝說明.pdf" %}
 
+### 參考程式
+
+{% hint style="info" %}
+套件內2塊Micro:bit都是下載同一個程式。
+{% endhint %}
+
+{% embed url="https://makecode.microbit.org/_bkkJcY1k75KX" %}
+
+[參考程式](https://makecode.microbit.org/\_bkkJcY1k75KX)
+
 ### 玩法參考
 
 地圖適用於MRSTEMer 尋找中華瑰寶比賽，比賽玩法詳情可以參考以下文件：
