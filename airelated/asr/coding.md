@@ -6,11 +6,11 @@ ASR語音模組可以配合MakeCode或KittenBlock編程使用。
 
 ### Robotbit EDU
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr\_robotbit\_edu.png)
+![](../../.gitbook/assets/asr\_edu\_wiring.png)
 
 ### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/asr_robotbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/asr_2.2_wiring.png" alt=""><figcaption></figcaption></figure>
 
 ### Armourbit
 

@@ -19,11 +19,11 @@ Geekservo風扇 (HKBA8021A)
 
 風扇模組和電機一樣，將風扇連接在Robotbit或者Armourbit的電機接口就可以了。
 
+<figure><img src="../.gitbook/assets/fan_edu_wiring.png" alt=""><figcaption></figcaption></figure>
+
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/fan1.jpg)
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/2kmotorConRB1.jpg)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/fan\_wire1.png)
 
 ```
 沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
