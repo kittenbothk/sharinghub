@@ -14,5 +14,5 @@
 
 <figure><img src="../../.gitbook/assets/tabbybotextension.png" alt=""><figcaption></figcaption></figure>
 
-加載成交後，積木欄會新增TabbyBot的積木。
+加載成功後，積木欄會新增TabbyBot的積木。
 
