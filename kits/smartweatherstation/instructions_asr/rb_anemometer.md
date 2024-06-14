@@ -14,7 +14,7 @@
 
 ### 參考程式
 
-{% embed url="https://makecode.microbit.org/_9sr3om9dA3mP" %}
+{% embed url="https://makecode.microbit.org/_LLmiakCz6PJ8" %}
 
 #### 模型玩法
 
