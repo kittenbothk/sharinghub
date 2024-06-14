@@ -18,7 +18,7 @@
 風向的數值需校正。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_bHYJrciPA2pF" %}
+{% embed url="https://makecode.microbit.org/_3h1DpUJxrPcx" %}
 
 #### 模型玩法
 

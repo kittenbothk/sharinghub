@@ -20,7 +20,7 @@
 請填入獨特的dn和dsn。
 {% endhint %}
 
-{% embed url="https://makecode.microbit.org/_JPkFF6JiPEkq" %}
+{% embed url="https://makecode.microbit.org/_bFt8CRLod7kz" %}
 
 {% hint style="info" %}
 請在積木填入獨特的dn和dsn。
@@ -30,7 +30,7 @@
 
 ### MakeCode參考程式(ThingSpeak)
 
-{% embed url="https://makecode.microbit.org/_Hrf9PpbLgb65" %}
+{% embed url="https://makecode.microbit.org/_H7sgkMEzW3ah" %}
 
 #### 模型玩法
 
