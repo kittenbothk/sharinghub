@@ -54,4 +54,10 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 [參考程式](https://makecode.microbit.org/\_hFweWwbXYPJt)
 
-<figure><img src="../../.gitbook/assets/time_show.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/time_show.jpg" alt=""><figcaption><p><br></p></figcaption></figure>
+
+### 計時器參考程式
+
+{% embed url="https://makecode.microbit.org/_ATbf1m2bc8ci" %}
+
+{% embed url="https://youtu.be/QH0VcT6fIsU" %}
