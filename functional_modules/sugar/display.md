@@ -40,6 +40,18 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
+### 顯示數字
+
 {% embed url="https://makecode.microbit.org/_YWzKK8drJ9Fa" %}
 
 [參考程式](https://makecode.microbit.org/\_YWzKK8drJ9Fa)
+
+### 顯示時間
+
+#### 顯示時間參考程式
+
+{% embed url="https://makecode.microbit.org/_hFweWwbXYPJt" %}
+
+[參考程式](https://makecode.microbit.org/\_hFweWwbXYPJt)
+
+<figure><img src="../../.gitbook/assets/time_show.jpg" alt=""><figcaption></figcaption></figure>
