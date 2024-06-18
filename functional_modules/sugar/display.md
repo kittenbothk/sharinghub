@@ -61,3 +61,9 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_ATbf1m2bc8ci" %}
 
 {% embed url="https://youtu.be/QH0VcT6fIsU" %}
+
+### 小數點積木解說
+
+模組上有3個小數點及1個冒號可供使用。
+
+<figure><img src="../../.gitbook/assets/display_points.png" alt=""><figcaption></figcaption></figure>
