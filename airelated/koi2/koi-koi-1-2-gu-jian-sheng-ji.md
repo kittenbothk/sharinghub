@@ -22,6 +22,11 @@ _<mark style="color:orange;">最新版本號 V4.0.3</mark>_
 
 {% file src="../../.gitbook/assets/KOI Update Micro USB.zip" %}
 
+此版本適用於:&#x20;
+
+1. 原裝KOI 1 (Micro USB 插頭) 的定時更新。
+2. 較早時已為KOI 1 升級至V4 或以上, 其後再次更新。
+
 ### 💡KOI 2 (Type C) 定期固件更新
 
 _<mark style="color:orange;">最新版本號 V4.0.3</mark>_
@@ -31,7 +36,6 @@ _<mark style="color:orange;">最新版本號 V4.0.3</mark>_
 此版本適用於:&#x20;
 
 1. 原裝KOI 2 (Type C 插頭) 的定時更新。
-2. 較早時已為KOI1 升級至V4 或以上, 其後再次更新。
 
 ## KOI 固件更新操作方法
 
