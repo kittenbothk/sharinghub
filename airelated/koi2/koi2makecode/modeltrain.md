@@ -12,6 +12,8 @@
 
 {% hint style="info" %}
 KOI 2已經放寬了40張照片的限制
+
+毋須使用SD卡模型儲存，模型可以直接儲存到KOI的內存裡面
 {% endhint %}
 
 {% hint style="info" %}
