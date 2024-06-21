@@ -11,7 +11,7 @@
 ### 參考程式
 
 {% hint style="info" %}
-錄音與播放功能需要高速Micro SD卡，KOI原廠不配備SD卡，有需要的請自行預備。
+錄音與播放功能需要高速Micro SD卡(class 10或以上)，KOI原廠不配備SD卡，有需要的請自行預備。
 {% endhint %}
 
 {% hint style="info" %}

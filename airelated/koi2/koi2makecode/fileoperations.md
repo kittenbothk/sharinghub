@@ -4,6 +4,12 @@ KOI 2現時可以將檔案放在內部儲存空間，如需刪除或複製內存
 
 ### <mark style="color:green;">注意：此功能需要固件版本v4.0.7或以上</mark>
 
+更新固件方法如下：
+
+{% content-ref url="../koi-koi-1-2-gu-jian-sheng-ji/" %}
+[koi-koi-1-2-gu-jian-sheng-ji](../koi-koi-1-2-gu-jian-sheng-ji/)
+{% endcontent-ref %}
+
 ### <mark style="color:green;">MakeCode編程</mark>
 
 #### 加入KOI 2插件 [**https://github.com/KittenBot/pxt-koi2**](https://github.com/KittenBot/pxt-koi2)
@@ -21,6 +27,10 @@ Armourbit用家請使用初始化Armourbit積木。
 {% endhint %}
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+KOI 2的SD卡要求比較高，請使用高速micro SD卡(class 10或以上)
+{% endhint %}
 
 {% embed url="https://makecode.microbit.org/_UMJXhTMz17Hc" %}
 
