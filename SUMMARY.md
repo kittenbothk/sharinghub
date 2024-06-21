@@ -50,6 +50,7 @@
       * [預載模型 數字追蹤](airelated/koi2/koi2makecode/number.md)
       * [預載模型 物件追蹤](airelated/koi2/koi2makecode/object.md)
       * [預載模型 三色球追蹤](airelated/koi2/koi2makecode/rgbball.md)
+      * [內存檔案操作](airelated/koi2/koi2makecode/nei-cun-dang-an-cao-zuo.md)
     * [KittenBlock編程教學](airelated/koi2/kittenblock/README.md)
       * [字串顯示](airelated/koi2/kittenblock/displaytext.md)
       * [KOI按鍵編程](airelated/koi2/kittenblock/buttons.md)
