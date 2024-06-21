@@ -6,6 +6,8 @@
 
 ### 編程積木
 
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
@@ -22,6 +24,6 @@ Armourbit用家請使用初始化Armourbit積木。
 
 #### 程式解說
 
-1. 按A可以顯示KOI內部文件清單
+1. 按A可以顯示KOI內部文件清單，5秒後會自動關閉清單
 2. 按A+B可以將檔案複製到SD卡
 3. 按B可以刪除檔案
