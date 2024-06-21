@@ -1,5 +1,9 @@
 # 內存檔案操作
 
+KOI 2現時可以將檔案放在內部儲存空間，如需刪除或複製內存的檔案，請參考以下教程。
+
+### <mark style="color:green;">注意：此功能需要固件版本v4.0.7或以上</mark>
+
 ### <mark style="color:green;">MakeCode編程</mark>
 
 #### 加入KOI 2插件 [**https://github.com/KittenBot/pxt-koi2**](https://github.com/KittenBot/pxt-koi2)
