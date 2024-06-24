@@ -1,6 +1,14 @@
 # 氣動火箭發射實驗套件
 
+<div>
+
 <figure><img src="../../.gitbook/assets/rocket_transparent.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/rocket_premium_transparent.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 套件介紹
 
