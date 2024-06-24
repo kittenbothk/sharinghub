@@ -2,6 +2,22 @@
 
 ## 搭建說明書
 
+將M3螺絲穿到Micro:bit的GND、3V和1的金手指圓孔，然後使用塑膠絲帽固定螺絲。
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240622_135204.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240622_135139.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240622_135037.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## 接線圖
 
 ### 鱷魚夾線
