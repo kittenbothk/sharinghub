@@ -11,6 +11,10 @@
 * 模組類型: I2C
 * 太陽能板: 6V 6W 單晶硅
 
+## 硬件接線
+
+<figure><img src="../../.gitbook/assets/solar_wiring.jpg" alt=""><figcaption></figcaption></figure>
+
 ## 參考程式
 
 #### MakeCode編程教學
