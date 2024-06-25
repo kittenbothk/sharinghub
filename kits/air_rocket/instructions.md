@@ -42,9 +42,13 @@
 
 ### 氣動軟管接駁(普通版)
 
+使用氣動軟管將氣泵與針筒連接起來。
+
 <figure><img src="../../.gitbook/assets/hose_connection.png" alt=""><figcaption></figcaption></figure>
 
 ### 氣動軟管接駁(豪華版)
+
+將氣動軟管連接到T型接駁件的其中1邊，在接駁件的另外兩面分別接駁上針筒與氣壓表。
 
 <figure><img src="../../.gitbook/assets/hose_connection_premium.png" alt=""><figcaption></figcaption></figure>
 
