@@ -2,7 +2,19 @@
 
 ## 搭建說明書
 
-將M3螺絲穿到Micro:bit的GND、3V和1的金手指圓孔，然後使用塑膠絲帽固定螺絲。
+### 普通版
+
+{% file src="../../.gitbook/assets/rocket_5ml_basic.pdf" %}
+
+### 豪華版
+
+{% file src="../../.gitbook/assets/rocket_5ml_premium.pdf" %}
+
+## 接線圖
+
+### 鱷魚夾線
+
+首先將M3螺絲穿到Micro:bit的GND、3V和1的金手指圓孔，然後使用塑膠絲帽固定螺絲。
 
 <div>
 
@@ -18,9 +30,13 @@
 
 </div>
 
-## 接線圖
+將鱷魚夾線夾在螺絲的突出部分。
 
-### 鱷魚夾線
+黃色線夾到1。
+
+紅色線夾到3V。
+
+黑色線夾到GND。
 
 <figure><img src="../../.gitbook/assets/wiring (1).png" alt="" width="275"><figcaption></figcaption></figure>
 
