@@ -16,6 +16,8 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 ### <mark style="color:red;">**進行升級前，請移除KOI上的micro SD卡。**</mark>
 
+### <mark style="color:red;">**KOI 1升級後，和KOI 2一樣都不需要SD卡儲存檔案，圖像辨識模型/相片等都可以儲存在內存上。**</mark>
+
 #### 升級 KOI 1 (Micro USB) 至V4固件
 
 _<mark style="color:orange;">最新版本號 V4.0.7</mark>_
