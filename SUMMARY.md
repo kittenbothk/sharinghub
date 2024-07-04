@@ -628,6 +628,8 @@
     * [TabbyBot巡線小車 編程教學](kits/tabbybot/tabbybot-xun-xian-xiao-che-bian-cheng-jiao-xue.md)
   * [氣動火箭發射實驗套件](kits/air\_rocket/README.md)
     * [搭建說明書與參考程式](kits/air\_rocket/instructions.md)
+  * [KOI 2 自動導航泊車套件](kits/koi2\_autoparking/README.md)
+    * [說明書與參考程式](kits/koi2\_autoparking/tutorial.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
