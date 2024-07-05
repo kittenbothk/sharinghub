@@ -4,6 +4,10 @@
 
 {% file src="../../.gitbook/assets/鄧顯 小車.pdf" %}
 
+## 接線圖
+
+<figure><img src="../../.gitbook/assets/wiring (2).png" alt=""><figcaption></figcaption></figure>
+
 ## 參考程式
 
 ### L位自動導航泊車
