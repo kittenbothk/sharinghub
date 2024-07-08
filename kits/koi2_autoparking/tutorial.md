@@ -2,7 +2,7 @@
 
 ## 路牌圖檔
 
-{% file src="../../.gitbook/assets/自動導航路牌.ai" %}
+{% file src="../../.gitbook/assets/自動導航路牌.pdf" %}
 
 ## 搭建說明書
 
@@ -16,11 +16,15 @@
 
 ### L位自動導航泊車
 
+<figure><img src="../../.gitbook/assets/自動導航路牌放置L.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://makecode.microbit.org/_J3w4EKa9K6rr" %}
 
 [參考程式](https://makecode.microbit.org/\_J3w4EKa9K6rr)
 
 ### S位自動導航泊車
+
+<figure><img src="../../.gitbook/assets/自動導航路牌放置S.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://makecode.microbit.org/_AR464iCuxFyC" %}
 
