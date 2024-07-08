@@ -1,5 +1,9 @@
 # 說明書與參考程式
 
+## 路牌圖檔
+
+{% file src="../../.gitbook/assets/自動導航路牌.ai" %}
+
 ## 搭建說明書
 
 {% file src="../../.gitbook/assets/鄧顯 小車.pdf" %}
