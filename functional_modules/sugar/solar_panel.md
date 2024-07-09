@@ -13,7 +13,41 @@
 
 ## 硬件接線
 
+#### 參考接線
+
+{% hint style="info" %}
+使用太陽能電源模組給Robotbit與未來板供電示範接線
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/solar_wiring.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+請將電源開關撥到ON的位置
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/solarmodule_transparent2.png" alt=""><figcaption></figcaption></figure>
+
+## 顯示燈詳解
+
+#### 電源輸出顯示燈
+
+開啟電源輸出時，輸出顯示燈會亮起藍燈。
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240709_112948.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240709_110504.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### 電源輸入顯示燈
+
+當鋰電池正在充電時，電源輸入顯示燈會亮起紅燈。
+
+<figure><img src="../../.gitbook/assets/20240709_110103 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 參考程式
 
