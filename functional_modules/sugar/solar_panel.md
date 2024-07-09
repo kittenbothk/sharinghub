@@ -1,4 +1,4 @@
-# Sugar 太陽能電源管理模組
+# Sugar二期 太陽能電源管理模組
 
 <figure><img src="../../.gitbook/assets/solar.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,8 +19,6 @@
 
 #### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
-
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
@@ -33,10 +31,24 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
+### 電源輸出控制
+
 {% embed url="https://makecode.microbit.org/_Mpk3PkF1YLVu" %}
 
 [參考程式](https://makecode.microbit.org/\_Mpk3PkF1YLVu)
 
-{% embed url="https://makecode.microbit.org/_2ox4yY88hVbc" %}
+### 電源輸出休眠
 
-[參考程式](https://makecode.microbit.org/\_2ox4yY88hVbc)
+{% embed url="https://makecode.microbit.org/_RYM4k5L1m7k3" %}
+
+[參考程式](https://makecode.microbit.org/\_RYM4k5L1m7k3)
+
+### 設定實時時鐘
+
+{% hint style="info" %}
+注意：當太陽能模組的電源開關被關上或者電源輸出被關上時，實時時鐘的時間會被清除。
+{% endhint %}
+
+{% embed url="https://makecode.microbit.org/_7i10L2HmyDzA" %}
+
+[參考程式](https://makecode.microbit.org/\_7i10L2HmyDzA)
