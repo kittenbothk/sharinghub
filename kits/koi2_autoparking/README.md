@@ -25,3 +25,9 @@
 {% content-ref url="tutorial.md" %}
 [tutorial.md](tutorial.md)
 {% endcontent-ref %}
+
+## 示範短片
+
+{% embed url="https://youtu.be/kT9LOsFmwwo" %}
+
+{% embed url="https://youtu.be/zeGWcA1GBXI" %}
