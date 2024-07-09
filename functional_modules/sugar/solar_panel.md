@@ -13,7 +13,9 @@
 
 ## 硬件接線
 
-#### 參考接線
+<figure><img src="../../.gitbook/assets/solarmodule_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+### 參考接線
 
 {% hint style="info" %}
 使用太陽能電源模組給Robotbit與未來板供電示範接線
