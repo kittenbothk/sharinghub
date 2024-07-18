@@ -14,6 +14,24 @@
 
 ### 參考程式
 
+### 連接WiFi網絡
+
+{% hint style="info" %}
+KOI 2需要使用2.4GHz的WiFi網絡，請注意。
+{% endhint %}
+
+{% hint style="info" %}
+Armourbit用家請使用初始化Armourbit積木。
+{% endhint %}
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://makecode.microbit.org/_cEy78WKd6XVR" %}
+
+[參考程式](https://makecode.microbit.org/\_cEy78WKd6XVR)
+
+### 連接MQTT與收發信息
+
 {% hint style="info" %}
 Armourbit用家請使用初始化Armourbit積木。
 {% endhint %}
