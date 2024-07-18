@@ -18,7 +18,7 @@ KOI 2現時可以將檔案放在內部儲存空間，如需刪除或複製內存
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 

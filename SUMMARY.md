@@ -133,6 +133,7 @@
     * [ObjectBlocks](wifibrick\_iot/iotplatform/objectblocks.md)
     * [Kittenblock內置IoT平台](wifibrick\_iot/iotplatform/kittenblock.md)
   * [針對各平台MakeCode編程](wifibrick\_iot/wifibrick\_makecode/README.md)
+    * [WifiBrick連接網絡](wifibrick\_iot/wifibrick\_makecode/connectwifi.md)
     * [Makecode 編程與ThingSpeak](wifibrick\_iot/wifibrick\_makecode/mc\_ts.md)
     * [Makecode 編程與MakerCloud](wifibrick\_iot/wifibrick\_makecode/makercloud.md)
     * [Makecode 編程與ObjectBlocks](wifibrick\_iot/wifibrick\_makecode/objectblocks.md)
