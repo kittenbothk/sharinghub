@@ -30,6 +30,27 @@ Armourbit用家請使用初始化Armourbit積木。
 
 [參考程式](https://makecode.microbit.org/\_cEy78WKd6XVR)
 
+#### 程式解說
+
+1. 按A鍵連接WiFi。
+2. 按B鍵顯示KOI的IP地址。
+
+{% hint style="info" %}
+在連接MQTT平台之前，請確保KOI 2能夠成功連接WiFi網絡並可以獲取IP地址。
+
+假如KOI 2未能成功連線，KOI 2會顯示0.0.0.0。
+{% endhint %}
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/no_internet.png" alt=""><figcaption><p>未能連接Wifi網絡</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/internet.png" alt=""><figcaption><p>成功連接WiFi網絡</p></figcaption></figure>
+
+</div>
+
 ### 連接MQTT與收發信息
 
 {% hint style="info" %}
