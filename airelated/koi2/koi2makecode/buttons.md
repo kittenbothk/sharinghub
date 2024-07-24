@@ -2,11 +2,21 @@
 
 ### MakeCode編程教學
 
-#### 加入KOI 2插件 [**https://github.com/KittenBot/pxt-koi2**](https://github.com/KittenBot/pxt-koi2)
+在MakeCode打開專案，點擊擴展一頁。
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/16-1.png" alt=""><figcaption></figcaption></figure>
+
+在搜尋欄輸入koi 2。
+
+<figure><img src="../../../.gitbook/assets/koi2_ext.gif" alt=""><figcaption></figcaption></figure>
+
+加載成功後，積木欄會新增koi2的積木。
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程積木
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2Fg8gveE0DC4idrYoORQEx%2Fimage.png?alt=media&#x26;token=97b18306-46f0-43d8-8aba-690e1ac10ca3" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FQAKH0swJ9etd62AIfV4u%2Fimage.png?alt=media&#x26;token=71c6751c-de4c-42d1-8f44-63328568e674" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 

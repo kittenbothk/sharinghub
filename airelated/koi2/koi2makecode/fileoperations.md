@@ -12,13 +12,23 @@ KOI 2現時可以將檔案放在內部儲存空間，如需刪除或複製內存
 
 ### <mark style="color:green;">MakeCode編程</mark>
 
-#### 加入KOI 2插件 [**https://github.com/KittenBot/pxt-koi2**](https://github.com/KittenBot/pxt-koi2)
+在MakeCode打開專案，點擊擴展一頁。
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/16-1.png" alt=""><figcaption></figcaption></figure>
+
+在搜尋欄輸入koi 2。
+
+<figure><img src="../../../.gitbook/assets/koi2_ext.gif" alt=""><figcaption></figcaption></figure>
+
+加載成功後，積木欄會新增koi2的積木。
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程積木
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 
