@@ -20,7 +20,7 @@ KOI的RX接口(黃色線)接到Robotbit的TX接口(P2)。
 KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 {% endhint %}
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/edu2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **2. 與Robotbit 2.2  組合使用**
 
@@ -100,11 +100,11 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 加載成功後，積木欄會新增koi2的積木。
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FSkO076z0lrID98zSivpa%2Fimage.png?alt=media&#x26;token=41cbc34a-9933-49f6-a4ce-62c0af2e6822" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">1. 初始化</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FjPCDYYmTZPo2Jnzf1RyN%2Fimage.png?alt=media&#x26;token=fb13d3f5-af5e-4b57-9db6-6492ac512aaa" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FPGyECwlPd2M3JqUBLDfO%2Fimage.png?alt=media&#x26;token=662ace3f-a8eb-4fbf-8a10-1d9643c88b1e" alt=""><figcaption></figcaption></figure>
 
 初始化Micro:Bit與KOI 2的連接, 必須加入每個程式中。
 
@@ -116,29 +116,29 @@ KOI 2的基本功能，包括拍照錄音按鍵等。
 
 #### &#x20;<mark style="background-color:yellow;">3. 模式選擇</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FekJiYjyUbxlSyxEZst79%2Fimage.png?alt=media&#x26;token=3ac5b3d8-231d-4815-a6f7-b0d4e7b5895c" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 選擇KOI 2的運行模式，進行任何AI功能之前都必須選擇相應模式 (同時間只能運行1個模式, 可通過按鍵編程轉換模式)。
 
 #### &#x20;<mark style="background-color:yellow;">4. 人面屬性類</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2F4NqJm2V0GxQz4VCrHMom%2Fimage.png?alt=media&#x26;token=ea871158-217c-4b7a-aa85-378910511885" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">5. 人面口罩追蹤</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FM8Wgv7SSdEBIsp8KvNYk%2Fimage.png?alt=media&#x26;token=14a13c24-be54-4cd2-819a-9caac5971deb" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">6. 色塊追蹤</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FqLOoRdzxjrDItARCGQoe%2Fimage.png?alt=media&#x26;token=9214c3d0-86fe-4a2f-adc3-8acde2705a1e" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">7. 線條追蹤</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FONDuKNPPQqvb0eUB6cmr%2Fimage.png?alt=media&#x26;token=35c455e1-e03d-4689-960e-ee8d64cfec35" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">8. 機器學習 圖像辨識</mark>&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FKJBCamCme1kOp87DZSyo%2Fimage.png?alt=media&#x26;token=86c63e73-8232-4693-9be0-9050a915bbc4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">9. 預載模型 路牌追蹤</mark>&#x20;
 

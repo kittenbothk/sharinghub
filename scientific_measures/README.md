@@ -12,7 +12,7 @@
 
 ### 二氧化碳及揮發性有機化合物測量
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="co2andtvoc.md" %}
 [co2andtvoc.md](co2andtvoc.md)
