@@ -103,5 +103,4 @@ KOI 2內建 WIFI功能，可讓你的人工智慧作品接入雲端，<mark styl
 
 兩者在其餘外觀結構上沒有明顯的分別。
 
-<figure><img src="../../.gitbook/assets/typec.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/type_c_orange.png" alt=""><figcaption></figcaption></figure>

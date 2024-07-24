@@ -94,11 +94,11 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/16-1.png" alt=""><figcaption></figcaption></figure>
 
-將擴展地址貼到搜尋欄。
+在搜尋欄輸入koi 2。
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2F0hI8FvrIyWTHfQgfJ1at%2FKOI%202%20extension.jpg?alt=media&#x26;token=2936c6bb-2d61-42fd-8ec6-d829c4e039a8" alt=""><figcaption><p>KOI 2 Extension 搜尋畫面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/koi2_ext.gif" alt=""><figcaption></figcaption></figure>
 
-加載成交後，積木欄會新增koi2的積木。
+加載成功後，積木欄會新增koi2的積木。
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsN6MlwBFbL3P67FzMMyL%2Fuploads%2FSkO076z0lrID98zSivpa%2Fimage.png?alt=media&#x26;token=41cbc34a-9933-49f6-a4ce-62c0af2e6822" alt=""><figcaption></figcaption></figure>
 
