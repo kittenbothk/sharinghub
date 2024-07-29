@@ -1,6 +1,6 @@
 # pH酸鹼值感應器
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ph\_set.jpg)
+<figure><img src="../../.gitbook/assets/20240729_131949.jpg" alt=""><figcaption></figcaption></figure>
 
 pH酸鹼值感應器可以檢測液體的pH值。
 
