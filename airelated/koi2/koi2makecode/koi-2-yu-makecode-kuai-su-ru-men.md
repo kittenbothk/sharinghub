@@ -12,7 +12,7 @@ Robotbit Edu上已經提供了4pin的通訊連供電接口，我們只需要將K
 
 <mark style="background-color:yellow;">注:  如欲為KOI 2以USB 方式額外供電, 請拔走黑 (GND) 及 紅(5V) 2跟線。</mark>
 
-<figure><img src="../../../.gitbook/assets/edu_wiring (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/koi2_robotbit_edu_wiring.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 KOI的RX接口(黃色線)接到Robotbit的TX接口(P2)。
@@ -48,7 +48,7 @@ KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 黃色線只可以接類比引腳（Pin0-2）！使用Pin0的話請拔除蜂鳴器跳線帽。
 ```
 
-<figure><img src="../../../.gitbook/assets/koi_robotbit_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/koi2_robotbit_2.2_wiring.png" alt=""><figcaption></figcaption></figure>
 
 **重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**
 
@@ -72,7 +72,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 大家可以從Armourbit的電池盒, 以USB介面進行引出(如下圖)。
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/armourbit_connection1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/koi_armourbit_wiring.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/armourbit_connection2-3.png" alt=""><figcaption></figcaption></figure>
 
