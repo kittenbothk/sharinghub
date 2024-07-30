@@ -16,15 +16,15 @@
 
 #### 訓練程式
 
-{% embed url="https://makecode.microbit.org/_VYEio7bRvCf3" %}
+{% embed url="https://makecode.microbit.org/_EjpT6g34pdke" %}
 
-[參考程式](https://makecode.microbit.org/\_VYEio7bRvCf3)
+[參考程式](https://makecode.microbit.org/\_EjpT6g34pdke)
 
 #### 辨認程式
 
-{% embed url="https://makecode.microbit.org/_d2EM6Tg5UUJt" %}
+{% embed url="https://makecode.microbit.org/_4XfDD6i9gFRx" %}
 
-[參考程式](https://makecode.microbit.org/\_d2EM6Tg5UUJt)
+[參考程式](https://makecode.microbit.org/\_4XfDD6i9gFRx)
 
 ### 模型玩法
 
@@ -38,4 +38,5 @@
 #### 然後載入辨認程式
 
 1. 打開電源後，等待10秒讓KOI完全開機。
-2. 指揮官會轉動，將已訓練的物件放在鏡頭面前，指揮官會揮動手臂。
+2. 按下A按鍵載入模型。
+3. 指揮官會轉動，將已訓練的物件放在鏡頭面前，指揮官會揮動手臂。

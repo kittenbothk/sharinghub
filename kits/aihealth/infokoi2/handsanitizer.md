@@ -14,11 +14,9 @@
 
 ### 參考程式
 
-#### 搓手液機
+{% embed url="https://makecode.microbit.org/_95cDD0DayWgX" %}
 
-{% embed url="https://makecode.microbit.org/_HbKYDYUtaRum" %}
-
-[參考程式](https://makecode.microbit.org/\_HbKYDYUtaRum)
+[參考程式](https://makecode.microbit.org/\_95cDD0DayWgX)
 
 ### 模型玩法
 
