@@ -1,5 +1,7 @@
 # TabbyBot AI編程小車套件
 
+<figure><img src="../../.gitbook/assets/tabbybot_transparent1.png" alt=""><figcaption></figcaption></figure>
+
 TabbyBot是一款針對MicroBit編程學習而設計的STEM小車。它搭載18650鋰電池，有足夠電量驅動AI鏡頭KOI或ASR語音模組等比較耗電的模組。板上已搭載充電插口，充電放電更方便。
 
 小車上已經搭載了多款可編程資源，包括：白色LED頭燈、RGB LED燈、紅外巡線感應器、雙馬達、舵機驅動、超聲波感應器。更加可以透過接口連接更多的感應器。
