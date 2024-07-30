@@ -22,9 +22,9 @@
 
 #### 辨認程式
 
-{% embed url="https://makecode.microbit.org/_aXwhi9WwCHgL" %}
+{% embed url="https://makecode.microbit.org/_1x7R9f0FeAMW" %}
 
-[參考程式](https://makecode.microbit.org/\_aXwhi9WwCHgL)
+[參考程式](https://makecode.microbit.org/\_1x7R9f0FeAMW)
 
 ### 模型玩法
 
