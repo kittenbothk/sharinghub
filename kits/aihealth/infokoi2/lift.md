@@ -22,9 +22,9 @@
 
 #### 無按鈕電梯
 
-{% embed url="https://makecode.microbit.org/_aXWVyhacWgiE" %}
+{% embed url="https://makecode.microbit.org/_URgHXxDLDcpH" %}
 
-[參考程式](https://makecode.microbit.org/\_aXWVyhacWgiE)
+[參考程式](https://makecode.microbit.org/\_URgHXxDLDcpH)
 
 ### 模型玩法
 
@@ -38,4 +38,5 @@
 #### 然後載入升降機程序
 
 1. 打開電源後，等待10秒讓KOI完全開機。
-2. 對鏡頭做出相應手勢，升降機就會移動到相應樓層。
+2. 按下按鍵A載入模型。
+3. 對鏡頭做出相應手勢，升降機就會移動到相應樓層。
