@@ -22,9 +22,9 @@
 
 #### 無按鈕電梯
 
-{% embed url="https://makecode.microbit.org/_2RmRD3Eo16oR" %}
+{% embed url="https://makecode.microbit.org/_aXWVyhacWgiE" %}
 
-[參考程式](https://makecode.microbit.org/\_2RmRD3Eo16oR)
+[參考程式](https://makecode.microbit.org/\_aXWVyhacWgiE)
 
 ### 模型玩法
 
