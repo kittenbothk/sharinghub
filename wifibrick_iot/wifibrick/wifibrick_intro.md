@@ -95,9 +95,7 @@ Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick�
 
 只需使用PH2.0轉杜邦線按圖例接線即可。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/wifi-16-11.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/wifibrick\_edu1.png)
+![](../../.gitbook/assets/wifibrick\_edu.png)
 
 下圖解有助稍後了解在編程中的設定
 
@@ -117,11 +115,9 @@ Robotbit 是Kittenbot 一款長青的擴展板, 兼容自家大部份外置模�
 
 採用ph2.0 4pin 轉杜邦線; 利用杜邦端, 分別接到Robotbit 的G, V, P2, P12
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/wifi-16-11.png)
-
 接線示意圖
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/wifibrick\_robotbit1.png)
+![](../../.gitbook/assets/wifibrick\_2.2.png)
 
 下圖解有助稍後了解在編程中的設定
 
