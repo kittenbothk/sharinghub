@@ -12,15 +12,15 @@
 
 #### 訓練程式
 
-{% embed url="https://makecode.microbit.org/_bEddkWew7PeH" %}
+{% embed url="https://makecode.microbit.org/_F2y6qgayXgJC" %}
 
-[參考程式下載](https://makecode.microbit.org/\_bEddkWew7PeH)
+[參考程式下載](https://makecode.microbit.org/\_F2y6qgayXgJC)
 
 #### 主程式
 
-{% embed url="https://makecode.microbit.org/_U7U9C6aMU0v0" %}
+{% embed url="https://makecode.microbit.org/_JYafdPHqqagq" %}
 
-[參考程式下載](https://makecode.microbit.org/\_U7U9C6aMU0v0)
+[參考程式下載](https://makecode.microbit.org/\_JYafdPHqqagq)
 
 ### 模型玩法
 

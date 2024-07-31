@@ -1,18 +1,18 @@
 # 自動駕駛小車
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/自動駕駛小車.png" alt=""><figcaption></figcaption></figure>
 
 ### 組裝說明書下載
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/自動駕駛小車wiring.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/自動駕駛小車.pdf" %}
 
 ### 參考程式
 
-{% embed url="https://makecode.microbit.org/_071RwhcmcctP" %}
+{% embed url="https://makecode.microbit.org/_5w7Mwb19Ydv3" %}
 
-[參考程式下載](https://makecode.microbit.org/\_071RwhcmcctP)
+[參考程式下載](https://makecode.microbit.org/\_5w7Mwb19Ydv3)
 
 ### 模型玩法
 

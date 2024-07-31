@@ -10,11 +10,9 @@
 
 ### 參考程式
 
-#### 訓練程式
+{% embed url="https://makecode.microbit.org/_X3AJJJRpdE88" %}
 
-{% embed url="https://makecode.microbit.org/_KkqRvLWCL1tf" %}
-
-[參考程式下載](https://makecode.microbit.org/\_Jw0Xu2C14Dug)
+[參考程式下載](https://makecode.microbit.org/\_X3AJJJRpdE88)
 
 ### 模型玩法
 
