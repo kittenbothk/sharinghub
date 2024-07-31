@@ -14,6 +14,38 @@
 * 附隨收納盒
   * 組裝完成的小車可以收納到盒子裡面
 
+## 套件內容
+
+* Robotbit 2.2擴展板 \*1
+* Geekservo 2KG 馬達 \*1
+* Geekservo 9G 舵機 \*1
+* 積木包 \*1
+* 18650鋰電池 \*1
+* 塑膠收納盒 \*1
+* KOI 2 AI鏡頭\*1&#x20;
+
+## 套件包裝
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/20240731_122646.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/20240731_122813.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/20240731_125839.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/20240731_125807.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## 說明書與參考程式
 
 {% content-ref url="autoparking_tutorial.md" %}

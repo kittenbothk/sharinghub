@@ -9,8 +9,6 @@
 * 仿真機械車底盤
   * 配有差速器傳動系統及仿真轉向結構
   * 同學透過組裝小車可以學習到汽車的運作原理
-* 自動導航駕駛
-  * 透過選配的KOI 2，可以辨認路牌做到自動泊車的操作
 * 附隨收納盒
   * 組裝完成的小車可以收納到盒子裡面
 
@@ -22,7 +20,6 @@
 * 積木包 \*1
 * 18650鋰電池 \*1
 * 塑膠收納盒 \*1
-* KOI 2 AI鏡頭\*1 (選配)
 
 ## 套件包裝
 
@@ -51,9 +48,3 @@
 {% content-ref url="rc.md" %}
 [rc.md](rc.md)
 {% endcontent-ref %}
-
-## 示範短片
-
-{% embed url="https://youtu.be/kT9LOsFmwwo" %}
-
-{% embed url="https://youtu.be/zeGWcA1GBXI" %}
