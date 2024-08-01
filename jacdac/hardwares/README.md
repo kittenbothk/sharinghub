@@ -8,38 +8,38 @@
 [jacdacmicrocode.md](jacdacmicrocode.md)
 {% endcontent-ref %}
 
-{% content-ref url="starterkita.md" %}
-[starterkita.md](starterkita.md)
+{% content-ref url="starterkita/" %}
+[starterkita](starterkita/)
 {% endcontent-ref %}
 
-{% content-ref url="jacdapter.md" %}
-[jacdapter.md](jacdapter.md)
+{% content-ref url="starterkita/jacdapter.md" %}
+[jacdapter.md](starterkita/jacdapter.md)
 {% endcontent-ref %}
 
-{% content-ref url="slider.md" %}
-[slider.md](slider.md)
+{% content-ref url="starterkita/slider.md" %}
+[slider.md](starterkita/slider.md)
 {% endcontent-ref %}
 
-{% content-ref url="rotary.md" %}
-[rotary.md](rotary.md)
+{% content-ref url="starterkita/rotary.md" %}
+[rotary.md](starterkita/rotary.md)
 {% endcontent-ref %}
 
-{% content-ref url="rgb.md" %}
-[rgb.md](rgb.md)
+{% content-ref url="starterkita/rgb.md" %}
+[rgb.md](starterkita/rgb.md)
 {% endcontent-ref %}
 
-{% content-ref url="button.md" %}
-[button.md](button.md)
+{% content-ref url="starterkita/button.md" %}
+[button.md](starterkita/button.md)
 {% endcontent-ref %}
 
-{% content-ref url="magnet.md" %}
-[magnet.md](magnet.md)
+{% content-ref url="starterkita/magnet.md" %}
+[magnet.md](starterkita/magnet.md)
 {% endcontent-ref %}
 
-{% content-ref url="light.md" %}
-[light.md](light.md)
+{% content-ref url="starterkita/light.md" %}
+[light.md](starterkita/light.md)
 {% endcontent-ref %}
 
-{% content-ref url="splitter.md" %}
-[splitter.md](splitter.md)
+{% content-ref url="starterkita/splitter.md" %}
+[splitter.md](starterkita/splitter.md)
 {% endcontent-ref %}

@@ -88,3 +88,5 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_7i10L2HmyDzA" %}
 
 [參考程式](https://makecode.microbit.org/\_7i10L2HmyDzA)
+
+a
