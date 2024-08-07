@@ -211,6 +211,7 @@
     * [Sugar二期 二氧化碳感應器模組](functional\_modules/sugar/co2.md)
     * [Sugar二期 太陽能電源管理模組](functional\_modules/sugar/solar\_panel.md)
     * [Sugar二期 稱重模組](functional\_modules/sugar/loadcell.md)
+    * [Sugar 二期紫外線感應模組](functional\_modules/sugar/uv.md)
   * [污水混濁度感應器](functional\_modules/turbidity.md)
   * [pH值感應器](functional\_modules/ph/README.md)
     * [pH酸鹼值感應器](functional\_modules/ph/phsensor.md)
