@@ -14,7 +14,7 @@
 
 ## 套件內容
 
-* Robotbit 2.2擴展板 \*1
+* Robotbit EDU擴展板 \*1
 * Geekservo 2KG 馬達 \*1
 * Geekservo 9G 舵機 \*1
 * 積木包 \*1
