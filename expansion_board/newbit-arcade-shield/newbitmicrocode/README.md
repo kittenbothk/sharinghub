@@ -10,7 +10,7 @@ MicroCode支援Micro:bit V2，用家只需要將MicroCode下載到Micro:bit就�
 
 假如還未下載MicroCode到Micro:bit上，可以按Download MicroCode下載。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 然後將hex檔上傳到Micro:bit。
 
