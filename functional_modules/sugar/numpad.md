@@ -31,3 +31,5 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_Eo6EWi95DgRP" %}
 
+[參考程式](https://makecode.microbit.org/\_AE3Hc2VWP30J)
+
