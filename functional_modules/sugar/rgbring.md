@@ -10,8 +10,6 @@
 
 ## 產品接線
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
-
 ## 參考程式
 
 #### MakeCode編程教學

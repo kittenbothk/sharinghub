@@ -11,7 +11,13 @@
 
 ## 產品接線
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/rfid_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/rfid_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ## 參考程式
 

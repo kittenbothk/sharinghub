@@ -12,8 +12,6 @@
 
 ## 產品接線
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
-
 ## 參考程式
 
 #### MakeCode編程教學
@@ -29,3 +27,7 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+
+{% embed url="https://makecode.microbit.org/_3WW1eJTVWcCY" %}
+
+[參考程式](https://makecode.microbit.org/\_3WW1eJTVWcCY)
