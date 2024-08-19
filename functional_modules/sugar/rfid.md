@@ -28,3 +28,15 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+
+讀取卡片UUID
+
+{% embed url="https://makecode.microbit.org/_cq7TUb2cwMKT" %}
+
+[參考程式](https://makecode.microbit.org/\_cq7TUb2cwMKT)
+
+寫入與讀取數據
+
+{% embed url="https://makecode.microbit.org/_cMEM25YH24uo" %}
+
+[參考程式](https://makecode.microbit.org/\_MojJEjWVoEMV)
