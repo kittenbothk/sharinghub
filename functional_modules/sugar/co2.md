@@ -14,13 +14,13 @@
 
 用4Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/env\_wire1.png)
+![](../../.gitbook/assets/co2\_wiring\_edu.png)
 
 #### Robotbit 2.2
 
 用4Pin 連接線將模組與Robotbit 2.2連接起來。
 
-<figure><img src="../../.gitbook/assets/env_wiring_2.2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/co2_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 

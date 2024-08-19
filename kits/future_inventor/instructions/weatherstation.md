@@ -10,7 +10,7 @@
 
 ### 參考接線
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/weatherstation\_wire.png)
+![](../../../.gitbook/assets/weatherstation\_wire.png)
 
 ### 參考程式
 

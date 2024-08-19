@@ -14,7 +14,13 @@ Sugar 稱重模組可以量度物件的重量。
 
 ## 產品接線
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/loadcell_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/loadcell_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ## 參考程式
 
