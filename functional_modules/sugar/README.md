@@ -109,3 +109,35 @@ description: 這裡集合了Sugar系列各款感應器模組的介紹與教學�
 {% content-ref url="sugarcam/" %}
 [sugarcam](sugarcam/)
 {% endcontent-ref %}
+
+{% content-ref url="atomizer.md" %}
+[atomizer.md](atomizer.md)
+{% endcontent-ref %}
+
+{% content-ref url="co2.md" %}
+[co2.md](co2.md)
+{% endcontent-ref %}
+
+{% content-ref url="solar_panel.md" %}
+[solar\_panel.md](solar\_panel.md)
+{% endcontent-ref %}
+
+{% content-ref url="loadcell.md" %}
+[loadcell.md](loadcell.md)
+{% endcontent-ref %}
+
+{% content-ref url="uv.md" %}
+[uv.md](uv.md)
+{% endcontent-ref %}
+
+{% content-ref url="rfid.md" %}
+[rfid.md](rfid.md)
+{% endcontent-ref %}
+
+{% content-ref url="numpad.md" %}
+[numpad.md](numpad.md)
+{% endcontent-ref %}
+
+{% content-ref url="rgbring.md" %}
+[rgbring.md](rgbring.md)
+{% endcontent-ref %}
