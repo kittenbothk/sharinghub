@@ -34,7 +34,7 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 
 打開資料夾裡的Klink.exe。
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 選擇Modules\&Applications。然後選擇Teachable Machine的Load Plugin。
 
