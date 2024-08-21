@@ -29,35 +29,35 @@ koi.setModel(7)
 
 Sets the KOI mode to Face Mask Detection.
 
-## Get Face Data
+## 獲取人面數據
 
 ```
 koi.xywh[0]
 ```
 
-Returns data for the detected face.
+獲取人面數據
 
-Parameters:&#x20;
+參數:&#x20;
 
-data: The type of data to return.
+data:&#x20;
 
-<table><thead><tr><th width="324">data</th><th>Meaning</th></tr></thead><tbody><tr><td>0</td><td>X coordinates</td></tr><tr><td>1</td><td>Y coordinates</td></tr><tr><td>2</td><td>Width of face</td></tr><tr><td>3</td><td>Height of face</td></tr></tbody></table>
+<table><thead><tr><th width="324">data</th><th>代表</th></tr></thead><tbody><tr><td>0</td><td>X coordinates</td></tr><tr><td>1</td><td>Y coordinates</td></tr><tr><td>2</td><td>Width of face</td></tr><tr><td>3</td><td>Height of face</td></tr></tbody></table>
 
-## Get Mask Value
+## 獲取口罩數據
 
 ```
 koi.strVal
 ```
 
-Returns whether the face detected is wearing a mask.
+獲取口罩數據
 
-Return Value:
+返回數值:
 
-"with-mask": Person is wearing mask
+"with-mask": 人面有佩戴口罩
 
-"without-mask": Person is not wearing mask
+"without-mask": 人面沒有佩戴口罩
 
-## Sample Code: Mask Detection
+## 範例程式: 人面口罩追蹤
 
 ```python
 from future import *
@@ -83,71 +83,71 @@ while True:
 
 ```
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/Mask Detection.py" %}
 
-## Select Face Attribute Mode
+## 切換人面屬性模式
 
 ```
 koi.setModel(9)
 ```
 
-Sets the KOI mode to Face Attribute Detection.
+切換人面屬性模式
 
-## Get Face Data
+## 獲取人面數據
 
 ```python
 koi.xywh[data]
 ```
 
-Returns data for the detected face.
+獲取人面數據
 
-Parameters:&#x20;
+參數:
 
-data: The type of data to return.
+data: 數據類型
 
-<table><thead><tr><th width="324">data</th><th>Meaning</th></tr></thead><tbody><tr><td>0</td><td>X coordinates</td></tr><tr><td>1</td><td>Y coordinates</td></tr><tr><td>2</td><td>Width of face</td></tr><tr><td>3</td><td>Height of face</td></tr></tbody></table>
+<table><thead><tr><th width="324">data</th><th>代表</th></tr></thead><tbody><tr><td>0</td><td>X 座標</td></tr><tr><td>1</td><td>Y 座標</td></tr><tr><td>2</td><td>闊度</td></tr><tr><td>3</td><td>高度</td></tr></tbody></table>
 
-## Get Number of Faces
+## 獲取人面數量
 
 ```
 koi.getFaceAttr(attr)
 ```
 
-Returns the number of faces detected.
+獲取人面數量
 
-Return Value: Integer
+返回數值: 整數
 
-Parameters:&#x20;
+參數:&#x20;
+
+attr[^1]:
+
+| attr(decimal) | 代表    |
+| ------------- | ----- |
+| 8             | 人面總數  |
+| 9             | 男性數目  |
+| 10            | 張開口數目 |
+| 11            | 微笑數目  |
+| 12            | 戴眼鏡數目 |
+| 13            | 女性數目  |
+
+## 獲取主要角色人面屬性
+
+獲取主要角色人面屬性.
+
+返回數值: 布林值
+
+參數:
 
 attr:
 
-| attr(decimal) | meaning                              |
-| ------------- | ------------------------------------ |
-| 8             | Total number of faces detected       |
-| 9             | Total number of male detected        |
-| 10            | Total number of open mouths detected |
-| 11            | Total number of smiles detected      |
-| 12            | Total number of glasses detected     |
-| 13            | Total number of female detected      |
+| attr(decimal) | 代表    |
+| ------------- | ----- |
+| 4             | 是否為男性 |
+| 5             | 是否張開口 |
+| 6             | 是否微笑  |
+| 7             | 是否戴眼鏡 |
 
-## Get Attribute of Main Character
-
-Returns the attribute of main character.
-
-Return Value: Boolean
-
-Parameters:
-
-attr:
-
-| attr(decimal) | meaning                               |
-| ------------- | ------------------------------------- |
-| 4             | Whether the person is a male          |
-| 5             | Whether the person has an open mouth  |
-| 6             | Whether the person is smiling         |
-| 7             | Whether the person is wearing glasses |
-
-## Sample Code: Face Attribute
+## 範例程式: 人面屬性追蹤
 
 ```python
 from future import *
@@ -173,4 +173,6 @@ while True:
 
 ```
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/Face Attribute.py" %}
+
+[^1]: 
