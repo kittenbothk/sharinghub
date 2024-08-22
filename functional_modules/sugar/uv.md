@@ -12,6 +12,14 @@
 
 ## 產品接線
 
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/uv_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/uv_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
+
 ## 參考程式
 
 #### MakeCode編程教學
