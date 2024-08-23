@@ -636,6 +636,7 @@
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
   * [Jacdac 新手套件A](jacdac/hardwares/starterkita/README.md)
   * [MRSTEMer尋找中華瑰寶場地](kits/mrstemer\_chinesetreasure\_mapset.md)
+  * [MRSTEMer中華瑰寶 比賽套件](kits/mrstemer\_chinesetreasure\_kit.md)
   * [TabbyBot AI編程小車套件](kits/tabbybot/README.md)
     * [TabbyBot編程小車 編程快速入門](kits/tabbybot/tabbybot\_makecode.md)
     * [TabbyBot膽小小車 編程教學](kits/tabbybot/scared.md)
