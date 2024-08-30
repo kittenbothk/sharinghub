@@ -1,5 +1,7 @@
 # Micro:bit 發明家套件 KOI 2 升級案例
 
+{% embed url="https://youtu.be/ytlbncMLaYA" %}
+
 {% content-ref url="kou-zhao-zhen-ce-zha-men.md" %}
 [kou-zhao-zhen-ce-zha-men.md](kou-zhao-zhen-ce-zha-men.md)
 {% endcontent-ref %}
