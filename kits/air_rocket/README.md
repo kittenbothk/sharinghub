@@ -1,14 +1,12 @@
 # 氣動火箭發射實驗套件
 
-<div>
+## 無氣壓計版
 
-<figure><img src="../../.gitbook/assets/rocket_transparent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rocket_nogauge_render.png" alt=""><figcaption></figcaption></figure>
 
- 
+## 氣壓計版
 
-<figure><img src="../../.gitbook/assets/rocket_premium_transparent.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/rocket_withgauge_render.png" alt=""><figcaption></figcaption></figure>
 
 ## 套件介紹
 
@@ -48,3 +46,4 @@ SPACE是Science(科學)、Programming(編程)、Arts(藝術)、Country(國家)�
 * 黑白DIY火箭紙樣 ×1
 * 3D打印零件包 ×1
 * 氣壓表x1(**選配**)
+
