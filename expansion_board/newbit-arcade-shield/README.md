@@ -1,6 +1,14 @@
 # Newbit Arcade Shield
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newbit.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newbit.png" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/newbit_transparent.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 Newbit Arcade Shield的資訊。
 
