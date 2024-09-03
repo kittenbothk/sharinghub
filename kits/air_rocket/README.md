@@ -31,17 +31,19 @@ SPACE是Science(科學)、Programming(編程)、Arts(藝術)、Country(國家)�
 5. **E**ngineering(工程)
    * 體驗活塞及氣泵結構的原理，自己搭建出火箭發射器
 
-<figure><img src="../../.gitbook/assets/氣動火箭發射實驗套件.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.canva.com/design/DAGNtssn5to/h542q4wjR_JWn66iOEetAw/view?utm_campaign=share_your_design&utm_content=DAGNtssn5to&utm_medium=link&utm_source=shareyourdesignpanel" %}
 
 ## 示範短片
 
 {% embed url="https://www.youtube.com/shorts/3i_rJsuqYsI" %}
 
+{% embed url="https://www.youtube.com/watch?v=Ba4iAmeI5sg" %}
+
 ## 套件內容
 
 * GeekServo O360續轉舵機 ×1
 * 積木零件包 ×1
-* 5ml針筒 ×1
+* 發射筒 ×1
 * 彩色印刷火箭紙樣 ×1
 * 黑白DIY火箭紙樣 ×1
 * 3D打印零件包 ×1
