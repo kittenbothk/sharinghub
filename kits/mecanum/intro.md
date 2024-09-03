@@ -4,17 +4,29 @@ description: 四驅麥輪車套件基礎版 (HKBK8021A) 四驅麥輪車套件射
 
 # 四驅麥輪車套件介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/14.jpg)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/23.jpg)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/42.jpg)
-
 ### 產品介紹
 
 四驅麥輪車是為Microbit而設計的套件，是一套進階的車類套件。套件內的麥卡納姆輪有著全方位移動的特性，容許大家設計一些十分靈活的機械人，在一般車類機械人無法使用的狹窄環境大派用場，它奇妙的移動特性更可以教大家這種新型車輪的運作原理。
 
-這套套件有兩種版本，基礎版和射擊版。射擊版包含基礎版的所有部件，比起基礎版多了額外的積木包和舵機，可以組裝進階版的射擊炮台；套件還附有一隻JoyFrog手掣，實現更加準確的遙控控制。
+這套套件有兩種版本，基礎版和射擊版。
+
+* 基礎版
+  * 基礎版可以搭建出一台遙控四驅麥輪車。
+
+<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+
+* 射擊版
+  * 射擊版比起基礎版多了額外的積木包和舵機，可以組裝進階版的射擊炮台；套件還附有一隻JoyFrog手掣，實現更加準確的遙控控制。
+
+<div>
+
+<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 四驅麥輪車套件內容
 
