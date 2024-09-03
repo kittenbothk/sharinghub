@@ -2,56 +2,20 @@
 
 ## 搭建說明書
 
-### 普通版
+### 無氣壓計版說明書
 
-{% file src="../../.gitbook/assets/rocket_5ml_basic.pdf" %}
+{% embed url="https://www.canva.com/design/DAGPId4Hygw/ICTSdjcHYPsVJVxEkMstig/view?utm_campaign=designshare&utm_content=DAGPId4Hygw&utm_medium=link&utm_source=editor" %}
 
-### 豪華版
+[無氣壓計版說明書](https://www.canva.com/design/DAGPId4Hygw/ICTSdjcHYPsVJVxEkMstig/view?utm\_content=DAGPId4Hygw\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor)
 
-{% file src="../../.gitbook/assets/rocket_5ml_premium.pdf" %}
+### 氣壓計版說明書
 
-## 接線圖
+{% embed url="https://www.canva.com/design/DAGPITKvLB0/o6aK4cSXlSdag6Px0Cqx6Q/view?utm_campaign=designshare&utm_content=DAGPITKvLB0&utm_medium=link&utm_source=editor" %}
 
-### 鱷魚夾線
-
-首先將M3螺絲穿到Micro:bit的GND、3V和1的金手指圓孔，然後使用塑膠絲帽固定螺絲。
-
-<div>
-
-<figure><img src="../../.gitbook/assets/20240622_135204.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/20240622_135139.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/20240622_135037.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-將鱷魚夾線夾在螺絲的突出部分。
-
-黃色線夾到1。
-
-紅色線夾到3V。
-
-黑色線夾到GND。
-
-<figure><img src="../../.gitbook/assets/wiring (1).png" alt="" width="275"><figcaption></figcaption></figure>
-
-### 氣動軟管接駁(普通版)
-
-使用氣動軟管將氣泵與針筒連接起來。
-
-<figure><img src="../../.gitbook/assets/hose_connection.png" alt=""><figcaption></figcaption></figure>
-
-### 氣動軟管接駁(豪華版)
-
-將氣動軟管連接到T型接駁件的其中1邊，在接駁件的另外兩面分別接駁上針筒與氣壓表。
-
-<figure><img src="../../.gitbook/assets/hose_connection_premium.png" alt=""><figcaption></figcaption></figure>
+[氣壓計版說明書](https://www.canva.com/design/DAGPITKvLB0/o6aK4cSXlSdag6Px0Cqx6Q/view?utm\_content=DAGPITKvLB0\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor)
 
 ## 參考程式
 
-{% embed url="https://makecode.microbit.org/_Mp93zufay13w" %}
+{% embed url="https://makecode.microbit.org/_RM5iV4bYgb6C" %}
+
+[Sample Program](https://makecode.microbit.org/\_RM5iV4bYgb6C)
