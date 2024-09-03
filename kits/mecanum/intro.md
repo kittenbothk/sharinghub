@@ -36,6 +36,8 @@ description: 四驅麥輪車套件基礎版 (HKBK8021A) 四驅麥輪車套件射
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/7.jpg)
 
+### 基礎版配件包
+
 * Robotbit擴展板x1
 * GeekServo電機x4
 * 麥卡納姆輪x4
@@ -44,12 +46,15 @@ description: 四驅麥輪車套件基礎版 (HKBK8021A) 四驅麥輪車套件射
 * 18650鋰電池x1
 * USB數據線x1
 * Microbit矽膠套x1
-* GeekServo舵機x1 (只限射擊版)
-* GeekServo 360續轉舵機x1 (只限射擊版)
-* 炮台擴展積木包x1 (只限射擊版)
-* JoyFrog手掣x1 (只限射擊版)
-* 電池盒x1 (只限射擊版)
-* 橡筋包x1 (只限射擊版)
+
+### 射擊版配件包
+
+* GeekServo舵機x1
+* GeekServo 360續轉舵機x1
+* 炮台擴展積木包x1
+* JoyFrog手掣x1
+* 電池盒x1
+* 橡筋包x1
 
 ### 產品特色
 
