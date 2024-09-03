@@ -1,12 +1,12 @@
 # AI 道路管理系統
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_trafficlight\_render.png)
+![](../../../.gitbook/assets/aitraffic.png)
 
 ### 組裝說明書下載
 
-[組裝說明書下載](https://drive.google.com/drive/folders/1vPB1nm2KgCbI8fHl\_VWVD3YiAxTgYQWc?usp=sharing)
+{% file src="../../../.gitbook/assets/aitraffic.pdf" %}
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_trafficlight\_wire.png)
+![](../../../.gitbook/assets/aitraffic\_wiring.png)
 
 ### 參考程式
 

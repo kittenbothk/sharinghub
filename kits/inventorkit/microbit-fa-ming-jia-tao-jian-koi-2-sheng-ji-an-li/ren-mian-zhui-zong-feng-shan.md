@@ -1,12 +1,12 @@
 # 人面追蹤風扇
 
-![.](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_fan\_render.png)
+![.](../../../.gitbook/assets/aifan.png)
 
 ### 組裝說明書下載
 
-[組裝說明書下載](https://drive.google.com/drive/folders/1vPB1nm2KgCbI8fHl\_VWVD3YiAxTgYQWc?usp=sharing)
+{% file src="../../../.gitbook/assets/aifan.pdf" %}
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_fan\_wire.png)
+![](../../../.gitbook/assets/aifan\_wiring.png)
 
 ### 參考程式
 

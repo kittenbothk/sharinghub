@@ -1,12 +1,12 @@
 # 口罩偵測閘門
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_gate\_render.png)
+![](../../../.gitbook/assets/aigate.png)
 
 ### 組裝說明書下載
 
-[組裝說明書下載](https://drive.google.com/drive/folders/1vPB1nm2KgCbI8fHl\_VWVD3YiAxTgYQWc?usp=sharing)
+{% file src="../../../.gitbook/assets/aigate.pdf" %}
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/extra\_gate\_wire.png)
+![](../../../.gitbook/assets/aigate\_wiring.png)
 
 ### 參考程式
 
