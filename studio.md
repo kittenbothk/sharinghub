@@ -40,19 +40,19 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 在Bricklink Studio打開這個檔案。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/79.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/78.png)
 
 選擇想用的模組並且右擊複製。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/88.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/87.png)
 
 在新的檔案裡面貼上，模組就會複製到檔案裡面。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/97.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/96.png)
 
 之後你就可以任意搭建模型啦～
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/109.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/108.png)
 
 ### 生成搭建說明書
 
@@ -60,15 +60,15 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 在左邊的一欄按Add Step，添加一個新步驟。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/1114.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/1113.png)
 
 在該步驟裡面拼砌該步驟所用的積木。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/1211.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/129.png)
 
 重複直至完成搭建你的模型。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/137.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/136.png)
 
 在上方按Instruction Maker。
 
@@ -76,7 +76,7 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 在Steps Editor可以調整搭建步驟。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/155.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/154.png)
 
 點擊Page Design，前往設計搭建說明書的頁面。
 
@@ -84,7 +84,7 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 在Page Design，您可以選擇頁面的顏色，文字顏色等。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/176.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/175.png)
 
 假如你想改變模型角度，可以選擇右邊的Change Step View。
 
@@ -96,4 +96,4 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 ![](https://kittenbothk.readthedocs.io/en/latest/\_images/203.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/217.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/216.png)
