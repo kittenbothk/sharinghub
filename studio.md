@@ -18,15 +18,15 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 [Bricklink Studio下載](https://www.bricklink.com/v3/studio/download.page)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/315.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/314.png)
 
 按照指示安裝Bricklink Studio。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/414.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/413.png)
 
 打開Bricklink Studio。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/513.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/512.png)
 
 ### 在Bricklink Studio裏使用KittenBot模組
 
@@ -36,7 +36,7 @@ Bricklink Studio是由Bricklink專為樂高愛好者而開發的一個程式，�
 
 大家會收到一個studio\_KittenBotComponent.io的檔案。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/610.png)
+![](https://kittenbothk.readthedocs.io/en/latest/\_images/69.png)
 
 在Bricklink Studio打開這個檔案。
 
