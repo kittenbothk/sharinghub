@@ -635,7 +635,7 @@
   * [OTTO機械人](kits/otto.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
   * [Jacdac 新手套件A](jacdac/hardwares/starterkita/README.md)
-  * [MRSTEMer Micro:bit AI 編程大賽 - 比賽場地](kits/mrstemer\_chinesetreasure\_mapset.md)
+  * [MRSTEMer Micro:bit AI 編程大賽 - 尋找中華瑰寶比賽場地](kits/mrstemer\_chinesetreasure\_mapset.md)
   * [MRSTEMer Micro:bit AI 編程大賽 - 尋找中華瑰寶套件](kits/mrstemer\_chinesetreasure\_kit.md)
   * [TabbyBot AI編程小車套件](kits/tabbybot/README.md)
     * [TabbyBot編程小車 編程快速入門](kits/tabbybot/tabbybot\_makecode.md)
