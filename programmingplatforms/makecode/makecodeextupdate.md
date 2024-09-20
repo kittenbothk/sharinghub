@@ -4,15 +4,15 @@
 
 我們在Makecode上使用Kittenbot的產品必須使用插件，而插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。以下會講解一下檢查和更新插件版本的方法。
 
-### 本教程使用KOI插件為例子，其他插件的做法與本教程相同。[¶](broken-reference)
+### 本教程使用KOI插件為例子，其他插件的做法與本教程相同。
 
-### 我們先加載KOI插件：[¶](broken-reference)
+### 我們先加載KOI插件：
 
 {% content-ref url="kittenbotandmakecode.md" %}
 [kittenbotandmakecode.md](kittenbotandmakecode.md)
 {% endcontent-ref %}
 
-### 檢查插件版本[¶](broken-reference)
+### 檢查插件版本
 
 檢查插件版本的方法如下：
 
@@ -22,7 +22,7 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/check.gif" alt=""><figcaption></figcaption></figure>
 
-### 更新插件版本[¶](broken-reference)
+### 更新插件版本
 
 你可能正在使用舊版本的插件而需要更新，更新插件的方法如下：
 
@@ -33,7 +33,7 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update.gif" alt=""><figcaption></figcaption></figure>
 
-### 修改插件版本[¶](broken-reference)
+### 修改插件版本
 
 你有時候可能會需要切換至之前版本的插件，更改插件版本的方法如下：
 
