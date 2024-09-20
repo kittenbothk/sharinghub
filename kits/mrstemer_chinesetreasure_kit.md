@@ -9,7 +9,7 @@
 1. Robotbit EDU
 2. MR STEMER 3合1格鬥小車套件
 3. KOI 2 AI鏡頭
-4. Micro:bit&#x20;
+4. Micro:bit遙控手掣&#x20;
    1. 選配A: JoyFrog手掣
    2. 選配B: Newbit Arcade Shield
 5. 18650鋰電池&#x20;
