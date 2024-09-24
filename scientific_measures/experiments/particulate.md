@@ -18,7 +18,7 @@
 
 請同學將PM2.5測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../.gitbook/assets/pmsensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pmsensor_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 

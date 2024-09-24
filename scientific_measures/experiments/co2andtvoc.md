@@ -18,7 +18,7 @@
 
 請同學將二氧化碳測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../.gitbook/assets/co2sensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/co2sensor_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
