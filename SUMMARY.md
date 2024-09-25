@@ -694,5 +694,7 @@
     * [污水混濁度測量](scientific\_measures/experiments/turbidity.md)
     * [聲音測量](scientific\_measures/experiments/decibels.md)
     * [pH酸鹼值測量](scientific\_measures/experiments/phmeasure.md)
+    * [紫外線測量](scientific\_measures/experiments/uv.md)
+    * [電子磅](scientific\_measures/experiments/load.md)
     * [未來板Lite操作教學](scientific\_measures/experiments/futureboard\_lite\_operations.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
