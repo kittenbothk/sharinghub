@@ -1,10 +1,8 @@
-# pH值感應器使用教學
+# pH值感應器編程教學
 
 ### 編程教學
 
 #### MakeCode 編程教學
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner12.png)
 
 #### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
 
@@ -20,21 +18,18 @@
 
 #### MakeCode參考程式
 
-{% embed url="https://makecode.microbit.org/_7WjD742382au" %}
+{% embed url="https://makecode.microbit.org/_5kwepMMCwCh2" %}
 
-[參考程式](https://makecode.microbit.org/\_7WjD742382au)
+[參考程式](https://makecode.microbit.org/\_hU33u4FHuegC)
 
 #### pH感應器使用教學
 
-1. 將感應器浸在PH4.0校正液中，等待1分鐘。
-2. 按下A鍵進行軟體校正。
-3. 使用純正蒸餾水清洗並抹一下感應器。
-4. 將感應器浸在P9.18校正液中，等待1分鐘。
-5. 按下B鍵進行軟體校正。
-6. 使用純正蒸餾水清洗並抹一下感應器。
-7. 將感應器浸到想測量的液體當中，等待1分鐘。
-8. 按下A+B鍵，檢測液體的pH值。
+<figure><img src="../../.gitbook/assets/ph_values_import.png" alt=""><figcaption></figcaption></figure>
 
-### pH感應器使用示範短片
+1. 將pH感應器上貼紙所顯示的數值分別填進程式的A和B校正數值中
+2. 將程式下載到Micro:bit
+3. 按下A鍵，完成模組校正
+4. 將感應器浸到想測量的液體當中，等待大約1分鐘
+5. 按下B鍵，檢測液體的pH值
+6. 檢測其他液體前必須使用蒸餾水洗乾淨並用紙巾徹底抹乾凈
 
-{% embed url="https://www.youtube.com/watch?v=UULzCg3d9to" %}
