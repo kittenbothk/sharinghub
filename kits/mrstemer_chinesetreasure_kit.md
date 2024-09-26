@@ -1,6 +1,6 @@
 # MRSTEMer Micro:bit AI 編程大賽 - 尋找中華瑰寶套件
 
-<figure><img src="../.gitbook/assets/kit contents (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kit contents.png" alt=""><figcaption></figcaption></figure>
 
 此套裝包含了參加MRSTEMer Micro:bitAI編程大賽所需的硬件(一架車)。
 
