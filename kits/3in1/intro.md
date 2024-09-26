@@ -28,6 +28,10 @@ MR STEMER 3合1格鬥小車套件是一套針對Microbit而設計的一套競技
 * 配合大家手上已經有的Microbit使用
 * 支援Kittenbot其他產品
 
+### 產品包裝
+
+<figure><img src="../../.gitbook/assets/newpacking_2.png" alt=""><figcaption></figcaption></figure>
+
 ### 產品參數：
 
 請參考[Robotbit介紹](../../expansion\_board/robotbit-2.2/robotbitfull.md)。
