@@ -41,7 +41,7 @@
 
 {% embed url="https://makecode.microbit.org/_3RD88yaFoFzU" %}
 
-
+[參考程式](https://makecode.microbit.org/\_9VDR6cXEmdPT)
 
 ### MRSTEMER 比賽機械車
 
