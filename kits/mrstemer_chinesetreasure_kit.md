@@ -31,11 +31,17 @@
 
 [參考程式](https://makecode.microbit.org/\_HAh4jTH6H1Rh)
 
-### MRSTEMER 機械車遙控器
+### MRSTEMER Newbit遙控器
 
 {% embed url="https://makecode.com/_R7pDAb9pPVfP" %}
 
 [參考程式](https://makecode.com/\_R7pDAb9pPVfP)
+
+### MRSTEMER JoyFrog遙控器
+
+{% embed url="https://makecode.microbit.org/_3RD88yaFoFzU" %}
+
+
 
 ### MRSTEMER 比賽機械車
 
