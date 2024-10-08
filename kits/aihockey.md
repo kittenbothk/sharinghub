@@ -1,6 +1,6 @@
 # KOI AI 氣墊球
 
-<figure><img src="../.gitbook/assets/hockey_transparent1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AI氣墊球packing covere sheet .jpg" alt=""><figcaption></figcaption></figure>
 
 AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能技術和玩樂元素。
 
@@ -10,13 +10,23 @@ AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能
 
 ### 搭建說明書
 
-{% file src="../.gitbook/assets/hockey (1).pdf" %}
+{% embed url="https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_campaign=designshare&utm_content=DAGS4jnuzC0&utm_medium=link&utm_source=editor" %}
+
+[下載說明書](https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm\_content=DAGS4jnuzC0\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor)
 
 ### 接線圖
 
-<figure><img src="../.gitbook/assets/wiring.png" alt=""><figcaption></figcaption></figure>
+### KOI接線圖
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/koi_wiring.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 舵機接線圖
+
+<figure><img src="../.gitbook/assets/servo_wiring.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 套件內容
 
