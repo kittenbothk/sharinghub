@@ -1,6 +1,6 @@
 # Robotbit差速車
 
-<figure><img src="../../.gitbook/assets/差速車_no koi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/差速車Packing.png" alt=""><figcaption></figcaption></figure>
 
 這是一個擁有仿真結構的編程小車，小車使用單馬達配合差速器驅動與舵機轉向，與真實汽車的結構類似。
 
