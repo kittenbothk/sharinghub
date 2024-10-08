@@ -644,7 +644,7 @@
   * [氣動火箭發射實驗套件](kits/air\_rocket/README.md)
     * [搭建說明書與參考程式](kits/air\_rocket/instructions.md)
   * [Robotbit差速車](kits/differential\_car/README.md)
-    * [差速遙控小車 參考程式](kits/differential\_car/rc.md)
+    * [差速遙控小車 搭建說明書與參考程式](kits/differential\_car/rc.md)
     * [升級案例 KOI 2自動導航泊車](kits/differential\_car/koi\_auto\_parking/README.md)
       * [自動導航泊車 參考程式](kits/differential\_car/koi\_auto\_parking/autoparking\_tutorial.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
