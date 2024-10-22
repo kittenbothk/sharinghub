@@ -24,7 +24,7 @@ AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能
 
 ### 舵機接線圖
 
-<figure><img src="../.gitbook/assets/servo_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/servo_wiring (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

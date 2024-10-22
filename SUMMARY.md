@@ -641,7 +641,7 @@
     * [TabbyBot 燈光匯演 編程教學](kits/tabbybot/lightshow.md)
     * [TabbyBot自動避障小車 編程教學](kits/tabbybot/ultrasound.md)
     * [TabbyBot巡線小車 編程教學](kits/tabbybot/tabbybot-xun-xian-xiao-che-bian-cheng-jiao-xue.md)
-  * [氣動火箭發射實驗套件](kits/air\_rocket/README.md)
+  * [Micro:bit氣動火箭發射實驗套件](kits/air\_rocket/README.md)
     * [套件內容](kits/air\_rocket/contents.md)
     * [搭建說明書與參考程式](kits/air\_rocket/instructions.md)
   * [Robotbit差速車](kits/differential\_car/README.md)
