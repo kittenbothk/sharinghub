@@ -526,7 +526,7 @@
     * [智能漂書櫃教育版介紹](kits/bookcrossing/intro.md)
     * [智能漂書櫃教育版組裝資料](kits/bookcrossing/info/README.md)
       * [搭建說明書](kits/bookcrossing/info/instructions.md)
-      * [Micro:bit範例程式(KOI 2)](kits/bookcrossing/info/microbit-fan-li-cheng-shi-koi-2.md)
+      * [Micro:bit範例程式(KOI 2)](kits/bookcrossing/info/samplekoi2.md)
       * [MakerCloud創客雲設定教學](kits/bookcrossing/info/makercloud.md)
       * [AI2手機應用程式設定教學](kits/bookcrossing/info/ai2.md)
       * [未來板範例程式](kits/bookcrossing/info/futureboard.md)
