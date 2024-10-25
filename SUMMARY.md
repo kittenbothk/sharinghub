@@ -650,7 +650,7 @@
     * [升級案例 KOI 2自動導航泊車](kits/differential\_car/koi\_auto\_parking/README.md)
       * [自動導航泊車 參考程式](kits/differential\_car/koi\_auto\_parking/autoparking\_tutorial.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
-  * [智感培植系統](kits/sensegreen-nurture-hub.md)
+  * [智感培植系統 SenseGreen Nurture Hub](kits/sensegreen-nurture-hub.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
