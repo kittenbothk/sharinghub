@@ -1,6 +1,6 @@
 # 智感培植系統 SenseGreen Nurture Hub
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ## 套件內容
 
