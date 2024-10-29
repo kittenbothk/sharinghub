@@ -4,7 +4,7 @@
 
 這是一件按鍵模組，可以感測按鍵狀態。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 
-### 產品參數[¶](broken-reference)
+### 產品參數
 
 * 尺寸：24 x 24 x 19 mm
 * 重量：5.1g
@@ -24,39 +24,39 @@
 
 <figure><img src="../../.gitbook/assets/button_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
-### 編程教學[¶](broken-reference)
+### 編程教學
 
-### MakeCode編程教學[¶](broken-reference)
+### MakeCode編程教學
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png" alt=""><figcaption></figcaption></figure>
-
-#### 加載Sugar插件：[¶](broken-reference)
+#### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)[¶](broken-reference)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif" alt=""><figcaption></figcaption></figure>
 
-#### 你亦可以用插件地址搜尋[¶](broken-reference)
+#### 你亦可以用插件地址搜尋
 
 Sugar插件：[https://github.com/KittenBot/pxt-sugar](https://github.com/KittenBot/pxt-sugar)
 
 #### 參考程式
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button_mc_code.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://makecode.microbit.org/_JtxF8tVccMcF" %}
 
-[參考程式](https://makecode.microbit.org/\_EUeXbC8c5195)
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button_mc_code2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-[參考程式](https://makecode.microbit.org/\_a3wE97V67EWA)
+[參考程式](https://makecode.microbit.org/\_JtxF8tVccMcF)
 
-#### Kittenblock 編程教學[¶](broken-reference)
+{% embed url="https://makecode.microbit.org/_96T4zE6atA3T" %}
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner9.png" alt=""><figcaption></figcaption></figure>
+
+
+[參考程式](https://makecode.microbit.org/\_96T4zE6atA3T)
+
+#### Kittenblock 編程教學
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button3.png" alt=""><figcaption></figcaption></figure>
 
-#### MicroPython 編程教學[¶](broken-reference)
+#### MicroPython 編程教學
 
 * value(): 按下為0，否則為1
 

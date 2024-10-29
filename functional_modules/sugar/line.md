@@ -29,8 +29,6 @@
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
-
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
