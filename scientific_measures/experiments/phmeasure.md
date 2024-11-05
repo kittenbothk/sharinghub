@@ -20,17 +20,21 @@
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「pH酸鹼值.py」檔案。
+請同學在未來板Lite上開啟「ph\_load\_p1.py」檔案。
+
+<figure><img src="../../.gitbook/assets/phloadprogram.png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% embed url="https://youtu.be/SaZO2MJzdlM" %}
 
 #### 進行測量
 
-首先將儀器浸入pH4.0的校正緩衝液然後等待2分鐘。等待2分鐘後按A鍵進行校正。
+未來板Lite會一直顯示測量到的酸鹼值(pH)。
 
-然後將儀器浸入pH9.18的校正緩衝液再等待2分鐘。等待2分鐘後按B鍵進行校正。
+<figure><img src="../../.gitbook/assets/phloaddisplay.png" alt=""><figcaption></figcaption></figure>
 
-校正後，未來板Lite會一直顯示測量到的酸鹼值(pH)。
+
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=wbTTXVtlmf-O4V4T&t=71" %}
 
