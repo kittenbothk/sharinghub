@@ -35,12 +35,12 @@ pH酸鹼值感應器可以檢測液體的pH值。
 
 ### Robotbit EDU
 
-<figure><img src="../../.gitbook/assets/ph_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ph_edu (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/ph_Robotbit2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ph_Robotbit2.2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Armourbit
 
-<figure><img src="../../.gitbook/assets/ph_armourbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ph_armourbit (1).png" alt=""><figcaption></figcaption></figure>
