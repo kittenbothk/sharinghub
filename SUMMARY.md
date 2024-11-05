@@ -229,7 +229,7 @@
   * [pH值感應器](functional\_modules/ph/README.md)
     * [pH酸鹼值感應器](functional\_modules/ph/phsensor.md)
     * [pH值感應器編程教學](functional\_modules/ph/phuse.md)
-    * [pH校正緩衝液使用教學](functional\_modules/ph/buffersolution.md)
+    * [pH校正緩衝液使用教學(高階用戶)](functional\_modules/ph/buffersolution.md)
     * [pH感應器硬體校正(高階用戶)](functional\_modules/ph/phtune.md)
     * [pH值感應器重新校正(高階用家)](functional\_modules/ph/phcalibrate.md)
   * [PM2.5 感應器](functional\_modules/pm2.5.md)
