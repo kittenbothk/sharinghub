@@ -692,7 +692,7 @@
 * [科學教育測量系列](scientific\_measures/README.md)
   * [科學實驗清單](scientific\_measures/experiments/README.md)
     * [懸浮粒子測量](scientific\_measures/experiments/particulate.md)
-    * [二氧化碳及揮發性有機化合物測量](scientific\_measures/experiments/co2andtvoc.md)
+    * [二氧化碳測量](scientific\_measures/experiments/co2andtvoc.md)
     * [水溫測量](scientific\_measures/experiments/watertemp.md)
     * [污水混濁度測量](scientific\_measures/experiments/turbidity.md)
     * [聲音測量](scientific\_measures/experiments/decibels.md)

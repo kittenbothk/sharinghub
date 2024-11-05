@@ -22,7 +22,7 @@
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「懸浮粒子.py」檔案。
+請同學在未來板Lite上開啟「pmsensor\_i2c.py」檔案。
 
 {% embed url="https://youtu.be/SaZO2MJzdlM" %}
 
