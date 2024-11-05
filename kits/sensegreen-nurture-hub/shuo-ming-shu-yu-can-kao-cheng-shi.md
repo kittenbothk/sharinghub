@@ -12,6 +12,6 @@
 
 ## 參考程式
 
-{% embed url="https://makecode.microbit.org/_16x4eo9062br" %}
+{% embed url="https://makecode.microbit.org/_6WEgmfPxf8j8" %}
 
-[參考程式](https://makecode.microbit.org/\_16x4eo9062br)
+[參考程式](https://makecode.microbit.org/\_6WEgmfPxf8j8)
