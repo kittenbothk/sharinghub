@@ -1,12 +1,12 @@
 # 污水混濁度感應器
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/turbidity_ver2.png" alt=""><figcaption></figcaption></figure>
 
-### 污水混濁度感應器[¶](broken-reference)
+### 污水混濁度感應器
 
 污水混濁度感應器可以感測水的混濁程度。
 
-### 產品參數[¶](broken-reference)
+### 產品參數
 
 * 工作電壓：3V\~5V
 * 接口：3pin防反插接口
@@ -41,21 +41,19 @@
 
 ### MakeCode 編程教學
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png" alt=""><figcaption></figcaption></figure>
-
-#### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)[¶](broken-reference)
+#### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif" alt=""><figcaption></figcaption></figure>
 
-#### 感應器Plus插件：[https://github.com/kittenbothk/pxt-ModulePlus](https://github.com/kittenbothk/pxt-ModulePlus)[¶](broken-reference)
+#### 感應器Plus插件：[https://github.com/kittenbothk/pxt-ModulePlus](https://github.com/kittenbothk/pxt-ModulePlus)
 
-#### 詳細方法[¶](broken-reference)
+#### 詳細方法
 
-#### 污水混濁度感應器積木塊：[¶](broken-reference)
+#### 污水混濁度感應器積木塊：
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity2.png" alt=""><figcaption></figcaption></figure>
 
-#### 污水混濁度感應器編程[¶](broken-reference)
+#### 污水混濁度感應器編程
 
 ```
 污水混濁度感應器可以配合水溫感應器作校正使讀數更加準確。
@@ -66,25 +64,23 @@
 
 [參考程式網址](https://makecode.microbit.org/\_WjmH6zahVTUe)
 
-#### 插件版本與更新[¶](broken-reference)
+#### 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode\_extensionUpdate.html)
 
-### 未來板KittenBlock編程教學[¶](broken-reference)
+### 未來板KittenBlock編程教學
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner6.png" alt=""><figcaption></figcaption></figure>
-
-#### 在硬件欄選擇『未來板』[¶](broken-reference)
+#### 在硬件欄選擇『未來板』
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity_kb1.png" alt=""><figcaption></figcaption></figure>
 
-#### 污水混濁度感應器積木塊：[¶](broken-reference)
+#### 污水混濁度感應器積木塊：
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity_kb2.png" alt=""><figcaption></figcaption></figure>
 
-#### 污水混濁度感應器編程[¶](broken-reference)
+#### 污水混濁度感應器編程
 
 ```
 污水混濁度感應器可以配合水溫感應器作校正使讀數更加準確。
@@ -93,13 +89,12 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/turbidity_kb3.png" alt=""><figcaption></figcaption></figure>
 
-### 示範短片[¶](broken-reference)
+### 示範短片
 
-#### Micro:bit[¶](broken-reference)
+#### Micro:bit
 
 {% embed url="https://youtu.be/4ePV6fmwoAA?t=77" %}
 
-#### 未來板[¶](broken-reference)
+#### 未來板
 
 {% embed url="https://youtu.be/4ePV6fmwoAA?t=7" %}
-
