@@ -16,7 +16,7 @@
 
 請同學將污水渾濁度儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../../.gitbook/assets/turbidity_wiring1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turbidity_wiring (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
