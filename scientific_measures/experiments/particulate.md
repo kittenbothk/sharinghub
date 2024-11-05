@@ -24,11 +24,19 @@
 
 請同學在未來板Lite上開啟「pmsensor\_i2c.py」檔案。
 
+<figure><img src="../../.gitbook/assets/pmprogram.png" alt=""><figcaption></figcaption></figure>
+
+
+
 {% embed url="https://youtu.be/SaZO2MJzdlM" %}
 
 #### 進行測量
 
 未來板Lite會一直顯示測量到空氣中的PM1.0、PM2.5及PM10懸浮粒子的濃度(ppm)。
+
+<figure><img src="../../.gitbook/assets/pmdisplay.png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% embed url="https://www.youtube.com/watch?t=17s&v=keSccyhM_FE" %}
 

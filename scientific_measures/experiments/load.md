@@ -14,15 +14,23 @@
 
 請同學將電子磅儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../../.gitbook/assets/co2sensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/loadcell_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
 請同學在未來板Lite上開啟「loadcell\_i2c.py」檔案。
+
+<figure><img src="../../.gitbook/assets/loadcell_program.png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% embed url="https://youtu.be/SaZO2MJzdlM" %}
 
 #### 進行測量
 
 未來板Lite會一直顯示測量到的重量。
+
+<figure><img src="../../.gitbook/assets/loadcell_display.png" alt=""><figcaption></figcaption></figure>
+
+
 

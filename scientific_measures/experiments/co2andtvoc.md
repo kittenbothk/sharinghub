@@ -22,11 +22,19 @@
 
 請同學在未來板Lite上開啟「co2\_i2c.py」檔案。
 
+<figure><img src="../../.gitbook/assets/co2program.png" alt=""><figcaption></figcaption></figure>
+
+
+
 {% embed url="https://youtu.be/SaZO2MJzdlM" %}
 
 #### 進行測量
 
 未來板Lite會一直顯示測量到空氣中的二氧化碳濃度(ppm)。
+
+<figure><img src="../../.gitbook/assets/co2display.png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=KCR2ZkR3U05O0H81&t=261" %}
 
