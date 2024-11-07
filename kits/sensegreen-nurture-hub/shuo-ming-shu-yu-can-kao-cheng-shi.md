@@ -8,10 +8,18 @@
 
 ## 接線圖
 
-<figure><img src="../../.gitbook/assets/wiring_edu_microbit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wiring_edu_microbit (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 參考程式
 
-{% embed url="https://makecode.microbit.org/_6WEgmfPxf8j8" %}
+### 手動調控
 
-[參考程式](https://makecode.microbit.org/\_6WEgmfPxf8j8)
+{% embed url="https://makecode.microbit.org/_eLAWPDEme0Jf" %}
+
+[參考程式](https://makecode.microbit.org/\_V25ULcHv7WYz)
+
+### 自動調控參考程式
+
+{% embed url="https://makecode.microbit.org/_391fV2i85Jtz" %}
+
+[參考程式](https://makecode.microbit.org/\_391fV2i85Jtz)
