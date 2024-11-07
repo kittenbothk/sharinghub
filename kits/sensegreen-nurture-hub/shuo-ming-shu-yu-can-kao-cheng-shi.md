@@ -14,9 +14,11 @@
 
 ### 手動調控
 
-{% embed url="https://makecode.microbit.org/_eLAWPDEme0Jf" %}
+{% embed url="https://makecode.microbit.org/_XRM7MUHFyJ4q" %}
 
-[參考程式](https://makecode.microbit.org/\_V25ULcHv7WYz)
+
+
+[參考程式](https://makecode.microbit.org/\_XRM7MUHFyJ4q)
 
 ### 自動調控參考程式
 
