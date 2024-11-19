@@ -39,3 +39,15 @@ SPACE是Science(科學)、Programming(編程)、Arts(藝術)、Country(國家)�
 
 {% embed url="https://www.youtube.com/watch?v=Ba4iAmeI5sg" %}
 
+## 套件內容
+
+{% content-ref url="contents.md" %}
+[contents.md](contents.md)
+{% endcontent-ref %}
+
+## 說明書與參考程式
+
+{% content-ref url="instructions.md" %}
+[instructions.md](instructions.md)
+{% endcontent-ref %}
+
