@@ -20,9 +20,9 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 #### 升級 KOI 1 (Micro USB) 至V4固件
 
-_<mark style="color:orange;">最新版本號 V4.0.7</mark>_
+_<mark style="color:orange;">最新版本號 V4.0.9</mark>_
 
-{% file src="../../../.gitbook/assets/KOI Updatre Micro USB.zip" %}
+{% file src="../../../.gitbook/assets/20241010KOIUpdatemicroUsb.zip" %}
 
 此版本適用於:&#x20;
 
@@ -31,9 +31,9 @@ _<mark style="color:orange;">最新版本號 V4.0.7</mark>_
 
 ### 💡KOI 2 (Type C) 定期固件更新
 
-_<mark style="color:orange;">最新版本號 V4.0.7</mark>_
+_<mark style="color:orange;">最新版本號 V4.0.9</mark>_
 
-{% file src="../../../.gitbook/assets/KOI Update Type C (2).zip" %}
+{% file src="../../../.gitbook/assets/20241010KOIUpdatemicroUsb.zip" %}
 
 此版本適用於:&#x20;
 
