@@ -1,14 +1,6 @@
 # Newbit Arcade Shield擴展板
 
-<div>
-
-<figure><img src="../../.gitbook/assets/newbit_transparent.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/newbit.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/newbit_transparent.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/newbit.png" alt=""><figcaption></figcaption></figure></div>
 
 因應Microbit V2的硬件性能提高，Kittenbot特意為Microbit V2設計出Newbit Arcade Shield，賦予Microbit V2可編程遊戲的能力。透過Microsoft MakeCode Arcade可以實現圖像化的遊戲編程並且下載到V2上遊玩，亦都可以把擴展板當作遙控器使用。
 
@@ -17,11 +9,11 @@
 * 尺寸: 115 x 65 x 17.5 mm
 * 重量: 35g
 * 供電方式: Micro USB(5V)/鋰電池(3.7V)
-* 板載資源: 160_128 TFT顯示屏, 方向鍵_4, AB按鍵, 3Pin 金手指, Micro USB供電/充電接口, JacDac接口, 電源指示燈
+* 板載資源: 16&#x30;_&#x31;28 TFT顯示屏, 方向&#x9375;_&#x34;, AB按鍵, 3Pin 金手指, Micro USB供電/充電接口, JacDac接口, 電源指示燈
 
 ### 產品詳細
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail.png)
 
 ### 編程教學
 
@@ -43,7 +35,7 @@ MicroCode是MicroSoft開發的全圖像化離線編程平台，簡單的編程�
 
 ### Jacdac
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/jacdac.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/jacdac.jpg)
 
 有關Newbit與Jacdac的玩法介紹，可以參考以下文章：
 

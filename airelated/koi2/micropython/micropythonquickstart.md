@@ -52,7 +52,7 @@ KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 
 **重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**
 
-再次_檢查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示鏡頭畫面。
+再&#x6B21;_&#x6AA2;查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示鏡頭畫面。
 
 <figure><img src="../../../.gitbook/assets/20240320_100258.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,19 +70,7 @@ Open KittenCode in browser.
 
 將未來板連接到KittenCode。
 
-<div>
-
-<figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252Fh73ckaGfH9QqZzd2QkNE%252Fimage.png%3Falt%3Dmedia%26token%3D373a864c-9907-46be-9385-9e992bb796e5&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=7b9cba5&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252FvoRHKJKPsKlqWC87hf5f%252Fimage.png%3Falt%3Dmedia%26token%3Daeb4eabb-2f09-40ac-b2a6-bd222f9d91f7&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=8f7ced9d&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252FjvEtQ3L5p6xxc8m4jdup%252Fimage.png%3Falt%3Dmedia%26token%3D4f6157d2-db1c-4edd-8ce8-7cffd06a9c85&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=71471968&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252Fh73ckaGfH9QqZzd2QkNE%252Fimage.png%3Falt%3Dmedia%26token%3D373a864c-9907-46be-9385-9e992bb796e5&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=7b9cba5&#x26;sv=1" alt=""><figcaption></figcaption></figure> <figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252FvoRHKJKPsKlqWC87hf5f%252Fimage.png%3Falt%3Dmedia%26token%3Daeb4eabb-2f09-40ac-b2a6-bd222f9d91f7&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=8f7ced9d&#x26;sv=1" alt=""><figcaption></figcaption></figure> <figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252FjvEtQ3L5p6xxc8m4jdup%252Fimage.png%3Falt%3Dmedia%26token%3D4f6157d2-db1c-4edd-8ce8-7cffd06a9c85&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=71471968&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 按運行程式就可以在線運行程式或按上傳程式將程式上傳到未來板。
 

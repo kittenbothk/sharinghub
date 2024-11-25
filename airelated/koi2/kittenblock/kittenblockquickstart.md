@@ -52,7 +52,7 @@ KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 
 **重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**
 
-再次_檢查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示鏡頭畫面。
+再&#x6B21;_&#x6AA2;查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示鏡頭畫面。
 
 <figure><img src="../../../.gitbook/assets/20240320_100258.png" alt=""><figcaption></figcaption></figure>
 

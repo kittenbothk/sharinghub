@@ -89,15 +89,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 {% endhint %}
 
-<div data-full-width="false">
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-13.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newVersion.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-13.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newVersion.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### **旋轉鏡頭**[¶](broken-reference)
 
@@ -147,7 +139,7 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/05-1.png" alt=""><figcaption></figcaption></figure>
 
-#### _USB_插口[¶](broken-reference)
+#### _US&#x42;_&#x63D2;口[¶](broken-reference)
 
 此資料口用於給模組更新固件或者給模組供電
 

@@ -52,7 +52,7 @@ KOI的藍色線只可以接類比引腳（Pin0-2）！使用Pin0的話請拔除�
 
 **重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!**[**¶**](broken-reference)
 
-再次_檢查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示出鏡頭當下所拍到的畫面。
+再&#x6B21;_&#x6AA2;查接線無誤_ 後, 就可以打開Robitbit 的開關, 便會看到KOI 的屏幕顯示出鏡頭當下所拍到的畫面。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_connection2.png" alt=""><figcaption></figcaption></figure>
 
