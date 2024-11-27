@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
+## 套件特色
+
 ## 套件內容
 
 * Robotbit EDU 連18650鋰電池 \*1
@@ -21,4 +23,8 @@
 * 椴木零件
 * 電線整理管
 * 水樽
+
+## 示範短片
+
+{% embed url="https://youtu.be/ZDeycVaMM5k" %}
 
