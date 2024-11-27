@@ -450,6 +450,7 @@
     * [搭建說明書與參考程式](kits/air_rocket/instructions.md)
   * [智感培植系統 SenseGreen Nurture Hub](kits/sensegreen-nurture-hub/README.md)
     * [說明書與參考程式](kits/sensegreen-nurture-hub/shuo-ming-shu-yu-can-kao-cheng-shi.md)
+    * [IoT版說明書與參考程式](kits/sensegreen-nurture-hub/iot-ban-shuo-ming-shu-yu-can-kao-cheng-shi.md)
   * [智能氣象站套件](kits/smartweatherstation/README.md)
     * [智能氣象站介紹](kits/smartweatherstation/smartweatherstationintro.md)
     * [語音氣象站模型案例教學](kits/smartweatherstation/instructions_asr/README.md)
