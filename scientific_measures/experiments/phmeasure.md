@@ -8,9 +8,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit+Robotbit
 * pH酸鹼值測量儀器
 * 三色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -37,6 +39,18 @@
 
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=wbTTXVtlmf-O4V4T&t=71" %}
+
+### Micro:bit版本
+
+#### 硬件接線
+
+<figure><img src="https://sharinghub.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F879637118-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6uJvpXC43onNIIwhMlWo%252Fuploads%252FLDX1nuCeyNOgCcbGZOkJ%252Fph_edu.png%3Falt%3Dmedia%26token%3D4f73b373-0613-42a5-9714-0e9b1dc4a1b5&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=2f5feaab&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_iRVWuWA688PL" %}
+
+[下載參考程式](https://makecode.microbit.org/_iRVWuWA688PL)
 
 ### 注意事項
 

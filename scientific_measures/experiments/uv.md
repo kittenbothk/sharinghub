@@ -6,9 +6,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit + Robotbit
 * 紫外線測量儀器
 * 黑色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -32,5 +34,15 @@
 
 <figure><img src="../../.gitbook/assets/uvdisplay.png" alt=""><figcaption></figcaption></figure>
 
+### Micro:bit版本
 
+#### 硬件接線
+
+<figure><img src="../../.gitbook/assets/uv_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_1imLMHbRf9mk" %}
+
+[下載參考程式](https://makecode.microbit.org/_1imLMHbRf9mk)
 
