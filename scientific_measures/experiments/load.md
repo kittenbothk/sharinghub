@@ -6,9 +6,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit + Robotbit
 * 電子磅儀器
 * 黑色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -34,3 +36,14 @@
 
 
 
+### Micro:bit版本
+
+#### 硬件接線
+
+<figure><img src="../../.gitbook/assets/loadcell_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_28P5YwcPm486" %}
+
+[下載參考程式](https://makecode.microbit.org/_28P5YwcPm486)
