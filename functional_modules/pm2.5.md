@@ -1,6 +1,6 @@
 # PM2.5 感應器
 
-<figure><img src="../.gitbook/assets/pmsensor1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmsensor_ver2.png" alt=""><figcaption></figcaption></figure>
 
 PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了PM2.5粒子外還可以檢測到PM10和PM1.0的濃度。
 
@@ -20,13 +20,13 @@ PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了
 
 #### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png)
 
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
