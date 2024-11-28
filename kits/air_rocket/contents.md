@@ -1,6 +1,6 @@
 # 套件內容
 
-<figure><img src="../../.gitbook/assets/氣動火箭發射實驗套件cover sheet (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/氣動火箭發射實驗套件cover sheet (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 注意: 本產品並不包含Micro:bit，如有需要請另外購買
@@ -19,6 +19,7 @@
 * 推杆 x2
 * 連接線 x1
 * 透明膠紙 x8
+* USB電池盒 x1
 
 ## 選配配件
 
