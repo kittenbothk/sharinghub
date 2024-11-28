@@ -8,9 +8,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit + Robotbit
 * 水溫測量儀器
 * 白色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -30,3 +32,14 @@
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=uxVtkBOAPKfxZZc7&t=110" %}
 
+### Micro:bit版本
+
+#### 硬件接線
+
+<figure><img src="https://sharinghub.kittenbot.hk/~gitbook/image?url=https%3A%2F%2Fkittenbothk.readthedocs.io%2Fen%2Flatest%2F_images%2Fwatertemp_wire.png&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=cc215f6&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_200R5e1Pb9cw" %}
+
+[下載參考程式](https://makecode.microbit.org/_200R5e1Pb9cw)

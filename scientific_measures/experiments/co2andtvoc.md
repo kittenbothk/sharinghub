@@ -8,9 +8,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit + Robotbit
 * 二氧化碳測量儀器
 * 黑色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -38,3 +40,16 @@
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=KCR2ZkR3U05O0H81&t=261" %}
 
+### Micro:bit版本
+
+#### 硬件接線
+
+<figure><img src="../../.gitbook/assets/co2_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_YE3KWmYU401x" %}
+
+
+
+[下載參考程式](https://makecode.microbit.org/_YE3KWmYU401x)

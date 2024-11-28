@@ -10,9 +10,11 @@
 
 #### 請同學準備以下實驗硬件:
 
-* 未來板Lite 顯示板
+* 未來板Lite 顯示板 / Micro:bit+Robotbit
 * PM2.5測量儀器
 * 黑色連接線
+
+### 未來板Lite版本
 
 #### 硬件接線
 
@@ -40,3 +42,14 @@
 
 {% embed url="https://www.youtube.com/watch?t=17s&v=keSccyhM_FE" %}
 
+### Micro:bit版本
+
+#### 硬件接線
+
+<figure><img src="../../.gitbook/assets/pmsensor_edu.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_ERMXCCe6zDVi" %}
+
+[下載參考程式](https://makecode.microbit.org/_gq9DAhdrU4FM)
