@@ -12,7 +12,7 @@ AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能
 
 {% embed url="https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_campaign=designshare&utm_content=DAGS4jnuzC0&utm_medium=link&utm_source=editor" %}
 
-[下載說明書](https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm\_content=DAGS4jnuzC0\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor)
+[下載說明書](https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_content=DAGS4jnuzC0\&utm_campaign=designshare\&utm_medium=link\&utm_source=editor)
 
 ### 接線圖
 
@@ -30,8 +30,8 @@ AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能
 
 ### 套件內容
 
-1. Robotbit EDU連底座 \*1
-2. KOI AI鏡頭 \*1
+1. Robotbit 2.2連底座 \*1
+2. KOI 2 AI鏡頭 \*1
 3. GeekServo 2KG灰色舵機 \*2
 4. 積木件 \*1套
 5. 氣墊球機 \*1
