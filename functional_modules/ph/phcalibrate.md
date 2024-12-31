@@ -1,4 +1,4 @@
-# pH探測棒重新校正(高階用家)
+# pH探測棒重新校正(重新較正用)
 
 ### <mark style="color:orange;">Kittenbot 的pH感應器在出廠時已經進行了模板校正;</mark>&#x20;
 
@@ -68,14 +68,10 @@
 
 1. 將pH感應器浸入pH4.0的緩衝液裏，並等待1分鐘然後按下A鍵。
 
-<figure><img src="../../.gitbook/assets/ph_cal4.png" alt=""><figcaption></figcaption></figure>
-
 <div><figure><img src="../../.gitbook/assets/ph_cal4_lite1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/ph_cal4_lite2.png" alt=""><figcaption></figcaption></figure></div>
 
 4. 使用蒸餾水沖洗探測棒然後紙巾徹底清潔和抹乾探測棒。
 5. 將pH感應器浸入pH9.18的緩衝液裏，並等待1分鐘然後按下B鍵。
-
-<figure><img src="../../.gitbook/assets/ph_cal9.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ph_cal9_lite1.png" alt=""><figcaption></figcaption></figure>
 
