@@ -1,25 +1,33 @@
-# pH酸鹼值感應器
+# pH酸鹼值探測組合
 
 <figure><img src="../../.gitbook/assets/ph_ver2.png" alt=""><figcaption></figcaption></figure>
 
-pH酸鹼值感應器可以檢測液體的pH值。
+pH酸鹼值採測組合可以檢測液體的pH值。
 
-### 產品參數
+### <mark style="color:orange;">產品參數</mark>
 
 * 檢測範圍: pH 0 \~ pH 14
 * 工作溫度: 0\~60 ℃
 * 工作電壓: 5V
 * 反應時間: 1分鐘
 
-### 產品內容
+### <mark style="color:orange;">產品內容</mark>
 
-1. pH探測感應器
-2. pH感應器轉接模組
-3. pH4.00校正液
-4. pH6.86校正液
-5. pH9.18校正液
+1. 轉接模組
+2. pH探測棒
 
-### 注意事項
+
+
+### <mark style="color:orange;">用前小知識</mark> 
+
+1. 轉接模組 及 pH探測棒皆需要預先進行較正。
+2. Kittenbot 的pH酸鹼值探測組合在出廠時已經進行了完整校正，一般用家並不需要再進行校正。
+3. 由於轉接模組 及 pH探測棒需要<mark style="color:red;">**配合同時使用**</mark><mark style="color:red;">,</mark> 較正好的組合<mark style="color:red;">**不能分拆**</mark>跟另一組合混合使用, 除非再次進行較正, 取得新組合的較正值。
+4. <mark style="color:green;">如配合未來板lite</mark> 使用, 轉接模組+ pH探測棒的較正值需預先寫入未來板lite。寫入方法請參考[配對使用教學](phvalues_futurelite.md)。
+5. 同一組合(即未來板lite+接模組+ pH探測棒)只需寫入1次較正值, 下次使用不需再次寫入。如未來板lite A配搭上另一組pH探測組合B 使用, 便需要重覆上述步驟4, 寫入新的較正值。
+6. <mark style="color:green;">如配合microbit</mark> 使用, 只需在程式積木中, 寫入出廠所提供的較正值便可, 詳情參考[編程教學](phuse.md)。
+
+### <mark style="color:orange;">注意事項</mark>
 
 1. 感應器頭部帶有保護蓋，使用前請小心扭下保護瓶，然後將瓶蓋拆下來。
 2. 請勿弄污、弄花感應器的頭部。
@@ -33,9 +41,9 @@ pH酸鹼值感應器可以檢測液體的pH值。
 
 將3V3線接到VCC針腳，GND線接到GND針腳，訊號線(P0, P1, P2)接到S針腳。
 
-<figure><img src="../../.gitbook/assets/ph_wiring_back.png" alt=""><figcaption><p>模組接線(背面)</p></figcaption></figure>
 
 
+<table><thead><tr><th width="100">擴展板</th><th width="100">pH轉接模組</th></tr></thead><tbody><tr><td>3V3</td><td>V</td></tr><tr><td>GND</td><td>G</td></tr><tr><td>P0/P1/P2</td><td>S</td></tr></tbody></table>
 
 ### Robotbit EDU
 
