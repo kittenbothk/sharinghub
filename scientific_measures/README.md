@@ -27,3 +27,15 @@
 
 總共9個程式
 
+* co2\_i2c.py
+* loadcell\_i2c.py
+* ph\_load\_p1.py
+* ph\_save\_p1.py
+* pmsensor\_i2c.py
+* sound\_p1.py
+* turbidity\_p1.py
+* uv\_i2c.py
+* watertemp\_p1.py
+
+<div><figure><img src="../.gitbook/assets/programlist1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/programlist2 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/programlist3 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+
