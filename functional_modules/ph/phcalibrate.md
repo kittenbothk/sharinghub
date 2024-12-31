@@ -28,31 +28,29 @@
 
 ### <mark style="color:orange;">如何再次為pH 探測棒較正?</mark>
 
-1. 先按[教學](buffersolution.md), 準備好4.0及9.18緩衝液。
-
 #### <mark style="color:blue;">microbit 用戶</mark>
 
-2\.
-
-??. 利用以下程式較正值獲取較正
-
-####
-
-#### pH校正值可以透過程式匯出，方便下次使用時不需要再進行軟體校正。
+1. 先按[教學](buffersolution.md), 準備好4.0及9.18緩衝液。
+2. 下載以下程式到Micro:bit。
 
 {% embed url="https://makecode.microbit.org/_ibPKjtApFKXm" %}
 
 #### [參考程式](https://makecode.microbit.org/_ibPKjtApFKXm)
 
-### 校正步驟
+3. 將pH感應器浸入pH4.0的緩衝液裏，並等待1分鐘然後按下A鍵。
 
-1. 首先將pH感應器浸入pH4.0的緩衝液裏。
+<figure><img src="../../.gitbook/assets/ph_cal4.png" alt=""><figcaption></figcaption></figure>
 
-請將Micro:bit顯示的兩個數值抄下來。
+4. 使用蒸餾水沖洗探測棒然後紙巾徹底清潔和抹乾探測棒。
+5. 將pH感應器浸入pH9.18的緩衝液裏，並等待1分鐘然後按下B鍵。
+
+<figure><img src="../../.gitbook/assets/ph_cal9.png" alt=""><figcaption></figcaption></figure>
+
+6. 按下A+B鍵，然後將Micro:bit顯示的AB較正值抄下來。
 
 ![](https://kittenbothk.readthedocs.io/en/latest/_images/ph_export2.gif)
 
-下次使用時，就可以將抄下來的A和B數值寫入設定積木，可以跳過校正步驟。
+7. 下次使用時，就可以將抄下來的A和B數值寫入設定積木直接使用。
 
 <pre><code><strong>每隻pH感應器的校正數值都可能不一樣，有可能不可以共通使用。
 </strong></code></pre>
@@ -60,3 +58,26 @@
 {% embed url="https://makecode.microbit.org/_1U7VAifgsduh" %}
 
 #### [參考程式](https://makecode.microbit.org/_1U7VAifgsduh)
+
+#### <mark style="color:blue;">未來板Lite 用戶</mark>
+
+1. 先按[教學](buffersolution.md), 準備好4.0及9.18緩衝液。
+2. 打開未來板上預載程式ph\_save\_p1.py。
+
+
+
+1. 將pH感應器浸入pH4.0的緩衝液裏，並等待1分鐘然後按下A鍵。
+
+<figure><img src="../../.gitbook/assets/ph_cal4.png" alt=""><figcaption></figcaption></figure>
+
+4. 使用蒸餾水沖洗探測棒然後紙巾徹底清潔和抹乾探測棒。
+5. 將pH感應器浸入pH9.18的緩衝液裏，並等待1分鐘然後按下B鍵。
+
+<figure><img src="../../.gitbook/assets/ph_cal9.png" alt=""><figcaption></figcaption></figure>
+
+6. 按下A+B鍵，然後將Micro:bit顯示的AB較正值抄下來。
+7. 下次使用時，就可以將抄下來的A和B數值寫入設定積木直接使用。
+
+<pre><code><strong>每隻pH感應器的校正數值都可能不一樣，有可能不可以共通使用
+</strong></code></pre>
+
