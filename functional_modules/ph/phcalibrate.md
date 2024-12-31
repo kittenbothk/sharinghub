@@ -52,7 +52,7 @@
 
 7. 下次使用時，就可以將抄下來的A和B數值寫入設定積木直接使用。
 
-<pre><code><strong>每隻pH感應器的校正數值都可能不一樣，有可能不可以共通使用。
+<pre><code><strong>每支pH探測棒的校正數值都可能不一樣，不可以共通使用。
 </strong></code></pre>
 
 {% embed url="https://makecode.microbit.org/_1U7VAifgsduh" %}
