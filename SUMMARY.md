@@ -226,7 +226,7 @@
     * [Sugar 二期數字鍵盤模組](functional_modules/sugar/numpad.md)
     * [Sugar 二期RGB燈圈模組](functional_modules/sugar/rgbring.md)
   * [污水混濁度感應器](functional_modules/turbidity.md)
-  * [pH值感應器](functional_modules/ph/README.md)
+  * [pH酸鹼值探測組合](functional_modules/ph/README.md)
     * [pH酸鹼值探測組合](functional_modules/ph/phsensor.md)
     * [pH酸鹼值探測組合+Micro:bit編程教學](functional_modules/ph/phuse.md)
     * [pH酸鹼值探測組合+未來板Lite配對使用教學](functional_modules/ph/phvalues_futurelite.md)
