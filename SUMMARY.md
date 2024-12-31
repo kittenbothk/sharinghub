@@ -703,4 +703,5 @@
     * [紫外線測量](scientific_measures/experiments/uv.md)
     * [電子磅](scientific_measures/experiments/load.md)
     * [未來板Lite操作教學](scientific_measures/experiments/futureboard_lite_operations.md)
+    * [未來板Lite 程式復原教學](scientific_measures/experiments/wei-lai-ban-lite-cheng-shi-fu-yuan-jiao-xue.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
