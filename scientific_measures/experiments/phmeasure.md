@@ -18,13 +18,13 @@
 
 請同學將pH酸鹼值儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../../../.gitbook/assets/ph_wiring (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ph_wiring (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
 請同學在未來板Lite上開啟「ph\_load\_p1.py」檔案。
 
-<figure><img src="../../../.gitbook/assets/phloadprogram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/phloadprogram.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@
 
 未來板Lite會一直顯示測量到的酸鹼值(pH)。
 
-<figure><img src="../../../.gitbook/assets/phloaddisplay.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/phloaddisplay.png" alt=""><figcaption></figcaption></figure>
 
 
 

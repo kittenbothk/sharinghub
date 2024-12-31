@@ -46,8 +46,8 @@
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="phmeasure/" %}
-[phmeasure](phmeasure/)
+{% content-ref url="phmeasure.md" %}
+[phmeasure.md](phmeasure.md)
 {% endcontent-ref %}
 
 ### 紫外線測量
