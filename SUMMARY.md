@@ -232,7 +232,7 @@
     * [pH校正緩衝液使用教學(高階用戶)](functional_modules/ph/buffersolution.md)
     * [pH感應器硬體校正(高階用戶)](functional_modules/ph/phtune.md)
     * [pH值感應器重新校正(高階用家)](functional_modules/ph/phcalibrate.md)
-    * [pH值感應器未來板Lite使用教學](functional_modules/ph/phvalues_futurelite.md)
+    * [pH值感應器未來板Lite初次使用教學](functional_modules/ph/phvalues_futurelite.md)
   * [PM2.5 感應器](functional_modules/pm2.5.md)
   * [KittenClock時鐘模組](functional_modules/kittenclock.md)
   * [手指模辨識模組](functional_modules/fingerprint.md)
