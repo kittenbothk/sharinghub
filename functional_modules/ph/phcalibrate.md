@@ -64,19 +64,23 @@
 1. 先按[教學](buffersolution.md), 準備好4.0及9.18緩衝液。
 2. 打開未來板上預載程式ph\_save\_p1.py。
 
-
+<figure><img src="../../.gitbook/assets/ph_save_p1.png" alt=""><figcaption></figcaption></figure>
 
 1. 將pH感應器浸入pH4.0的緩衝液裏，並等待1分鐘然後按下A鍵。
 
 <figure><img src="../../.gitbook/assets/ph_cal4.png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../../.gitbook/assets/ph_cal4_lite1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/ph_cal4_lite2.png" alt=""><figcaption></figcaption></figure></div>
 
 4. 使用蒸餾水沖洗探測棒然後紙巾徹底清潔和抹乾探測棒。
 5. 將pH感應器浸入pH9.18的緩衝液裏，並等待1分鐘然後按下B鍵。
 
 <figure><img src="../../.gitbook/assets/ph_cal9.png" alt=""><figcaption></figcaption></figure>
 
-6. 按下A+B鍵，然後將Micro:bit顯示的AB較正值抄下來。
-7. 下次使用時，就可以將抄下來的A和B數值寫入設定積木直接使用。
+<figure><img src="../../.gitbook/assets/ph_cal9_lite1.png" alt=""><figcaption></figcaption></figure>
+
+6. 校正值就會儲存到未來板Lite上。
+7. 下次使用時就可以直接打開ph\_load\_p1.py使用。
 
 <pre><code><strong>每隻pH感應器的校正數值都可能不一樣，有可能不可以共通使用
 </strong></code></pre>
