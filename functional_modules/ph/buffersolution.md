@@ -1,8 +1,8 @@
-# pH校正緩衝液使用教學
+# pH緩衝液準備教學(高階用戶)
 
-pH值感應儀需要配合pH校正緩衝液使用，請按照以下教學沖制緩衝液。
+pH探測棒較正時, 需要pH校正緩衝液協助下進行，請按照以下教學沖制緩衝液。
 
-<figure><img src="../../.gitbook/assets/20240729_132754.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240729_132754.jpg" alt=""><figcaption><p>3款pH校正緩衝液</p></figcaption></figure>
 
 首先準備以下材料：
 
@@ -10,7 +10,7 @@ pH值感應儀需要配合pH校正緩衝液使用，請按照以下教學沖制�
 * 緩衝液沖劑粉(pH 4.00, pH 6.86, pH 9.18各一包)
 * 緩衝液標籤貼紙
 
-以下以pH6.86緩衝液為例。
+以下以pH6.86緩衝液為例
 
 ### 調製緩衝液
 
@@ -26,7 +26,7 @@ pH值感應儀需要配合pH校正緩衝液使用，請按照以下教學沖制�
 
 扭緊樽蓋然後搖勻溶液，確保所有粉末都被水溶解。完成後貼上標籤貼紙。
 
-<figure><img src="../../.gitbook/assets/20240729_133259 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240729_133259 (1).jpg" alt=""><figcaption><p>pH 6.86 校正液</p></figcaption></figure>
 
 ### 緩衝液使用指引
 
