@@ -8,11 +8,15 @@
 
 {% embed url="https://makecode.microbit.org/_ibPKjtApFKXm" %}
 
-#### [參考程式](https://makecode.microbit.org/\_ibPKjtApFKXm)
+#### [參考程式](https://makecode.microbit.org/_ibPKjtApFKXm)
+
+### 校正步驟
+
+1. 首先將pH感應器浸入pH4.0的緩衝液裏。
 
 請將Micro:bit顯示的兩個數值抄下來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ph\_export2.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ph_export2.gif)
 
 下次使用時，就可以將抄下來的A和B數值寫入設定積木，可以跳過校正步驟。
 
@@ -22,4 +26,4 @@
 
 {% embed url="https://makecode.microbit.org/_1U7VAifgsduh" %}
 
-#### [參考程式](https://makecode.microbit.org/\_1U7VAifgsduh)
+#### [參考程式](https://makecode.microbit.org/_1U7VAifgsduh)
