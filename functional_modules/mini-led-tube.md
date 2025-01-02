@@ -11,6 +11,8 @@
 3. 可以串聯多個燈條
 4. 散光罩令燈光效果更柔和
 
+<figure><img src="../.gitbook/assets/ledtube3.png" alt=""><figcaption></figcaption></figure>
+
 ### 產品參數
 
 * 工作電壓：3V\~5V
@@ -39,8 +41,8 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
-#### 超聲波模組積木塊：
+#### NeoPixel積木塊：
 
-**距離檢測編程(有洞版)：**
+{% embed url="https://makecode.microbit.org/_fvDR70C9VMVs" %}
 
-參考程式網址
+[參考程式網址](https://makecode.microbit.org/_fvDR70C9VMVs)
