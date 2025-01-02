@@ -240,6 +240,7 @@
   * [貓耳超聲波3.0](functional_modules/ultrasound.md)
   * [Geekservo風扇](functional_modules/geekfan.md)
   * [FM收音機模組](functional_modules/fmradio.md)
+  * [Mini LED Tube](functional_modules/mini-led-tube.md)
   * [RGB LED燈條和燈板](functional_modules/rgb/README.md)
     * [全彩LED燈條](functional_modules/rgb/ledstrip.md)
     * [流光溢彩屏](functional_modules/rgb/ledmatrix/README.md)
