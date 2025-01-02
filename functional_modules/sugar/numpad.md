@@ -1,6 +1,6 @@
 # Sugar 二期數字鍵盤模組
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 這是一個16鍵的電容式觸碰鍵盤模組，適合用於智能家居密碼門等輸入場景。
 
@@ -27,7 +27,7 @@
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -37,5 +37,5 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_Eo6EWi95DgRP" %}
 
-[參考程式](https://makecode.microbit.org/\_AE3Hc2VWP30J)
+[參考程式](https://makecode.microbit.org/_AE3Hc2VWP30J)
 

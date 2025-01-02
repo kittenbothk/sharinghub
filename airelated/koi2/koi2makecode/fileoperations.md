@@ -22,7 +22,7 @@ KOI 2現時可以將檔案放在內部儲存空間，如需刪除或複製內存
 
 加載成功後，積木欄會新增koi2的積木。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程積木
 
@@ -44,7 +44,7 @@ KOI 2的SD卡要求比較高，請使用高速micro SD卡(class 10或以上)
 
 {% embed url="https://makecode.microbit.org/_UMJXhTMz17Hc" %}
 
-[參考程式](https://makecode.microbit.org/\_UMJXhTMz17Hc)
+[參考程式](https://makecode.microbit.org/_UMJXhTMz17Hc)
 
 #### 程式解說
 

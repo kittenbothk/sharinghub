@@ -12,7 +12,7 @@
 
 加載成功後，積木欄會新增koi2的積木。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程積木
 
@@ -28,7 +28,7 @@ Armourbit用家請使用初始化Armourbit積木。
 
 {% embed url="https://makecode.microbit.org/_Auhc1gdeRakV" %}
 
-[參考程式](https://makecode.microbit.org/\_Auhc1gdeRakV)
+[參考程式](https://makecode.microbit.org/_Auhc1gdeRakV)
 
 #### 程式解說
 

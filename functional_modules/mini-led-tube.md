@@ -23,7 +23,13 @@
 
 ### Robotbit EDU
 
+<figure><img src="../.gitbook/assets/ledtube_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
 ### Robotbit 2.2
+
+<figure><img src="../.gitbook/assets/ledtube_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### MakeCode編程教學
 
@@ -42,6 +48,8 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 #### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 #### NeoPixel積木塊：
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://makecode.microbit.org/_fvDR70C9VMVs" %}
 

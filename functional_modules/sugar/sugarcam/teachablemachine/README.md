@@ -22,19 +22,11 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 
 將Sugar Cam連接到電腦。然後按一下Reset，再按一下A鍵，此時Sugar Cam會亮一下紅燈，然後電腦出現UF2\_Sugar的硬碟。
 
-<div data-full-width="false">
-
-<figure><img src="../../../../.gitbook/assets/VideoToGif_08-11-2023-11-27.gif" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../../../.gitbook/assets/VideoToGif_08-11-2023-11-27.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 打開資料夾裡的Klink.exe。
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 選擇Modules\&Applications。然後選擇Teachable Machine的Load Plugin。
 
@@ -54,15 +46,7 @@ Sugar Cam亦都支援Teachable Machine驅動的AI圖像辨識功能，請參考�
 
 點擊Connect，成功的話介面會出現Sugar Cam的畫面。
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 切換到普通模式
 

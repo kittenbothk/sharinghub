@@ -16,7 +16,7 @@
 
 加載成功後，積木欄會新增koi2的積木。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 編程積木
 
@@ -38,7 +38,7 @@ Armourbit用家請使用初始化Armourbit積木。
 
 {% embed url="https://makecode.microbit.org/_cEy78WKd6XVR" %}
 
-[參考程式](https://makecode.microbit.org/\_cEy78WKd6XVR)
+[參考程式](https://makecode.microbit.org/_cEy78WKd6XVR)
 
 #### 程式解說
 
@@ -51,15 +51,7 @@ Armourbit用家請使用初始化Armourbit積木。
 假如KOI 2未能成功連線，KOI 2會顯示0.0.0.0。
 {% endhint %}
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/no_internet.png" alt=""><figcaption><p>未能連接Wifi網絡</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/internet.png" alt=""><figcaption><p>成功連接WiFi網絡</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/no_internet.png" alt=""><figcaption><p>未能連接Wifi網絡</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/internet.png" alt=""><figcaption><p>成功連接WiFi網絡</p></figcaption></figure></div>
 
 ### 連接MQTT與收發信息
 
@@ -71,7 +63,7 @@ Armourbit用家請使用初始化Armourbit積木。
 
 {% embed url="https://makecode.microbit.org/_CgYhzEgsX22E" %}
 
-[參考程式](https://makecode.microbit.org/\_CgYhzEgsX22E)
+[參考程式](https://makecode.microbit.org/_CgYhzEgsX22E)
 
 #### 程式解說
 
@@ -83,7 +75,7 @@ Armourbit用家請使用初始化Armourbit積木。
 
 {% embed url="https://makecode.microbit.org/_DovYtzcEhbfk" %}
 
-[參考程式](https://makecode.microbit.org/\_DovYtzcEhbfk)
+[參考程式](https://makecode.microbit.org/_DovYtzcEhbfk)
 
 發送訊息的積木必須按照以下格式填寫，請將主題名稱填進話題，並且將話題的數據類型識別碼取代數據類型。
 
