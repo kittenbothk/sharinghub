@@ -29,7 +29,9 @@
 
 <figure><img src="../.gitbook/assets/ledtube_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
+### 串聯接線
 
+<figure><img src="../.gitbook/assets/ledtube_multiple.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
