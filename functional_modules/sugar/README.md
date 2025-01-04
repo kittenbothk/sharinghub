@@ -99,7 +99,7 @@ description: 這裡集合了Sugar系列各款感應器模組的介紹與教學�
 {% endcontent-ref %}
 
 {% content-ref url="i2c_hub.md" %}
-[i2c\_hub.md](i2c\_hub.md)
+[i2c\_hub.md](i2c_hub.md)
 {% endcontent-ref %}
 
 {% content-ref url="grayscale.md" %}
@@ -119,11 +119,11 @@ description: 這裡集合了Sugar系列各款感應器模組的介紹與教學�
 {% endcontent-ref %}
 
 {% content-ref url="solar_panel.md" %}
-[solar\_panel.md](solar\_panel.md)
+[solar\_panel.md](solar_panel.md)
 {% endcontent-ref %}
 
-{% content-ref url="loadcell.md" %}
-[loadcell.md](loadcell.md)
+{% content-ref url="loadcell/" %}
+[loadcell](loadcell/)
 {% endcontent-ref %}
 
 {% content-ref url="uv.md" %}
