@@ -25,7 +25,7 @@
 污水混濁度感應器建議配合水溫感應器一同使用，以下圖表忽略去水溫感應器的接線，請自行參考有關教學。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/turbidity_edu.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/turbidity_edu.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/turbidityV2_edu.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Robotbit 2.2
 
@@ -62,13 +62,13 @@
 
 {% embed url="https://makecode.microbit.org/_dopeRaesaKgY" %}
 
-[參考程式網址](https://makecode.microbit.org/\_WjmH6zahVTUe)
+[參考程式網址](https://makecode.microbit.org/_WjmH6zahVTUe)
 
 #### 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode\_extensionUpdate.html)
+詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode_extensionUpdate.html)
 
 ### 未來板KittenBlock編程教學
 

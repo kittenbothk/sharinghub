@@ -1,4 +1,4 @@
-# 污水混濁度測量
+# 6.污水混濁度測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FCg3h4E22a2raNnDEC8Zg%2Fimage.png?alt=media&#x26;token=d515962b-28cd-46aa-bb02-bb2ad9ae757e" alt=""><figcaption></figcaption></figure>
 
@@ -50,12 +50,10 @@
 
 #### 硬件接線
 
-<figure><img src="https://sharinghub.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F879637118-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6uJvpXC43onNIIwhMlWo%252Fuploads%252FnF0MYXm5lZX0MHPdJpnF%252Fturbidity_edu.png%3Falt%3Dmedia%26token%3D17d170a2-2e9a-46b2-8e8c-e0172304fe38&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b7012be3&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turbidityV2_edu.png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
 {% embed url="https://makecode.microbit.org/_H5EhyE8u5hqd" %}
-
-
 
 [下載參考程式](https://makecode.microbit.org/_H5EhyE8u5hqd)
