@@ -34,3 +34,4 @@ Micro:bit上使用稱重模組需要手動輸入校正數值。首先打開以�
 
 <figure><img src="../../../.gitbook/assets/loadcell_calibrate_mb (1).png" alt=""><figcaption></figcaption></figure>
 
+aaa

@@ -40,6 +40,14 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### 量度重量
 
-{% embed url="https://makecode.microbit.org/_aaoKocVruX1t" %}
+Micro:bit上使用稱重模組需要手動輸入校正數值。首先打開以下參考程式。
 
-[參考程式](https://makecode.microbit.org/_W020dvAC6XTU)
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_HmwKUrD8iPW9" %}
+
+[下載參考程式](https://makecode.microbit.org/_HmwKUrD8iPW9)
+
+在程式中將模組背後印有的校正數值填在程式的 設定校準值 積木裡面。
+
+<figure><img src="../../../.gitbook/assets/loadcell_calibrate_mb (1).png" alt=""><figcaption></figcaption></figure>
