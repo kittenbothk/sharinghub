@@ -663,6 +663,7 @@
     * [Makecode插件版本更換](programmingplatforms/makecode/makecodeextupdate.md)
     * [在平板電腦上使用MakeCode對Micro:bit編程](programmingplatforms/makecode/zai-ping-ban-dian-nao-shang-shi-yong-makecode-dui-microbit-bian-cheng.md)
   * [Kittenblock大全](programmingplatforms/kittenblock/README.md)
+    * [全新在線版Kittenblock介紹](programmingplatforms/kittenblock/quan-xin-zai-xian-ban-kittenblock-jie-shao.md)
     * [Kittenblock安裝](programmingplatforms/kittenblock/kttenblockgreen.md)
     * [完整移除KittenBlock 1.88](programmingplatforms/kittenblock/wan-zheng-yi-chu-kittenblock-1.88.md)
     * [Kittenblock介面介紹](programmingplatforms/kittenblock/interface/README.md)
