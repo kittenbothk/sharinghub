@@ -10,22 +10,22 @@ Kittenblock內置IoT平台的特點在於免費，容易使用，不需外網，
 
 打開KittenBlock。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kb12.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kb12.png)
 
 打開IoT面板。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kb22.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kb22.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kb32.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kb32.png)
 
 在本地服務器頁面中啟動伺服器。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kb42.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kb42.png)
 
 ### 安裝KittenBlock
 
-[下載KittenBlock](../../programmingplatforms/kittenblock/kttenblockgreen.md)
+[下載KittenBlock](../../programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/kttenblockgreen.md)
 
 ### Makecode 編程與KittenBlock
 
-[Makecode編程教學](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/MakeCode/mc\_kb.html)
+[Makecode編程教學](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/MakeCode/mc_kb.html)

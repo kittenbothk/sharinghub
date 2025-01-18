@@ -10,23 +10,23 @@ MicroCode支援Micro:bit V2，用家只需要將MicroCode下載到Micro:bit就�
 
 假如還未下載MicroCode到Micro:bit上，可以按Download MicroCode下載。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 然後將hex檔上傳到Micro:bit。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 連接電池盒到Newbit。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/newbit2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/newbit2.png)
 
 打開電源後屏幕就會顯示MicroCode的介面。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/newbit3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/newbit3.png)
 
 然後就可以開始編程。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/newbit4.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/newbit4.png)
 
 ### 編程教學
 

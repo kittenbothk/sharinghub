@@ -4,7 +4,7 @@
 
 ## 有興趣的同工請密切留意～
 
-<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 為了迎合香港STEM教育的課堂需求，KittenBot開發了全新的在線版KittenBlock編程平台。除了提升用戶的使用體驗和便利性之外，更加加入大量功能強勁的AI人工智能插件，令到學生可以在課堂裏也能體驗最精銳的人工智能功能，培育成為未來的AI人才。
 
@@ -55,7 +55,7 @@
     * 生成式人工智能: 語境
       * 創建一個獨特的聊天機械人然後和他對話
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 * 支援Google登入
   * 管理雲端作品
