@@ -6,7 +6,7 @@
 
 [Teachable Machine with Google](https://teachablemachine.withgoogle.com/train)
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 開啟Image Project，選擇Embedded Image Model。
 
@@ -20,37 +20,21 @@
 Teachable Machine只可使用黑白相片訓練，而且解像度只是96x96，所以請確保訓練的物件輪廓清晰並有較大分別。
 {% endhint %}
 
-<div data-full-width="true">
-
-<figure><img src="../../../../.gitbook/assets/d.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../../../.gitbook/assets/d.gif" alt=""><figcaption></figcaption></figure></div>
 
 然後按Train Model。完成後可以Connect Device，驗證模型的準確度。
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Teachable Machine模型匯出
 
 滿意模型的準確度後就可以匯出模型檔案。按Export Model，然後選擇TensorFlow Lite，選擇TensorFlow Lite for Microcontrollers。按Download my Model。
 
-<figure><img src="../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 完成後你會下載一個名為converted\_tinyml.zip的檔案。
 
-<figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 然後回到Teachable Machine小程式，將模型檔案上傳到Sugar Cam。完成後再按Connect，Sugar Cam辨認的結果會顯示在小程式的左下方。
 
