@@ -2,6 +2,11 @@
 
 <figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+生成式人工智能: AI大模型
+
+* 創建自己的AI大模型機械人
+* 與聊天機械人對話及生成圖像
+
 ## 創建AI大模型聊天機械人
 
 假如你想創建自己的AI大模型機械人，你需要創建/登入自己的KZone帳號。

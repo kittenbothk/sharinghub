@@ -1,5 +1,9 @@
 # Kittenbot機器學習
 
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+圖像辨識，姿態分類和音頻分類
+
 ## 模型訓練教學
 
 首先打開模型訓練工具。

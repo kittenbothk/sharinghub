@@ -2,6 +2,10 @@
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+車牌識別
+
+* 從圖像中識別中國車牌的內容
+
 ## 積木介紹
 
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

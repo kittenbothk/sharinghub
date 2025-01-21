@@ -2,6 +2,10 @@
 
 <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+文字識別(Optical Character Recognition)
+
+* 從圖像中提取文字，支援手寫與印刷字體
+
 ## 積木介紹
 
 <figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
