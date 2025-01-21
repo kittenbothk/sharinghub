@@ -4,9 +4,9 @@ Kittenblock是未來板的主要編程平台。
 
 Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/kttenblockgreen.md)
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner10.png)
-
 ### KittenBlock快速開始
+
+### 1.數據線連接未來板
 
 #### 使用數據線連接未來板
 
@@ -38,17 +38,39 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 假如你使用Windows 7作業系統，系統可能缺乏所需的串口驅動程式。請下載此檔案，手動安裝驅動程式。
 
-#### 4. 點擊積木，測試連接。
+### 2.藍牙連接未來板(在線版KittenBlock)
 
-點擊Kittenblock的積木，未來板應該會即時作出反應。
+{% hint style="info" %}
+此功能只支援在線版KittenBlock
+{% endhint %}
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenblock5.png)
+#### 1.按實未來板的A按鍵， 打開電源。
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenblock6.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/usb.png)
 
-假如點擊後沒有反應，請點擊恢復固件。
+#### 2.開啟網絡選項，選擇Start Bluetooth。
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenblock7.png)
+<div><figure><img src="../../../.gitbook/assets/20250121_124054.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20250121_124119.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20250121_124131.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### 3. 打開Kittenblock，在硬件欄選擇未來板。
+
+<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+
+#### 4.選擇藍牙連接
+
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+#### 5.按照未來板上顯示的藍芽ID選擇相應的未來板。
+
+<div><figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/20250121_124131.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+#### 6.完成後未來板會顯示Hello Future
+
+{% hint style="info" %}
+注意：在藍芽模式下，未來板不能使用IoT相關的網絡功能
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/20250121_125103.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 在線使用: Kittenblock實時編程
 
