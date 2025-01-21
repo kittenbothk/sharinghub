@@ -675,6 +675,7 @@
         * [車牌辨識](programmingplatforms/kittenblock/online/aifunctions/license.md)
         * [大模型聊天機械人](programmingplatforms/kittenblock/online/aifunctions/chatbot.md)
         * [語境](programmingplatforms/kittenblock/online/aifunctions/yu-jing.md)
+        * [Kittenbot機器學習](programmingplatforms/kittenblock/online/aifunctions/ml.md)
     * [安裝版KittenBlock](programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/README.md)
       * [Kittenblock安裝](programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/kttenblockgreen.md)
       * [完整移除KittenBlock 1.88](programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/wan-zheng-yi-chu-kittenblock-1.88.md)
