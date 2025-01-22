@@ -60,9 +60,9 @@
 注意：濁度感應器的頂部沒有防水，請不要將感應器完全浸入水中。
 ```
 
-{% embed url="https://makecode.microbit.org/_dopeRaesaKgY" %}
+{% embed url="https://makecode.microbit.org/_RwJDheeo578f" %}
 
-[參考程式網址](https://makecode.microbit.org/_WjmH6zahVTUe)
+[參考程式網址](https://makecode.microbit.org/_RwJDheeo578f)
 
 #### 插件版本與更新
 
