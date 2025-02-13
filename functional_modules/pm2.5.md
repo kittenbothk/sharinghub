@@ -12,15 +12,23 @@ PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了
 
 ### 接線教學
 
+### Robotbit EDU
+
 將感應器連接到Robotbit EDU的I2C接口。
 
 <figure><img src="../.gitbook/assets/pmsensor_edu.png" alt=""><figcaption></figcaption></figure>
 
+### Robotbit 2.2
+
+將感應器連接到Robotbit 2.2的I2C接口。
+
+<figure><img src="../.gitbook/assets/pmsensor_2.2.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 編程教學
 
 #### MakeCode編程教學
-
-![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png)
 
 #### 加載Sugar插件：
 
