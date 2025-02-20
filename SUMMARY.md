@@ -80,6 +80,7 @@
     * [KOI (KOI 1 & 2) 固件升級](airelated/koi2/koi-koi-1-2-gu-jian-sheng-ji/README.md)
       * [KOI歷史固件一覽](airelated/koi2/koi-koi-1-2-gu-jian-sheng-ji/firmwarelist.md)
     * [KOI 2 串口指令API](airelated/koi2/koi-2-chuan-kou-zhi-ling-api.md)
+    * [KOI x 未來板 DeepSeek 聯乘玩法](airelated/koi2/koix-wei-lai-ban-deepseek-lian-cheng-wan-fa.md)
   * [AI鏡頭KOI](airelated/koi/README.md)
     * [KOI錦鯉介紹](airelated/koi/intro.md)
     * [Makecode上KOI各種功能編程指引](airelated/koi/makecode/README.md)
