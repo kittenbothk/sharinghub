@@ -267,6 +267,7 @@
     * [RGB彩燈模組](functional_modules/outdated/rgb.md)
     * [五路巡線傳感器](functional_modules/outdated/5wayline.md)
     * [貓耳超聲波](functional_modules/outdated/ultrasound.md)
+  * [USB加熱板](functional_modules/heatingpad.md)
 * [各款電機與舵機](actuators/README.md)
   * [Geekservo 9g電機](actuators/geekservo9g_motor.md)
   * [Geekservo 9g舵機](actuators/geekservo9g_servo.md)

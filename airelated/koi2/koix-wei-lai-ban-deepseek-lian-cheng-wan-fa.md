@@ -64,3 +64,11 @@ SSID: hello
 
 訓練好模型或設定好聊天機械人之後你亦需要修改未來板Lite的程式
 
+前往在線版KittenBlock。
+
+在線版KittenBlock
+
+{% file src="../../.gitbook/assets/koi2结合deepseek科普pok.sb3" %}
+
+
+
