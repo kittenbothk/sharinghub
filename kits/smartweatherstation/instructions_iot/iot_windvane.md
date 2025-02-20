@@ -10,7 +10,15 @@
 
 ### 模型接線圖
 
+### Robotbit EDU接線圖
+
 <figure><img src="../../../.gitbook/assets/windvane_wiring_robotbit.png" alt=""><figcaption></figcaption></figure>
+
+### Robotbit 2.2接線圖
+
+<figure><img src="../../../.gitbook/assets/windvane_wiring_robotbit_2.2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 參考程式
 
