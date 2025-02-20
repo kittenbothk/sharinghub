@@ -10,7 +10,15 @@
 
 ### 模型接線圖
 
+### Robotbit EDU接線圖
+
 <figure><img src="../../../.gitbook/assets/complete_wiring_robotbit_iot.png" alt=""><figcaption></figcaption></figure>
+
+### Robotbit 2.2接線圖
+
+<figure><img src="../../../.gitbook/assets/complete_wiring_robotbit_2.2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### MakeCode參考程式(MakerCloud)
 

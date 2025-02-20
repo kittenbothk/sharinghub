@@ -10,7 +10,15 @@
 
 ### 模型接線圖
 
+### Robotbit EDU接線圖
+
 <figure><img src="../../../.gitbook/assets/barometer_wiring_robotbit (1).png" alt=""><figcaption></figcaption></figure>
+
+### Robotbit 2.2接線圖
+
+<figure><img src="../../../.gitbook/assets/barometer_wiring_robotbi_2.2t.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 參考程式
 
