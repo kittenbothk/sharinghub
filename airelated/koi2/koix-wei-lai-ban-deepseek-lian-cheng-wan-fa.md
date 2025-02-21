@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # KOI x 未來板 DeepSeek 聯乘玩法
 
 生成式AI模型Deepseek熱爆全球，Kittenbot有見及此已經將Deepseek模型融入未來板Lite，配合上KOI 2的圖像辨識功能，將自行訓練的AI模型與大數據生成式AI模型結合成為獨特而且好玩的應用項目。
