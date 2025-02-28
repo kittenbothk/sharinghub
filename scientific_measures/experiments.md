@@ -4,7 +4,7 @@
 
 ### 1.聲音測量
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="decibels.md" %}
 [decibels.md](decibels.md)
@@ -18,7 +18,7 @@
 
 ### 3.二氧化碳測量
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="co2andtvoc.md" %}
 [co2andtvoc.md](co2andtvoc.md)
@@ -26,7 +26,7 @@
 
 ### 4.懸浮粒子測量
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="particulate.md" %}
 [particulate.md](particulate.md)
@@ -34,7 +34,7 @@
 
 ### 5.水溫測量
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="watertemp.md" %}
 [watertemp.md](watertemp.md)
@@ -42,7 +42,7 @@
 
 ### 6.污水混濁度測量
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="turbidity.md" %}
 [turbidity.md](turbidity.md)
@@ -50,10 +50,10 @@
 
 ### 7.pH酸鹼值測量
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="phmeasure.md" %}
-[phmeasure.md](phmeasure.md)
+{% content-ref url="phmeasure/" %}
+[phmeasure](phmeasure/)
 {% endcontent-ref %}
 
 ### 8.電子磅測量
