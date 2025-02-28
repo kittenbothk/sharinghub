@@ -1,6 +1,6 @@
 # Newbit Arcade Shield擴展板
 
-<div><figure><img src="../../.gitbook/assets/newbit_transparent.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/newbit.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/newbit_transparent1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/newbit_transparent2.png" alt=""><figcaption></figcaption></figure></div>
 
 因應Microbit V2的硬件性能提高，Kittenbot特意為Microbit V2設計出Newbit Arcade Shield，賦予Microbit V2可編程遊戲的能力。透過Microsoft MakeCode Arcade可以實現圖像化的遊戲編程並且下載到V2上遊玩，亦都可以把擴展板當作遙控器使用。
 

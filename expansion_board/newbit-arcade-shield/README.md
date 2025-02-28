@@ -1,14 +1,8 @@
 # Newbit Arcade Shield
 
-<div>
+<div><figure><img src="../../.gitbook/assets/newbit_transparent1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/newbit_transparent2.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newbit.png" alt="" width="563"><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../../.gitbook/assets/newbit_transparent.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
 
 Newbit Arcade Shield的資訊。
 
