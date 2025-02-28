@@ -7,14 +7,15 @@
 ## 產品內容
 
 * Newbit Arcade Shield&#x20;
-* Jacdac&#x20;
-* Jacdac RGB
-* Jacdac&#x20;
-* Jacdac x2
-* Jacdac&#x20;
-* Jacdac&#x20;
-* MicroUSB
-* Jacdacx5
+* Jacdac 滑動器模組
+* Jacdac RGB燈圈模組
+* Jacdac 旋鈕模組
+* Jacdac 按鍵模組 x2
+* Jacdac 光敏模組
+* Jacdac 磁石感應模組
+* Jacdac 分線器
+* MicroUSB線
+* Jacdac 連接線x5
 
 
 
