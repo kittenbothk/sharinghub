@@ -26,3 +26,15 @@
 
 {% embed url="https://www.youtube.com/watch?v=RC2x0od9kmw" %}
 
+## 7. 磁力骰仔
+
+{% embed url="https://www.youtube.com/watch?v=WMTs9T86fMI" %}
+
+## 8. 滑動心情
+
+{% embed url="https://www.youtube.com/watch?v=bipIPRfuh7c" %}
+
+## 9. 終極測試
+
+{% embed url="https://www.youtube.com/watch?v=ZM67iAOT2yo" %}
+
