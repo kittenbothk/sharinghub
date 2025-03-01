@@ -662,7 +662,7 @@
     * [最新Microsoft MicroCode](https://sharinghub.kittenbot.hk/programmingplatforms/microcode)
     * [MicroCode 編程教學](https://sharinghub.kittenbot.hk/expansion_board/newbit-arcade-shield/newbitmicrocode)
     * [參考挑戰題目](kits/microcode_explorer/can-kao-tiao-zhan-ti-mu.md)
-      * [1. 動態心情](kits/microcode_explorer/challenges/1.-dong-tai-xin-qing.md)
+      * [1. 動態心情](kits/microcode_explorer/challenges/dynamic_emotion.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
