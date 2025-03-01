@@ -1,12 +1,14 @@
 # MicroCode探險家
 
-<figure><img src="../.gitbook/assets/newbit-arcade-shield-photo-1_c88a3ba1-5fa9-419b-9910-b58fe6486b0f.webp" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/newbit-arcade-shield-photo-1_c88a3ba1-5fa9-419b-9910-b58fe6486b0f.webp" alt=""><figcaption></figcaption></figure>
 
 ## 產品介紹
 
 一套主打低年級編程學習的套件，結合Newbit Arcade Shield和Jacdac模組配合MicroCode編程，讓低年班的學生可以人手一機解開編程的奧秘。
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ## 產品內容
 
@@ -21,7 +23,7 @@
 * MicroUSB線
 * Jacdac 連接線x5
 
-<figure><img src="../.gitbook/assets/4_5fb33120-cc86-4a82-8366-26c0873d9197.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4_5fb33120-cc86-4a82-8366-26c0873d9197.webp" alt=""><figcaption></figcaption></figure>
 
 ## 產品特色
 
@@ -38,4 +40,12 @@
   * 寫好的程式會儲存在Micro:bit上，即使斷電再開也不會遺失進度
 * 配合Jacdac模組
   * 擴充更多玩法
+
+## 產品展示
+
+<figure><img src="../../.gitbook/assets/1_44dc1b72-2b2e-4a8d-a1ae-1d56e8578de2.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/3_a3c54f32-c0b8-4c54-8084-d7c59dcdbc74.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/2_b38788da-b9f8-4189-b20a-2124d872b547.webp" alt=""><figcaption></figcaption></figure>
 
