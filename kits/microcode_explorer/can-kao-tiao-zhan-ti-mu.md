@@ -54,13 +54,22 @@
 
 {% embed url="https://www.youtube.com/watch?v=WMTs9T86fMI" %}
 
-
+{% content-ref url="challenges/magneticdice.md" %}
+[magneticdice.md](challenges/magneticdice.md)
+{% endcontent-ref %}
 
 ## 8. 滑動心情
 
 {% embed url="https://www.youtube.com/watch?v=bipIPRfuh7c" %}
 
+{% content-ref url="challenges/slideemotion.md" %}
+[slideemotion.md](challenges/slideemotion.md)
+{% endcontent-ref %}
+
 ## 9. 終極測試
 
 {% embed url="https://www.youtube.com/watch?v=ZM67iAOT2yo" %}
 
+{% content-ref url="challenges/finaltest.md" %}
+[finaltest.md](challenges/finaltest.md)
+{% endcontent-ref %}
