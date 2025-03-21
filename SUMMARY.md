@@ -723,6 +723,7 @@
     * [KittenCode快速測試](programmingplatforms/kittencode/demo.md)
 * [Kittenbot模組與Bricklink Studio](studio.md)
 * [科學教育測量系列](scientific_measures/README.md)
+  * [支架搭建圖](scientific_measures/zhi-jia-da-jian-tu.md)
   * [科學實驗清單](scientific_measures/experiments.md)
   * [1.聲音測量](scientific_measures/decibels.md)
   * [2.紫外線測量](scientific_measures/uv.md)
