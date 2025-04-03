@@ -49,3 +49,12 @@
 4.關於本機，本機的固件等信息
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+### 固件更新
+
+出廠一般為最新固件，但由於功能和積木塊的不斷增加，可能需要進行固件更新。\
+連接主板和串口，點擊恢覆固件按鈕，如圖所示：\
+![](<../../../.gitbook/assets/image (124).png>)\
+根據軟件彈框提示，進行操作，讓主板進入固件升級模式界面，等待固件恢覆完畢即可。
+
+<figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
