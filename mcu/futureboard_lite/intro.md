@@ -1,6 +1,6 @@
 # 未來板Lite介紹
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 未來板Lite是為信息科技科創編程教育而設計，采用塑料全包殼結構，提高安全性，特別適用於課堂環境。\
 搭載高性能ESP32芯片，板載集成了彩屏、亮度傳感器、麥克風、蜂鳴器、加速度傳感器、電機驅動、彩燈、按鍵等功能。\
