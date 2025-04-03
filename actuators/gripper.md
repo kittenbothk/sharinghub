@@ -1,4 +1,4 @@
-# 9g舵機 機械爪
+# 機械爪
 
 <figure><img src="../.gitbook/assets/gripper1.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +21,9 @@
 
 <div><figure><img src="../.gitbook/assets/gripper7.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/gripper8.png" alt=""><figcaption></figcaption></figure></div>
 
+#### 與Robotbit結合示範
 
+<figure><img src="../.gitbook/assets/combination.png" alt=""><figcaption></figcaption></figure>
 
 ### 接線方法
 
