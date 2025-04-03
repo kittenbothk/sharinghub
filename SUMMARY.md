@@ -273,6 +273,7 @@
   * [Geekservo 9g舵機](actuators/geekservo9g_servo.md)
   * [GeekServo 2KG電機](actuators/geekservo2k_motor.md)
   * [GeekServo 2KG舵機](actuators/geekservo2k_servo.md)
+  * [9g舵機 機械爪](actuators/gripper.md)
   * [T/T減速直流電機](actuators/ttmotor.md)
   * [Geek Motor O360 續轉舵機](actuators/360servo.md)
   * [高速直流電機](actuators/130motor.md)
