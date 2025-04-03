@@ -358,6 +358,8 @@
     * [未來板Lite 硬件簡介](mcu/futureboard_lite/wei-lai-ban-lite-ying-jian-jian-jie.md)
     * [Kittenblock編程教學](mcu/futureboard_lite/kittenblock/README.md)
       * [快速開始](mcu/futureboard_lite/kittenblock/quickstart.md)
+      * [點陣模式](mcu/futureboard_lite/kittenblock/matrix.md)
+      * [全彩像素模式](mcu/futureboard_lite/kittenblock/tft.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
     * [MeowBit操作教學](zhu-kong-ban/meowbit/interface.md)
