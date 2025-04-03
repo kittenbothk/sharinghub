@@ -355,6 +355,8 @@
       * [重置未來板](zhu-kong-ban/futureboard/updates/reset.md)
   * [未來板Lite](mcu/futureboard_lite.md)
     * [未來板Lite介紹](mcu/futureboard_lite/intro.md)
+    * [Kittenblock編程教學](mcu/futureboard_lite/kittenblock/README.md)
+      * [快速開始](mcu/futureboard_lite/kittenblock/quickstart.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
     * [MeowBit操作教學](zhu-kong-ban/meowbit/interface.md)
