@@ -13,6 +13,16 @@
 * 重量：9g
 * 接口：橙紅啡線
 
+### 產品展示
+
+<div><figure><img src="../.gitbook/assets/gripper2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/gripper3.png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/gripper5.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/gripper6.png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/gripper7.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/gripper8.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
 ### 接線方法
 
 將舵機的橙紅啡線連接至RobotBit的舵機接口。
@@ -26,4 +36,10 @@
 ### MakeCode編程教學
 
 {% embed url="https://makecode.microbit.org/_VyrTAxRwze4m" %}
+
+### 抓力調節
+
+假如想增加抓力，可以將橡皮圈繫在機械爪上，提升機械爪與物件的摩擦力。
+
+<figure><img src="../.gitbook/assets/gripper9 (1).png" alt=""><figcaption></figcaption></figure>
 
