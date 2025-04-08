@@ -78,13 +78,13 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 請下載以下範例程式。
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/led_demo_live.sb3" %}
 
 可以在"檔案->從電腦挑選"中載入程式。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 直接點擊綠色旗子，程式就會即時運行。
 
@@ -96,9 +96,9 @@ Kittenblock下載: [Kittenblock安裝](../../../programmingplatforms/kittenblock
 
 在KittenBlock打開代碼模式，程式的積木會變成Python編碼。
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 點擊上傳，程式就會上傳到未來板。
 
