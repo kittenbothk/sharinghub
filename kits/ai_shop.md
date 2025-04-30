@@ -32,3 +32,5 @@
 ## 參考程式
 
 {% file src="../.gitbook/assets/無人商店卡牌.pdf" %}
+
+{% embed url="https://makecode.microbit.org/_aa5TJ7WMofje" %}
