@@ -592,6 +592,7 @@
       * [工業4.0倉庫貨物管理系統未來板參考程式](kits/inventory_system/info/futureboard.md)
       * [平台設定教學](kits/inventory_system/info/platform_setup.md)
   * [工業4.0機械臂](kits/lego_robot_arm.md)
+  * [AI無人商店系統](kits/ai_shop.md)
   * [AIoT Starter Kit套件](kits/aiot/README.md)
     * [AIOT Starter Kit介紹](kits/aiot/intro.md)
     * [AIoT Starter Kit組裝資料](kits/aiot/info/README.md)
