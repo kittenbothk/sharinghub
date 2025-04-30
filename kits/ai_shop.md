@@ -4,6 +4,10 @@
 
 ## 產品特色
 
+* 圖像化編程
+* 以學生熟悉的自助付款系統教導AI更貼切
+* 積木結構培養學生動手能力
+
 ## 產品內容
 
 * Armourbit連電池盒 x1
@@ -19,6 +23,12 @@
 
 ## 搭建說明書
 
+{% file src="../.gitbook/assets/supermarket_armourbit.pdf" %}
+
 ## 參考接線
 
+<figure><img src="../.gitbook/assets/wiring (3).png" alt=""><figcaption></figcaption></figure>
+
 ## 參考程式
+
+{% file src="../.gitbook/assets/無人商店卡牌.pdf" %}
