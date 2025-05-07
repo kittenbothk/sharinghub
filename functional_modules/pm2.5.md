@@ -1,6 +1,6 @@
 # PM2.5 感應器
 
-<figure><img src="../.gitbook/assets/pmsensor_ver2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmsensor3.png" alt=""><figcaption></figcaption></figure>
 
 PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了PM2.5粒子外還可以檢測到PM10和PM1.0的濃度。
 
