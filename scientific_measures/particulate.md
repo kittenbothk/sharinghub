@@ -1,4 +1,4 @@
-# 懸浮粒子測量
+# 4.懸浮粒子測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FUNN7tqPEQzZPgY2lEvkd%2Fimage.png?alt=media&#x26;token=32049896-d26e-4a23-b714-b0cbc091c342" alt=""><figcaption></figcaption></figure>
 
@@ -20,13 +20,13 @@
 
 請同學將PM2.5測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../../.gitbook/assets/pmsensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmsensor_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
 請同學在未來板Lite上開啟「pmsensor\_i2c.py」檔案。
 
-<figure><img src="../../.gitbook/assets/pmprogram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmprogram.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@
 
 未來板Lite會一直顯示測量到空氣中的PM1.0、PM2.5及PM10懸浮粒子的濃度(ppm)。
 
-<figure><img src="../../.gitbook/assets/pmdisplay.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmdisplay.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,7 +46,7 @@
 
 #### 硬件接線
 
-<figure><img src="../../.gitbook/assets/pmsensor_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmsensor_edu (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 

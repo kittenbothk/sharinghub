@@ -24,8 +24,6 @@ PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了
 
 <figure><img src="../.gitbook/assets/pmsensor_2.2.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### 編程教學
 
 #### MakeCode編程教學
@@ -34,7 +32,7 @@ PM2.5感應器可以檢測到空氣中的污染物懸浮粒子之濃度，除了
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
+<figure><img src="../.gitbook/assets/sugar_search.png" alt=""><figcaption></figcaption></figure>
 
 #### 你亦可以用插件地址搜尋
 
