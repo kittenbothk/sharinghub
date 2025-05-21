@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/phplus1.png" alt=""><figcaption></figcaption></figure>
 
-Kittenbot全新設計的pH值感應器，市場上唯一自帶校正芯片的pH值感應器，不用每次使用前都進行校正，做到真正即插即用，大大減低pH值感應器的使用難度。
+Kittenbot HK全新設計的pH值感應器，市場上唯一自帶校正芯片的pH值感應器，不用每次使用前都進行校正，做到真正即插即用，大大減低pH值感應器的使用難度。
 
 ## 產品特色
 
