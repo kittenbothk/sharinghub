@@ -18,6 +18,12 @@ Kittenbot HK全新設計的pH值感應器，市場上唯一自帶校正芯片的
 * 電壓: 3v至5v
 * 反應時間: 約30秒
 
+## 產品展示
+
+<figure><img src="../.gitbook/assets/phplus3.png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/phplus2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/phplus4 (1).png" alt=""><figcaption></figcaption></figure></div>
+
 ## 參考程式
 
 插件地址: [https://github.com/evanli85618/pxt-ph-module](https://github.com/evanli85618/pxt-ph-module)
