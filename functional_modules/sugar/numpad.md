@@ -1,6 +1,6 @@
 # Sugar 二期數字鍵盤模組
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 這是一個16鍵的電容式觸碰鍵盤模組，適合用於智能家居密碼門等輸入場景。
 
