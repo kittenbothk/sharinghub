@@ -30,6 +30,8 @@ Kittenbot HK全新設計的pH值感應器，市場上唯一自帶校正芯片的
 
 ## 參考程式
 
+<figure><img src="../../.gitbook/assets/phplus_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
 插件地址: [https://github.com/kittenbothk/pxt-moduleplus](https://github.com/kittenbothk/pxt-moduleplus)
 
 {% embed url="https://makecode.microbit.org/_5R0cJ012FdoC" %}

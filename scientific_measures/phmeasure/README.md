@@ -40,9 +40,13 @@
 
 #### 硬件接線
 
+<figure><img src="../../.gitbook/assets/phplus_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+
 #### 參考程式
 
-下載參考程式
+{% embed url="https://makecode.microbit.org/_5R0cJ012FdoC" %}
+
+[下載參考程式](https://makecode.microbit.org/_5R0cJ012FdoC)
 
 ### 注意事項
 
