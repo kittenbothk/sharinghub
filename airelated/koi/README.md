@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # AI鏡頭KOI
 
 <figure><img src="../../.gitbook/assets/koi.png" alt=""><figcaption></figcaption></figure>
@@ -27,7 +13,7 @@ layout:
 {% endcontent-ref %}
 
 {% content-ref url="futureboard_demo/" %}
-[futureboard\_demo](futureboard\_demo/)
+[futureboard\_demo](futureboard_demo/)
 {% endcontent-ref %}
 
 {% content-ref url="command.md" %}
@@ -35,7 +21,7 @@ layout:
 {% endcontent-ref %}
 
 {% content-ref url="kittenblock_micropython/" %}
-[kittenblock\_micropython](kittenblock\_micropython/)
+[kittenblock\_micropython](kittenblock_micropython/)
 {% endcontent-ref %}
 
 {% content-ref url="update/" %}
