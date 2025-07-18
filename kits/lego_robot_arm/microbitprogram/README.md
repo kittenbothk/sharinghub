@@ -10,7 +10,7 @@
 
 ### 豪華版機械臂(Joyfrog無線遙控)
 
-<figure><img src="../../../.gitbook/assets/robot_arm_noremote.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/robotarm+joyfrog.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="joyfrog.md" %}
 [joyfrog.md](joyfrog.md)

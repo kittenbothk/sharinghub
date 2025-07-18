@@ -1,6 +1,6 @@
 # 工業4.0機械臂
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/robot_arm_3.png)
+![](../../.gitbook/assets/robot_arm.png)
 
 工業4.0機械臂是一套機械套件，套件可以搭建出一隻以5隻Geekservo 2KG舵機驅動的活動機械臂。
 
@@ -21,10 +21,6 @@
 * 機械結構讓學生了解機械臂例如槓桿力學等的機械工程知識
 * 動手搭建，讓學生動手組裝機械臂，提升工程技能
 * 採用積木結構，靈活改裝適合不同應用
-
-###
-
-###
 
 ### 示範短片
 
