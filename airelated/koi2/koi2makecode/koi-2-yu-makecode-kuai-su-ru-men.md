@@ -98,7 +98,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 加載成功後，積木欄會新增koi2的積木。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">1. 初始化</mark>&#x20;
 
@@ -140,7 +140,7 @@ KOI 2的基本功能，包括拍照錄音按鍵等。
 
 #### &#x20;<mark style="background-color:yellow;">9. 預載模型 路牌追蹤</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;<mark style="background-color:yellow;">10. 預載模型 數字追蹤</mark>&#x20;
 

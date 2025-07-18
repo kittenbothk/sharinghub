@@ -1,6 +1,14 @@
 # 機械臂未來板參考程式
 
-#### 未來板參考程式
+### 組裝教學
+
+[下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/lego_robot_arm/lego_robot_arm.pdf)
+
+<figure><img src="../../.gitbook/assets/counterweight.png" alt=""><figcaption></figcaption></figure>
+
+### 參考接線
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### KittenBlock參考程式
 

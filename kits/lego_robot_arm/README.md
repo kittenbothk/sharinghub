@@ -22,15 +22,9 @@
 * 動手搭建，讓學生動手組裝機械臂，提升工程技能
 * 採用積木結構，靈活改裝適合不同應用
 
-### 組裝教學
+###
 
-[下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/lego_robot_arm/lego_robot_arm.pdf)
-
-### 參考接線
-
-#### Robotbit EDU
-
-![](https://kittenbothk.readthedocs.io/en/latest/_images/wiring3.png)
+###
 
 ### 示範短片
 
