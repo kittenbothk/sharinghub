@@ -1,6 +1,6 @@
 # 聲控衣架
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/hanger1.png)
+![](../../../.gitbook/assets/电动衣架.png)
 
 透過KittenBlock的語音辨識功能，可以做到辨識到某個文字就控制衣架的應用。
 
