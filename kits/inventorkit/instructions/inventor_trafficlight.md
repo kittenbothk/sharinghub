@@ -1,18 +1,18 @@
 # 紅綠燈
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/trafficlight1.png)
+![](../../../.gitbook/assets/别闯红灯.png)
 
 ### 組裝說明書下載
 
-[組裝說明書下載](https://drive.google.com/drive/folders/1wg\_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
+[組裝說明書下載](https://drive.google.com/drive/folders/1wg_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/trafficlight\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/trafficlight_wire.png)
 
 ### 參考程式
 
 {% embed url="https://makecode.microbit.org/_b8yCo4Uh64f7" fullWidth="false" %}
 
-[參考程式下載](https://makecode.microbit.org/\_dgD5e1hisM4j)
+[參考程式下載](https://makecode.microbit.org/_dgD5e1hisM4j)
 
 ### 模型玩法
 
