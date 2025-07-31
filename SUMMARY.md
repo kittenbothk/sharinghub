@@ -414,6 +414,7 @@
       * [保險箱](kits/inventorkit/instructions/inventor_safe.md)
       * [鋼琴拉奏](kits/inventorkit/instructions/inventor_piano.md)
     * [Micro:bit發明家套件 - KittenBlock AI升級案例](kits/inventorkit/kittenblockai/README.md)
+      * [Microbit V2與KittenBlock 快速教學](kits/inventorkit/kittenblockai/microbitqs.md)
       * [聲控衣架](kits/inventorkit/kittenblockai/hanger.md)
       * [人面追蹤風扇](kits/inventorkit/kittenblockai/aifan.md)
       * [智慧道路管理系統](kits/inventorkit/kittenblockai/trafficlight.md)
