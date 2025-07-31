@@ -1,18 +1,18 @@
 # 鋼琴拉奏
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/piano1.png)
+![](../../../.gitbook/assets/扩充造型-距离琴.png)
 
 ### 組裝說明書下載
 
-[組裝說明書下載](https://drive.google.com/drive/folders/1wg\_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
+[組裝說明書下載](https://drive.google.com/drive/folders/1wg_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/piano\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/piano_wire.png)
 
 ### 參考程式
 
 {% embed url="https://makecode.microbit.org/_JoFKqa7FJTjR" %}
 
-[參考程式下載](https://makecode.microbit.org/\_X3eJyy7r755z)
+[參考程式下載](https://makecode.microbit.org/_X3eJyy7r755z)
 
 ### 模型玩法
 
