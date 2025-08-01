@@ -18,6 +18,10 @@
 
 ### 應用玩法
 
+{% hint style="info" %}
+這應用需要使用Token。
+{% endhint %}
+
 1. 連接好Micro:bit和打開Robotbit電源
 2. 點擊綠色旗啟動程式
 3. 將車牌卡放在鏡頭面前
