@@ -18,6 +18,8 @@
 
 {% hint style="info" %}
 這應用需要使用Token。
+
+每次使用60 Token。
 {% endhint %}
 
 1. 連接好Micro:bit和打開Robotbit電源
