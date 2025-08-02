@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 手勢控制小車
 
 ![](../../../.gitbook/assets/kart.png)
@@ -28,7 +32,7 @@
 
 ### 參考程式 小車遙控
 
-{% file src="../../../.gitbook/assets/手勢控制小車遙控.sb3" %}
+{% file src="../../../.gitbook/assets/手勢控制小車遙控 (1).sb3" %}
 
 <figure><img src="../../../.gitbook/assets/手勢控制小車遙控.png" alt=""><figcaption></figcaption></figure>
 
