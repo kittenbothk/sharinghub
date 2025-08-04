@@ -1,6 +1,6 @@
 # Meowbit介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/1.jpeg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/1.jpeg)
 
 時下的年青人都喜歡玩電子遊戲，為了提高他們對編程的興趣，Kittenbot推出了Meowbit，一款為MakeCode Arcade而設計的一款小型掌上遊戲機。運用MakeCode Arcade，學生可以用圖像化的編程方式創作自己的遊戲然後直接上傳到Meowbit遊玩，讓大家都可以輕鬆地體驗遊戲設計，充分體現出STEAM的學習理念。除此之外，MeowBit還是一塊機械人主控板，它底部也有與Microbit相容的引腳金手指，兼容Kittenbot的擴展板，令Meowbit的靈活性更高，創作性更豐富。
 
@@ -46,7 +46,7 @@
 
 ### 硬件細節
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/213.png)
+![](../../.gitbook/assets/2.png)
 
 **1：電源指示燈**
 
@@ -72,7 +72,7 @@
 
 **12：引腳**
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/312.png)
+![](../../.gitbook/assets/3.png)
 
 **13：USB接口**
 
@@ -97,7 +97,7 @@
 
 ### 詳細引腳圖：
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/412.png)
+![](<../../.gitbook/assets/4 (1).png>)
 
 ###
 
