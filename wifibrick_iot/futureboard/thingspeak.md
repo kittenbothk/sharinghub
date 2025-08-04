@@ -16,53 +16,49 @@ ThingSpeak作為免費的IoT平台，的確是方便大家可以實現IoT應用�
 
 在My Channel的頁面建立新頻道。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/127.png)
+![](../../.gitbook/assets/1.png)
 
 除了頻道名稱之外其他可以不用理會。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/29.png)
+![](../../.gitbook/assets/2.png)
 
 完成之後就可以按Save Channel。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/39.png)
+![](../../.gitbook/assets/3.png)
 
 進入Sharing。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/411.png)
+![](../../.gitbook/assets/4.png)
 
 最方便和簡單地使用ThingSpeak的方法是將頻道設為公開，所以我們選擇第二個選項。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/59.png)
+![](../../.gitbook/assets/5.png)
 
 當你看到Access由Private變為Public就代表頻道完成了。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/66.png)
+![](../../.gitbook/assets/6.png)
 
 #### 添加新裝置
 
 然後請前往Devices，選擇MQTT。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/76.png)
+![](../../.gitbook/assets/8.png)
 
 添加一個新裝置。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/85.png)
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/94.png)
+![](../../.gitbook/assets/9.png)
 
 選擇剛才建立的頻道，點擊Add Channel。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/106.png)
+<div><img src="../../.gitbook/assets/10.png" alt=""> <figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure></div>
 
 最後就可以點擊Add Device。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/1111.png)
-
 添加裝置後，這一個頁面非常重要！這些是大家的未來板用來連接ThingSpeak的登入資料，請大家自行記下，或者下載登入資料，儲存在電腦。
 
-![../../\_images/128.png](https://kittenbothk.readthedocs.io/en/latest/\_images/128.png)
+![../../\_images/128.png](../../.gitbook/assets/12.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/136.png)
+![](../../.gitbook/assets/13.png)
 
 ### KittenBlock編程
 
@@ -77,24 +73,24 @@ ThingSpeak作為免費的IoT平台，的確是方便大家可以實現IoT應用�
 * 用戶名: 按照ThingSpeak裝置的username
 * 密碼: 按照ThingSpeak裝置的Password
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/144.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/144.png)
 
 #### 發佈到ThingSpeak頻道
 
 在發佈上ThingSpeak頻道之前，我們需要先查看頻道的ID。 頻道ID是一個7位的數字。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/153.png)
+![](../../.gitbook/assets/15.png)
 
 搭建出以下程式，按下A鍵發布信息20到ThingSpeak頻道。
 
 * MQTT主題: channels/\[頻道ID]/publish
 * 信息: field\[欄位號碼]=\[數字信息]
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/162.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/162.png)
 
 發佈成功的話，在ThingSpeak的頁面上會看到剛才發布的信息。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/174.png)
+![](../../.gitbook/assets/17.png)
 
 #### 讀取ThingSpeak頻道信息
 
@@ -104,4 +100,4 @@ ThingSpeak作為免費的IoT平台，的確是方便大家可以實現IoT應用�
 
 * MQTT主題: channels/\[頻道ID]/subscribe/fields/field\[欄位號碼]
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/183.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/183.png)

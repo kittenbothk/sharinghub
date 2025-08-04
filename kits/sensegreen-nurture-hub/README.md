@@ -1,6 +1,6 @@
 # 智感培植系統 SenseGreen Nurture Hub
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **智感培植系統** 是一款專為教學設計的智能植物培養工具，結合感應技術與圖像化編程，讓學生能夠實時監測土壤濕度、光照和溫度等數據，並透過編程控制環境條件。該系統不僅提升學生對植物生長的理解，還融入 STEM 教育，幫助他們培養科學探索和編程實踐能力，是自然科學與技術教育的理想選擇。
 
