@@ -36,7 +36,7 @@ ThingSpeak作為免費的IoT平台，的確是方便大家可以實現IoT應用�
 
 當你看到Access由Private變為Public就代表頻道完成了。
 
-![](../../.gitbook/assets/6.png)
+![](<../../.gitbook/assets/6 (1).png>)
 
 #### 添加新裝置
 

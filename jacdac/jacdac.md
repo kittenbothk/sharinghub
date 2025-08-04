@@ -11,7 +11,7 @@ Jacdac是由微軟專為電子元件編程而開發的協議制式，Jacdac強�
 
 ### 微軟Jacdac與KittenBot
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/banner.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/banner.png)
 
 Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino及Raspberry Pi等的微電腦。
 
@@ -21,21 +21,19 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 
 #### [Hackster.io: 微軟與KittenBot合作推出市場上第一款支援Jacdac的硬件](https://www.hackster.io/news/microsoft-kittenbot-launch-the-first-jacdac-standard-microcontroller-kits-and-software-apis-9faec87abe70)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/130.png)
-
 ### Jacdac與Micro:bit
 
 透過Micro:bit V2，用家就可以輕易地對Jacdac模組進行編程。目前，MakeCode已經添加對Jacdac模組的支援插件，用戶只需要在擴展欄搜尋Jacdac就可以使用得到。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/311.png)
+![](../.gitbook/assets/makecode1.gif)
 
 由於Jacdac是一套全新的標準，用家需要使用符合Jacdac規格的硬件，目前Kittenbot為唯一生產Jacdac套件的公司。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kit\_full.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kit_full.png)
 
 將Micro:bit插在Jacdapter上就可以為Micro:bit帶來Jacdac接口。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/jacdapter1.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/jacdapter1.jpg)
 
 ### 詳細了解Jacdac
 
@@ -54,33 +52,29 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 
 首先，所有Jacdac的硬件都會使用同一個官方插件，不論廠商不論硬件類型，用家都能夠輕易找到適用的編程積木。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/212.png)
-
 其次，Jacdac協議並不是單純程式上的標準，它亦都為硬件訂立了標準。所有Jacdac的硬件都必須使用相同的硬件設計，包括電路板的大小，電流及安全標準，這亦都包括了連接接口的設計。所有Jacdac的模組都擁有同一款連接器，採用相同的防反插連接線，簡化接線程序。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/4.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/4.gif)
 
 最後，所有Jacdac模組都可以在MakeCode的模擬器裡面看到，容許免硬件的編程和測試。
-
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/510.png)
 
 除此之外，Jacdac協議亦都帶來不同特點。
 
 首先，Jacdac的硬件的擴充性極強，每個Jacdac模組都可以以手拖手(Daisy Chain)的形式連接到另一隻模組，實現幾乎無限的擴充性。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/67.png)
+![](../.gitbook/assets/6.png)
 
 而且，MakeCode支援在線的Jacdac硬件編程。用家可以在下載程式之前，將Micro:bit和Jacdac硬件連接到MakeCode，在線測試程式得到即時的反饋。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/71.gif)
+<figure><img src="../.gitbook/assets/makecode3.gif" alt=""><figcaption></figcaption></figure>
 
 另外，即使手上沒有硬件亦都可以模擬到Jacdac模組的運作，方便用家先測試後實現。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/8.gif)
+![](../.gitbook/assets/makecode4.gif)
 
 其次，Jacdac模組的電路板都根據標準尺寸而設計，使各項模組可以完全對準，整齊排列和安裝。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/breadboard.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/breadboard.png)
 
 ### Jacdac短片
 
