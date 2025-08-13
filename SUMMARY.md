@@ -769,4 +769,5 @@
   * [8.電子磅](scientific_measures/load.md)
   * [未來板Lite操作教學](scientific_measures/futureboard_lite_operations.md)
   * [未來板Lite 程式復原教學](scientific_measures/recovery.md)
+* [科學教育測量套件](sciencekit.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
