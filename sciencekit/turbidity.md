@@ -46,6 +46,18 @@
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=UaBW3P6HIvgvQomW&t=50" %}
 
+#### Datalogging頁面
+
+{% hint style="info" %}
+未來板IP地址/html/ntu.html
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+數據儲存在ntudata資料夾
+
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
 ### Micro:bit版本
 
 #### 硬件接線
