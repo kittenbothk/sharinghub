@@ -1,4 +1,4 @@
-# Copy of 4.懸浮粒子測量
+# 4.懸浮粒子測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FUNN7tqPEQzZPgY2lEvkd%2Fimage.png?alt=media&#x26;token=32049896-d26e-4a23-b714-b0cbc091c342" alt=""><figcaption></figcaption></figure>
 
@@ -32,13 +32,21 @@
 
 #### 進行測量
 
-未來板Lite會一直顯示測量到空氣中的PM1.0、PM2.5及PM10懸浮粒子的濃度(ppm)。
+未來板Lite會一直顯示測量到空氣中的PM2.5及PM10懸浮粒子的濃度(ppm)。
 
-<figure><img src="../.gitbook/assets/pmdisplay.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmprogram (1).png" alt=""><figcaption></figcaption></figure>
 
+#### Datalogging頁面
 
+{% hint style="info" %}
+未來板IP地址/html/pm.html
+{% endhint %}
 
-{% embed url="https://www.youtube.com/watch?t=17s&v=keSccyhM_FE" %}
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+
+數據儲存在pmdata資料夾
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 

@@ -32,7 +32,7 @@
 
 未來板Lite會一直顯示測量到的音量(分貝)。
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=KNq8neV5JzK5pJII&t=137" %}
+<figure><img src="../.gitbook/assets/dbprogram (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Datalogging頁面
 

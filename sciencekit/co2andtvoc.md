@@ -32,11 +32,7 @@
 
 未來板Lite會一直顯示測量到空氣中的二氧化碳濃度(ppm)。
 
-<figure><img src="../.gitbook/assets/co2display.png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% embed url="https://youtu.be/keSccyhM_FE?si=KCR2ZkR3U05O0H81&t=261" %}
+<figure><img src="../.gitbook/assets/co2program (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Datalogging頁面
 

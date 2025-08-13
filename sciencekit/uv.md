@@ -28,7 +28,7 @@
 
 未來板Lite會一直顯示測量到的紫外線指數和光照度。
 
-<figure><img src="../.gitbook/assets/uvdisplay.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/uvprogram (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Datalogging頁面
 
