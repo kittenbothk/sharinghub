@@ -47,7 +47,7 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 powerbrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 

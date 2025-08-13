@@ -1,4 +1,4 @@
-# Copy of 5.水溫測量
+# 5.水溫測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2Fwfrwq78znTkMbFksBsIP%2Fimage.png?alt=media&#x26;token=27978591-caf9-44be-b4e8-68ee866e0d10" alt=""><figcaption></figcaption></figure>
 
@@ -26,13 +26,25 @@
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/SaZO2MJzdlM" %}
+{% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
 
-未來板Lite會一直顯示測量到的水溫(攝氏及華氏)。
+未來板Lite會一直顯示測量到的水溫(攝氏)。
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=uxVtkBOAPKfxZZc7&t=110" %}
+<figure><img src="../.gitbook/assets/tempprogram.png" alt=""><figcaption></figcaption></figure>
+
+#### Datalogging頁面
+
+{% hint style="info" %}
+未來板IP地址/html/temp.html
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+數據儲存在tempdata資料夾
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 
