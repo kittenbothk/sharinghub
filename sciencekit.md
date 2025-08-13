@@ -27,15 +27,15 @@
 
 總共9個程式
 
-* 1.sound\_p1.py
-* 2.uv\_i2c.py
-* 3.co2\_i2c.py
-* 4.pmsensor\_i2c.py
-* 5.watertemp\_p1.py
-* 6.turbidity\_p1.py
-* 7.balance\_i2c.py
+* 1.Sound\_p1.py
+* 2.UV\_i2c.py
+* 3.CO2\_i2c.py
+* 4.PMSensor\_i2c.py
+* 5.WaterTemp\_p1.py
+* 6.Turbidity\_p1.py
+* 7.Balance\_i2c.py
 * 8.Solar\_i2c.py
-* 9.ph\_i2cpy
+* 9.PH\_i2cpy
 
 <div><figure><img src=".gitbook/assets/programlist1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/programlist2 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/programlist3 (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
