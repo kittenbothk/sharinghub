@@ -24,6 +24,8 @@
 
 請同學在未來板Lite上開啟「1.Sound\_p1.py」檔案。
 
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
@@ -35,7 +37,7 @@
 #### Datalogging頁面
 
 {% hint style="info" %}
-未來板IP地址/html/dbhtml
+未來板IP地址/html/db.html
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
