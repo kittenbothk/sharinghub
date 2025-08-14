@@ -10,7 +10,7 @@
 
 * 未來板Lite 顯示板 / Micro:bit+Robotbit
 * pH酸鹼值測量儀器
-* 三色連接線
+* 黑色連接線
 
 ### 未來板Lite版本
 
@@ -26,15 +26,25 @@
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/SaZO2MJzdlM" %}
+{% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
 
 未來板Lite會一直顯示測量到的酸鹼值(pH)。
 
-<figure><img src="../.gitbook/assets/phplus_display.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/phprogram.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/keSccyhM_FE?si=wbTTXVtlmf-O4V4T&t=71" %}
+#### Datalogging頁面
+
+{% hint style="info" %}
+未來板IP地址/html/ph.html
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+數據儲存在phdata資料夾
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 
