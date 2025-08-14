@@ -24,7 +24,7 @@
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「pmsensor\_i2c.py」檔案。
+請同學在未來板Lite上開啟「04.PM\_i2c.py檔案。
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
