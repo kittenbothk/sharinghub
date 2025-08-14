@@ -782,5 +782,6 @@
   * [6.污水混濁度測量](sciencekit/turbidity.md)
   * [7.電子磅](sciencekit/load.md)
   * [8.太陽能](sciencekit/solar.md)
-  * [Copy of 9.pH酸鹼值測量](scientific_measures/phmeasure-1.md)
+  * [9.pH酸鹼值測量](scientific_measures/phmeasure-1.md)
+  * [未來板Lite 程式復原教學](sciencekit/recovery.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
