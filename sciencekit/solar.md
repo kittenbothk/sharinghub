@@ -12,7 +12,7 @@
 
 #### 硬件接線
 
-請同學將電子磅儀器連接到未來板Lite顯示板上。
+請同學將太陽能電池管理模組連接到未來板Lite顯示板上。
 
 <figure><img src="../.gitbook/assets/solar_wiring.png" alt=""><figcaption></figcaption></figure>
 
