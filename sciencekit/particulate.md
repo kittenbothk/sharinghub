@@ -26,7 +26,7 @@
 
 請同學在未來板Lite上開啟「pmsensor\_i2c.py」檔案。
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
@@ -46,7 +46,7 @@
 
 數據儲存在pmdata資料夾
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 

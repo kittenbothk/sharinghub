@@ -1,4 +1,4 @@
-# Copy of 7.電子磅
+# 7.電子磅
 
 ### 實驗準備
 
@@ -18,19 +18,29 @@
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「loadcell\_i2c.py」檔案。
+請同學在未來板Lite上開啟「07.Load\_i2c.py」檔案。
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/SaZO2MJzdlM" %}
+{% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
 
 未來板Lite會一直顯示測量到的重量。
 
-<figure><img src="../.gitbook/assets/loadcell_display.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/loadcellprogram.png" alt=""><figcaption></figcaption></figure>
 
+#### Datalogging頁面
 
+{% hint style="info" %}
+未來板IP地址/html/load.html
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+數據儲存在balancedata資料夾
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 

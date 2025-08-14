@@ -1,4 +1,4 @@
-# Copy of 6.污水混濁度測量
+# 6.污水混濁度測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FCg3h4E22a2raNnDEC8Zg%2Fimage.png?alt=media&#x26;token=d515962b-28cd-46aa-bb02-bb2ad9ae757e" alt=""><figcaption></figcaption></figure>
 
@@ -22,27 +22,23 @@
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「turbidity\_p1.py」檔案。
+請同學在未來板Lite上開啟「06.NTU\_p1.py」檔案。
 
 
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/SaZO2MJzdlM" %}
+{% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
 
-首先將儀器的透明部分浸入蒸餾水中，然後按A鍵進行校正。
+水濁度模組可以直接使用，如需更準確數值，可以將模組放進清水裏按A鍵進行校正。
 
-<figure><img src="../.gitbook/assets/turbiditydisplay1.png" alt="" width="349"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/turbidityprogram1.png" alt=""><figcaption></figcaption></figure>
 
 未來板Lite會一直顯示測量到的渾濁度(NTU)。
 
-<figure><img src="../.gitbook/assets/turbiditydisplay2.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/turbidityprogram.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/keSccyhM_FE?si=UaBW3P6HIvgvQomW&t=50" %}
 
@@ -52,7 +48,7 @@
 未來板IP地址/html/ntu.html
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 數據儲存在ntudata資料夾
 

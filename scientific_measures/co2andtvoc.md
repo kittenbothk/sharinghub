@@ -1,4 +1,4 @@
-# 二氧化碳測量
+# 3.二氧化碳測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2Fwz3FGxK4rQClD0JyYLy7%2Fimage.png?alt=media&#x26;token=2b5f382d-daf8-4604-bb4e-9f5b9a69cc76" alt=""><figcaption></figcaption></figure>
 
@@ -18,13 +18,13 @@
 
 請同學將二氧化碳測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../../.gitbook/assets/co2sensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/co2sensor_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
 請同學在未來板Lite上開啟「co2\_i2c.py」檔案。
 
-<figure><img src="../../.gitbook/assets/co2program.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/co2program (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@
 
 未來板Lite會一直顯示測量到空氣中的二氧化碳濃度(ppm)。
 
-<figure><img src="../../.gitbook/assets/co2display.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/co2display.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@
 
 #### 硬件接線
 
-<figure><img src="../../.gitbook/assets/co2_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/co2_wiring_edu.png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
