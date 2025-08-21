@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 手勢控制小車
 
 ![](../../../.gitbook/assets/kart.png)
