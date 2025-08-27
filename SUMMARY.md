@@ -482,6 +482,7 @@
   * [Micro:bit氣動火箭發射實驗套件](kits/air_rocket/README.md)
     * [套件內容](kits/air_rocket/contents.md)
     * [搭建說明書與參考程式](kits/air_rocket/instructions.md)
+    * [教學應用分享](kits/air_rocket/jiao-xue-ying-yong-fen-xiang.md)
   * [智感培植系統 SenseGreen Nurture Hub](kits/sensegreen-nurture-hub/README.md)
     * [說明書與參考程式](kits/sensegreen-nurture-hub/shuo-ming-shu-yu-can-kao-cheng-shi.md)
     * [IoT版說明書與參考程式](kits/sensegreen-nurture-hub/iot-ban-shuo-ming-shu-yu-can-kao-cheng-shi.md)
