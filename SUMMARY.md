@@ -770,7 +770,7 @@
   * [8.電子磅](scientific_measures/load.md)
   * [未來板Lite操作教學](scientific_measures/futureboard_lite_operations.md)
   * [未來板Lite 程式復原教學](scientific_measures/recovery.md)
-* [科學教育測量套件](sciencekit.md)
+* [科學教育測量套件+](sciencekit.md)
   * [支架搭建圖](sciencekit/zhi-jia-da-jian-tu.md)
   * [未來板Lite操作教學](sciencekit/futureboard_lite_operations.md)
   * [Datalogger與數據下載教學](sciencekit/datalogger.md)

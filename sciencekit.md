@@ -1,4 +1,4 @@
-# 科學教育測量套件
+# 科學教育測量套件+
 
 <figure><img src=".gitbook/assets/科學教育測量系列.png" alt=""><figcaption></figcaption></figure>
 
@@ -6,7 +6,14 @@
 
 ## 套件特色
 
-* 毋須編程
+* 毋須編程即可進行測量
+* 可自行編程創作不同應用
+  * 支援Micro:bit的Makecode編程
+  * 支援未來板Lite的micropython編程
+* 附有Datalogging功能
+  * 測量數據可以儲存下來方便作分析
+* 附有實時數據監測功能
+  * 可使用手機/平板/電腦等裝置查閱實時數據
 * 符合科學科課程框架
 * 配有收納盒
 
