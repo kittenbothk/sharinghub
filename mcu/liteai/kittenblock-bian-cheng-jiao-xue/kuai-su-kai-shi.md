@@ -1,30 +1,28 @@
-# Page 1
+# 快速開始
 
 ### 編程準備
 
 首先前往KittenBlock編程平台。
 
+{% embed url="https://kblock.kittenbot.cc/" %}
+
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-使用USB線將未來板Lite連接到電腦，並將未來板Lite的電源開關撥向右。
+使用USB線將未來板Lite連接到電腦，並將未來板Lite的電源開關撥向開。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1_1x (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 打開Devices and Printers，點擊退出FUTURE。
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-在硬件欄選擇未來板Lite，然後點擊連接硬件。
+在硬件欄選擇未來板Lite AI，然後點擊連接硬件。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 ### 在線編程
 
 成功連接後，點擊編程積木，未來板Lite應該會立即有反應。
-
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 上傳程序
 
