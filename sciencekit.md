@@ -45,3 +45,71 @@
 * 9.PH\_i2cpy
 
 <div><figure><img src=".gitbook/assets/programlist1.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/programlist2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/programlist3.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+### 完整使用教學
+
+{% content-ref url="sciencekit/zhi-jia-da-jian-tu.md" %}
+[zhi-jia-da-jian-tu.md](sciencekit/zhi-jia-da-jian-tu.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/futureboard_lite_operations.md" %}
+[futureboard\_lite\_operations.md](sciencekit/futureboard_lite_operations.md)
+{% endcontent-ref %}
+
+{% content-ref url="mcu/liteai/liteaidetails.md" %}
+[liteaidetails.md](mcu/liteai/liteaidetails.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/datalogger.md" %}
+[datalogger.md](sciencekit/datalogger.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/experiments.md" %}
+[experiments.md](sciencekit/experiments.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/decibels.md" %}
+[decibels.md](sciencekit/decibels.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/uv.md" %}
+[uv.md](sciencekit/uv.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/co2andtvoc.md" %}
+[co2andtvoc.md](sciencekit/co2andtvoc.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/particulate.md" %}
+[particulate.md](sciencekit/particulate.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/watertemp.md" %}
+[watertemp.md](sciencekit/watertemp.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/turbidity.md" %}
+[turbidity.md](sciencekit/turbidity.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/load.md" %}
+[load.md](sciencekit/load.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/solar.md" %}
+[solar.md](sciencekit/solar.md)
+{% endcontent-ref %}
+
+{% content-ref url="scientific_measures/phmeasure-1.md" %}
+[phmeasure-1.md](scientific_measures/phmeasure-1.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/recovery.md" %}
+[recovery.md](sciencekit/recovery.md)
+{% endcontent-ref %}
+
+{% content-ref url="sciencekit/recovery-1.md" %}
+[recovery-1.md](sciencekit/recovery-1.md)
+{% endcontent-ref %}
