@@ -370,6 +370,8 @@
       * [無綫通訊](mcu/futureboard_lite/kittenblock/wireless.md)
       * [IoT物聯網](mcu/futureboard_lite/kittenblock/iot.md)
       * [AI鏡頭KOI 2](mcu/futureboard_lite/kittenblock/koi2.md)
+  * [未來板Lite AI](mcu/liteai/README.md)
+    * [未來板Lite AI介紹](mcu/liteai/wei-lai-ban-lite-ai-jie-shao.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
     * [MeowBit操作教學](zhu-kong-ban/meowbit/interface.md)
