@@ -179,7 +179,7 @@
   * [Sugar系列模組](functional_modules/sugar/README.md)
     * [Sugar 按鍵模組](functional_modules/sugar/button.md)
     * [Sugar 人體紅外感應模組](functional_modules/sugar/pir.md)
-    * [Sugar 巡線模組](functional_modules/sugar/line.md)
+    * [Sugar 巡線模組(已停止生產)](functional_modules/sugar/line.md)
     * [Sugar 磁力感應模組](functional_modules/sugar/magnet.md)
     * [Sugar LED模組](functional_modules/sugar/led.md)
     * [Sugar 電位器模組](functional_modules/sugar/potentiometer.md)
