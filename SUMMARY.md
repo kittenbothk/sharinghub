@@ -373,7 +373,7 @@
   * [未來板Lite AI](mcu/liteai/README.md)
     * [未來板Lite AI介紹](mcu/liteai/liteaidetails.md)
     * [未來板Lite AI 硬件簡介](mcu/liteai/resources.md)
-    * [未來板Lite AI 操作教學](mcu/liteai/wei-lai-ban-lite-ai-cao-zuo-jiao-xue.md)
+    * [未來板Lite AI 操作教學](mcu/liteai/lite_operation_guide.md)
     * [Kittenblock編程教學](mcu/liteai/kittenblock-bian-cheng-jiao-xue/README.md)
       * [Page 1](mcu/liteai/kittenblock-bian-cheng-jiao-xue/page-1.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
