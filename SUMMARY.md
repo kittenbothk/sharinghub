@@ -372,6 +372,7 @@
       * [AI鏡頭KOI 2](mcu/futureboard_lite/kittenblock/koi2.md)
   * [未來板Lite AI](mcu/liteai/README.md)
     * [未來板Lite AI介紹](mcu/liteai/liteaidetails.md)
+    * [未來板Lite 硬件簡介](mcu/liteai/resources.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
     * [MeowBit操作教學](zhu-kong-ban/meowbit/interface.md)

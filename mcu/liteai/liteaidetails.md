@@ -33,6 +33,12 @@ Lite AI亦已經搭載最前端的生成式AI功能，包括與AI Chatbot聊天�
 * AI編程功能
   * 支援最新銳的AI編程，只需使用自然文字即可生成各種程序
 
+
+
+### 功能展示
+
+{% embed url="https://youtu.be/5gTTaL2S0LM" %}
+
 ### 產品參數
 
 | **尺寸**       | 56 x 56 x 21.5 mm                 |
