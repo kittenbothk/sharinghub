@@ -20,7 +20,7 @@ KOI的RX接口(黃色線)接到Robotbit的TX接口(P2)。
 KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **2. 與Robotbit 2.2  組合使用**
 

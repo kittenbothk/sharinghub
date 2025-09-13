@@ -6,7 +6,7 @@
 
 [Teachable Machine with Google](https://teachablemachine.withgoogle.com/train)
 
-<figure><img src="../../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 開啟Image Project，選擇Embedded Image Model。
 
@@ -24,7 +24,7 @@ Teachable Machine只可使用黑白相片訓練，而且解像度只是96x96，�
 
 然後按Train Model。完成後可以Connect Device，驗證模型的準確度。
 
-<div><figure><img src="../../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Teachable Machine模型匯出
 

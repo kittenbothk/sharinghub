@@ -24,7 +24,7 @@
 
 請同學在未來板Lite上開啟「05\_Temp\_p1.py」檔案。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
@@ -40,11 +40,11 @@
 未來板IP地址/html/temp.html
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 數據儲存在tempdata資料夾
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 

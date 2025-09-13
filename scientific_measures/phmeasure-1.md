@@ -1,4 +1,4 @@
-# Copy of 9.pH酸鹼值測量
+# 9.pH酸鹼值測量
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6uJvpXC43onNIIwhMlWo%2Fuploads%2FGyPNdp0KfxcB7sXjSU86%2Fimage.png?alt=media&#x26;token=e59432f7-bf84-41bd-a4ee-47b167b93876" alt=""><figcaption></figcaption></figure>
 
@@ -40,11 +40,11 @@
 未來板IP地址/html/ph.html
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 數據儲存在phdata資料夾
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 
