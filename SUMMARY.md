@@ -385,6 +385,7 @@
       * [電機與舵機](mcu/liteai/kittenblock-bian-cheng-jiao-xue/motors_servos.md)
       * [IoT物聯網](mcu/liteai/kittenblock-bian-cheng-jiao-xue/iot.md)
       * [無綫通訊](mcu/liteai/kittenblock-bian-cheng-jiao-xue/wireless.md)
+      * [Sugar感應器](mcu/liteai/kittenblock-bian-cheng-jiao-xue/sugar-gan-ying-qi.md)
       * [AI鏡頭KOI 2](mcu/liteai/kittenblock-bian-cheng-jiao-xue/koi2.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
