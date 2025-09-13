@@ -1,6 +1,6 @@
 # 蜂鳴器
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 通過pwm和系統時間達成不同的音調與節拍從而封裝而成的蜂鳴器音樂庫
 
@@ -15,7 +15,7 @@
 ○ :2：持續時間，以bpm=120且四分音符為一拍的默認情況下，1秒2拍=>0.5秒/拍，2則代表著4分音符的一半，所以該c4:2的時長持續為0.25s
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式2:持續播放和休止
 

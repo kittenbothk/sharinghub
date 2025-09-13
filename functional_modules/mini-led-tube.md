@@ -51,7 +51,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### NeoPixel積木塊：
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://makecode.microbit.org/_fvDR70C9VMVs" %}
 
