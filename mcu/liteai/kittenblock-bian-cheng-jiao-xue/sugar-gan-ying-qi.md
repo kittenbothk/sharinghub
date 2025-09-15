@@ -26,7 +26,7 @@ Sugar感應器的編程積木
 I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿模組，PM2.5模組
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式4: 執行器
 
@@ -34,7 +34,7 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 執行器包括振子，蜂鳴器，霧化器，雷射模組
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式5: 顯示類模組
 
