@@ -387,6 +387,7 @@
       * [無綫通訊](mcu/liteai/kittenblock/wireless.md)
       * [Sugar感應器](mcu/liteai/kittenblock/sugar.md)
       * [AI鏡頭KOI 2](mcu/liteai/kittenblock/koi2.md)
+      * [聊天Agent](mcu/liteai/kittenblock/liao-tian-agent.md)
     * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
