@@ -1,8 +1,8 @@
 # 1 屏幕顯示
 
-### 1.1 全彩像素模式 <a href="#lczv2" id="lczv2"></a>
+## 1.1 全彩像素模式 <a href="#lczv2" id="lczv2"></a>
 
-#### 1.1.1 構建對象
+### 1.1.1 構建對象
 
 `class screen.Screen()`
 
@@ -13,7 +13,7 @@ screens = Screen()
 screens.init()
 ```
 
-**1.1.2 屏幕背光**
+### **1.1.2 屏幕背光**
 
 `setBrightness(state)`
 
@@ -21,7 +21,7 @@ screens.init()
 
 * state：int類型，0 關閉 / 1 開啟
 
-#### 1.1.3 顯示方向
+### 1.1.3 顯示方向
 
 `setRotation(dir)`
 
@@ -29,7 +29,7 @@ screens.init()
 
 * state：int類型，0、90、180、270分別控制4個方向進行顯示
 
-#### 1.1.4 自動刷新
+### 1.1.4 自動刷新
 
 `autoRefresh(switch)`
 
@@ -37,11 +37,11 @@ screens.init()
 
 * switch：bool類型，True 自動刷新 / False 關閉自動刷新
 
-#### 1.1.5 刷新顯示
+### 1.1.5 刷新顯示
 
 `refresh()`
 
-#### 1.1.6 填充顯示
+### 1.1.6 填充顯示
 
 `fill(color)`
 
@@ -49,11 +49,11 @@ screens.init()
 
 * color：rgb
 
-#### 1.1.7 清屏
+### 1.1.7 清屏
 
 `clear()`
 
-#### 1.1.8 點亮像素
+### 1.1.8 點亮像素
 
 `pixel(x,y,color)`
 
@@ -63,7 +63,7 @@ screens.init()
 * y：int類型，縱向坐標，範圍0\~127
 * color：rgb顏色
 
-#### **1.1.9** 繪制線段
+### **1.1.9** 繪制線段
 
 `line(x1,y1,x2,y2,color)`
 
@@ -75,7 +75,7 @@ screens.init()
 * y2：int類型，坐標2的縱坐標，範圍0\~127
 * color：rgb顏色
 
-#### 1.1.10 繪制圓形
+### 1.1.10 繪制圓形
 
 `circle(x,y,r,color)`
 
@@ -87,7 +87,7 @@ screens.init()
 * color：rgb顏色
 * fill：bool類型，顏色是否填充圖形
 
-#### 1.1.11 繪制三角形
+### 1.1.11 繪制三角形
 
 `triangle(x1,y1,x2,y2,x3,y3,color,fill)`
 
@@ -102,7 +102,7 @@ screens.init()
 * color：rgb顏色
 * fill：bool類型，顏色是否填充圖形
 
-#### 1.1.12 繪制多邊形
+### 1.1.12 繪制多邊形
 
 `polygon(x,y,rim,diameter,thickness,skewing,color,fill)`
 
@@ -131,7 +131,7 @@ screens.polygon(50,50,5,50,3,0,(0, 170, 170),0)
 screens.refresh()
 ```
 
-#### 1.1.13 顯示文本
+### 1.1.13 顯示文本
 
 `text(text,x,y,size,color)`
 
@@ -143,11 +143,27 @@ screens.refresh()
 * size：int類型，字號(1-3)
 * color：rgb顏色
 
-#### 1.1.14 顯示多行文本
+### 1.1.14 顯示多行文本
 
 `smartText(text,x,y,color)`
+
+參數
 
 * text：str類型，要顯示的文本，過長會自動分行
 * x：int類型，中心橫坐標，範圍0\~159
 * y：int類型，中心縱坐標，範圍0\~127
 * color：rgb顏色
+
+### 1.1.15 顯示圖片
+
+`loadimg(path,x,y)`
+
+參數
+
+* path：str類型，圖片路徑
+* x：int類型，中心橫坐標，範圍0\~159
+* y：int類型，中心縱坐標，範圍0\~127
+
+## 1.2 點陣模式
+
+### 1.2.1 構建對象
