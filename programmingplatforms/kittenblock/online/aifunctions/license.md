@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-<figure><img src="../../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../../../../.gitbook/assets/車牌辨識.sb3" %}
 

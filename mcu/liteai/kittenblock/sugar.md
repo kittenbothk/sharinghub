@@ -26,7 +26,7 @@ Sugar感應器的編程積木
 I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿模組，PM2.5模組
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式4: 執行器
 
@@ -34,7 +34,7 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 執行器包括振子，蜂鳴器，霧化器，雷射模組
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式5: 顯示類模組
 
@@ -44,25 +44,25 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 
 #### LED模組
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 數碼顯示模組
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式6: 貓耳超聲波
 
 添加插件即可啟用貓耳超聲波的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式7: 觸碰鍵盤
 
 添加插件即可啟用觸碰鍵盤的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -70,7 +70,7 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 
 添加插件即可啟用二氧化碳模組的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 
 添加插件即可啟用紫外線模組的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -86,7 +86,7 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 
 添加插件即可啟用稱重模組的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -94,6 +94,6 @@ I2C感應器包括鐳射測距模組，溫濕度模組，氣壓模組，搖桿�
 
 添加插件即可啟用太陽能模組的積木
 
-<div><figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
