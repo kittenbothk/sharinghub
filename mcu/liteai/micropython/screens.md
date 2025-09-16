@@ -167,3 +167,189 @@ screens.refresh()
 ## 1.2 點陣模式
 
 ### 1.2.1 構建對象
+
+`class future.Matrix()`
+
+```python
+from future import *
+
+matrix = Matrix()
+```
+
+### 1.2.2 點陣比例
+
+`init(x,y)`
+
+參數
+
+* x：int類型，橫坐標的像素數量
+* y：int類型，縱坐標的像素數量
+
+### **1.2.3 显示图标**
+
+`show(t)`
+
+參數
+
+* t：list類型，0 滅 / 1 亮
+
+<pre class="language-python"><code class="lang-python"><strong>#示例——显示爱心
+</strong><strong>from future import *
+</strong>
+matrix = Matrix()
+matrix.show([0,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0])
+</code></pre>
+
+### 1.2.4 顯示字符
+
+{% hint style="info" %}
+僅支持5x5和8x8的點陣模式
+{% endhint %}
+
+`scroll(text)`
+
+參數
+
+* text，str類型，要顯示的文本
+
+### 1.2.5 點亮像素
+
+`pix(x,y,light)`
+
+參數
+
+* x：int類型，橫坐標，範圍0\~4
+* y：int類型，縱坐標，範圍0\~4
+* light：int類型，亮度，範圍0\~255
+
+## 1.3 海龜繪圖
+
+### 1.3.1 構建對象
+
+`class turtle.Turtle()`
+
+```python
+from future import *
+from turtle import Turtle
+
+turtles = Turtle()
+```
+
+### 1.3.2 畫筆顏色
+
+`fillcolor(color)`
+
+參數
+
+* color：rgb顏色
+
+### 1.3.3 擡筆
+
+`penup()`
+
+### 1.3.4 落筆
+
+`pendown()`
+
+### 1.3.5 前進
+
+`forward(distance)`
+
+參數
+
+* distance：int類型，想要移動的像素
+
+### 1.3.6 左轉
+
+`left(angle)`
+
+參數
+
+* angle：int類型，旋轉角度
+
+### 1.3.7 右轉
+
+`right(angle)`
+
+參數
+
+* angle：int類型，旋轉角度
+
+### 1.3.8 朝向
+
+`setheading(angle)`
+
+參數
+
+* angle：int類型，旋轉角度
+
+### 1.3.9 移動到坐標
+
+`goto(x,y)`
+
+參數
+
+* x：int類型，中心橫坐標，範圍0\~159
+* y：int類型，中心縱坐標，範圍0\~127
+
+### 1.3.10 設置x坐標
+
+`setx(x)`
+
+參數
+
+* x：int類型，中心橫坐標，範圍0\~159
+
+### 1.3.11 設置y坐標
+
+`sety(y)`
+
+參數
+
+* y：int類型，中心縱坐標，範圍0\~127
+
+### 1.3.12 繪制弧度
+
+`circle(r,angle)`
+
+參數
+
+* r：int類型，半徑
+* angle，int類型，角度
+
+### **1.3.13** 畫點
+
+`dot(size)`
+
+參數
+
+* size：int類型，點大小
+
+### 1.3.14 開始填充&結束填充
+
+`begin_fill()`
+
+`end_fill()`
+
+```python
+from future import *
+from turtle import Turtle
+
+turtles = Turtle()
+
+turtles.clear()
+turtles.penup()
+turtles.goto(50, 50)
+turtles.pendown()
+turtles.begin_fill()
+turtles.setheading(90)
+turtles.forward(20)
+turtles.right(90)
+turtles.forward(20)
+turtles.right(90)
+turtles.forward(20)
+turtles.right(90)
+turtles.forward(20)
+turtles.end_fill()
+
+```

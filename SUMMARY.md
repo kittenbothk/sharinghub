@@ -389,7 +389,7 @@
       * [AI鏡頭KOI 2](mcu/liteai/kittenblock/koi2.md)
       * [聊天Agent](mcu/liteai/kittenblock/liao-tian-agent.md)
     * [Micropython編程教學](mcu/liteai/micropython/README.md)
-      * [1 屏幕顯示](mcu/liteai/micropython/1-ping-mu-xian-shi.md)
+      * [1 屏幕顯示](mcu/liteai/micropython/screens.md)
     * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
