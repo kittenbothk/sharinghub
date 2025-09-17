@@ -401,6 +401,7 @@
       * [10 WIFI](mcu/liteai/micropython/wifi.md)
       * [11 Sugar數碼模組](mcu/liteai/micropython/sugardigital.md)
       * [12 Sugar模擬模組](mcu/liteai/micropython/12-sugar-mo-ni-mo-zu.md)
+      * [13 I2C模塊](mcu/liteai/micropython/13-i2c-mo-kuai.md)
     * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
