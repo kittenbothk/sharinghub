@@ -59,3 +59,9 @@ env2 = ENV2()
 `read_altitude()`
 
 * 返回值，double(米)
+
+### 13.3.4 獲取溫度
+
+`read_temp()`
+
+* 返回值，(double °C,double °F)
