@@ -47,3 +47,15 @@ from sugar import *
 
 env2 = ENV2()
 ```
+
+### 13.3.2 獲取氣壓
+
+`read_pres()`
+
+* 返回值，double(百帕)
+
+### 13.3.3 獲取海拔
+
+`read_altitude()`
+
+* 返回值，double(米)
