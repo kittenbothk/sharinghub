@@ -39,6 +39,12 @@ Lite AI亦已經搭載最前端的生成式AI功能，包括與AI Chatbot聊天�
 
 {% embed url="https://youtu.be/5gTTaL2S0LM" %}
 
+### 應用場景
+
+#### AI管家智能家居
+
+<figure><img src="../../.gitbook/assets/smarthome_1.png" alt=""><figcaption></figcaption></figure>
+
 ### 產品參數
 
 | **尺寸**       | 56 x 56 x 21.5 mm                 |
