@@ -65,3 +65,8 @@ env2 = ENV2()
 `read_temp()`
 
 * 返回值，(double °C,double °F)
+
+## 13.4 五向搖桿模塊
+
+### 13.4.1 構造對象
+
