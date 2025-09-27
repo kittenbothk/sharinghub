@@ -191,6 +191,33 @@ display = Nixietube()
 
 ### 13.7.4 顯示冒號
 
+`showDP(1,show)`
+
 參數
 
 * show：bool類型,啟用與否
+
+### 13.7.5 在指定位置顯示小數點
+
+`showDP(index,show)`
+
+參數
+
+* index：int類型，位置1\~3
+* show：bool類型，是否啟用顯示
+
+### 13.7.6 設置亮度
+
+`intensity(light)`
+
+參數
+
+* light：int類型，0\~8
+
+### 13.7.7 顯示狀態
+
+`clear()`：清除顯示
+
+`on()`：開啟顯示
+
+`off()`：關閉顯示
