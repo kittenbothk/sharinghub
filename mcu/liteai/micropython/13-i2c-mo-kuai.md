@@ -183,3 +183,14 @@ display = Nixietube()
 ### 13.7.3 在指定位置顯示內容
 
 `showbit(text,index)`
+
+參數
+
+* ext：int類型,顯示的數字也可以是"-"
+* index：int類型，位置
+
+### 13.7.4 顯示冒號
+
+參數
+
+* show：bool類型,啟用與否
