@@ -1,4 +1,4 @@
-# Datalogger與數據下載教學
+# Datalogger與數據下載教學(只限Lite AI)
 
 ### 1 .設定WiFi聯網
 
@@ -9,6 +9,11 @@
 <figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 填入wifi登入資料
+
+{% hint style="info" %}
+未來板Lite Ai預設出廠時的wifi登入資料為\
+hello,12345678
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
