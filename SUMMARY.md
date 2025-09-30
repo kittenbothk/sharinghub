@@ -558,6 +558,8 @@
         * [SugarBox雨量計](kits/smartweatherstation/sugarbox-ban-ben/instructions_sugarbox/raingauge.md)
         * [SugarBox風向計](kits/smartweatherstation/sugarbox-ban-ben/instructions_sugarbox/windvane.md)
         * [SugarBox風速儀](kits/smartweatherstation/sugarbox-ban-ben/instructions_sugarbox/anemometer.md)
+  * [未來板Lite AI智能管家](kits/liteai_smarthome.md)
+  * [Jacdac Micro:bit AI巫師](kits/jacdac-microbit-ai-wu-shi.md)
   * [MicroCode探險家](kits/microcode_explorer/README.md)
     * [最新Microsoft MicroCode](https://sharinghub.kittenbot.hk/programmingplatforms/microcode)
     * [MicroCode 編程教學](https://sharinghub.kittenbot.hk/expansion_board/newbit-arcade-shield/newbitmicrocode)
