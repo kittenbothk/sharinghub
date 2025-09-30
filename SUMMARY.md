@@ -404,6 +404,7 @@
       * [12 Sugar模擬模組](mcu/liteai/micropython/12-sugar-mo-ni-mo-zu.md)
       * [13 I2C模塊](mcu/liteai/micropython/13-i2c-mo-kuai.md)
       * [14 語音識別模塊](mcu/liteai/micropython/asr.md)
+      * [15 AI鏡頭 KOI 2](mcu/liteai/micropython/15-ai-jing-tou-koi-2.md)
     * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
