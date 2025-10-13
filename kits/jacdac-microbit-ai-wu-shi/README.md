@@ -1,6 +1,6 @@
 # Jacdac Micro:bit AI巫師
 
-<figure><img src="../.gitbook/assets/potter1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/potter1.png" alt=""><figcaption></figcaption></figure>
 
 訓練AI辨識手勢，化身小巫師施展魔咒。魔咒效果透過Jacdac模組活靈活現。
 
@@ -8,7 +8,7 @@
 
 ## 套件特色
 
-<figure><img src="../.gitbook/assets/Microbit AI巫師.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Microbit AI巫師.png" alt=""><figcaption></figcaption></figure>
 
 * 訓練AI模型過程簡易
 * 玩法融合AI與魔法，學生更投入
@@ -58,10 +58,10 @@
 
 ## 產品展示
 
-<figure><img src="../.gitbook/assets/Harry_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Harry_01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Harry_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Harry_04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Harry_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Harry_02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Harry_03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Harry_03.png" alt=""><figcaption></figcaption></figure>
