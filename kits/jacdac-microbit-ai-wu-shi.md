@@ -1,12 +1,14 @@
 # Jacdac Micro:bit AI巫師
 
-<figure><img src="../.gitbook/assets/Microbit AI巫師.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/potter1.png" alt=""><figcaption></figcaption></figure>
 
 訓練AI辨識手勢，化身小巫師施展魔咒。魔咒效果透過Jacdac模組活靈活現。
 
 學生代入小巫師角色，學習更投入。配合美觀的道具，展示性更高。
 
 ## 套件特色
+
+<figure><img src="../.gitbook/assets/Microbit AI巫師.png" alt=""><figcaption></figcaption></figure>
 
 * 訓練AI模型過程簡易
 * 玩法融合AI與魔法，學生更投入
@@ -20,36 +22,35 @@
 **電子模組**
 
 * Jacdaptor x1
-* Jacdac-Power x1
-* Jacdac-Hub\_b x1
-* Jacdac-RGB Strip x1
-* 10 Pixels Flexible Light Strips x1
-* Jacdac-Servo x1
-* GeekServo 9G Servo x2
-* Jacdac-Haptic Output x1
-* Jacdac-RGB Ring x1
-* battery pack x1
+* Jacdac 電源模組 x1
+* Jacdac分線器 x1
+* Jacdac RGB燈帶模組 x1
+  * RGB燈條 x1
+* Jacdac 舵機模組 x1
+  * 9G 舵機 x2
+* Jacdac 震動模組 x1
+* Jacdac RGB燈圈 x1
+* AAA電池盒 x1
 
-**Cable**
+**連接線**
 
-* microUSB 1m x1
-* Type-C 1m x1
-* Jacdac Cable 10cm x3
-* Jacdac Cable 35cm x3
+* Micro USB線 x1
+* USB C線 x1
+* Jacdac 連接線 10cm x3
+* Jacdac 連接線 35cm x3
 
-**Additional Components**
+**其他材料**
 
-* Wooden board ( 210mm × 297mm × 3mm) x1
-* Wooden Stick ( 300mm, φ8mm) x1
-* 3D Printed Part
-* Stickers
-* 1cm Round Double
-* Sided Tape (Sheet)
-* Brass Standoff x4
-* Screws m3 x10
-* Screws m2 x8
-* Screws m1.2x6 x4
-* Screwdriver x1
+* 木板 ( 210mm × 297mm × 3mm) x1
+* 木棒 ( 300mm, φ8mm) x1
+* 3D打印零件包 x1
+* 裝飾貼紙 x1
+* 雙面膠紙
+* M2銅柱 x4
+* M3螺絲 x10
+* M2螺絲 x8
+* M1.2x6螺絲 x4
+* 螺絲批 x2
 
 ## 展示短片
 
