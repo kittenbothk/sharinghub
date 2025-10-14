@@ -561,6 +561,7 @@
   * [未來板Lite AI智能管家](kits/liteai_smarthome.md)
   * [Jacdac Micro:bit AI巫師](kits/jacdac-microbit-ai-wu-shi/README.md)
     * [AI巫師 模型搭建教學](kits/jacdac-microbit-ai-wu-shi/ai-wu-shi-mo-xing-da-jian-jiao-xue.md)
+    * [AI巫師 編程教學與參考程式](kits/jacdac-microbit-ai-wu-shi/ai-wu-shi-bian-cheng-jiao-xue-yu-can-kao-cheng-shi.md)
   * [MicroCode探險家](kits/microcode_explorer/README.md)
     * [最新Microsoft MicroCode](https://sharinghub.kittenbot.hk/programmingplatforms/microcode)
     * [MicroCode 編程教學](https://sharinghub.kittenbot.hk/expansion_board/newbit-arcade-shield/newbitmicrocode)
