@@ -86,6 +86,12 @@ CreateAI是專為Micro:bit而設計的機器學習平台，學生可以訓練Mic
 
 ### Jacdac模組控制
 
+編程教學請參考以下教學。
+
+{% content-ref url="../../jacdac/hardwares/quickstart.md" %}
+[quickstart.md](../../jacdac/hardwares/quickstart.md)
+{% endcontent-ref %}
+
 ## 參考程式
 
 ### 魔法棒
