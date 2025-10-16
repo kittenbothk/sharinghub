@@ -2,7 +2,7 @@
 
 貓耳超聲波 (HKBM8014A)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ultrasound\_v3\_render.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ultrasound_v3_render.png)
 
 這是一隻超聲波測距模組。
 
@@ -32,7 +32,7 @@
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner12.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png)
 
 #### Microbit:
 
@@ -40,7 +40,7 @@
 
 #### 在擴展頁直接搜尋robotbit (robotbit已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/robotbit\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -50,10 +50,10 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 超聲波模組積木塊：
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ultraSound\_blocks.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ultraSound_blocks.png)
 
 **距離檢測編程(有洞版)：**
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ultraSound\_v3\_code.png)
+{% embed url="https://makecode.microbit.org/_48wCLgeCA87g" %}
 
-[參考程式網址](https://makecode.microbit.org/\_Xoggf6RR4JVs)
+[參考程式](https://makecode.microbit.org/_48wCLgeCA87g)
