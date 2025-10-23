@@ -1,4 +1,4 @@
-# AI巫師 編程教學與參考程式
+# AI魔杖套件 編程教學與參考程式
 
 ## 編程教學
 
@@ -81,6 +81,8 @@ CreateAI是專為Micro:bit而設計的機器學習平台，學生可以訓練Mic
 <figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 下載下來的hex檔亦可以在Makecode平台打開，訓練好的模型和編程積木都不會損失。不過在Makecode平台上就不能進行任何模型訓練或數據的紀錄。
+
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
