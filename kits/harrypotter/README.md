@@ -1,4 +1,4 @@
-# Jacdac Micro:bit AI巫師
+# Micro:bit AI魔杖套件
 
 <figure><img src="../../.gitbook/assets/potter1.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@
 
 ## 展示短片
 
-{% embed url="https://www.youtube.com/watch?list=TLGGBm1hrWU8JlszMDA5MjAyNQ&v=RLa-qIdosoA" %}
+{% embed url="https://youtu.be/7dbhb56uzcs" %}
 
 ## 產品展示
 
