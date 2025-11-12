@@ -59,3 +59,34 @@ description: Geekservo電機 (HKBD8006A)
 
 ### 接線方法
 
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+
+### MakeCode編程教學
+
+#### 加載Robotbit插件：
+
+#### 在擴展頁直接搜尋robotbit (robotbit已經過微軟認證，可以直接搜尋)
+
+![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif)
+
+#### 你亦可以用插件地址搜尋
+
+robotbit插件：https://github.com/KittenBot/pxt-robotbit
+
+#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+
+#### 馬達積木塊:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+{% embed url="https://makecode.microbit.org/_ADRfV0U4Cbjy" %}
+
+[https://makecode.microbit.org/\_ADRfV0U4Cbjy](https://makecode.microbit.org/_ADRfV0U4Cbjy)
