@@ -87,6 +87,10 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 參考程式
 
+[https://makecode.microbit.org/\_ADRfV0U4Cbjy](https://makecode.microbit.org/_ADRfV0U4Cbjy)
+
 {% embed url="https://makecode.microbit.org/_ADRfV0U4Cbjy" %}
 
-[https://makecode.microbit.org/\_ADRfV0U4Cbjy](https://makecode.microbit.org/_ADRfV0U4Cbjy)
+## Armourbit
+
+### 接線方法
