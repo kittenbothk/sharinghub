@@ -4,20 +4,20 @@
 
 Kittenbot各款電機與舵機的資料。
 
-{% content-ref url="geekservo9g_motor.md" %}
-[geekservo9g\_motor.md](geekservo9g\_motor.md)
+{% content-ref url="geekservo9g_motor/" %}
+[geekservo9g\_motor](geekservo9g_motor/)
 {% endcontent-ref %}
 
 {% content-ref url="geekservo9g_servo.md" %}
-[geekservo9g\_servo.md](geekservo9g\_servo.md)
+[geekservo9g\_servo.md](geekservo9g_servo.md)
 {% endcontent-ref %}
 
 {% content-ref url="geekservo2k_motor.md" %}
-[geekservo2k\_motor.md](geekservo2k\_motor.md)
+[geekservo2k\_motor.md](geekservo2k_motor.md)
 {% endcontent-ref %}
 
 {% content-ref url="geekservo2k_servo.md" %}
-[geekservo2k\_servo.md](geekservo2k\_servo.md)
+[geekservo2k\_servo.md](geekservo2k_servo.md)
 {% endcontent-ref %}
 
 {% content-ref url="ttmotor.md" %}
