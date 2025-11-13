@@ -1,12 +1,12 @@
 ---
-description: Geekservo電機 (HKBD8006A)
+description: Geekservo舵機 (HKBD8005A)
 ---
 
-# Geekservo 9g電機
+# Geekservo 9g舵機
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/13_05.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/13_04.png)
 
-這是一款兼容樂高件的減速直流電機，輸出軸為樂高十字軸。主要用作驅動如車子，齒輪般動力機械。
+這是一款兼容樂高件的舵機。輸出軸為樂高十字軸。主要用在需求精細控制的結構上，例如關節，機械臂。
 
 ### 產品參數
 
@@ -16,14 +16,15 @@ description: Geekservo電機 (HKBD8006A)
 * 堵轉電流：700ma
 * 打滑電流：450ma
 * 最大扭力：500g/cm(4.8V)
-* 最高轉速：70rpm(3V供電情况下)
+* 角度轉速：60°/0.12s
+* 角度範圍：-45°\~225°
 * 重量：12.4g
-* 接口：紅黑線
+* 接口：橙紅啡線
 
 ### 使用注意事項
 
 * 這只是一種小型電機，使用情境的扭力和電壓需求請不要過大。
-* Geekservo電機沒有線序要求，調換線序只影響轉動方向。
+* Geekservo舵機有嚴格的線序要求，請根據線序連接。
 * 禁止長時間超出堵轉電流，否則會燒壞電機。
 
 ### 規格尺寸
@@ -61,11 +62,11 @@ description: Geekservo電機 (HKBD8006A)
 
 #### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
@@ -81,32 +82,12 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
-#### 馬達積木塊:
+#### 舵機積木塊:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-#### 參考程式
-
-[https://makecode.microbit.org/\_ADRfV0U4Cbjy](https://makecode.microbit.org/_ADRfV0U4Cbjy)
-
-{% embed url="https://makecode.microbit.org/_ADRfV0U4Cbjy" %}
-
-## Armourbit
-
-### 接線方法
-
-<figure><img src="../../.gitbook/assets/9gmotor_armor.png" alt=""><figcaption></figcaption></figure>
-
-### MakeCode編程教學
-
-#### 加載Powerbrick插件：
-
-#### 在擴展頁直接搜尋Powerbrick (powerbrick已經過微軟認證，可以直接搜尋)
-
-![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif)
-
-#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
-{% embed url="https://makecode.microbit.org/_RYHivyayYL4q" %}
+[https://makecode.microbit.org/\_4LaMLJEbz91X](https://makecode.microbit.org/_4LaMLJEbz91X)
+
+{% embed url="https://makecode.microbit.org/_4LaMLJEbz91X" %}
