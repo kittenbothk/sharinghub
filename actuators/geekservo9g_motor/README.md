@@ -83,7 +83,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 馬達積木塊:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
@@ -110,3 +110,31 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 #### 參考程式
 
 {% embed url="https://makecode.microbit.org/_RYHivyayYL4q" %}
+
+## Meowbit
+
+### 接線方法
+
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+
+### MakeCode編程教學
+
+#### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+
+#### 電機積木塊:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../programmingplatforms/makecode/makecodeextupdate.md)
