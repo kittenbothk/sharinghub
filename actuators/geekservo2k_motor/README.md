@@ -1,57 +1,53 @@
 ---
-description: Geekservo電機 (HKBD8006A)
+description: 2KG電機 (HKBD8009A)
 ---
 
-# Geekservo 9g電機
+# GeekServo 2KG電機
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/13_05.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/image--0101.png)
 
-這是一款兼容樂高件的減速直流電機，輸出軸為樂高十字軸。主要用作驅動如車子，齒輪般動力機械。
+這是一款兼容樂高插孔的高扭力的電機，相對於9g電機，在同等供電下具有更高轉速。輸出軸為兩組樂高十字孔，主要用在驅動動力機械。
 
 ### 產品參數
 
 * 工作電壓：3.3V\~6V
 * 額定電壓：4.8V
-* 額定電流：200ma
-* 堵轉電流：700ma
-* 打滑電流：450ma
-* 最大扭力：500g/cm(4.8V)
-* 最高轉速：70rpm(3V供電情况下)
-* 重量：12.4g
+* 額定電流：70mA
+* 堵轉電流：900mA
+* 打滑電流：700mA
+* 最大扭力：1.6kg±0.2kg/cm(4.8V)
+* 最高轉速：120rpm(3V供電情况下)
+* 重量：20g
 * 接口：紅黑線
 
-### 使用注意事項
+### 產品特色：
 
-* 這只是一種小型電機，使用情境的扭力和電壓需求請不要過大。
-* Geekservo電機沒有線序要求，調換線序只影響轉動方向。
-* 禁止長時間超出堵轉電流，否則會燒壞電機。
+![](https://kittenbothk.readthedocs.io/en/latest/_images/2kg_1.jpg)
+
+繼承了GeekServo 9G舵機電機的優點，增強了扭力與速度，改善了結構
+
+* 採用十字沉孔作輸出軸
+  * 可以因使用情況自由插入不同長度的十字軸
+* 扭力更大
+  * 扭力為GeekMotor 9G的三倍左右
 
 ### 規格尺寸
 
 #### 樂高孔單位:
 
 * 長度：5孔
-* 闊度：2孔
+* 闊度：3孔
 * 高度：3孔
 * 輸出軸：樂高十字軸
 
 #### mm單位:
 
 * 長度：40mm
-* 闊度：16mm
-* 高度：34.4mm
+* 闊度：24mm
+* 高度：24mm
 * 輸出軸：樂高十字軸
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/13_03.png)
-
-### Geekservo特色
-
-* 極力子過載保護:
-  * 遇到輸出軸被暴力扭擰會啟動極力子進行跳齒保護，發出「噠噠噠」的聲音。不會損毀齒輪。
-* 安裝方式靈活:
-  * 支援樂高標準磚和Technic插孔，輸出軸亦是樂高標準十字軸。
-* 輕盈小巧:
-  * 方便製作各種小型機械。
+![](https://kittenbothk.readthedocs.io/en/latest/_images/0111.png)
 
 ## 使用教學
 
@@ -61,11 +57,11 @@ description: Geekservo電機 (HKBD8006A)
 
 #### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
