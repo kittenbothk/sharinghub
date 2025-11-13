@@ -91,3 +91,8 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 [https://makecode.microbit.org/\_4LaMLJEbz91X](https://makecode.microbit.org/_4LaMLJEbz91X)
 
 {% embed url="https://makecode.microbit.org/_4LaMLJEbz91X" %}
+
+## Armourbit
+
+### 接線方法
+
