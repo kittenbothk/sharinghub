@@ -57,11 +57,11 @@ description: 2KG電機 (HKBD8009A)
 
 #### Robotbit 2.2
 
-<figure><img src="../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2kmotor_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2kmotor_edu.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
@@ -91,7 +91,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ### 接線方法
 
-<figure><img src="../.gitbook/assets/9gmotor_armor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2kmotor_armor.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
@@ -113,11 +113,11 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### Robotbit 2.2
 
-<figure><img src="../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2kmotor_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2kmotor_edu.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode Arcade編程教學
 

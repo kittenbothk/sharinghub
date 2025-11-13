@@ -16,8 +16,8 @@ Kittenbot各款電機與舵機的資料。
 [geekservo2k\_motor.md](geekservo2k_motor.md)
 {% endcontent-ref %}
 
-{% content-ref url="geekservo2k_servo.md" %}
-[geekservo2k\_servo.md](geekservo2k_servo.md)
+{% content-ref url="geekservo2k_servo/" %}
+[geekservo2k\_servo](geekservo2k_servo/)
 {% endcontent-ref %}
 
 {% content-ref url="ttmotor.md" %}

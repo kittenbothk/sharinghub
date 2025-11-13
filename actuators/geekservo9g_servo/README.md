@@ -124,7 +124,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 舵機積木塊
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
@@ -132,7 +132,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 {% embed url="https://makecode.com/_WrrEcRhMm0o4" %}
 
-### 插件版本與更新
+## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
