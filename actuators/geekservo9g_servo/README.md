@@ -104,6 +104,28 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 {% embed url="https://makecode.microbit.org/_YfJdx4FRx2eP" %}
 
+## Meowbit
+
+### 接線方法
+
+#### Robotbit 2.2
+
+<figure><img src="../../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
+
+#### Robotbit EDU
+
+<figure><img src="../../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
+
+### MakeCode Arcade編程教學
+
+#### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+
+#### 舵機積木塊
+
+
+
 ### 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。

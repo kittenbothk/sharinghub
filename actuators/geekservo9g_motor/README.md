@@ -123,7 +123,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 <figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
 
-### MakeCode編程教學
+### MakeCode Arcade編程教學
 
 #### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
 
@@ -132,6 +132,12 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 #### 電機積木塊:
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 參考程式
+
+[https://makecode.com/\_drW0kX41L02f](https://makecode.com/_drW0kX41L02f)
+
+{% embed url="https://makecode.com/_drW0kX41L02f" %}
 
 ## 插件版本與更新
 
