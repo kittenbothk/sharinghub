@@ -276,7 +276,7 @@
     * [Page 1](actuators/geekservo9g_motor/page-1.md)
   * [Geekservo 9g舵機](actuators/geekservo9g_servo/README.md)
     * [Page 2](actuators/geekservo9g_servo/page-2.md)
-  * [GeekServo 2KG電機](actuators/geekservo2k_motor/README.md)
+  * [GeekServo 2KG電機](actuators/geekservo2k_motor.md)
     * [Page 3](actuators/geekservo2k_motor/page-3.md)
   * [GeekServo 2KG舵機](actuators/geekservo2k_servo.md)
   * [機械爪](actuators/gripper.md)

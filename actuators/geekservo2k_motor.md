@@ -57,11 +57,11 @@ description: 2KG電機 (HKBD8009A)
 
 #### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9gservo_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9gservo_edu (5).png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
@@ -75,11 +75,11 @@ description: 2KG電機 (HKBD8009A)
 
 robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
-#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 #### 馬達積木塊:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
@@ -91,7 +91,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ### 接線方法
 
-<figure><img src="../../.gitbook/assets/9gmotor_armor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9gmotor_armor.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode編程教學
 
@@ -101,7 +101,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif)
 
-#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 #### 參考程式
 
@@ -113,21 +113,21 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### Robotbit 2.2
 
-<figure><img src="../../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9gmotor_2.2.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit EDU
 
-<figure><img src="../../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9gmotor_edu.png" alt=""><figcaption></figcaption></figure>
 
 ### MakeCode Arcade編程教學
 
 #### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
 
-#### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
+#### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
 #### 電機積木塊:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
@@ -139,4 +139,4 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../programmingplatforms/makecode/makecodeextupdate.md)
+詳情請參考: [Makecode插件版本更換](../programmingplatforms/makecode/makecodeextupdate.md)
