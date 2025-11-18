@@ -18,13 +18,15 @@
 
 ### 產品特色：
 
-<div><figure><img src="../.gitbook/assets/feeder1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/feeder2.png" alt=""><figcaption></figcaption></figure></div>
-
-
-
 * 3D打印
 * 兼容積木結構
 * 採用2KG電機驅動
+
+## 產品展示
+
+{% embed url="https://youtu.be/sRb6qOz8KvM?si=tskix_PbBM2qb_HW&t=4" %}
+
+<div><figure><img src="../.gitbook/assets/feeder1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/feeder2.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 使用教學
 
