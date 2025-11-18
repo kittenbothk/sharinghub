@@ -249,6 +249,7 @@
       * [流光溢彩屏之靜態效果教程](functional_modules/rgb/ledmatrix/neopixel4.md)
       * [0832溢彩屏之動態效果教程](functional_modules/rgb/ledmatrix/neopixel5.md)
       * [1616溢彩屏之動態效果教程](functional_modules/rgb/ledmatrix/neopixel6.md)
+  * [Screw Feeder](functional_modules/screw-feeder.md)
   * [pH酸鹼值探測組合(舊版)](functional_modules/ph/README.md)
     * [pH酸鹼值探測組合](functional_modules/ph/phsensor.md)
     * [pH酸鹼值探測組合+Micro:bit編程教學](functional_modules/ph/phuse.md)
