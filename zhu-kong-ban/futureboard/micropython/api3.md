@@ -18,7 +18,7 @@ buzzer.tone(freq,d=0.5)
 
 使用頻率控制蜂鳴器。
 
-freq為頻率，頻率與音調對照表可以參考： [https://pages.mtu.edu/\~suits/notefreqs.html](https://pages.mtu.edu/\~suits/notefreqs.html)
+freq為頻率，頻率與音調對照表可以參考： [https://pages.mtu.edu/\~suits/notefreqs.html](https://pages.mtu.edu/~suits/notefreqs.html)
 
 d為持續時間(秒)，預設為0.5秒，d=-1時會持續發聲。
 
@@ -97,4 +97,4 @@ POWER_DOWN = "g5:1 d# c g4:2 b:1 c5:3 "
   * 4代表八度
   * :2代表持續時間
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api4.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api2.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api4.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api2.html)<br>

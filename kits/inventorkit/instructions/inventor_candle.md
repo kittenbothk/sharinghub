@@ -18,4 +18,4 @@
 
 觸碰Micro:bit的Logo後LED會亮起，對著Micro:bit吹氣使LED熄滅。
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/gate.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/firealarm.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/gate.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/firealarm.html)<br>

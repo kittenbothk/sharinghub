@@ -212,4 +212,4 @@ while 1:
 # c.wait_msg()
 ```
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api8.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api6.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api8.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api6.html)<br>

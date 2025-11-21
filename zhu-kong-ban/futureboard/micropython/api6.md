@@ -74,4 +74,4 @@ for i in range(3):
     time.sleep(1)
 ```
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api7.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api5.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api7.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/futureboard/micropython/api5.html)<br>

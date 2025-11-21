@@ -1,7 +1,6 @@
 # Jacdac按鍵模組
 
-\
-
+<br>
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button11.png" alt=""><figcaption></figcaption></figure>
 
@@ -9,15 +8,15 @@
 
 ### 產品參數
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/button2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/button2.png)
 
 ### 連接教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/button31.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/button31.png)
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner16.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner16.png)
 
 #### 參考程式
 
@@ -25,4 +24,4 @@
 
 按下按鍵Micro:bit會顯示圖示。
 
-[參考程式](https://makecode.microbit.org/\_Vu8ECbJU2WKE)
+[參考程式](https://makecode.microbit.org/_Vu8ECbJU2WKE)

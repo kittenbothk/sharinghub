@@ -1,7 +1,6 @@
 # Jacdac介紹
 
-\
-
+<br>
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/modules.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,4 +81,4 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 
 #### [外國用家率先試玩](https://www.youtube.com/watch?v=VMBNxTSGWsI)
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/jacdac/kittenbotjacdac.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/jacdac/index.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/jacdac/kittenbotjacdac.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/jacdac/index.html)<br>

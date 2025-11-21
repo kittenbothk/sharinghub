@@ -18,4 +18,4 @@
 
 使用電筒照住殭屍的遊戲。
 
-[Next ](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/kart_auto.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/fan.html)\
+[Next ](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/kart_auto.html)[ Previous](https://kittenbothk.readthedocs.io/en/latest/Kits/classroom_inventor/instructions/fan.html)<br>

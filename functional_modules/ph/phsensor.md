@@ -18,7 +18,7 @@ pH酸鹼值採測組合可以檢測液體的pH值。
 
 
 
-### <mark style="color:orange;">用前小知識</mark> 
+### <mark style="color:orange;">用前小知識</mark><br>
 
 1. 轉接模組 及 pH探測棒皆需要預先進行較正。
 2. Kittenbot 的pH酸鹼值探測組合在出廠時已經進行了完整校正，一般用家並不需要再進行校正。
