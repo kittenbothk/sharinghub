@@ -5,3 +5,5 @@
 ## 硬件接線
 
 <figure><img src="../../.gitbook/assets/anemometer.png" alt=""><figcaption></figcaption></figure>
+
+## 搭建說明書
