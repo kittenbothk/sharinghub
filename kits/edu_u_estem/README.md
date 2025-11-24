@@ -20,6 +20,10 @@
 
 ## 示範教學
 
+{% content-ref url="../../mcu/liteai/kittenblock/" %}
+[kittenblock](../../mcu/liteai/kittenblock/)
+{% endcontent-ref %}
+
 {% content-ref url="futureboard_lite_operations.md" %}
 [futureboard\_lite\_operations.md](futureboard_lite_operations.md)
 {% endcontent-ref %}
