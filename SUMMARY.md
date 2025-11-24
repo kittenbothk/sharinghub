@@ -757,7 +757,7 @@
     * [風速計Anemometer](kits/edu_u_estem/anemometer.md)
     * [水溫探測Water Temperature](kits/edu_u_estem/watertemp.md)
     * [速度計Speedometer](kits/edu_u_estem/speedometer.md)
-    * [Decibel Sensor](kits/edu_u_estem/decibel-sensor.md)
+    * [分貝計Decibel Sensor](kits/edu_u_estem/decibel.md)
     * [Air Rocket Launcher](kits/edu_u_estem/rocket.md)
     * [PM2.5 Sensor](kits/edu_u_estem/pm.md)
     * [Barometer](kits/edu_u_estem/barometer.md)
