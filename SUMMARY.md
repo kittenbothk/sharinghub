@@ -753,6 +753,7 @@
       * [自動導航泊車 參考程式](kits/differential_car/koi_auto_parking/autoparking_tutorial.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
   * [教大E-Stem Kit](kits/edu_u_estem/README.md)
+    * [未來板Lite AI操作教學](kits/edu_u_estem/futureboard_lite_operations.md)
     * [風速計Anemometer](kits/edu_u_estem/anemometer.md)
     * [水溫探測Water Temperature](kits/edu_u_estem/watertemp.md)
     * [速度計Speedometer](kits/edu_u_estem/speedometer.md)
