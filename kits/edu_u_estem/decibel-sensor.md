@@ -12,8 +12,12 @@
 
 請同學在未來板Lite上開啟「Sound\_p1.py」檔案。
 
+<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 ## 進行測量
 
 未來板Lite會一直顯示測量到的分貝(dB)。
+
+<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>

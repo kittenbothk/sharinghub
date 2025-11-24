@@ -15,3 +15,5 @@
 ## 進行測量
 
 未來板Lite會一直顯示測量到的氣壓讀數(hpa)。
+
+<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>

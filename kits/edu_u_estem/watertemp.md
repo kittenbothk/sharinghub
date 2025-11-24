@@ -10,8 +10,12 @@
 
 請同學在未來板Lite上開啟「temp\_p1.py」檔案。
 
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 ## 進行測量
 
 未來板Lite會一直顯示測量到的溫度(C)。
+
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
