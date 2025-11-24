@@ -19,3 +19,7 @@
 未來板Lite會一直顯示測量到的懸浮粒子讀數(PM2.5)。
 
 <figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
+## 參考程式
+
+{% file src="../../.gitbook/assets/pmsensor.sb3" %}

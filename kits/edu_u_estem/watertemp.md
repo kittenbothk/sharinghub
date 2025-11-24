@@ -19,3 +19,7 @@
 未來板Lite會一直顯示測量到的溫度(C)。
 
 <figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+## 參考程式
+
+{% file src="../../.gitbook/assets/watertemp.sb3" %}
