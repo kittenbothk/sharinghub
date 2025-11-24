@@ -27,3 +27,7 @@
 未來板Lite會顯示測量到的速度(m/s)。按A鍵重設。
 
 <figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+
+## 參考程式
+
+{% file src="../../.gitbook/assets/速度計.sb3" %}

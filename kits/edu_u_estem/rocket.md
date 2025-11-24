@@ -27,3 +27,7 @@
 按下A鍵啟動電機，等待火箭發射。按B鍵停止電機。
 
 <figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+
+## 參考程式
+
+{% file src="../../.gitbook/assets/rocket.sb3" %}

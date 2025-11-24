@@ -23,3 +23,7 @@
 未來板Lite會一直顯示測量到的風速(m/s)。
 
 <figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+
+## 參考程式
+
+{% file src="../../.gitbook/assets/Anemometer (1).sb3" %}
