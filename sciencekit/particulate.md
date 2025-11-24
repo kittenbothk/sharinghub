@@ -20,13 +20,13 @@
 
 請同學將PM2.5測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../.gitbook/assets/pmsensor_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pmsensor_wiring (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
 請同學在未來板Lite上開啟「04.PM\_i2c.py檔案。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
@@ -46,7 +46,7 @@
 
 數據儲存在pmdata資料夾
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 

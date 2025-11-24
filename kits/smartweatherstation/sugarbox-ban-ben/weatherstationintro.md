@@ -1,6 +1,6 @@
 # Sugar Box物聯氣象站介紹
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 物聯氣象站套件是一套集風向、風速、雨量、溫度檢測的學習套件。學生可以從每個應用中學習到氣象與天氣等的科學知識。
 

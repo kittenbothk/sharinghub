@@ -8,7 +8,7 @@
 
 ### 模型接線圖
 
-<figure><img src="../../../../.gitbook/assets/barometer_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/barometer_wiring (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 參考程式
 
