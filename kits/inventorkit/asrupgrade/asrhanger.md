@@ -6,7 +6,7 @@
 
 {% file src="../../../.gitbook/assets/asr_hanger.pdf" %}
 
-### 參考接線[¶](broken-reference)
+### 參考接線[¶](/broken/pages/oKsDKqSOtA59Qbm6Gitd)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_hanger_wire.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,6 +14,6 @@
 
 {% embed url="https://makecode.microbit.org/_DRCfTv6iwP7R" %}
 
-### 模型玩法[¶](broken-reference)
+### 模型玩法[¶](/broken/pages/oKsDKqSOtA59Qbm6Gitd)
 
 對著模型說Hanger In或Hanger Out，晾衣架就會伸出或收入。

@@ -18,11 +18,11 @@ Armourbit 是Powerbrick (能量魔塊) 套件體系的主控盒，打通Microbit
 
 Armour中文意思是指盔甲，Kittenbot 開發人員希望這個擴展盒能給予Microbit擴展之餘, 還有全方位的保護，更適合課堂的使用環境。
 
-### 詳細介紹[¶](broken-reference)
+### 詳細介紹[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_011.png" alt=""><figcaption></figcaption></figure>
 
-### 規格[¶](broken-reference)
+### 規格[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 * 電壓：3.3V（板載不帶5V電壓）
 * 尺寸：61mm X 61mm X 23mm
@@ -36,7 +36,7 @@ Makecode Online：[https://makecode.microbit.org/](https://makecode.microbit.org
 
 **Powerbrick 插件 (Extension)**：https://github.com/KittenBot/pxt-powerbrick
 
-### 引腳分布[¶](broken-reference)
+### 引腳分布[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_021.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,49 +46,49 @@ Makecode Online：[https://makecode.microbit.org/](https://makecode.microbit.org
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_031.png" alt=""><figcaption></figcaption></figure>
 
-### 使用注意事項[¶](broken-reference)
+### 使用注意事項[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 * 舵機介面只能使用藍色的9g小舵機或Geekservo舵機，禁止插接大電流舵機。
 * 直流電機(DC motor)介面只適用於喵家TT電機或Geekservo電機，禁止插接大電流電機。
 * 蜂鳴器與Microbit的P0複用，使用時需檢查底部的撥動開關是否打開。（蜂鳴器預設為開啟）
 * 使用各個模組、電機、舵機，**必須接Powerbrick電池盒，否則因為電流不足，導致模組使用不正常。**
 
-### Micro:bit安裝到Armourbit上示範[¶](broken-reference)
+### Micro:bit安裝到Armourbit上示範[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 下方左側的撥動開關是用來切換P0是否連接蜂鳴器
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/IMG_25671.GIF" alt=""><figcaption></figcaption></figure>
 
-### Reset (重置)Microbit 示範[¶](broken-reference)
+### Reset (重置)Microbit 示範[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 用於重定Microbit的程式（這樣你就不用把Microbit 拿出來才能進行復位了）
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/IMG_25681.GIF" alt=""><figcaption></figcaption></figure>
 
-### MakeCode編程教學[¶](broken-reference)
+### MakeCode編程教學[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner13.png" alt=""><figcaption></figcaption></figure>
 
-#### 點陣屏編程[¶](broken-reference)
+#### 點陣屏編程[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 與Microbit操作一樣
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_041.png" alt=""><figcaption></figcaption></figure>
 
-#### 按鍵編程[¶](broken-reference)
+#### 按鍵編程[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 與Microbit操作一樣
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_082.png" alt=""><figcaption></figcaption></figure>
 
-#### **蜂鳴器編程**[¶](broken-reference)
+#### **蜂鳴器編程**[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 與Microbit操作一樣
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03_051.png" alt=""><figcaption></figcaption></figure>
 
-### 插件版本與更新[¶](broken-reference)
+### 插件版本與更新[¶](/broken/pages/9jR5r1cTvh4mKX4xWrjT)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode\_extensionUpdate.html)
+詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode_extensionUpdate.html)

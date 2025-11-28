@@ -22,6 +22,6 @@
 [ultrasound.md](ultrasound.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/gc23pCmYyItshFtmPnY6" %}
+[Broken link](/broken/pages/gc23pCmYyItshFtmPnY6)
 {% endcontent-ref %}

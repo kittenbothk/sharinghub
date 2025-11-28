@@ -6,9 +6,9 @@ KOI支援Robotbit與Armourbit，兩者分別只是在於初始化積木的分別
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner.png" alt=""><figcaption></figcaption></figure>
 
-#### 加載KOI插件：https://github.com/KittenBot/pxt-koi[¶](broken-reference)
+#### 加載KOI插件：https://github.com/KittenBot/pxt-koi[¶](/broken/pages/gt2jgfVN8A14ZgCLU2MM)
 
-#### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)[¶](broken-reference)
+#### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)[¶](/broken/pages/gt2jgfVN8A14ZgCLU2MM)
 
 初始化積木塊：
 
@@ -26,4 +26,4 @@ KOI支援Robotbit與Armourbit，兩者分別只是在於初始化積木的分別
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/41.png" alt=""><figcaption></figcaption></figure>
 
-#### 在後面教學中的編程我們會用Robotbit為例子，假如你用Armourbit，只要使用相應的初始化積木即可。[¶](broken-reference)
+#### 在後面教學中的編程我們會用Robotbit為例子，假如你用Armourbit，只要使用相應的初始化積木即可。[¶](/broken/pages/gt2jgfVN8A14ZgCLU2MM)

@@ -2,7 +2,7 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/futureboard_blue.jpg" alt=""><figcaption></figcaption></figure>
 
-### 未來板介紹[¶](broken-reference)
+### 未來板介紹[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 未來板顧名思義，是一塊為了未來的編程教育而打造的主控板。它上面不但搭載了多款實用的感應器，更加有一塊全彩的TFT屏幕，資訊可以實時顯示在屏幕上，方便大家製作更多有趣的編程作品。
 
@@ -10,7 +10,7 @@
 
 未來板的確是下一代學習編程的好拍檔。
 
-### 產品特色[¶](broken-reference)
+### 產品特色[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 * 支援圖像化編程，令新手也容易上手。
 * 支援純代碼編程，讓大家容易學習代碼式編程。
@@ -27,7 +27,7 @@
 * 袖珍尺寸並帶有掛繩孔，方便收納和攜帶。
 * 支援無線下載程序，即使用平板電腦也能學編程。
 
-### 產品參數[¶](broken-reference)
+### 產品參數[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 * 產品大小：51.6x51.6x11mm
 * 淨重：22.6g
@@ -42,7 +42,7 @@
 * 螢幕尺寸：1.8吋
 * IO引腳：19PIN金手指(與Microbit相容)
 
-### 板上感應器和接口：[¶](broken-reference)
+### 板上感應器和接口：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 * 160x128 TFT彩屏
 * 2顆按鍵
@@ -64,36 +64,36 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/futureboard_robotbit.png" alt=""><figcaption></figcaption></figure>
 
-### 產品內容：[¶](broken-reference)
+### 產品內容：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 * 未來板
 * USB Type C數據線
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/contents1.jpg" alt=""><figcaption></figcaption></figure>
 
-### 與Micro:bit對比：[¶](broken-reference)
+### 與Micro:bit對比：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/versus.png" alt=""><figcaption></figcaption></figure>
 
-### 產品展示：[¶](broken-reference)
+### 產品展示：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/front1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/back1.jpg" alt=""><figcaption></figcaption></figure>
 
-### 支援編程平台：[¶](broken-reference)
+### 支援編程平台：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 * Kittenblock
 * KittenCode
 * MicroPython
 
-### 介紹短片：[¶](broken-reference)
+### 介紹短片：[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
-#### 未來板介紹[¶](broken-reference)
+#### 未來板介紹[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 {% embed url="https://www.youtube.com/watch?v=PlyQjzOZ3N4" %}
 
-#### 未來板Demo[¶](broken-reference)
+#### 未來板Demo[¶](/broken/pages/pXxRmGHmnOM0OmdjMTkD)
 
 {% embed url="https://www.youtube.com/watch?v=92jPcYZHtWE" %}
 

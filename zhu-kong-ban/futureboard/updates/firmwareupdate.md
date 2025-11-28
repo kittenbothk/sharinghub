@@ -1,10 +1,10 @@
 # 未來板固件更新
 
-### 未來板固件更新[¶](broken-reference)
+### 未來板固件更新[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
 
 Kittenbot會不定期推出未來版的固件更新，提升功能與穩定性。
 
-### 未來板固件推薦更新方法[¶](broken-reference)
+### 未來板固件推薦更新方法[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
 
 KittenBlock每次更新都會附帶未來板的最新固件。只需要下載最新的KittenBlock就可以一鍵更新固件。
 
@@ -16,11 +16,11 @@ KittenBlock每次更新都會附帶未來板的最新固件。只需要下載最
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/firmware1.png" alt=""><figcaption></figcaption></figure>
 
-### 未來版固件進階更新方法[¶](broken-reference)
+### 未來版固件進階更新方法[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
 
 首先下載更新軟件。
 
-[更新軟件](https://drive.google.com/file/d/1\_M4EzolaJWpYXts\_FwUIqH8pZWqy-fye/view?usp=sharing)
+[更新軟件](https://drive.google.com/file/d/1_M4EzolaJWpYXts_FwUIqH8pZWqy-fye/view?usp=sharing)
 
 將檔案解壓縮。
 

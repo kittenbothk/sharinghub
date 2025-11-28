@@ -21,11 +21,11 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png" alt=""><figcaption></figcaption></figure>
 
-#### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)[¶](broken-reference)
+#### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)[¶](/broken/pages/7UMrfr98MwaU3ENjeG6H)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif" alt=""><figcaption></figcaption></figure>
 
-#### 感應器Plus插件：[https://github.com/kittenbothk/pxt-ModulePlus](https://github.com/kittenbothk/pxt-ModulePlus)[¶](broken-reference)
+#### 感應器Plus插件：[https://github.com/kittenbothk/pxt-ModulePlus](https://github.com/kittenbothk/pxt-ModulePlus)[¶](/broken/pages/7UMrfr98MwaU3ENjeG6H)
 
 #### [詳細方法](../programmingplatforms/makecode/kittenbotandmakecode.md)
 
@@ -39,15 +39,15 @@
 
 {% embed url="https://makecode.microbit.org/_W6ADjH3efezz" %}
 
-[參考程式網址](https://makecode.microbit.org/\_W6ADjH3efezz)
+[參考程式網址](https://makecode.microbit.org/_W6ADjH3efezz)
 
 #### 手指模辨識參考程式
 
 {% embed url="https://makecode.microbit.org/_4cRfKYcjid8D" %}
 
-[參考程式網址](https://makecode.microbit.org/\_4cRfKYcjid8D)
+[參考程式網址](https://makecode.microbit.org/_4cRfKYcjid8D)
 
-#### 插件版本與更新[¶](broken-reference)
+#### 插件版本與更新[¶](/broken/pages/7UMrfr98MwaU3ENjeG6H)
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 

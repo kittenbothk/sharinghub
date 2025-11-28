@@ -4,23 +4,23 @@ Kittenbot會不定時推出KOI Wifi固件，提升穩定性和改善功能。
 
 以下會講解一下檢查和更新固件版本的方法。
 
-### 我們先加載KOI Wifi插件：[¶](broken-reference)
+### 我們先加載KOI Wifi插件：[¶](/broken/pages/4HtNbgPaZgWHccFGyqst)
 
-### https://github.com/KittenBot/pxt-koi[¶](broken-reference)
+### https://github.com/KittenBot/pxt-koi[¶](/broken/pages/4HtNbgPaZgWHccFGyqst)
 
-### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)[¶](broken-reference)
+### [詳細方法](../../../programmingplatforms/makecode/kittenbotandmakecode.md)[¶](/broken/pages/4HtNbgPaZgWHccFGyqst)
 
-### 檢查固件版本[¶](broken-reference)
+### 檢查固件版本[¶](/broken/pages/4HtNbgPaZgWHccFGyqst)
 
 首先編寫以下程式將KOI連上路由器。
 
 插件版本：0.6.4或之後
 
-[參考程式下載](https://makecode.microbit.org/\_07dVj25FFJCy)
+[參考程式下載](https://makecode.microbit.org/_07dVj25FFJCy)
 
 插件版本：0.5.7或之前
 
-[參考程式下載](https://makecode.microbit.org/\_YAiLoH9XoPta)
+[參考程式下載](https://makecode.microbit.org/_YAiLoH9XoPta)
 
 將程序上載至Microbit之後等待KOI連上網絡。
 
@@ -44,7 +44,7 @@ Kittenbot會不定時推出KOI Wifi固件，提升穩定性和改善功能。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update2.png" alt=""><figcaption></figcaption></figure>
 
-### 更新KOI Wifi固件[¶](broken-reference)
+### 更新KOI Wifi固件[¶](/broken/pages/4HtNbgPaZgWHccFGyqst)
 
 下載最新版本的固件：[v2.95](https://bit.ly/KOIWifiFW295)
 

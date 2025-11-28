@@ -6,7 +6,7 @@
 
 {% file src="../../../.gitbook/assets/asr_fan.pdf" %}
 
-### 參考接線[¶](broken-reference)
+### 參考接線[¶](/broken/pages/8UmEHX5tu9iHKeZtMIdz)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_fan_wire.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@
 
 {% embed url="https://makecode.microbit.org/_VbY91MDmc7J8" %}
 
-### 模型玩法[¶](broken-reference)
+### 模型玩法[¶](/broken/pages/8UmEHX5tu9iHKeZtMIdz)
 
 對著模型說Fan On或Fan Off，電風扇就會啟動或停止。
 

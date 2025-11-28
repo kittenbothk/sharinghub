@@ -6,7 +6,7 @@
 
 {% file src="../../../.gitbook/assets/asr_smarthome.pdf" %}
 
-### 參考接線[¶](broken-reference)
+### 參考接線[¶](/broken/pages/gEiYHCsN4Qe55PuWJFA4)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_smarthome_wire.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@
 
 {% embed url="https://makecode.microbit.org/_eM5eb0HjYLf4" %}
 
-### 模型玩法[¶](broken-reference)
+### 模型玩法[¶](/broken/pages/gEiYHCsN4Qe55PuWJFA4)
 
 模型集合了多款智能家電的應用。
 

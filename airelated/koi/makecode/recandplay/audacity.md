@@ -4,21 +4,21 @@ KOI可以播放電腦錄製的音頻檔，KittenBot推薦使用Audacity製作。
 
 Audacity是個免費的聲音編輯軟件，支援錄製及修改等的功能。
 
-### 安裝Audacity[¶](broken-reference)
+### 安裝Audacity[¶](/broken/pages/Ps0tuJGtUpPlNEaeScJQ)
 
 前往[https://www.audacityteam.org/](https://www.audacityteam.org/)，下載最新版本的Audacity。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/audacity1.png" alt=""><figcaption></figcaption></figure>
 
-### 網上免費文字轉語音平台[¶](broken-reference)
+### 網上免費文字轉語音平台[¶](/broken/pages/Ps0tuJGtUpPlNEaeScJQ)
 
 我們可以運用免費的TTS平台製作語音檔案。
 
-[TTS平台](https://text-to-speech.imtranslator.net/speech.asp?dir=g\_zh-HK\_f)
+[TTS平台](https://text-to-speech.imtranslator.net/speech.asp?dir=g_zh-HK_f)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/audacity12.png" alt=""><figcaption></figcaption></figure>
 
-### 使用Audacity[¶](broken-reference)
+### 使用Audacity[¶](/broken/pages/Ps0tuJGtUpPlNEaeScJQ)
 
 打開Audacity。
 

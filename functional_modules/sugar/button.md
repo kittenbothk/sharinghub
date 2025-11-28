@@ -10,7 +10,7 @@
 * 重量：5.1g
 * 訊號：按下為0，否則為1
 
-### 產品接線[¶](broken-reference)
+### 產品接線[¶](/broken/pages/kdy32La7wbTwavyquLzb)
 
 #### Robotbit EDU
 
@@ -30,7 +30,7 @@
 
 #### 加載Sugar插件：
 
-#### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)[¶](broken-reference)
+#### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)[¶](/broken/pages/kdy32La7wbTwavyquLzb)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif" alt=""><figcaption></figcaption></figure>
 
@@ -44,13 +44,13 @@ Sugar插件：[https://github.com/KittenBot/pxt-sugar](https://github.com/Kitten
 
 
 
-[參考程式](https://makecode.microbit.org/\_JtxF8tVccMcF)
+[參考程式](https://makecode.microbit.org/_JtxF8tVccMcF)
 
 {% embed url="https://makecode.microbit.org/_96T4zE6atA3T" %}
 
 
 
-[參考程式](https://makecode.microbit.org/\_96T4zE6atA3T)
+[參考程式](https://makecode.microbit.org/_96T4zE6atA3T)
 
 #### Kittenblock 編程教學
 

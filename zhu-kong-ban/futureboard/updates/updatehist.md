@@ -1,10 +1,10 @@
 # 未來板固件一覽
 
-### 未來板固件一覽[¶](broken-reference)
+### 未來板固件一覽[¶](/broken/pages/NSpNPi9KzkWzOGs0aPl2)
 
 ***
 
-### 最新固件[¶](broken-reference)
+### 最新固件[¶](/broken/pages/NSpNPi9KzkWzOGs0aPl2)
 
 更新摘要：
 
@@ -14,7 +14,7 @@
 
 下載地址：[固件下載](https://bit.ly/FutureBoardFW20221228)
 
-### 1/6/2021固件[¶](broken-reference)
+### 1/6/2021固件[¶](/broken/pages/NSpNPi9KzkWzOGs0aPl2)
 
 更新摘要：
 
@@ -25,7 +25,7 @@
 
 下載地址：[固件下載](http://bit.ly/FutureBoardFW0601)
 
-### 原廠固件[¶](broken-reference)
+### 原廠固件[¶](/broken/pages/NSpNPi9KzkWzOGs0aPl2)
 
 更新摘要：
 

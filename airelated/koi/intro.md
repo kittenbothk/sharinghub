@@ -81,7 +81,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 為了後續更容易掌握模組的豐富功能，首先需要瞭解模組的每個部分，為此請通讀下列圖文。
 
-#### **模組的正方向**[¶](broken-reference)
+#### **模組的正方向**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 此為KOI錦鯉模組的正方向。
 
@@ -91,17 +91,17 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 <div data-full-width="false"><figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/01-13.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/newVersion.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-#### **旋轉鏡頭**[¶](broken-reference)
+#### **旋轉鏡頭**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 鏡頭旋轉為0\~180。若從前往後旋轉，注意攝像頭排線的收納。
 
-#### **聚焦微調**[¶](broken-reference)
+#### **聚焦微調**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 有些KOI的鏡頭可以透過扭動鏡頭的黑色外圈，微調鏡頭的聚焦點。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/focus.png" alt=""><figcaption></figcaption></figure>
 
-#### **定義攝像頭前置**[¶](broken-reference)
+#### **定義攝像頭前置**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 不難理解，攝像頭與螢幕同一方向為攝像頭**前置**，如圖
 
@@ -109,7 +109,7 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/02-13.png" alt=""><figcaption></figcaption></figure>
 
-#### **攝像頭後置**[¶](broken-reference)
+#### **攝像頭後置**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 攝像頭與螢幕反方向為攝像頭後置，如圖
 
@@ -117,7 +117,7 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/03-11.png" alt=""><figcaption></figcaption></figure>
 
-#### **螢幕與螢幕坐標系**[¶](broken-reference)
+#### **螢幕與螢幕坐標系**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 螢幕為高清IPS屏，圖元為240x240
 
@@ -127,25 +127,25 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/04-14.png" alt=""><figcaption></figcaption></figure>
 
-#### 按鍵 _AB_ 與重定按鍵 _Reset_[¶](broken-reference)
+#### 按鍵 _AB_ 與重定按鍵 _Reset_[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 模組左右兩側各有一個可程式設計按鍵，類似Microbit的A和B按鍵
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/13-1.png" alt=""><figcaption></figcaption></figure>
 
-#### **麥克風**[¶](broken-reference)
+#### **麥克風**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 螢幕左下方有收音的麥克風，收音距離約為50cm
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/05-1.png" alt=""><figcaption></figcaption></figure>
 
-#### _US&#x42;_&#x63D2;口[¶](broken-reference)
+#### _US&#x42;_&#x63D2;口[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 此資料口用於給模組更新固件或者給模組供電
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/06-1.png" alt=""><figcaption></figcaption></figure>
 
-#### **PH2.0 4PIN串口**[¶](broken-reference)
+#### **PH2.0 4PIN串口**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 此介面用於與能量魔塊主控盒、Robotbit、Arduino或者其他帶串口的板子進行串口通訊
 
@@ -159,19 +159,19 @@ KOI會隨機抽以下其中一款出貨，兩個款式是通用的。
 
 Armourbit 介紹
 
-#### **Micro SD卡槽**[¶](broken-reference)
+#### **Micro SD卡槽**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 TF卡槽為彈卡式卡槽，最大記憶體支援為16G，可以存放音訊，圖片、機器學習模型等。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/08-1.png" alt=""><figcaption></figcaption></figure>
 
-#### **喇叭**[¶](broken-reference)
+#### **喇叭**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 喇叭用於播放記憶體卡內的音訊檔
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/09-1.png" alt=""><figcaption></figcaption></figure>
 
-#### **兼容樂高插孔**[¶](broken-reference)
+#### **兼容樂高插孔**[¶](/broken/pages/CHTAaQC6JN2FzmTqx0UN)
 
 模組的樂高插銷孔為全孔（普通）插銷孔，尺寸符合樂高尺寸。
 

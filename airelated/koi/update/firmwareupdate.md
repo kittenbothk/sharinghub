@@ -6,7 +6,7 @@
 
 (建議在更新固件前, 前先把現版本的固件也保存下來, 若在更新固件後遇到不良情況, 可回復到前一版本的固件)
 
-### **重刷固件方法**[¶](broken-reference)
+### **重刷固件方法**[¶](/broken/pages/eVSFGwlAz9BXrzZBXkc3)
 
 將KOI插入電腦的USB接口。
 
@@ -14,7 +14,7 @@
 
 更新固件需要預備2樣檔案，**刷件程式**和**固件檔案**, 點擊以下連結下截。
 
-[下載刷件程式](https://dl.sipeed.com/MAIX/tools/kflash\_gui/kflash\_gui\_v1.6.5)
+[下載刷件程式](https://dl.sipeed.com/MAIX/tools/kflash_gui/kflash_gui_v1.6.5)
 
 [固件檔案下載](updatehist.md)
 

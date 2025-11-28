@@ -2,7 +2,7 @@
 
 這裡集合了KOI最新與過往的固件檔案。
 
-### 最新固件(版本v1.13.1)[¶](broken-reference)
+### 最新固件(版本v1.13.1)[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: v1.13.1
 
@@ -18,7 +18,7 @@
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/1_13_1.jpg" alt=""><figcaption></figcaption></figure>
 
-#### 固件版本v1.12.8[¶](broken-reference)
+#### 固件版本v1.12.8[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: v1.12.8
 
@@ -30,7 +30,7 @@
 
 1. 修正MQTT登入問題
 
-### 固件版本v1.12.6[¶](broken-reference)
+### 固件版本v1.12.6[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: v1.12.6
 
@@ -42,7 +42,7 @@
 
 1. 提升KOI穩定性
 
-### 固件版本v1.12.0[¶](broken-reference)
+### 固件版本v1.12.0[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: v1.12.0
 
@@ -57,7 +57,7 @@
 3. 語音辨識功能改善
 4. 用戶界面改善
 
-### 版本v1.9.5[¶](broken-reference)
+### 版本v1.9.5[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: v1.9.5
 
@@ -71,7 +71,7 @@
 2. 語音辨識功能更新
 3. 機器學習模型數目由20增加到40
 
-### 固件版本0.43[¶](broken-reference)
+### 固件版本0.43[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 固件版本: 0.43
 
@@ -85,7 +85,7 @@
 
 版本提示：
 
-### 如何檢查KOI現時版本[¶](broken-reference)
+### 如何檢查KOI現時版本[¶](/broken/pages/ag6ZMSB9VP1ueeoSCBPj)
 
 KOI開機時也會顯示。
 

@@ -48,15 +48,15 @@ Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件�
 
 ### 產品特色
 
-#### 結合編程與簡單的結構就已經可搭建出具體的教學案例。[¶](broken-reference)
+#### 結合編程與簡單的結構就已經可搭建出具體的教學案例。[¶](/broken/pages/Q1aKcqupAcLVfDrAgVxX)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/132.png" alt=""><figcaption></figcaption></figure>
 
-#### Sugar系列的電子模塊安全又美觀，不但防跌防碰亦都防短路以確安全。[¶](broken-reference)
+#### Sugar系列的電子模塊安全又美觀，不但防跌防碰亦都防短路以確安全。[¶](/broken/pages/Q1aKcqupAcLVfDrAgVxX)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/122.png" alt=""><figcaption></figcaption></figure>
 
-#### Sugar系列的電子模塊帶有防反插設計，為課堂解決接線的煩惱。[¶](broken-reference)
+#### Sugar系列的電子模塊帶有防反插設計，為課堂解決接線的煩惱。[¶](/broken/pages/Q1aKcqupAcLVfDrAgVxX)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/142.png" alt=""><figcaption></figcaption></figure>
 

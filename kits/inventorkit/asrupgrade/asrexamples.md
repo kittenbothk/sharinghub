@@ -6,18 +6,18 @@
 
 {% embed url="https://www.youtube.com/watch?v=3de0GvBT5aY" %}
 
-### 語音操控小夜燈[¶](broken-reference)
+### 語音操控小夜燈[¶](/broken/pages/NWW3xQcu3fP4m2KquHzy)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_1.png" alt=""><figcaption></figcaption></figure>
 
-### 語音操控晾衣架[¶](broken-reference)
+### 語音操控晾衣架[¶](/broken/pages/NWW3xQcu3fP4m2KquHzy)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_2.png" alt=""><figcaption></figcaption></figure>
 
-### 語音操控電風扇[¶](broken-reference)
+### 語音操控電風扇[¶](/broken/pages/NWW3xQcu3fP4m2KquHzy)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_3.png" alt=""><figcaption></figcaption></figure>
 
-### 語音操控智能家電[¶](broken-reference)
+### 語音操控智能家電[¶](/broken/pages/NWW3xQcu3fP4m2KquHzy)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/asr_4.png" alt=""><figcaption></figcaption></figure>
