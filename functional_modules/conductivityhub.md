@@ -21,3 +21,7 @@
 #### 3. 接上要測試的物料,然後打開開關
 
 <figure><img src="../.gitbook/assets/conductivity5.png" alt=""><figcaption></figcaption></figure>
+
+## 接線教學
+
+## 編程教學
