@@ -272,6 +272,7 @@
     * [五路巡線傳感器](functional_modules/outdated/5wayline.md)
     * [貓耳超聲波](functional_modules/outdated/ultrasound.md)
   * [USB加熱板](functional_modules/heatingpad.md)
+  * [導電測試模組](functional_modules/conductivityhub.md)
 * [各款電機與舵機](actuators/README.md)
   * [Geekservo 9g電機](actuators/geekservo9g_motor/README.md)
     * [Page 1](actuators/geekservo9g_motor/page-1.md)
