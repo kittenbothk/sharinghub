@@ -6,11 +6,25 @@
 
 ## KOI 2圖像分類模型訓練
 
-{% file src="../../.gitbook/assets/瀕危物種KOI Training.sb3" %}
+#### Kittenblock SB3
 
-<figure><img src="../../.gitbook/assets/trainingprogram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trainingprogram (1).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../.gitbook/assets/瀕危物種KOI Training (1).sb3" %}
+
+#### Python
 
 {% file src="../../.gitbook/assets/koi_train.py" %}
+
+#### 範例圖片
+
+{% file src="../../.gitbook/assets/瀕危動物圖片.pdf" %}
+
+### 使用教學
+
+1. 按A錄入分類數據
+2. 按B跳至下一個分類
+3. 按M儲存模型
 
 ## AI鑑別器
 
