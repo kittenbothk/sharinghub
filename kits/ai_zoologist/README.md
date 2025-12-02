@@ -1,6 +1,6 @@
 # 中華瀕危物種AI鑒別器
 
-<figure><img src="../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
 
 透過KOI圖像辨識及大模型聊天機械人問答,學生可以接觸新銳的人工智能技術及培養對生態保育的意識.
 
@@ -22,3 +22,12 @@
   * 培養學生對於我國瀕危物種的認識, 提倡保護大自然的價值觀
 
 ## 產品內容
+
+* 未來板Lite AI
+* KOI 2
+* 連接線
+* 積木包
+
+## 示範短片
+
+{% embed url="https://youtu.be/biYq0kSc5No" %}
