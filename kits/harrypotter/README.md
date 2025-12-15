@@ -16,6 +16,7 @@
 * 可自訂咒語
 * 道具美觀，展示性高
 * 採用Jacdac系列，接線及編程簡單
+* 完成的套件可以放入手抽收納盒，方便攜帶及保存
 
 ## 套件內容
 
@@ -23,7 +24,6 @@
 
 * Jacdaptor x1
 * Jacdac 電源模組 x1
-* Jacdac分線器 x1
 * Jacdac RGB燈帶模組 x1
   * RGB燈條 x1
 * Jacdac 舵機模組 x1
@@ -37,7 +37,7 @@
 * Micro USB線 x1
 * USB C線 x1
 * Jacdac 連接線 10cm x3
-* Jacdac 連接線 35cm x3
+* Jacdac 連接線 20cm x2
 
 **其他材料**
 
@@ -45,9 +45,8 @@
 * 木棒 ( 300mm, φ8mm) x1
 * 3D打印零件包 x1
 * 裝飾貼紙 x1
-* 雙面膠紙
-* M3銅柱 x4
-* M3螺絲 x10
+* M3銅柱 x16
+* M3螺絲 x32
 * M2螺絲 x8
 * M1.2x6螺絲 x4
 * 螺絲批 x2
