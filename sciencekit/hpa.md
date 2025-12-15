@@ -1,36 +1,32 @@
----
-hidden: true
----
-
-# Copy of 2.紫外線測量
+# 2.氣壓測量
 
 ### 實驗準備
 
 #### 請同學準備以下實驗硬件:
 
 * 未來板Lite 顯示板 / Micro:bit + Robotbit
-* 紫外線測量儀器
+* 氣壓測量
 * 黑色連接線
 
 ### 未來板Lite版本
 
 #### 硬件接線
 
-請同學將紫外線測量儀器連接到未來板Lite顯示板上。
+請同學將氣壓測量儀器連接到未來板Lite顯示板上。
 
-<figure><img src="../.gitbook/assets/uv_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/hpa_wiring.png" alt=""><figcaption></figcaption></figure>
 
 #### 開啟程式
 
-請同學在未來板Lite上開啟「2.UV\_i2c.py」檔案。
+請同學在未來板Lite上開啟「2.HPA\_i2c.py」檔案。
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/t0IWq0CMLTk" %}
 
 #### 進行測量
 
-未來板Lite會一直顯示測量到的紫外線指數和光照度。
+未來板Lite會一直顯示測量到的氣壓強度。
 
 <figure><img src="../.gitbook/assets/uvprogram (1).png" alt=""><figcaption></figcaption></figure>
 

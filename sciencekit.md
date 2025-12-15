@@ -27,7 +27,7 @@
 * 二氧化碳測量模組
 * 懸浮粒子測量模組
 * 電子磅模組
-* 紫外線測量模組
+* 氣壓測量模組
 * 太陽能電源管理模組
 
 ## 程式清單
@@ -35,7 +35,7 @@
 總共9個程式
 
 * 1.Sound\_p1.py
-* 2.UV\_i2c.py
+* 2.HPA\_i2c.py
 * 3.CO2\_i2c.py
 * 4.PM\_i2c.py
 * 5.Temp\_p1.py
@@ -74,8 +74,8 @@
 [decibels.md](sciencekit/decibels.md)
 {% endcontent-ref %}
 
-{% content-ref url="sciencekit/uv.md" %}
-[uv.md](sciencekit/uv.md)
+{% content-ref url="sciencekit/hpa.md" %}
+[hpa.md](sciencekit/hpa.md)
 {% endcontent-ref %}
 
 {% content-ref url="sciencekit/co2andtvoc.md" %}
