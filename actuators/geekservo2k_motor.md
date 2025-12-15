@@ -79,7 +79,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 馬達積木塊:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 
@@ -127,7 +127,7 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 #### 電機積木塊:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 參考程式
 

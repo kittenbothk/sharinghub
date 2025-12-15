@@ -28,29 +28,33 @@
 
 未來板Lite會一直顯示測量到的氣壓強度。
 
-<figure><img src="../.gitbook/assets/uvprogram (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/hpaprogram.png" alt=""><figcaption></figcaption></figure>
 
 #### Datalogging頁面
 
 {% hint style="info" %}
-未來板IP地址/html/uv.html
+未來板IP地址/html/hpa.html
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-數據儲存在uvdata資料夾
+數據儲存在hpadata資料夾
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Micro:bit版本
 
 #### 硬件接線
 
-<figure><img src="../.gitbook/assets/uv_wiring_edu.png" alt=""><figcaption></figcaption></figure>
+#### Robotbit Edu
+
+用4PIN連接線將模組連接到Robotbit上的I2C接口。
+
+![](https://kittenbothk.readthedocs.io/en/latest/_images/env_wire1.png)
 
 #### 參考程式
 
-{% embed url="https://makecode.microbit.org/_1imLMHbRf9mk" %}
+{% embed url="https://makecode.microbit.org/_UHs8PafkARch" %}
 
-[下載參考程式](https://makecode.microbit.org/_1imLMHbRf9mk)
+[下載參考程式](https://makecode.microbit.org/_UHs8PafkARch)
 
