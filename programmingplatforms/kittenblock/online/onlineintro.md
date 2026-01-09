@@ -10,7 +10,7 @@
 
 ## 在線版KittenBlock編程平台官網
 
-### 即將推出！敬請期待
+### [https://kblock.kittenbot.cc/](https://kblock.kittenbot.cc/)
 
 ## 在線版KittenBlock特點
 
