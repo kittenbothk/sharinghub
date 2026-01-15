@@ -36,6 +36,7 @@
 
 * 1.Sound\_p1.py
 * 2.HPA\_i2c.py
+* 2.UV\_i2c.py
 * 3.CO2\_i2c.py
 * 4.PM\_i2c.py
 * 5.Temp\_p1.py
