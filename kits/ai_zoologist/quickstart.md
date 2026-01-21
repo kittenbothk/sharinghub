@@ -55,3 +55,11 @@ Password: 12345678
 詳細使用教學可以參考以下短片。
 
 {% embed url="https://youtu.be/biYq0kSc5No" %}
+
+### 更改WiFI登入資料
+
+如需更改WiFi的登入資料，請打開wifi.txt然後輸入新的SSID和密碼，兩者用逗號( , )分隔。
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -70,7 +70,7 @@ KOI的TX接口(藍色線)接到Robotbit的RX接口(P12)。
 
 連接未來板到Kittenblock。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://sharinghub-eng.kittenbot.hk/~gitbook/image?url=https%3A%2F%2F686851495-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7Bv9xBdKh3R9w6Vp7asd%252Fuploads%252FX0XzHETbS3L7bJDbYX8Y%252Fimage.png%3Falt%3Dmedia%26token%3Db8de9fd3-651c-407e-87c8-7fcb2bf8fc41&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=c9389bdd&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
