@@ -766,6 +766,7 @@
     * [Conductivity](kits/edu_u_estem/conductivity.md)
     * [未來板Lite AI 程式復原教學](kits/edu_u_estem/recovery.md)
   * [中華瀕危物種AI鑒別器](kits/ai_zoologist.md)
+    * [AI鑒別器快速開始](kits/ai_zoologist/quickstart.md)
     * [範例程式](kits/ai_zoologist/zoologist_sampleprogram.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
