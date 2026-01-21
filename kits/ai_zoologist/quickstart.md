@@ -41,6 +41,17 @@
 
 ## 2. AI鑒別器
 
+{% hint style="info" %}
+AI鑒別器程式需要使用WiFi，請預先準備WiFi熱點。\
+預設WiFi登入資料:\
+SSID: hello\
+Password: 12345678
+{% endhint %}
+
 打開「species\_run.py」。
 
 <figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+
+詳細使用教學可以參考以下短片。
+
+{% embed url="https://youtu.be/biYq0kSc5No" %}
