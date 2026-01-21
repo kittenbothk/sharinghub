@@ -19,6 +19,14 @@
 
 ## 1. 模型訓練
 
+### 下載範例圖片
+
+[**下載範例圖片**](https://www.canva.com/design/DAGxguPrfNI/7r2qc4hzFF8wXIRoCehHXQ/view?utm_content=DAGxguPrfNI\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=h3cd0e17c79)
+
+{% embed url="https://www.canva.com/design/DAGxguPrfNI/7r2qc4hzFF8wXIRoCehHXQ/view?utlId=h3cd0e17c79&utm_campaign=designshare&utm_content=DAGxguPrfNI&utm_medium=link2&utm_source=uniquelinks" %}
+
+### 程式使用教學
+
 打開「koi\_train.py」。
 
 <figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
@@ -40,6 +48,8 @@
 <figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. AI鑒別器
+
+### 程式使用教學
 
 {% hint style="info" %}
 AI鑒別器程式需要使用WiFi，請預先準備WiFi熱點。\
