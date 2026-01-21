@@ -31,3 +31,13 @@
 ## 示範短片
 
 {% embed url="https://youtu.be/biYq0kSc5No" %}
+
+## 快速使用教學
+
+{% content-ref url="ai_zoologist/quickstart.md" %}
+[quickstart.md](ai_zoologist/quickstart.md)
+{% endcontent-ref %}
+
+{% content-ref url="ai_zoologist/zoologist_sampleprogram.md" %}
+[zoologist\_sampleprogram.md](ai_zoologist/zoologist_sampleprogram.md)
+{% endcontent-ref %}
