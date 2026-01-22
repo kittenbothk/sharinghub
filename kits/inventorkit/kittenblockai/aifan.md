@@ -8,11 +8,11 @@
 
 [組裝說明書下載](https://drive.google.com/drive/folders/1wg_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/fan_wire.png)
+![](<../../../.gitbook/assets/aifan_wiring (1).png>)
 
 ### 參考程式
 
-{% file src="../../../.gitbook/assets/人面追蹤風扇.sb3" %}
+{% file src="../../../.gitbook/assets/人面追蹤風扇 (1).sb3" %}
 
 {% hint style="info" %}
 這應用需要使用Token。
