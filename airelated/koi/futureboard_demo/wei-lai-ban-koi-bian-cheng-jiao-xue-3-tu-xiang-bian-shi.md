@@ -4,11 +4,11 @@
 
 ### KittenBlock編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kbbanner.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner.png)
 
 ### 圖像辨識積木塊
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_classifier.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/koi_classifier.png)
 
 ### 範例程式1：訓練與儲存模型(需要SD卡)
 
@@ -17,7 +17,9 @@
 KOI最多可以錄入40張相片。
 ```
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_classifier\_code1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/koi_classifier_code1.png)
+
+{% file src="../../../.gitbook/assets/classifiertrain.sb3" %}
 
 ### 範例程式2：載入與運行分類器(需要SD卡)
 
@@ -25,4 +27,6 @@ KOI最多可以錄入40張相片。
 使用圖像辨識前必須要初始化分類器。
 ```
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_classifier\_code2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/koi_classifier_code2.png)
+
+{% file src="../../../.gitbook/assets/classifierload.sb3" %}

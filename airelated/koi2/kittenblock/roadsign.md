@@ -2,7 +2,7 @@
 
 ### 路牌範例圖檔
 
-{% file src="../../../.gitbook/assets/路牌追蹤.pdf" %}
+{% file src="../../../.gitbook/assets/路牌追蹤 (1).pdf" %}
 
 ### KittenBlock編程
 

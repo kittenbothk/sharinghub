@@ -4,8 +4,10 @@ KOI可以掃描二維碼和條碼。
 
 ### 掃碼積木塊
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_code.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/koi_code.png)
 
 ### 範例程式：二維碼與條碼
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/koi\_code\_code.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/koi_code_code.png)
+
+{% file src="../../../.gitbook/assets/codescanning.sb3" %}

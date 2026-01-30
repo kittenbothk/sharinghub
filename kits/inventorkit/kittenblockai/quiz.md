@@ -10,9 +10,9 @@
 
 ### 參考程式
 
-{% file src="../../../.gitbook/assets/發明家搶答機.sb3" %}
+{% file src="../../../.gitbook/assets/發明家搶答機_new.sb3" %}
 
-<figure><img src="../../../.gitbook/assets/發明家搶答機 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/發明家搶答機 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 應用玩法
 

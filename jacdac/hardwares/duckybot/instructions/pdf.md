@@ -2,5 +2,5 @@
 
 可以在這裡下載Duckybot的說明書。
 
-{% file src="../../../.gitbook/assets/duckybot_instructions.pdf" %}
+{% file src="../../../../.gitbook/assets/duckybot_instructions.pdf" %}
 

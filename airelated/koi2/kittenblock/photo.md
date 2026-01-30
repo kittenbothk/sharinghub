@@ -6,7 +6,7 @@
 
 參考程式:
 
-{% file src="broken-reference" %}
+{% file src="../../../.gitbook/assets/拍照與顯示照片.sb3" %}
 
 ### 程式解說
 
