@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 未來板固件一覽
 
 ### 未來板固件一覽[¶](/broken/pages/NSpNPi9KzkWzOGs0aPl2)
