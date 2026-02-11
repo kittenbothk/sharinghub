@@ -360,6 +360,7 @@
       * [未來板MicroPython編程16：KOI](zhu-kong-ban/futureboard/micropython/api16.md)
     * [更新與重置](zhu-kong-ban/futureboard/updates/README.md)
       * [未來板固件更新](zhu-kong-ban/futureboard/updates/firmwareupdate.md)
+      * [未來板固件更新 Old](mcu/futureboard/updates/firmwareupdate-1.md)
       * [未來板固件一覽](zhu-kong-ban/futureboard/updates/updatehist.md)
       * [重置未來板](zhu-kong-ban/futureboard/updates/reset.md)
   * [未來板Lite](mcu/futureboard_lite.md)

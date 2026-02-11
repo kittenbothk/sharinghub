@@ -1,14 +1,20 @@
 # 未來板固件更新
 
-### 未來板固件更新[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
+### 未來板固件更新
 
 Kittenbot會不定期推出未來版的固件更新，提升功能與穩定性。
 
-### 未來板固件推薦更新方法[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
+### 未來板固件推薦更新方法
 
-KittenBlock每次更新都會附帶未來板的最新固件。只需要下載最新的KittenBlock就可以一鍵更新固件。
+未來板最推薦的更新方法是使用Kittenblock。前往Kittenblock在線版。
 
-打開Kittenblock並連接上未來板。
+{% embed url="https://kblock.kittenbot.cc/" %}
+
+在硬件欄選擇未來板。
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+使用USB線連接上未來板。
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/connected.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,47 +22,17 @@ KittenBlock每次更新都會附帶未來板的最新固件。只需要下載最
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/firmware1.png" alt=""><figcaption></figcaption></figure>
 
-### 未來版固件進階更新方法[¶](/broken/pages/eGdHRIOeDmmHTLTM3jA5)
+未來板就會重新開機，等待未來板開機完成就可以在選單選擇GD32 USB CDC ACM。
 
-首先下載更新軟件。
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-[更新軟件](https://drive.google.com/file/d/1_M4EzolaJWpYXts_FwUIqH8pZWqy-fye/view?usp=sharing)
+未來板會開始下載最新固件，期間未來板會顯示白色畫面。\
+這時候請不要拔除USB線或關閉電源。
 
-將檔案解壓縮。
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update13.png" alt=""><figcaption></figcaption></figure>
+完成後，未來板會自動重新開機。此時未來板的固件更新就已經完成。
 
-打開flash\_download\_tool\_3.8.5.exe。
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update24.png" alt=""><figcaption></figcaption></figure>
-
-選擇Factory Mode。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update31.png" alt=""><figcaption></figcaption></figure>
-
-選擇ESP32 Download Tool。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update41.png" alt=""><figcaption></figcaption></figure>
-
-解鎖用戶界面。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update53.png" alt=""><figcaption></figcaption></figure>
-
-選擇.bin固件文件。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update63.png" alt=""><figcaption></figcaption></figure>
-
-確保已剔選固件文件和欄位中文字為0x1000。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update73.png" alt=""><figcaption></figcaption></figure>
-
-選擇未來板的串口和選擇1152000波特率，點擊Start直至完成。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/update83.png" alt=""><figcaption></figcaption></figure>
-
-完成之後按一下未來板背後的重置鍵。
-
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/resetbutton.jpg" alt=""><figcaption></figcaption></figure>
-
-假如更新後未來板提示你重置未來板，請參考[重置未來板](./)。
-
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
