@@ -12,7 +12,7 @@
 
 ### 參考程式
 
-{% file src="../../../.gitbook/assets/發明家Wordle密碼鎖 (1).sb3" %}
+{% file src="../../../.gitbook/assets/發明家Wordle密碼鎖new.sb3" %}
 
 <figure><img src="../../../.gitbook/assets/發明家Wordle密碼鎖.png" alt=""><figcaption></figcaption></figure>
 
