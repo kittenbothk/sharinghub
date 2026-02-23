@@ -7,6 +7,7 @@
 ### 產品參數
 
 * 尺寸：24 x 24 x 23 mm
+* 類型：Analog 模擬模組
 
 ### 產品接線
 
@@ -21,6 +22,10 @@
 用3Pin 連接線將模組與Robotbit 2.2連接起來。
 
 <figure><img src="../../.gitbook/assets/mq2_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
+
+### Armourbit
+
+<figure><img src="../../.gitbook/assets/mq2_wiring_armourbit.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 
