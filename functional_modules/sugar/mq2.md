@@ -14,13 +14,13 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](../../.gitbook/assets/sound_wire.png)
+<figure><img src="../../.gitbook/assets/mq2_wiring_edu.png" alt=""><figcaption></figcaption></figure>
 
 #### Robotbit 2.2
 
 用3Pin 連接線將模組與Robotbit 2.2連接起來。
 
-<figure><img src="../../.gitbook/assets/sound_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mq2_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
 ### 編程教學
 
@@ -40,8 +40,6 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 #### [詳細方法](../../programmingplatforms/makecode/kittenbotandmakecode.md)
 
-{% embed url="https://makecode.microbit.org/_Wfcada27c0iK" %}
+{% embed url="https://makecode.microbit.org/_6yP6CoWwoLAY" %}
 
-[參考程式](https://makecode.microbit.org/_Wfcada27c0iK)
-
-aaa
+[參考程式](https://makecode.microbit.org/_6yP6CoWwoLAY)
