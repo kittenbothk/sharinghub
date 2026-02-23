@@ -23,7 +23,7 @@
 
 <figure><img src="../../.gitbook/assets/mq2_wiring_2.2.png" alt=""><figcaption></figcaption></figure>
 
-### Armourbit
+#### Armourbit
 
 <figure><img src="../../.gitbook/assets/mq2_wiring_armourbit.png" alt=""><figcaption></figcaption></figure>
 
