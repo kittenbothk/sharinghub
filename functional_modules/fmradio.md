@@ -1,6 +1,6 @@
 # FM收音機模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio1.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio1.jpg)
 
 這是一隻收音機模組，它可以接收FM電台訊號。
 
@@ -9,7 +9,7 @@
 ### 產品參數
 
 * 工作電壓：2.5V\~5V
-* 類型：i2c模組
+* 類型: I2C 模組
 * 接口：4pin防反插接口
 * 有效頻率：76MHz\~108MHz
 * 天線接口：3.5mm
@@ -18,15 +18,15 @@
 
 ### 產品外觀
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio8.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio8.jpg)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio7.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio7.jpg)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio9.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio9.jpg)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio10.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio10.jpg)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio11.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio11.jpg)
 
 ### 接線教學
 
@@ -36,13 +36,13 @@
 此模組只附帶天線，耳機或揚聲器需要自備。
 ```
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio2.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio2.jpg)
 
 ### Robotbit
 
 將4pin杜邦線插到模組防反插接口。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio3.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio3.jpg)
 
 將FM收音機模組連接到Robotbit的i2c接口。
 
@@ -50,25 +50,25 @@
 白色接SCL，綠色接SDA。
 ```
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio5.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio5.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio6.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio6.jpg)
 
 ### Armourbit
 
 將4pin線插到摸組接口。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio12.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio12.jpg)
 
 用4pin線將模組連接到Armourbit。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kittenRadio13.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kittenRadio13.jpg)
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner12.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner12.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/acbanner.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/acbanner.png)
 
 #### 此模組可供Microbit和Meowbit使用。
 
@@ -78,21 +78,21 @@
 
 #### 收音機積木塊：
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/radioblocks1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/radioblocks1.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/radioblocks2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/radioblocks2.png)
 
 **Microbit收音機編程：**
 
 {% embed url="https://makecode.microbit.org/_7toH1mcCwcyb" %}
 
-[參考程式網址](https://makecode.microbit.org/\_7toH1mcCwcyb)
+[參考程式網址](https://makecode.microbit.org/_7toH1mcCwcyb)
 
 **Meowbit收音機編程：**
 
 {% embed url="https://makecode.com/_YYiLzY5t5X2s" %}
 
-[參考程式網址](https://makecode.com/\_YYiLzY5t5X2s)
+[參考程式網址](https://makecode.com/_YYiLzY5t5X2s)
 
 ### 示範短片
 

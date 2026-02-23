@@ -8,9 +8,9 @@ description: 0832流光溢彩屏 (HKBM8008A) / 1616流光溢彩屏 (HKBM8009A)
 
 這是一塊全彩RGB軟屏，它的特點在於容易攜帶與靈活性高。只要使用官方的拓展就能夠進行編程。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/zhanshi\_2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/zhanshi_2.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/rshiyitu\_2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/rshiyitu_2.png)
 
 ### 產品特色
 
@@ -28,6 +28,7 @@ description: 0832流光溢彩屏 (HKBM8008A) / 1616流光溢彩屏 (HKBM8009A)
 * 重量：55g
 * 物料：軟銅板
 * 256顆全彩LED
+* 類型: Digital 數位模組
 
 **16x16柔性屏(HKBM8009A)**
 
@@ -35,22 +36,23 @@ description: 0832流光溢彩屏 (HKBM8008A) / 1616流光溢彩屏 (HKBM8009A)
 * 重量：55g
 * 物料：軟銅板
 * 256顆全彩LED
+* 類型: Digital 數位模組
 
 ### 產品內容：
 
 #### 1x燈板(16x16或32x8)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/zhanshi\_1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/zhanshi_1.png)
 
 #### 1x供電轉接板
 
 每一塊彩屏都附有一個供電轉接板，它是彩屏與Robotbit之間的介面，將彩屏的接口轉為杜邦線，並附有5V USB供電接口。 在長時間使用時可以取代robotbit的18650鋰電池；提供比較穩定的電源，避免損毀robotbit。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/f.jpg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/f.jpg)
 
 ### 產品展示
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/show2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/show2.png)
 
 ### 技術參數
 

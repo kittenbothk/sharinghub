@@ -1,6 +1,6 @@
 # 全彩LED燈條
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip1.png)
 
 這是一條全彩的LED燈條，材料柔軟方便圍繞，做出不同的圖形。
 
@@ -11,14 +11,15 @@
 * 電流: 1A，長時間使用請使用10A火牛
 * 功耗: 0.3W
 * LED數目: 60
+* 類型: Digital 數位模組
 
 ### 接線教學
 
 本產品建議配合Robotbit使用。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip2.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip3.png)
 
 * 紅色接5V
 * 白色接GND
@@ -32,33 +33,33 @@
 
 #### Neopixel積木塊
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip4.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip4.png)
 
 ### Neopixel編程
 
 #### 單色點亮
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip5.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip5.png)
 
-[參考程式下載](https://makecode.microbit.org/\_d7zDwY5y2hcd)
+[參考程式下載](https://makecode.microbit.org/_d7zDwY5y2hcd)
 
 #### 彩虹色點亮
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip6.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip6.png)
 
-[參考程式下載](hhttps://makecode.microbit.org/\_KzCiXvWoa0Jo)
+[參考程式下載](hhttps://makecode.microbit.org/_KzCiXvWoa0Jo)
 
 #### 亮度調節
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip7.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip7.png)
 
-[參考程式下載](https://makecode.microbit.org/\_2J41HRa54XyU)
+[參考程式下載](https://makecode.microbit.org/_2J41HRa54XyU)
 
 #### 單獨控制LED燈
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip8.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip8.png)
 
-[參考程式下載](https://makecode.microbit.org/\_7YTa05AFf55A)
+[參考程式下載](https://makecode.microbit.org/_7YTa05AFf55A)
 
 ```
 需要運行刷新顯示才會點燈。
@@ -66,13 +67,13 @@
 
 #### 流水效果
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip9.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip9.png)
 
-[參考程式下載](https://makecode.microbit.org/\_HDFCiPMs2fsj)
+[參考程式下載](https://makecode.microbit.org/_HDFCiPMs2fsj)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip10.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip10.png)
 
-[參考程式下載](https://makecode.microbit.org/\_2dcCTHCrm1k4)
+[參考程式下載](https://makecode.microbit.org/_2dcCTHCrm1k4)
 
 ```
 移動和迴圈的分別在於移動模式達至盡頭會消失，迴圈模式達至盡頭後仍然會重複。
@@ -80,15 +81,15 @@
 
 #### 範圍點亮
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip11.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip11.png)
 
-[參考程式下載](https://makecode.microbit.org/\_azhb2aX4UPhm)
+[參考程式下載](https://makecode.microbit.org/_azhb2aX4UPhm)
 
 #### 自訂顏色
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/ledstrip12.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/ledstrip12.png)
 
-[參考程式下載](https://makecode.microbit.org/\_aYHK4Jax8h6x)
+[參考程式下載](https://makecode.microbit.org/_aYHK4Jax8h6x)
 
 ### 插件版本與更新
 
