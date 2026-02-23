@@ -228,6 +228,7 @@
     * [Sugar 二期RFID感應模組](functional_modules/sugar/rfid.md)
     * [Sugar 二期數字鍵盤模組](functional_modules/sugar/numpad.md)
     * [Sugar 二期RGB燈圈模組](functional_modules/sugar/rgbring.md)
+    * [Sugar 二期MQ2煙霧感應器模組](functional_modules/sugar/mq2.md)
   * [污水混濁度感應器](functional_modules/turbidity.md)
   * [pH值感應器Plus](functional_modules/ph_plus/README.md)
     * [pH感應器Plus 模組校正](functional_modules/ph_plus/ph-gan-ying-qi-plus-mo-zu-jiao-zheng.md)

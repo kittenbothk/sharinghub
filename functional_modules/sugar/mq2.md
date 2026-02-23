@@ -1,6 +1,8 @@
-# Sugar二期 聲音感應模組
+# Sugar 二期MQ2煙霧感應器模組
 
-這是一個聲音感應器。
+![](../../.gitbook/assets/mq2.png)
+
+這是一個煙霧感應器。
 
 ### 產品參數
 
@@ -41,3 +43,5 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_Wfcada27c0iK" %}
 
 [參考程式](https://makecode.microbit.org/_Wfcada27c0iK)
+
+aaa
