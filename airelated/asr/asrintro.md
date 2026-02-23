@@ -1,6 +1,6 @@
 # Sugar ASR語音模組介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/asr.png)
 
 這是一塊專為中小學STEM課程而設計的離線語音辨識模組。
 
@@ -33,13 +33,14 @@
 * 電流: 400mA\~600mA
 * 尺寸: 40x40x17mm
 * 通訊接口: 4Pin PH2.0接口
+* 類型: Serial 串口模組
 * 板載資源: 喇叭、咪高峰、紅綠LED、3Pin Sugar LED接口，電機接口、舵機接口、3.7V電池接口
 * 支援主控板: Micro:bit、未來板
 
 ### 接口介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/asr2.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/asr5.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/asr5.png)
 
 ###
