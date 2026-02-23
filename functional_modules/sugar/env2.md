@@ -1,6 +1,6 @@
 # Sugar二期 環境氣壓模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/envii\_render.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/envii_render.png)
 
 這個是環境氣壓模組，除了溫度之外它還可以探測到氣壓數值。
 
@@ -8,13 +8,15 @@
 
 接口: I2C接口
 
+類型：I2C 模組
+
 ### 產品接線
 
 #### Robotbit Edu
 
 用4PIN連接線將模組連接到Robotbit上的I2C接口。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/env\_wire1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/env_wire1.png)
 
 #### Robotbit 2.2
 
@@ -26,13 +28,13 @@
 
 #### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png)
 
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -42,4 +44,4 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_UHs8PafkARch" %}
 
-[參考程式](https://makecode.microbit.org/\_UHs8PafkARch)
+[參考程式](https://makecode.microbit.org/_UHs8PafkARch)

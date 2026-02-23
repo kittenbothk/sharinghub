@@ -9,6 +9,7 @@
 * 尺寸：24 x 24 x 19 mm
 * 重量：5.1g
 * 訊號：按下為0，否則為1
+* 類型：Digital 數位模組
 
 ### 產品接線[¶](/broken/pages/kdy32La7wbTwavyquLzb)
 

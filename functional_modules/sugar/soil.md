@@ -1,6 +1,6 @@
 # Sugar 土壤濕度模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/soil1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/soil1.png)
 
 這是一隻土壤濕度模組，可以檢測土壤的濕度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 
@@ -8,7 +8,8 @@
 
 * 尺寸：24 x 24 x 23 mm
 * 重量：6.7g
-* 訊號：模擬信號0\~1023/0\~4095
+* 訊號：模擬信號0\~1023
+* 類型：Analog 模擬模組
 
 ### 產品接線
 
@@ -16,7 +17,7 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/soil\_wire3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/soil_wire3.png)
 
 #### Robotbit 2.2
 
@@ -26,13 +27,13 @@
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png)
 
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -42,13 +43,13 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_4EUXDh8qtP7X" %}
 
-[參考程式](https://makecode.microbit.org/\_4EUXDh8qtP7X)
+[參考程式](https://makecode.microbit.org/_4EUXDh8qtP7X)
 
 #### Kittenblock 編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kbbanner9.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner9.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/soil3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/soil3.png)
 
 #### MicroPython 編程教學
 

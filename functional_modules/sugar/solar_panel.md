@@ -8,7 +8,7 @@
 
 * 太陽能板尺寸: 80 x 40 x 32.5 mm
 * 重量: 646g(太陽能板+模組)
-* 模組類型: I2C
+* 類型：I2C 模組
 * 太陽能板: 6V 6W 單晶硅
 
 ## 硬件接線
@@ -35,15 +35,7 @@
 
 開啟電源輸出時，輸出顯示燈會亮起藍燈。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/20240709_112948.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/20240709_110504.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/20240709_112948.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/20240709_110504.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### 電源輸入顯示燈
 
@@ -59,7 +51,7 @@
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -71,13 +63,13 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_Mpk3PkF1YLVu" %}
 
-[參考程式](https://makecode.microbit.org/\_Mpk3PkF1YLVu)
+[參考程式](https://makecode.microbit.org/_Mpk3PkF1YLVu)
 
 ### 電源輸出休眠
 
 {% embed url="https://makecode.microbit.org/_RYM4k5L1m7k3" %}
 
-[參考程式](https://makecode.microbit.org/\_RYM4k5L1m7k3)
+[參考程式](https://makecode.microbit.org/_RYM4k5L1m7k3)
 
 ### 設定實時時鐘
 
@@ -87,4 +79,4 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_7i10L2HmyDzA" %}
 
-[參考程式](https://makecode.microbit.org/\_7i10L2HmyDzA)
+[參考程式](https://makecode.microbit.org/_7i10L2HmyDzA)

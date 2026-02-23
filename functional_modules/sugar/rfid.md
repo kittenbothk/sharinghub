@@ -8,6 +8,7 @@
 
 * 操作電壓：3.3\~5V
 * 尺寸：40 x 40 x 17 mm
+* 類型：I2C 模組
 
 ## 產品接線
 
@@ -27,7 +28,7 @@
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -39,10 +40,10 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_cq7TUb2cwMKT" %}
 
-[參考程式](https://makecode.microbit.org/\_cq7TUb2cwMKT)
+[參考程式](https://makecode.microbit.org/_cq7TUb2cwMKT)
 
 寫入與讀取數據
 
 {% embed url="https://makecode.microbit.org/_cMEM25YH24uo" %}
 
-[參考程式](https://makecode.microbit.org/\_MojJEjWVoEMV)
+[參考程式](https://makecode.microbit.org/_MojJEjWVoEMV)

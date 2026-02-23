@@ -1,12 +1,14 @@
 # Sugar二期 I2C分線模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/i2chub\_render.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/i2chub_render.png)
 
 I2C分線模組可以讓你連接多於一款I2C模組。
 
 ### 產品參數
 
 接口：I2C接口
+
+類型：I2C 模組
 
 ### 產品接線
 
@@ -16,7 +18,7 @@ I2C分線模組可以讓你連接多於一款I2C模組。
 
 #### 注意：每種I2C模組最多只能插一隻
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/i2chub\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/i2chub_wire.png)
 
 #### Robotbit 2.2
 

@@ -1,6 +1,6 @@
 # Sugar 人體紅外感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/pir1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/pir1.png)
 
 這是一隻人體紅外感應模組，可以感測附近是否有人走過。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 
@@ -9,6 +9,7 @@
 * 尺寸：24 x 24 x 19 mm
 * 重量：5.6g
 * 訊號：有人靠近時返回0，否則返回1
+* 類型：Digital 數位模組
 * 感測距離：5m
 
 ### 產品接線
@@ -17,7 +18,7 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/pir\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/pir_wire.png)
 
 #### Robotbit 2.2
 
@@ -33,7 +34,7 @@
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -45,11 +46,11 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 
 
-[參考程式](https://makecode.microbit.org/\_K4sLfFM0HLVe)
+[參考程式](https://makecode.microbit.org/_K4sLfFM0HLVe)
 
 #### Kittenblock 編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/pir3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/pir3.png)
 
 #### Micropython 編程教學
 

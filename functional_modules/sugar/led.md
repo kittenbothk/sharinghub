@@ -1,6 +1,6 @@
 # Sugar LED模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/led12.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/led12.png)
 
 這是一粒LED模組。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 
@@ -9,6 +9,7 @@
 * 尺寸：24 x 24 x 23 mm
 * 重量：5.6g
 * 訊號：1為點亮，0為熄滅
+* 類型：Digital 數位模組
 
 ### 產品接線
 
@@ -16,7 +17,7 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/led\_wire.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/led_wire.png)
 
 #### Robotbit 2.2
 
@@ -28,13 +29,13 @@
 
 ### MakeCode編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/mcbanner15.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner15.png)
 
 #### 加載Sugar插件：
 
 #### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.png)
 
 #### 你亦可以用插件地址搜尋
 
@@ -44,13 +45,13 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 {% embed url="https://makecode.microbit.org/_Ap5FxKHA6EPj" %}
 
-[參考程式](https://makecode.microbit.org/\_Ap5FxKHA6EPj)
+[參考程式](https://makecode.microbit.org/_Ap5FxKHA6EPj)
 
 #### Kittenblock 編程教學
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/kbbanner9.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/kbbanner9.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/led32.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/led32.png)
 
 #### MicroPython 編程教學
 

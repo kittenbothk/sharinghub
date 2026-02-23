@@ -6,7 +6,8 @@
 
 ## 產品參數：
 
-* 操作電壓：3.3\~5V
+* 操作電壓：3.3\~5
+* 類型：Digital 數位模組
 
 ## 產品接線
 
@@ -26,7 +27,7 @@
 
 #### 在擴展頁直接搜尋robotbit (robotbit已經過微軟認證，可以直接搜尋)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/sugar\_search.gif)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/sugar_search.gif)
 
 #### 你亦可以用插件地址搜尋
 
@@ -36,5 +37,5 @@ Sugar插件：https://github.com/KittenBot/pxt-robotbit
 
 {% embed url="https://makecode.microbit.org/_DdPiLTfM7Jk6" %}
 
-[參考程式](https://makecode.microbit.org/\_DdPiLTfM7Jk6)
+[參考程式](https://makecode.microbit.org/_DdPiLTfM7Jk6)
 
