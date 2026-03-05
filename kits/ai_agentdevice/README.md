@@ -1,6 +1,6 @@
-# 中華瀕危物種AI鑒別器
+# AI x 中華文化 生成式AI活動套件
 
-<figure><img src="../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
 
 透過KOI圖像辨識及大模型聊天機械人問答,學生可以接觸新銳的人工智能技術及培養對生態保育的意識.
 
@@ -34,10 +34,10 @@
 
 ## 快速使用教學
 
-{% content-ref url="ai_zoologist/quickstart.md" %}
-[quickstart.md](ai_zoologist/quickstart.md)
+{% content-ref url="quickstart.md" %}
+[quickstart.md](quickstart.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai_zoologist/zoologist_sampleprogram.md" %}
-[zoologist\_sampleprogram.md](ai_zoologist/zoologist_sampleprogram.md)
+{% content-ref url="zoologist_sampleprogram.md" %}
+[zoologist\_sampleprogram.md](zoologist_sampleprogram.md)
 {% endcontent-ref %}
