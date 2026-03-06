@@ -52,11 +52,11 @@
 
 ## 快速使用教學
 
-{% content-ref url="quickstart/" %}
-[quickstart](quickstart/)
+{% content-ref url="quickstart.md" %}
+[quickstart.md](quickstart.md)
 {% endcontent-ref %}
 
-{% content-ref url="quickstart/zoologist_sampleprogram.md" %}
-[zoologist\_sampleprogram.md](quickstart/zoologist_sampleprogram.md)
+{% content-ref url="zoologist_sampleprogram.md" %}
+[zoologist\_sampleprogram.md](zoologist_sampleprogram.md)
 {% endcontent-ref %}
 
