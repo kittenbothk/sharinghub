@@ -52,8 +52,8 @@
 
 ## 快速使用教學
 
-{% content-ref url="quickstart.md" %}
-[quickstart.md](quickstart.md)
+{% content-ref url="animals.md" %}
+[animals.md](animals.md)
 {% endcontent-ref %}
 
 {% content-ref url="zoologist_sampleprogram.md" %}
