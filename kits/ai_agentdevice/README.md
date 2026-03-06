@@ -1,4 +1,4 @@
-# AI x 中華文化 生成式AI活動套件
+# AI x 中華文化 生成式AI鑑別器活動套件
 
 <figure><img src="../../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,11 +52,11 @@
 
 ## 快速使用教學
 
-{% content-ref url="quickstart.md" %}
-[quickstart.md](quickstart.md)
+{% content-ref url="quickstart/" %}
+[quickstart](quickstart/)
 {% endcontent-ref %}
 
-{% content-ref url="zoologist_sampleprogram.md" %}
-[zoologist\_sampleprogram.md](zoologist_sampleprogram.md)
+{% content-ref url="quickstart/zoologist_sampleprogram.md" %}
+[zoologist\_sampleprogram.md](quickstart/zoologist_sampleprogram.md)
 {% endcontent-ref %}
 
