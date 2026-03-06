@@ -17,37 +17,7 @@
 
 <div><figure><img src="../../../.gitbook/assets/programselect1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/programselect2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/programselect3.png" alt=""><figcaption></figcaption></figure></div>
 
-## 1. 模型訓練
-
-### 下載範例圖片
-
-[**下載範例圖片**](https://www.canva.com/design/DAHA_Z8Dc3k/_y-Fr-VUsUytIUK-q6Q1jw/view?utm_content=DAHA_Z8Dc3k\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=h094d65c1d6)
-
-{% embed url="https://www.canva.com/design/DAHA_Z8Dc3k/_y-Fr-VUsUytIUK-q6Q1jw/view?utlId=h094d65c1d6&utm_campaign=designshare&utm_content=DAHA_Z8Dc3k&utm_medium=link2&utm_source=uniquelinks" %}
-
-### 程式使用教學
-
-打開「koi\_train.py」。
-
-<figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
-
-1. 未來板Lite會顯示現時的標籤，例如GiantPanda，這是現時要訓練的圖像。
-2. 將KOI 2對準圖片然後按A鍵，KOI 2就會錄入數據，將此圖像標籤為GiantPanda。
-3. 可以在不同角度距離多錄入數張，令模型更準確。
-4. 重複以上步驟直至訓練好所有該標籤的圖片。
-
-<div><figure><img src="../../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure></div>
-
-1. 按下B鍵，未來板就會跳至下一個標籤。
-2. 重複以上訓練步驟，訓練所有動物圖片。
-
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
-
-完成訓練所有圖片之後，按中間的M鍵就可以將模型儲存下來。儲存成功的話KOI 2會顯示save successfully的畫面。
-
-<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
-
-## 2. AI鑒別器
+## 1. 中華瀕危物種AI鑒別器
 
 ### 程式使用教學
 
