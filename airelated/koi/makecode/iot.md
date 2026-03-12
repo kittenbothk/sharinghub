@@ -28,16 +28,16 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 有關ThingSpeak的教學可以參考：
 
-{% content-ref url="../../../wifibrick_iot/wifibrick_makecode/mc_ts.md" %}
-[mc\_ts.md](../../../wifibrick_iot/wifibrick_makecode/mc_ts.md)
+{% content-ref url="../../../wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/mc_ts.md" %}
+[mc\_ts.md](../../../wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/mc_ts.md)
 {% endcontent-ref %}
 
 #### Makercloud創客雲平台[¶](/broken/pages/60u27Hclqq6ccUAMk8DR)
 
 假如你使用Makercloud創客雲平台，可以參考：
 
-{% content-ref url="../../../wifibrick_iot/wifibrick_makecode/makercloud.md" %}
-[makercloud.md](../../../wifibrick_iot/wifibrick_makecode/makercloud.md)
+{% content-ref url="../../../wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/makercloud.md" %}
+[makercloud.md](../../../wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/makercloud.md)
 {% endcontent-ref %}
 
 {% embed url="https://makecode.microbit.org/_4KXi32WvUE26" %}

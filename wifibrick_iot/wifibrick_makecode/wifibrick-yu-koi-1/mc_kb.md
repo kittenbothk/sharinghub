@@ -8,7 +8,7 @@
 
 在編程前請確保硬件及接線沒有問題。
 
-[硬件接線方法](../wifibrick/wifibrick_intro.md)
+[硬件接線方法](../../wifibrick/wifibrick_intro.md)
 
 ### 前言：
 
@@ -16,7 +16,7 @@
 
 ### 安裝KittenBlock
 
-[下載KittenBlock](../../programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/kttenblockgreen.md)
+[下載KittenBlock](../../../programmingplatforms/kittenblock/an-zhuang-ban-kittenblock/kttenblockgreen.md)
 
 ### 第一步：平台準備
 
