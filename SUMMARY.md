@@ -152,6 +152,8 @@
       * [Makecode 編程與ObjectBlocks](wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/objectblocks.md)
       * [Makecode 編程與Kittenblock內置IoT平台](wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/mc_kb.md)
       * [Makecode 編程與Kittenbot自家IoT平台](wifibrick_iot/wifibrick_makecode/wifibrick-yu-koi-1/mc_kittenbotiot.md)
+    * [KOI 2與物聯網平台](wifibrick_iot/wifibrick_makecode/koi-2-yu-wu-lian-wang-ping-tai/README.md)
+      * [KOI 2與Makercloud編程教學](wifibrick_iot/wifibrick_makecode/koi-2-yu-wu-lian-wang-ping-tai/koi-2-yu-makercloud-bian-cheng-jiao-xue.md)
   * [未來板與各IoT平台編程教學](wifibrick_iot/futureboard/README.md)
     * [未來板與ThingSpeak編程快速入門](wifibrick_iot/futureboard/thingspeak.md)
     * [未來板與MakerCloud編程快速教學](wifibrick_iot/futureboard/makercloud.md)
