@@ -235,6 +235,7 @@
   * [污水混濁度感應器](functional_modules/turbidity.md)
   * [pH值感應器Plus](functional_modules/ph_plus/README.md)
     * [pH感應器Plus 模組校正](functional_modules/ph_plus/ph-gan-ying-qi-plus-mo-zu-jiao-zheng.md)
+    * [pH感應器Plus 模組初始化校正](functional_modules/ph_plus/ph-gan-ying-qi-plus-mo-zu-chu-shi-hua-jiao-zheng.md)
   * [PM2.5 感應器](functional_modules/pm2.5.md)
   * [KittenClock時鐘模組](functional_modules/kittenclock.md)
   * [手指模辨識模組](functional_modules/fingerprint.md)
