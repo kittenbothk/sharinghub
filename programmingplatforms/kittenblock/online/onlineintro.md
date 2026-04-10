@@ -1,8 +1,8 @@
 # 全新在線版Kittenblock介紹
 
-## KittenBot即將推出全新的在線版KittenBlock！
+## KittenBot已推出全新的在線版KittenBlock！
 
-## 有興趣的同工請密切留意～
+## 歡迎各位同工親身試用在線版KittenBlock的各款AI功能！
 
 <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
