@@ -1,5 +1,19 @@
 # KOI歷史固件一覽
 
+## 版本號 4.1.1
+
+固件更新內容:
+
+配合鏡頭硬件更換
+
+### 適用KOI 1(Micro USB接頭版本):
+
+{% file src="../../../.gitbook/assets/20250320KOIUpdatemicroUsb.zip" %}
+
+### 適用KOI 2(Type C接頭版本):
+
+{% file src="../../../.gitbook/assets/20250320KOIUpdateTypeC.zip" %}
+
 ## 版本號 4.0.9
 
 固件更新內容:

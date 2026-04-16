@@ -2,6 +2,10 @@
 
 ### KOI固件版本檢查
 
+在KOI開機時，右下角會顯示現時版本，例如4.2.0。
+
+<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+
 ### KOI (1 & 2) 分別有自己的固件升級檔案, 請選擇合適檔案進行升級。
 
 * 2者的升級的操作方法是一樣, 具體可參考後面的視頻說明。
@@ -20,9 +24,7 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 #### 升級 KOI 1 (Micro USB) 至V4固件
 
-_<mark style="color:orange;">最新版本號 V4.1.1</mark>_
-
-{% file src="../../../.gitbook/assets/20250320KOIUpdatemicroUsb.zip" %}
+_<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
 此版本適用於:&#x20;
 
@@ -31,7 +33,7 @@ _<mark style="color:orange;">最新版本號 V4.1.1</mark>_
 
 ### 💡KOI 2 (Type C) 定期固件更新
 
-_<mark style="color:orange;">最新版本號 V4.1.1</mark>_
+_<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
 
 
