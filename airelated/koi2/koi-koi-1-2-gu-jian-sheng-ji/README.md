@@ -1,10 +1,10 @@
 # KOI (KOI 1 & 2) 固件升級
 
+### KOI固件版本檢查
+
 ### KOI (1 & 2) 分別有自己的固件升級檔案, 請選擇合適檔案進行升級。
 
 * 2者的升級的操作方法是一樣, 具體可參考後面的視頻說明。
-
-###
 
 ### 💡KOI 1升級到 KOI2
 
@@ -20,7 +20,7 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 #### 升級 KOI 1 (Micro USB) 至V4固件
 
-_<mark style="color:orange;">最新版本號 V4.1.1\\</mark>_
+_<mark style="color:orange;">最新版本號 V4.1.1</mark>_
 
 {% file src="../../../.gitbook/assets/20250320KOIUpdatemicroUsb.zip" %}
 
