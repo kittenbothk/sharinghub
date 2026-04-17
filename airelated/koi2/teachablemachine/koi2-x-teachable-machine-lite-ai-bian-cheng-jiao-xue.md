@@ -16,4 +16,12 @@
 
 ### 使用內置kmodel (模型上傳到裝置)
 
+<figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/內置kmodel.sb3" %}
+
 ### 使用外部kmodel (模型儲存在SD卡)
+
+<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/外部kmodel.sb3" %}
