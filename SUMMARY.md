@@ -78,7 +78,7 @@
       * [圖像辨識](airelated/koi2/micropython/imageclassifier.md)
       * [預載追蹤模型](airelated/koi2/micropython/builtintracking.md)
       * [自定義追蹤模型](airelated/koi2/micropython/custom.md)
-    * [KOI 2 x Teachable Machine全新玩法](airelated/koi2/teachablemachine/README.md)
+    * [KOI 2 x Teachable Machine 模型訓練方法](airelated/koi2/teachablemachine/README.md)
     * [KOI (KOI 1 & 2) 固件升級](airelated/koi2/koi-koi-1-2-gu-jian-sheng-ji/README.md)
       * [KOI歷史固件一覽](airelated/koi2/koi-koi-1-2-gu-jian-sheng-ji/firmwarelist.md)
     * [KOI 2 串口指令API](airelated/koi2/koi-2-chuan-kou-zhi-ling-api.md)
