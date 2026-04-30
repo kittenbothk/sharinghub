@@ -6,11 +6,13 @@
 
 ### 方法1: 自動生成自定義鑒別器程式
 
-{% embed url="https://youtu.be/dzJa1k-mbSE" %}
+{% content-ref url="tool/" %}
+[tool](tool/)
+{% endcontent-ref %}
 
 ### 方法2: 手動修改Python檔案
 
-{% content-ref url="fang-fa-2-shou-dong-xiu-gai-python-dang-an/" %}
-[fang-fa-2-shou-dong-xiu-gai-python-dang-an](fang-fa-2-shou-dong-xiu-gai-python-dang-an/)
+{% content-ref url="manual/" %}
+[manual](manual/)
 {% endcontent-ref %}
 
