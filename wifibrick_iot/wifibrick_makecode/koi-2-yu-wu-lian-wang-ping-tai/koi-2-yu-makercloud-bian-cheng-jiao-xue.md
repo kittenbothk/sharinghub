@@ -38,5 +38,5 @@
 [iot.md](../../../airelated/koi2/koi2makecode/iot.md)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
