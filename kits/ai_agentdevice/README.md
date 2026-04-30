@@ -1,4 +1,4 @@
-# AI x 中華文化 生成式AI鑑別器活動套件
+# AI x 中華文化 生成式AI多元鑑別器活動套件
 
 <figure><img src="../../.gitbook/assets/中華瀕危物動AI 鑑別器.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,14 @@
 
 {% content-ref url="animals.md" %}
 [animals.md](animals.md)
+{% endcontent-ref %}
+
+{% content-ref url="herb.md" %}
+[herb.md](herb.md)
+{% endcontent-ref %}
+
+{% content-ref url="diy_model/" %}
+[diy\_model](diy_model/)
 {% endcontent-ref %}
 
 {% content-ref url="zoologist_sampleprogram.md" %}
