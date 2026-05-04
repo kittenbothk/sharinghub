@@ -26,6 +26,10 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
+{% hint style="info" %}
+暫未推出
+{% endhint %}
+
 此版本適用於:&#x20;
 
 1. 原裝KOI 1 (Micro USB 插頭) 的定時更新。
@@ -35,7 +39,7 @@ _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
 _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
-
+{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdateTypeC.zip" %}
 
 此版本適用於:&#x20;
 
