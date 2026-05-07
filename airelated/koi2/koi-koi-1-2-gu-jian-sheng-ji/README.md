@@ -26,9 +26,7 @@ KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級
 
 _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
-{% hint style="info" %}
-暫未推出
-{% endhint %}
+{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdatemicroUsb.zip" %}
 
 此版本適用於:&#x20;
 
