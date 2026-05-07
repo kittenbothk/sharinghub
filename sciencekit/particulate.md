@@ -32,7 +32,7 @@
 
 #### 進行測量
 
-未來板Lite會一直顯示測量到空氣中的PM2.5及PM10懸浮粒子的濃度(ppm)。
+未來板Lite會一直顯示測量到空氣中的PM2.5及PM10懸浮粒子的濃度(μg/m³)。
 
 <figure><img src="../.gitbook/assets/pmprogram (1).png" alt=""><figcaption></figcaption></figure>
 
