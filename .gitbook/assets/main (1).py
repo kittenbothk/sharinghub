@@ -1,64 +1,3 @@
-# KOI AI 氣墊球
-
-<figure><img src="../.gitbook/assets/AI氣墊球packing covere sheet .jpg" alt=""><figcaption></figcaption></figure>
-
-AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能技術和玩樂元素。
-
-學生可以透過與KOI人工智能競技，從遊戲中了解現今機器視覺的原理，激發對人工智能的興趣。
-
-更高階的學生更可以透過Python編程編寫自己的AI氣墊球機械人。
-
-### 搭建說明書
-
-{% embed url="https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_campaign=designshare&utm_content=DAGS4jnuzC0&utm_medium=link&utm_source=editor" %}
-
-[下載說明書](https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_content=DAGS4jnuzC0\&utm_campaign=designshare\&utm_medium=link\&utm_source=editor)
-
-### 接線圖
-
-### KOI接線圖
-
-<figure><img src="../.gitbook/assets/koi_wiring.png" alt=""><figcaption></figcaption></figure>
-
-
-
-### 舵機接線圖
-
-<figure><img src="../.gitbook/assets/servo_wiring (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-### 套件內容
-
-1. Robotbit 2.2連底座 \*1
-2. KOI 2 AI鏡頭 \*1
-3. GeekServo 2KG灰色舵機 \*2
-4. 積木件 \*1套
-5. 氣墊球機 \*1
-6. KOI連接線 \*1
-7. 1m USB線 \*1
-8. 18650鋰電池 \*1
-
-### 額外所需物資
-
-* USB移動式電源 或
-* USB 5V充電器
-
-### 操作教學
-
-打開Robotbit電源後，KOI會追蹤並阻擋紅色球片。
-
-### 示範短片
-
-{% embed url="https://www.youtube.com/watch?v=L4j0FkiNsRc" %}
-
-### 參考程式
-
-出廠時KOI已經預載參考程式，如有需要請用KittenCode載入此py檔上載至KOI。
-
-{% file src="../.gitbook/assets/main (1).py" %}
-
-```python
 import sensor, image, time, lcd, utime
 import math, ustruct
 from maix import KPU, GPIO, I2S
@@ -298,9 +237,3 @@ ak = AirHockey()
 #ak.colorCalibrate(key='red2')
 ak.run()
 
-
-```
-
-#### 舵機校正
-
-{% embed url="https://makecode.microbit.org/_XMV48YfiRJbY" %}
