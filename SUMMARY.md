@@ -786,6 +786,7 @@
     * [氣壓計Barometer](kits/edu_u_estem/barometer.md)
     * [Conductivity](kits/edu_u_estem/conductivity.md)
     * [未來板Lite AI 程式復原教學](kits/edu_u_estem/recovery.md)
+  * [FutureLite AI 創想家](kits/liteai_creator_kit.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
