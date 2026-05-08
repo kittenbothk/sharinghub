@@ -41,34 +41,73 @@
 
 ### 智能籃球架
 
+<figure><img src="../.gitbook/assets/智能籃球架.png" alt=""><figcaption></figcaption></figure>
+
 ### 智能密碼門
+
+<figure><img src="../.gitbook/assets/智能密碼門.png" alt=""><figcaption></figcaption></figure>
 
 ### 游標卡尺
 
+<figure><img src="../.gitbook/assets/游標卡尺.png" alt=""><figcaption></figcaption></figure>
+
 ### 巡線小車
+
+<figure><img src="../.gitbook/assets/巡線小車.png" alt=""><figcaption></figcaption></figure>
 
 ### 社恐機械人
 
+<figure><img src="../.gitbook/assets/社恐機械人.png" alt=""><figcaption></figcaption></figure>
+
 ### 未來廣告牌
+
+<figure><img src="../.gitbook/assets/未來廣告牌.png" alt=""><figcaption></figcaption></figure>
 
 ### 智能流水線
 
+<figure><img src="../.gitbook/assets/智能流水線.png" alt=""><figcaption></figcaption></figure>
+
 ### 喝水提醒器
+
+<figure><img src="../.gitbook/assets/喝水提醒器.png" alt=""><figcaption></figcaption></figure>
 
 ### 手搖唱片機
 
+<figure><img src="../.gitbook/assets/手搖唱片機.png" alt=""><figcaption></figcaption></figure>
+
 ### 智能儲物箱
+
+<figure><img src="../.gitbook/assets/智能儲物箱.png" alt=""><figcaption></figcaption></figure>
 
 ### 凌空奏樂
 
+<figure><img src="../.gitbook/assets/凌空奏樂.png" alt=""><figcaption></figcaption></figure>
+
 ### AI天氣預測
+
+<figure><img src="../.gitbook/assets/AI天氣預測.png" alt=""><figcaption></figcaption></figure>
 
 ### 遊戲手掣
 
+<figure><img src="../.gitbook/assets/遊戲手掣.png" alt=""><figcaption></figcaption></figure>
+
 ### 智能停車場
+
+<figure><img src="../.gitbook/assets/智能停車場.png" alt=""><figcaption></figcaption></figure>
 
 ### 智能充電站
 
+<figure><img src="../.gitbook/assets/智能充電站.png" alt=""><figcaption></figcaption></figure>
+
 ### 雷達裝置
 
+<figure><img src="../.gitbook/assets/雷達裝置.png" alt=""><figcaption></figcaption></figure>
+
 ### 肺活量檢測器
+
+<figure><img src="../.gitbook/assets/肺活量檢測器.png" alt=""><figcaption></figcaption></figure>
+
+### AI管家
+
+<figure><img src="../.gitbook/assets/AI管家.png" alt=""><figcaption></figcaption></figure>
+
