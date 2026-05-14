@@ -30,7 +30,13 @@
 
 <div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div>
 
+登入Kzone帳號平台
+
 在Kzone帳號平台上選擇API訪問令牌，然後點擊創建Key
+
+[https://kzone2.kittenbot.cc/zh-TW](https://kzone2.kittenbot.cc/zh-TW)
+
+{% embed url="https://kzone2.kittenbot.cc/zh-TW" %}
 
 <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 

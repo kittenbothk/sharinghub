@@ -19,7 +19,7 @@
 
 #### 3. 使用一字螺絲批調節模組上的電位旋鈕
 
-![](../../.gitbook/assets/ph_電位器.png)
+<img src="../../.gitbook/assets/ph_電位器.png" alt="" width="375">
 
 #### 4. 將pH探測棒的保護蓋拆開，然後浸入pH6.86校正液，並等待大約1分鐘。
 

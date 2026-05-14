@@ -1,6 +1,6 @@
 # Sugar 二期MQ2煙霧感應器模組
 
-![](../../.gitbook/assets/mq2.png)
+<img src="../../.gitbook/assets/mq2.png" alt="" width="235">
 
 這是一個煙霧感應器。
 
