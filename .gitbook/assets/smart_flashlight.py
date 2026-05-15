@@ -1,20 +1,3 @@
-# 智能電筒
-
-<figure><img src="../../../.gitbook/assets/網絡時鐘.png" alt=""><figcaption></figcaption></figure>
-
-## 模型搭建說明書
-
-{% file src="../../../.gitbook/assets/網絡時鐘.pdf" %}
-
-## 範例生成指令詞
-
-```
-幫我寫一個智能手電筒程式，因應環境亮度控制彩燈的亮度
-```
-
-## 範例程式
-
-```python
 from sensor import Sensor
 from future import NeoPixel
 from screen import Screen
@@ -107,7 +90,3 @@ while True:
     
     # 刷新屏幕
     s.refresh()
-```
-
-{% file src="../../../.gitbook/assets/smart_flashlight.py" %}
-
