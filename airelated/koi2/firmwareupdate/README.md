@@ -93,7 +93,7 @@ V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
 
 ### 1. 準備Class10或以上Micro SD Card
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 下載以下固件檔案
 
@@ -101,11 +101,11 @@ V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
 
 ### 3. 將檔案內容解壓縮到SD Card上
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 將SD Card插入KOI
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

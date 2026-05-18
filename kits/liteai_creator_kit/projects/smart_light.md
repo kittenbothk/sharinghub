@@ -111,3 +111,6 @@ while True:
 
 {% file src="../../../.gitbook/assets/smart_flashlight.py" %}
 
+## 示範短片
+
+{% embed url="https://drive.google.com/file/d/1CUMoRIcH-3iGnRvaBZz-MABchsECdHDd/view?usp=drive_link" %}
