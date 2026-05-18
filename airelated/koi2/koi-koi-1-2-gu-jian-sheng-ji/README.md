@@ -86,3 +86,31 @@ _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 {% endcontent-ref %}
 
 {% embed url="https://youtu.be/3I2sggAglhY?si=2Nvj5qgIdHGvdur2&t=238" %}
+
+## KOI 2特快固件升級方法(自備SD卡)
+
+V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
+
+### 1. 準備Class10或以上Micro SD Card
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### 2. 下載以下固件檔案
+
+{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdateSdcardFile.zip" %}
+
+### 3. 將檔案內容解壓縮到SD Card上
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### 4. 將SD Card插入KOI
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### 5. 為KOI插電，KOI就會自動更新
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
