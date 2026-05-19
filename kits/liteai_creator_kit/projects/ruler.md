@@ -9,12 +9,13 @@
 ## 範例生成指令詞
 
 ```
-寫一個程式提示用戶喝水，當P1碰撞模組感應到10秒水杯沒有移走時，就以燈效文字和蜂鳴器提示用戶喝水
+幫我寫一個程式顯示P3灰度感應器的數值
+0cm時讀數大約為 3100，11cm時讀數大約為980，幫我將距離顯示在屏幕上 只需顯示整數
 ```
 
-在對話中加入以下模塊：碰撞模組
+在對話中加入以下模塊：灰度感應器
 
-<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
 ## 範例程式
 
