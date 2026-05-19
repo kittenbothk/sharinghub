@@ -794,6 +794,7 @@
       * [社恐機械人](kits/liteai_creator_kit/projects/anxiety_robot.md)
       * [巡線小車](kits/liteai_creator_kit/projects/line_follow.md)
       * [喝水提醒器](kits/liteai_creator_kit/projects/drink_water.md)
+      * [游標卡尺](kits/liteai_creator_kit/projects/ruler.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
