@@ -799,6 +799,7 @@
       * [網絡時鐘](kits/liteai_creator_kit/projects/network_clock.md)
       * [智能籃球架](kits/liteai_creator_kit/projects/basketball.md)
       * [智能儲物箱](kits/liteai_creator_kit/projects/box.md)
+      * [遊戲手掣](kits/liteai_creator_kit/projects/game.md)
       * [IoT寵物餵食機](kits/liteai_creator_kit/projects/petfeeder.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
