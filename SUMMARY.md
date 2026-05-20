@@ -797,6 +797,7 @@
       * [游標卡尺](kits/liteai_creator_kit/projects/ruler.md)
       * [網絡時鐘](kits/liteai_creator_kit/projects/network_clock.md)
       * [智能籃球架](kits/liteai_creator_kit/projects/network_clock-1.md)
+      * [IoT寵物餵食機](kits/liteai_creator_kit/projects/petfeeder.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
