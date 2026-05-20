@@ -1,24 +1,3 @@
-# 智能籃球架
-
-<figure><img src="../../../.gitbook/assets/智能籃球架.png" alt=""><figcaption></figcaption></figure>
-
-## 模型搭建說明書
-
-{% file src="../../../.gitbook/assets/智能籃球架.pdf" %}
-
-## 範例生成指令詞
-
-```
-寫一個籃球架程式，使用P1的超聲波檢測是否有籃球投籃 檢測距離為7cm內，假如成功投籃就以動畫，燈光通知玩家
-```
-
-在對話中加入以下模塊：超聲波感應器
-
-<figure><img src="../../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
-
-## 範例程式
-
-```python
 from screen import Screen
 from sonar import MeowSonar
 from future import NeoPixel
@@ -236,10 +215,3 @@ while True:
     
     # 短暂延迟
     #time.sleep(0.05)
-
-```
-
-{% file src="../../../.gitbook/assets/basketball_score.py" %}
-
-## 示範短片
-
