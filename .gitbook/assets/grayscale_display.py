@@ -1,25 +1,3 @@
-# 游標卡尺
-
-<figure><img src="../../../.gitbook/assets/游標卡尺.png" alt=""><figcaption></figcaption></figure>
-
-## 模型搭建說明書
-
-{% file src="../../../.gitbook/assets/游標卡尺.pdf" %}
-
-## 範例生成指令詞
-
-```
-幫我寫一個程式顯示P3灰度感應器的數值
-0cm時讀數大約為 3100，11cm時讀數大約為980，幫我將距離顯示在屏幕上 只需顯示整數
-```
-
-在對話中加入以下模塊：灰度感應器
-
-<figure><img src="../../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
-
-## 範例程式
-
-```python
 from sugar import Grayscale
 from screen import Screen
 
@@ -98,11 +76,3 @@ while True:
     
     # 刷新屏幕
     s.refresh()
-```
-
-{% file src="../../../.gitbook/assets/grayscale_display.py" %}
-
-## 示範短片
-
-{% embed url="https://drive.google.com/file/d/15Ad4tGrxDggVWW5EM7Oby4JM49qRNFKq/view?usp=drive_link" %}
-
