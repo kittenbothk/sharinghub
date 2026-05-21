@@ -803,7 +803,7 @@
       * [未來廣告牌](kits/liteai_creator_kit/projects/advertisement.md)
       * [凌空奏樂](kits/liteai_creator_kit/projects/air_piano.md)
       * [智能充電站](kits/liteai_creator_kit/projects/charging_station.md)
-      * [Copy of 智能充電站](kits/liteai_creator_kit/projects/charging_station-1.md)
+      * [智能停車場](kits/liteai_creator_kit/projects/parking_lot.md)
       * [IoT寵物餵食機](kits/liteai_creator_kit/projects/petfeeder.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
