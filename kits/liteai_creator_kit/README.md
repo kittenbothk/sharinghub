@@ -41,6 +41,12 @@
 * 連接線
 * 搭建積木
 
+## 參考程式及教學
+
+{% content-ref url="projects/" %}
+[projects](projects/)
+{% endcontent-ref %}
+
 ## 應用項目展示
 
 ### 智能籃球架
