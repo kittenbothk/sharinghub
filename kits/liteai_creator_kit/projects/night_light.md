@@ -193,4 +193,4 @@ while True:
 
 ## 示範短片
 
-{% embed url="https://drive.google.com/file/d/1CUMoRIcH-3iGnRvaBZz-MABchsECdHDd/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1BCiwL26PZfjcAS4M7w1I8rJIqHGq60Iw/view?usp=drive_link" %}
