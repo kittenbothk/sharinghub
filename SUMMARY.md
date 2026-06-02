@@ -610,6 +610,7 @@
       * [智能停車場](kits/liteai_creator_kit/projects/parking_lot.md)
       * [智能密碼門](kits/liteai_creator_kit/projects/password_door.md)
       * [網絡時鐘](kits/liteai_creator_kit/projects/network_clock.md)
+      * [天氣報告站](kits/liteai_creator_kit/projects/weather.md)
       * [IoT遙距點燈](kits/liteai_creator_kit/projects/mqtt_light.md)
       * [IoT寵物餵食機](kits/liteai_creator_kit/projects/petfeeder.md)
       * [AI旅遊翻譯機](kits/liteai_creator_kit/projects/translator.md)
