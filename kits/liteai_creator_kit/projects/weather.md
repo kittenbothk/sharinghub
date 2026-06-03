@@ -14,6 +14,8 @@
 
 在對話中加入以下模塊：溫濕度模組
 
+<figure><img src="../../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+
 ## 範例程式
 
 ```python
@@ -138,4 +140,4 @@ while True:
 
 ## 示範短片
 
-{% embed url="https://youtu.be/W9lps_XMnJg?si=Z7GaEIYXHeKh-iL0&t=105" %}
+{% embed url="https://drive.google.com/file/d/1uKllDlAy9wADuiVQoZpZQQ4kCXvqA5cr/view?usp=sharing" %}
