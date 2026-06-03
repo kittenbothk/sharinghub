@@ -1,26 +1,3 @@
-# AI天氣預測
-
-<figure><img src="../../../.gitbook/assets/AI天氣預測.png" alt=""><figcaption></figcaption></figure>
-
-## 模型搭建說明書
-
-{% file src="../../../.gitbook/assets/天氣預測.pdf" %}
-
-## 範例生成指令詞
-
-```
-寫一個程式，每5秒將溫濕度模組的數值記錄下來，並將現時及最高與最低的溫濕度數據顯示在畫面上
-
-建立另一個程式，加入Agent功能 當用家按A時，將過往的數據發送到Agent，要求agent預測將來的天氣變化，要求agent將回答控制在20字之內
-```
-
-在對話中加入以下模塊：溫濕度模組
-
-<figure><img src="../../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
-
-## 範例程式
-
-```python
 from screen import Screen
 from sugar import ENV
 from board import *
@@ -154,10 +131,3 @@ while True:
     
     # 短暂延迟
     time.sleep(0.1)
-```
-
-{% file src="../../../.gitbook/assets/weather_agent.py" %}
-
-## 示範短片
-
-{% embed url="https://youtu.be/W9lps_XMnJg?si=s4FIuAD-hBUIfbkO&t=168" %}
