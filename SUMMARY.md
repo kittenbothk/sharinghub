@@ -1,6 +1,11 @@
 # Table of contents
 
 * [歡迎來到Kittenbot HK Sharing Hub](README.md)
+* [智啟學教 智能互動專區](aicorner/README.md)
+  * [KOI AI 氣墊球](kits/aihockey.md)
+  * [Micro:bit AI魔杖套件](kits/aimagicwand/README.md)
+  * [AI x 中華文化 生成式AI多元鑑別器活動套件](kits/ai_agentdevice/README.md)
+  * [即席揮毫 AI畫家](kits/aiprinter.md)
 * [擴展板](expansion_board/README.md)
   * [RobotBit Edu](expansion_board/robotbit-edu/README.md)
     * [Robotbit Edu 介紹](expansion_board/robotbit-edu/robotbitedu.md)
@@ -812,6 +817,7 @@
     * [氣壓計Barometer](kits/edu_u_estem/barometer.md)
     * [Conductivity](kits/edu_u_estem/conductivity.md)
     * [未來板Lite AI 程式復原教學](kits/edu_u_estem/recovery.md)
+  * [即席揮毫 AI畫家](kits/aiprinter.md)
 * [各編程平台介紹](programmingplatforms/README.md)
   * [最新Microsoft MicroCode](programmingplatforms/microcode.md)
   * [MakeCode編程平台教學](programmingplatforms/makecode/README.md)
