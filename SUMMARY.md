@@ -1,7 +1,7 @@
 # Table of contents
 
 * [歡迎來到Kittenbot HK Sharing Hub](README.md)
-* [【STEAM Day & 開放日必備】智啟學教 智能互動專區](aicorner/README.md)
+* [【STEAM Room & 開放日必備】智啟學教 智能互動專區](aicorner/README.md)
   * [KOI AI 氣墊球](kits/aihockey.md)
   * [Micro:bit AI魔杖套件](kits/aimagicwand/README.md)
   * [AI x 中華文化 生成式AI多元鑑別器活動套件](kits/ai_agentdevice/README.md)

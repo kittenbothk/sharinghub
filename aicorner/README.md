@@ -1,4 +1,4 @@
-# 【STEAM Day & 開放日必備】智啟學教 智能互動專區
+# 【STEAM Room & 開放日必備】智啟學教 智能互動專區
 
 <figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -7,6 +7,8 @@
 迎接 AI 教育新時代，如何讓學生在好玩、互動的環境中真正理解人工智能？KittenBot 特別推出「智」啟學教智能互動專區 (AI Corner)，專為學校 STEAM Day、科學周及校園開放日而設。
 
 本專區結合了 5 大沉浸式 AI 體驗，打破傳統課堂的沉悶，讓學生透過動手操作與實時互動，輕鬆解碼 AI 背後的科技原理！
+
+為配合STEAM Room發展需要，Kittenbot亦可提供大型展板方便安裝，除了美觀更有AI原理的講解，讓學生可以具體的學習到AI的運作原理。
 
 ### 精選套件內容包括：
 
