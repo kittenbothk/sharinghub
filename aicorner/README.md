@@ -29,6 +29,8 @@
 [aihockey.md](../kits/aihockey.md)
 {% endcontent-ref %}
 
+<figure><img src="../.gitbook/assets/KOI AI 氣墊球.png" alt=""><figcaption></figcaption></figure>
+
 ### 2. 機器學習特徵提取
 
 #### Micro:bit AI 魔杖套件：
@@ -38,6 +40,8 @@
 {% content-ref url="../kits/aimagicwand/" %}
 [aimagicwand](../kits/aimagicwand/)
 {% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 圖像辨識 及 4. 生成式AI
 
@@ -49,6 +53,8 @@
 [ai\_agentdevice](../kits/ai_agentdevice/)
 {% endcontent-ref %}
 
+<figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### 5. AI文生圖
 
 #### AI Printer：
@@ -59,3 +65,4 @@
 [aiprinter.md](../kits/aiprinter.md)
 {% endcontent-ref %}
 
+<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
