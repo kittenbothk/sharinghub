@@ -133,3 +133,9 @@
 
 <figure><img src="../../../.gitbook/assets/Make 2.5.2.png" alt=""><figcaption></figcaption></figure>
 
+#### 從Thinkspeak 訂閱(Subscrib)&#x20;
+
+以下3組"如果"積木, 分別控制訂閱的Field及對應行動。
+
+<figure><img src="../../../.gitbook/assets/Make 2.6.png" alt=""><figcaption></figcaption></figure>
+
