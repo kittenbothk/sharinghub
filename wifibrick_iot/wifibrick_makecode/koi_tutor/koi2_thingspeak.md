@@ -70,3 +70,10 @@
 
 <figure><img src="../../../.gitbook/assets/for退地only (3).png" alt=""><figcaption></figcaption></figure>
 
+輸入頻道ID
+
+<figure><img src="../../../.gitbook/assets/for退地only (4).png" alt=""><figcaption></figcaption></figure>
+
+按下Micro:bit的A鍵，KOI就會上傳隨機數字到Thingspeak頻道，同時KOI會接收到頻道信息然後顯示出來
+
+<figure><img src="../../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
