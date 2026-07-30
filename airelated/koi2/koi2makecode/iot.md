@@ -80,3 +80,11 @@ Armourbit用家請使用初始化Armourbit積木。
 發送訊息的積木必須按照以下格式填寫，請將主題名稱填進話題，並且將話題的數據類型識別碼取代數據類型。
 
 <figure><img src="../../../.gitbook/assets/path1361.png" alt=""><figcaption></figcaption></figure>
+
+### ThingSpeak
+
+KOI2與ThingSpeak的編程教學請參閱以下教學
+
+{% content-ref url="../../../wifibrick_iot/wifibrick_makecode/koi_tutor/koi2_thingspeak.md" %}
+[koi2\_thingspeak.md](../../../wifibrick_iot/wifibrick_makecode/koi_tutor/koi2_thingspeak.md)
+{% endcontent-ref %}
