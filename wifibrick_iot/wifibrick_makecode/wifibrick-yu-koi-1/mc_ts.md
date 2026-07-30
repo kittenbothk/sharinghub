@@ -1,8 +1,6 @@
 # Makecode 編程與ThingSpeak
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner8.png)
-
-### 前言
+## 前言
 
 當硬件及IoT平台準備就緒, 我們便可開始為Micro:bit 編程。
 
