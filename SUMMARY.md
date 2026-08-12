@@ -622,6 +622,7 @@
       * [IoT寵物餵食機](kits/vibecode_creator/projects/petfeeder.md)
       * [AI旅遊翻譯機](kits/vibecode_creator/projects/translator.md)
       * [AI天氣預測](kits/vibecode_creator/projects/ai_weather.md)
+      * [手搖唱片機](kits/vibecode_creator/projects/musicplayer.md)
   * [MicroCode探險家](kits/microcode_explorer/README.md)
     * [最新Microsoft MicroCode](https://sharinghub.kittenbot.hk/programmingplatforms/microcode)
     * [MicroCode 編程教學](https://sharinghub.kittenbot.hk/expansion_board/newbit-arcade-shield/newbitmicrocode)
