@@ -11,9 +11,13 @@
 
 ## 使用教學
 
-#### 1. 打開模組上蓋,放入2粒2A電池
+#### 1. 打開模組上蓋,放入2粒AAA電池
 
 <figure><img src="../.gitbook/assets/conductivity3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/conductivity6.png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### 2. 蓋上上蓋,連接鱷魚夾線
 
@@ -22,6 +26,10 @@
 #### 3. 接上要測試的物料,然後打開開關
 
 <figure><img src="../.gitbook/assets/conductivity5.png" alt=""><figcaption></figcaption></figure>
+
+#### 4. 假如物料能夠導電，模組上的紅色LED會亮起
+
+<figure><img src="../.gitbook/assets/conductivity7.png" alt=""><figcaption></figcaption></figure>
 
 ## 接線教學
 
