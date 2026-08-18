@@ -30,7 +30,3 @@
 #### 4. 假如物料能夠導電，模組上的紅色LED會亮起
 
 <figure><img src="../.gitbook/assets/conductivity7.png" alt=""><figcaption></figcaption></figure>
-
-## 接線教學
-
-## 編程教學
