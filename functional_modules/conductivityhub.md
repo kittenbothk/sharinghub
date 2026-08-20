@@ -1,4 +1,4 @@
-# 導電測試模組
+# 閉合電路實驗模組
 
 <figure><img src="../.gitbook/assets/conductivity1.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@
 
 ## 產品示範
 
-### 在連接不同導電性的物料時，量度到的電壓會變化，導電性能越高電壓就越高。
+### 在連接不同導電性的物料時，量度到的電流會變化，導電性能越高電流就越高。
 
 ### 1. 連接220ohm電阻: 1.12mA
 
