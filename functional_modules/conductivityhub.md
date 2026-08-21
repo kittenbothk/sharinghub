@@ -57,3 +57,30 @@
 
 <figure><img src="../.gitbook/assets/conductivity9.png" alt=""><figcaption></figcaption></figure>
 
+## 編程教學
+
+### MakeCode 編程教學
+
+#### 在擴展頁輸入以下插件網址
+
+#### 感應器Plus插件：[https://github.com/kittenbothk/pxt-ModulePlus](https://github.com/kittenbothk/pxt-ModulePlus)
+
+<figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+
+#### 詳細方法
+
+#### 閉合電路實驗模組積木塊：
+
+<figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+
+#### 閉合電路實驗模組編程
+
+{% embed url="https://makecode.microbit.org/_ivpJ2dUdiDMw" %}
+
+[參考程式網址](https://makecode.microbit.org/_ivpJ2dUdiDMw)
+
+#### 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode_extensionUpdate.html)
