@@ -17,9 +17,35 @@
 
 <div><figure><img src="../../.gitbook/assets/programselect1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/programselect2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/programselect3.png" alt=""><figcaption></figcaption></figure></div>
 
-## 1. 中華瀕危物種AI鑒別器
+## 1. 中華瀕危物種AI模型訓練
 
-### 程式使用教學
+打開「species\_train.py」。
+
+<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+
+未來板上顯示GiantPanda，代表現在要訓練的是大熊貓的模型
+
+把KOI 2 鏡頭對準大熊貓的圖片，按下A鍵，KOI 2 便會為大熊貓製作辨識模型數據。
+
+試試在不同角度和距離多拍數張照片，令模型更加準確。
+
+<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+
+完成訓練金絲猴的圖片後，按一下B鍵，未來板就會切換至下個分類。
+
+重複以上步驟直至完成所有分類的訓練。
+
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+
+最後按下中間的M鍵，儲存模型。
+
+成功儲存的話KOI 2會顯示Save Successfully的字樣, 表示模型已經成功儲存。
+
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+
+## 2. 中華瀕危物種AI鑒別器使用教學
 
 {% hint style="info" %}
 AI鑒別器程式需要使用WiFi，請預先準備WiFi熱點。\
