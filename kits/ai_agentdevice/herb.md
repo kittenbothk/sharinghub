@@ -23,7 +23,35 @@
 
 {% embed url="https://www.canva.com/design/DAGxguPrfNI/7r2qc4hzFF8wXIRoCehHXQ/view?utlId=h3cd0e17c79&utm_campaign=designshare&utm_content=DAGxguPrfNI&utm_medium=link2&utm_source=uniquelinks" %}
 
-## 1. AI鑒別器
+## 1. 中藥材AI模型訓練
+
+打開「herb\_train.py」。
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+未來板上顯示ChineseYam，代表現在要訓練的分類是淮山。
+
+將KOI 2對準淮山的圖片，按下A鍵，KOI就會錄入淮山的數據。
+
+試試在不同角度和距離多拍數張照片，令模型更加準確。
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+完成淮山的模型訓練後，將KOI 2對準菊花的圖片，按下A鍵，KOI就會錄入菊花的數據。
+
+重複以上步驟直至完成所有分類的訓練。
+
+重複以上步驟，完成餘下各款 (枸杞子﹑黨參、茯苓) 中藥的分類模型訓練。
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+最後按下中間的M鍵，儲存模型。
+
+成功儲存的話KOI 2會顯示Save Successfully的字樣, 表示模型已經成功儲存。
+
+<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+
+## 2. AI中藥材鑒別器使用教學
 
 ### 程式使用教學
 
@@ -43,13 +71,13 @@ Password: 12345678
 KOI 2會自動載入先前訓練的AI模型。\
 按未來板的A鍵即可進行辨認。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 未來板會顯示辨認到中藥材的名稱。
 
 按未來板的B鍵，生成式AI就會生成一段文字介紹該中藥材並以粵語朗讀出來。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 按下中間的M鍵，未來板就會顯示Listening。向未來板說出你的問題，未來板會將進行語音辨識。
 
@@ -63,6 +91,6 @@ KOI 2會自動載入先前訓練的AI模型。\
 
 如需更改WiFi的登入資料，請打開wifi.txt然後輸入新的SSID和密碼，兩者用逗號( , )分隔。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>

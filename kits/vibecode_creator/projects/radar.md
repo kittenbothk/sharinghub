@@ -15,7 +15,7 @@
 
 在對話中加入以下模塊：舵機，超聲波感應器
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 範例程式
 

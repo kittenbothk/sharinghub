@@ -17,7 +17,7 @@
 
 在對話中加入以下模塊：電機，超聲波感應器
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 範例程式
 

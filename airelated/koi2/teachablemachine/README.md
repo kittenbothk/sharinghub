@@ -98,13 +98,13 @@ KOI 2已經新增支援Teachable Machine圖像分類模型的功能，有興趣�
 
 上傳到設備：模型會直接輸送到KOI內部，好處是比較方便，編程時不用指定載入模型名稱，壞處是同時間只能夠儲存一個模型
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 匯出模型
 
 下載kmodel模型後，將kmodel檔案放在SD卡上然後將SD卡插入KOI即可
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 上傳到設備
 
@@ -118,11 +118,11 @@ KOI 2已經新增支援Teachable Machine圖像分類模型的功能，有興趣�
 
 <figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 等待模型傳輸完成後就可以拔除KOI
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 編程教學
 

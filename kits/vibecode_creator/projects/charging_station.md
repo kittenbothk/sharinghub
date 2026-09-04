@@ -14,7 +14,7 @@
 
 在對話中加入以下模塊：超聲波模組，舵機
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 範例程式
 
