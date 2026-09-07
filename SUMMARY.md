@@ -597,6 +597,7 @@
         * [2 生成式AI模型設定](kits/ai_agentdevice/diy_model/manual/diy_run_setting.md)
     * [鑒別器AI模型刪除器](kits/ai_agentdevice/modeldelete.md)
     * [AI鑒別器範例程式](kits/ai_agentdevice/zoologist_sampleprogram.md)
+    * [鑒別器預設檔案下載](kits/ai_agentdevice/default_files.md)
   * [VibeCode AI創想家 編程套件](kits/vibecode_creator/README.md)
     * [AI 創想家案例教學](kits/vibecode_creator/projects/README.md)
       * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
