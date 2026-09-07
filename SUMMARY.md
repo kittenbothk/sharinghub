@@ -429,7 +429,7 @@
       * [14 語音識別模塊](mcu/liteai/micropython/asr.md)
       * [15 AI鏡頭 KOI 2](mcu/liteai/micropython/koi2.md)
     * [AI編程平台 胖虎](mcu/liteai/bunfu.md)
-    * [Lite AI固件更新](mcu/liteai/lite-ai-gu-jian-geng-xin.md)
+    * [Lite AI固件更新](mcu/liteai/firmware_update.md)
   * [Meowbit喵比特](zhu-kong-ban/meowbit/README.md)
     * [Meowbit介紹](zhu-kong-ban/meowbit/meowbit.md)
     * [MeowBit操作教學](zhu-kong-ban/meowbit/interface.md)
