@@ -1,5 +1,11 @@
 # 鑒別器AI模型刪除器
 
+未來板Lite AI的固件需要為2026-06-04或更新的版本才可以刪除模型，如要檢查固件版本或更新固件，請查看以下文章：
+
+{% content-ref url="../../mcu/liteai/lite-ai-gu-jian-geng-xin.md" %}
+[lite-ai-gu-jian-geng-xin.md](../../mcu/liteai/lite-ai-gu-jian-geng-xin.md)
+{% endcontent-ref %}
+
 ## 1. 鑒別器AI模型刪除器
 
 打開「delete.py」。
