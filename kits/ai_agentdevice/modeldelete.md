@@ -18,7 +18,7 @@
 
 <figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-刪除成功時，KOI會顯示Deleted
+刪除成功時，KOI會顯示Deleted。
 
 <figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,12 +30,14 @@
 
 {% embed url="https://kittenbot.hk/diy_tools.html" %}
 
-或者打開未來板Lite裡面的diy\_tools.html
+或者打開未來板Lite裡面的diy\_tools.html。
 
-輸入要刪除的檔案名稱然後生成刪除程式
+輸入要刪除的檔案名稱然後生成刪除程式。
 
 <figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
-在未來板Lite運行刪除檔案，按M鍵刪除指定的模型檔案
+在未來板Lite運行刪除檔案，按M鍵刪除指定的模型檔案。
+
+刪除成功時，KOI會顯示Deleted。
 
 <figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
