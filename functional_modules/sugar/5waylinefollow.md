@@ -9,3 +9,5 @@
 * 類型：I2C模組
 
 ### 產品接線
+
+<figure><img src="../../.gitbook/assets/5way_linefollow_wiring_edu.png" alt=""><figcaption></figcaption></figure>
