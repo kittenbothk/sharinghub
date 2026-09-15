@@ -820,6 +820,7 @@
     * [速度計Speedometer](kits/edu_u_msteam/speedometer.md)
     * [分貝計Decibel Sensor](kits/edu_u_msteam/decibel.md)
     * [火箭發射器Air Rocket](kits/edu_u_msteam/rocket.md)
+    * [二氧化碳檢測CO2 Sensor](kits/edu_u_msteam/er-yang-hua-tan-jian-ce-co2-sensor.md)
     * [懸浮粒子檢測PM2.5 Sensor](kits/edu_u_msteam/pm.md)
     * [氣壓計Barometer](kits/edu_u_msteam/barometer.md)
     * [導電性檢測 Conductivity](kits/edu_u_msteam/conductivity.md)

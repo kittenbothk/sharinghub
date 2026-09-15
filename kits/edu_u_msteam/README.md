@@ -58,6 +58,10 @@ hidden: true
 [rocket.md](rocket.md)
 {% endcontent-ref %}
 
+{% content-ref url="er-yang-hua-tan-jian-ce-co2-sensor.md" %}
+[er-yang-hua-tan-jian-ce-co2-sensor.md](er-yang-hua-tan-jian-ce-co2-sensor.md)
+{% endcontent-ref %}
+
 {% content-ref url="pm.md" %}
 [pm.md](pm.md)
 {% endcontent-ref %}
