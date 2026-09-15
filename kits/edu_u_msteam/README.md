@@ -4,7 +4,9 @@ hidden: true
 
 # 教大m-STEAM Kit
 
-為教大課程與教學部門設計的E-Stem學習套件
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+
+為教大課程與教學部門設計的m-STEAM學習套件
 
 ## 套件內容
 
@@ -62,6 +64,10 @@ hidden: true
 
 {% content-ref url="barometer.md" %}
 [barometer.md](barometer.md)
+{% endcontent-ref %}
+
+{% content-ref url="conductivity.md" %}
+[conductivity.md](conductivity.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../sciencekit/recovery.md" %}
