@@ -822,7 +822,7 @@
     * [火箭發射器Air Rocket](kits/edu_u_msteam/rocket.md)
     * [懸浮粒子檢測PM2.5 Sensor](kits/edu_u_msteam/pm.md)
     * [氣壓計Barometer](kits/edu_u_msteam/barometer.md)
-    * [Conductivity](kits/edu_u_msteam/conductivity.md)
+    * [導電性檢測 Conductivity](kits/edu_u_msteam/conductivity.md)
     * [未來板Lite AI 程式復原教學](kits/edu_u_msteam/recovery.md)
   * [即席揮毫 AI畫家](kits/aiprinter.md)
 * [各編程平台介紹](programmingplatforms/README.md)
