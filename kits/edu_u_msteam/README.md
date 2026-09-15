@@ -1,4 +1,4 @@
-# 教大E-Stem Kit
+# 教大m-STEAM Kit
 
 為教大課程與教學部門設計的E-Stem學習套件
 
@@ -44,8 +44,8 @@
 [speedometer.md](speedometer.md)
 {% endcontent-ref %}
 
-{% content-ref url="decibel-sensor.md" %}
-[decibel-sensor.md](decibel-sensor.md)
+{% content-ref url="decibel.md" %}
+[decibel.md](decibel.md)
 {% endcontent-ref %}
 
 {% content-ref url="rocket.md" %}
