@@ -1,8 +1,14 @@
 # Robotbit Edu 介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/robotbit-edu.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit-edu.png)
 
 Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展板的最大特點是它將Robotbit的強大驅動力和Armourbit的防反插設計結合起來。Robotbit Edu將原本Robotbit的杜邦針頭換成PH2.0的3 Pin防反插接口，令接線變得更簡易。而且亦都保留了Robotbit的4個電機接口和8個舵機接口，讓Robotbit Edu仍然擁有強大驅動力。
+
+#### 2026年9月更新：USB Type-C充電口
+
+由2026年9月起，Robotbit EDU已全面改用USB Type-C充電口，取代以往的Micro USB充電口。充電時請使用USB Type-C充電線。此接口僅用於充電，不能用於下載程式。
+
+<div><figure><img src="../../.gitbook/assets/typec1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/typec2.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 適用對象
 
@@ -21,7 +27,7 @@ Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展
 * 供電充電一體化
   * 統一供電到所有輸出位置，電源穏定
   * 自帶18650電池座，可選以鋰電池供電到板上所有輸出位置(方便之選)
-  * 自帶USB充電口與電源指示燈
+  * 自帶USB Type-C充電口與電源指示燈
   * 亦可選擇以外部電源輸入方式，以電池盒供電 (提升動力之選，最高可輸入6V電壓，即4粒1.5V 3A/2A電池)
 * 帶有電源管理和保護電路
   * 能夠避免電池過放過充等的危險情況，短路時亦都會有適當保護
@@ -36,15 +42,15 @@ Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展
 * 重量：37.5g
 * 小孔直徑：3.0mm
 * 大孔直徑：4.8mm
-* 供電方式：5V USB供電，4.2\~3.7V 鋰電池供電
+* 供電方式：5V USB Type-C供電，4.2\~3.7V 鋰電池供電
 * Vin外部輸入：最大6V3A
 * 工作電壓：3V/5V，18650鋰電池最大輸出1A
 
 ### 詳細板載資源介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/robotbit-edu2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/robotbit-edu2.png)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/i2c\&serial.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/i2c\&serial.png)
 
 1. PH2.0 3Pin IO接口x8
    * 在Robotbit Edu上使用傳統感應器可以使用3芯轉杜邦線(另購)
@@ -55,27 +61,27 @@ Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展
 6. 全彩LED燈x1
 7. 18650電池座
 8. VIN外部電源輸入
-9. USB充電接口
+9. USB Type-C充電接口
 
 #### 18650電池座
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail1.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail1.png)
 
 收到擴展板首先安裝18650鋰電池，注意電池正負極，切勿裝反！
 
-當第一次安裝電池時，Robotbit處於待激活狀態，啟動電源後電源燈不亮，此時需要短按一下電池保護激活按鈕或連接USB供電，使Robotbit進入正常工作模式。 （如果你重新安裝電池，就需要操作這個步驟）
+當第一次安裝電池時，Robotbit處於待激活狀態，啟動電源後電源燈不亮，此時需要短按一下電池保護激活按鈕或連接USB Type-C供電，使Robotbit進入正常工作模式。 （如果你重新安裝電池，就需要操作這個步驟）
 
 #### 電源開關
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail2.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail2.png)
 
 開關打開後（撥向綠色端子那邊為打開開關），為Micro:bit和擴展板的接口供電。（擴展板需要裝上18650電池）
 
-#### Micro USB充電口
+#### USB Type-C充電口
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail3.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail3.png)
 
-電腦供電或任意5V 1A或者1A以上的手機充電器均可為18650鋰電池充電。5V1A的充電器約2.5小時充滿，建議充電時關閉電源。充滿會自動截止，指示燈變綠。**充滿電後請把USB 拔走, 不宜長充, 同時請細閱讀盒內附帶之”鋰電池使用貼士”。**
+電腦供電或任意5V 1A或者1A以上的手機充電器均可為18650鋰電池充電。5V1A的充電器約2.5小時充滿，建議充電時關閉電源。充滿會自動截止，指示燈變綠。**充滿電後請把**USB Type-C充電線拔&#x8D70;**, 不宜長充, 同時請細閱讀盒內附帶之”鋰電池使用貼士”。**
 
 ```
 attention: 只能用於充電, 不是用於下載hex程式
@@ -83,13 +89,13 @@ attention: 只能用於充電, 不是用於下載hex程式
 
 #### 電源與電量指示燈
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/124.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/124.png)
 
 Led（3）為電源指示燈，打開開關後常亮Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）常亮
 
 #### 主板插槽
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail4.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail4.png)
 
 用於安裝主板。
 
@@ -97,13 +103,13 @@ Robotbit支援Micro:bit，Meowbit和未來板。
 
 #### 全彩RGB LED
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail5.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail5.png)
 
 可以編程的全彩LED燈，連接在Robotbit的Pin 16。
 
 #### 8路舵機標準3Pin接口
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail6.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail6.png)
 
 *   8路舵機實際通過專門的舵機擴展驅動芯片與Micro:bit的I2C口控制,而非IO口控制。
 
@@ -117,7 +123,7 @@ Robotbit支援Micro:bit，Meowbit和未來板。
 
 #### DC motor 直流電機 x 4 或 Stepper Motor 步進電機 (28BYJ ) x 2
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail7.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail7.png)
 
 在隨香港代理選購的電池下工作，一共可以同時控制4個（左右兩側合計）TT馬達，或者2個步進電機（與舵機合計總電流＜2A），禁止接大電流DC 馬逹和大電流步進馬逹 (建議選配Kittenbot的馬逹) ，以免燒毀擴展板 。
 
@@ -125,17 +131,17 @@ Robotbit支援Micro:bit，Meowbit和未來板。
 
 #### 3Pin IO接口
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail8.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail8.png)
 
 P0-P2、P8、P12-P15轉出到擴展板上8個3 Pin的防反插PH2.0接口，方便接駁不同模組或感應器。
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/3pin\_dupont.jpeg)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/3pin_dupont.jpeg)
 
 假如你想使用傳統杜邦接線的感應器，KittenBot亦有提供3Pin轉杜邦接口的線材。
 
 #### I2C接口與串口通信接口
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/i2c\&serial.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/i2c\&serial.png)
 
 I2C接口採用4Pin的PH2.0防反插接口，可插接I2C模塊。
 
@@ -143,7 +149,7 @@ I2C接口採用4Pin的PH2.0防反插接口，可插接I2C模塊。
 
 #### 2PIN外接電源端子
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/detail10.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/detail10.png)
 
 * 雖然有防反接功能，但接線仍需要註意正負極。
 * 外接線端子支持DC 5V的外部電源供電，推薦5V 2A以上電源供電以滿足拓展板驅動高扭矩舵機的電流需求。
@@ -153,13 +159,13 @@ I2C接口採用4Pin的PH2.0防反插接口，可插接I2C模塊。
 
 Robotbit Edu的編程方法與Robotbit是一樣的，詳細的MakeCode編程教學可以參考：
 
-[Robotbit在Makecode上編程教學](https://kittenbothk.readthedocs.io/en/latest/Microbit\_eboard/Robotbit\_edu/robotbitMC.html)
+[Robotbit在Makecode上編程教學](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit_edu/robotbitMC.html)
 
 ### Kittenblock編程教學
 
 Robotbit Edu的編程方法與Robotbit是一樣的，詳細的KittenBlock編程教學可以參考：
 
-[Robotbit在KittenBlock上編程教學](https://kittenbothk.readthedocs.io/en/latest/Microbit\_eboard/Robotbit\_edu/robotbitKB.html)
+[Robotbit在KittenBlock上編程教學](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit_edu/robotbitKB.html)
 
 ### FAQ常見問題與解答
 
@@ -171,9 +177,9 @@ Robotbit Edu的編程方法與Robotbit是一樣的，詳細的KittenBlock編程�
 
 在過流，或者短路，或者打開開關插拔電池這些瞬間異常大電流情況下，電池保護芯片會啟動工作，保護電路的安全性。點擊電池激活按鈕，即可恢復正常工作模式 。
 
-#### 插上USB電腦找不到Microbit
+#### 插上USB Type-C充電線後，電腦找不到Microbit
 
-Robotbit上的Micro USB插口只能用於充電，不能用於下載程序。USB插到Robotbit上，電腦是不會有反應的。
+Robotbit上的USB Type-C插口只能用於充電，不能用於下載程序。USB Type-C充電線插到Robotbit上，電腦是不會有反應的。
 
 #### 電池插反會不會燒毀Robotbit？
 
