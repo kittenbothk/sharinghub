@@ -89,7 +89,7 @@ attention: 只能用於充電, 不是用於下載hex程式
 
 #### 電源與電量指示燈
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/124.png)
+<figure><img src="../../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
 
 Led（3）為電源指示燈，打開開關後常亮Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）常亮
 
