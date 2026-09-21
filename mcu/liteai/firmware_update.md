@@ -12,7 +12,7 @@ Kittenbot會持續推出固件，提升未來板Lite AI的功能，同工們可�
 
 ### 下載最新固件檔案
 
-{% file src="../../.gitbook/assets/LiteAI_UF2_2026-09-04T10_46.uf2" %}
+{% file src="../../.gitbook/assets/LiteAI_UF2_2026-09-11T16_12.uf2" %}
 
 ### 用USB線將未來板連接電腦
 
