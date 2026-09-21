@@ -10,9 +10,9 @@
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-## 3. 下載google drive所有檔案然後複製到Future移動硬碟上
+## 3. 下載google drive所有檔案然後解壓縮到Future移動硬碟上
 
-### 下載範例程式
+### [下載範例程式](https://drive.google.com/file/d/1K5IR-rEZSEYW1Umm5XnGkEkYnqk-U2V5/view?usp=sharing)
 
 <figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
