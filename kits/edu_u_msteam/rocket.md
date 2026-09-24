@@ -1,6 +1,6 @@
 # 火箭發射器Air Rocket
 
-<figure><img src="../../.gitbook/assets/rocket_5ml.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rocket_angleaddon_liteai.png" alt=""><figcaption></figcaption></figure>
 
 ## 硬件接線
 
@@ -9,10 +9,12 @@
 ## 搭建說明書
 
 {% hint style="info" %}
-只需使用1-23頁的內容
+只需使用1-39頁的內容
 {% endhint %}
 
-{% embed url="https://www.canva.com/design/DAGPId4Hygw/ICTSdjcHYPsVJVxEkMstig/view?utm_campaign=designshare&utm_content=DAGPId4Hygw&utm_medium=link&utm_source=editor" %}
+{% embed url="https://www.canva.com/design/DAGT0Vzko7w/UkGlFL_3BAoj2qkvPSl1GQ/view?utm_campaign=designshare&utm_content=DAGT0Vzko7w&utm_medium=link&utm_source=editor" %}
+
+[網上說明書](https://www.canva.com/design/DAGT0Vzko7w/UkGlFL_3BAoj2qkvPSl1GQ/view?utm_content=DAGT0Vzko7w\&utm_campaign=designshare\&utm_medium=link\&utm_source=editor)
 
 ## 開啟程式
 
