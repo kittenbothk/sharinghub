@@ -13,6 +13,8 @@
 
 ### FutureLite AI
 
+用黑色線將模組連接到I2C接口。
+
 <figure><img src="../.gitbook/assets/conductivity_futurelite_wiring.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用教學
@@ -84,3 +86,18 @@
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](https://kittenbothk.readthedocs.io/en/latest/Makecode/makecode_extensionUpdate.html)
+
+### Future Lite AI Python參考程式
+
+{% file src="../.gitbook/assets/INA226.py" %}
+
+{% file src="../.gitbook/assets/circuit_i2c.py" %}
+
+將2個檔案下載到未來板Lite上。
+
+<figure><img src="../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+
+\
+打開circuit\_i2c.py。
+
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
