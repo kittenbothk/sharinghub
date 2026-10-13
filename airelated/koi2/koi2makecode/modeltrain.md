@@ -45,7 +45,7 @@ Armourbit用家請使用初始化Armourbit積木。
 {% endhint %}
 
 1. 按A訓練第一件物件，並將物件分類為A。
-2. 按B訓練第一件物件，並將物件分類為B。
+2. 按B訓練第二件物件，並將物件分類為B。
 3. 按A+B將模型儲存。模型成功儲存後，KOI會顯示Save Successfully的畫面。
 
 <figure><img src="../../../.gitbook/assets/modelsave4.png" alt=""><figcaption></figcaption></figure>
