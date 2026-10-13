@@ -812,7 +812,7 @@
     * [升級案例 KOI 2自動導航泊車](kits/differential_car/koi_auto_parking/README.md)
       * [自動導航泊車 參考程式](kits/differential_car/koi_auto_parking/autoparking_tutorial.md)
   * [Robotbit 大班教學套件(已停產)](kits/classroom.md)
-  * [教大m-STEAM Kit](kits/edu_u_msteam/README.md)
+  * [STEM Kit](kits/edu_u_msteam/README.md)
     * [未來板Lite AI操作教學](kits/edu_u_msteam/futureboard_lite_operations.md)
     * [Datalogger與數據下載教學](kits/edu_u_msteam/datalogger.md)
     * [風速計Anemometer](kits/edu_u_msteam/anemometer.md)

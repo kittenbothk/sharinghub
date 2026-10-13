@@ -1,12 +1,4 @@
----
-hidden: true
----
-
-# 教大m-STEAM Kit
-
-<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
-
-為教大課程與教學部門設計的m-STEAM學習套件
+# STEM Kit
 
 ## 套件內容
 
