@@ -101,7 +101,7 @@ V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
 
 ### 3. 將檔案內容解壓縮到SD Card上
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 將SD Card插入KOI
 

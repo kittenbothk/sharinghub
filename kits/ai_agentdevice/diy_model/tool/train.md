@@ -22,7 +22,7 @@
 
 可以按需要增加或減少項目欄位的數目
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. 設定模型和Python程式檔名
 

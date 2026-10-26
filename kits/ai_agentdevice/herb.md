@@ -27,7 +27,7 @@
 
 打開「herb\_train.py」。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 未來板上顯示ChineseYam，代表現在要訓練的分類是淮山。
 
@@ -35,7 +35,7 @@
 
 試試在不同角度和距離多拍數張照片，令模型更加準確。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 完成淮山的模型訓練後，將KOI 2對準菊花的圖片，按下A鍵，KOI就會錄入菊花的數據。
 
@@ -71,7 +71,7 @@ Password: 12345678
 KOI 2會自動載入先前訓練的AI模型。\
 按未來板的A鍵即可進行辨認。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 未來板會顯示辨認到中藥材的名稱。
 
@@ -91,6 +91,6 @@ KOI 2會自動載入先前訓練的AI模型。\
 
 如需更改WiFi的登入資料，請打開wifi.txt然後輸入新的SSID和密碼，兩者用逗號( , )分隔。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -288,6 +288,7 @@
     * [貓耳超聲波](functional_modules/outdated/ultrasound.md)
   * [USB加熱板](functional_modules/heatingpad.md)
   * [閉合電路實驗模組](functional_modules/conductivityhub.md)
+  * [MP3播放模組](functional_modules/mp3module.md)
 * [各款電機與舵機](actuators/README.md)
   * [Geekservo 9g電機](actuators/geekservo9g_motor/README.md)
     * [Page 1](actuators/geekservo9g_motor/page-1.md)

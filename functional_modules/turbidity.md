@@ -42,7 +42,7 @@
 
 ### MakeCode 編程教學
 
-#### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
+#### 在擴展頁搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
 
 <figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/robotbit_search.gif" alt=""><figcaption></figcaption></figure>
 
