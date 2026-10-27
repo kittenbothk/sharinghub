@@ -4,17 +4,17 @@
 
 [音效檔下載](https://drive.google.com/file/d/1GEJpytMGa4GYDSfpvDlvfwSC0fG-qENg/view?usp=sharing)
 
-[參考圖檔下載](https://drive.google.com/drive/folders/1l27lVZQ-IEcx-\_u2yh-VkV3N75coOGbE?usp=sharing)
+[參考圖檔下載](https://drive.google.com/drive/folders/1l27lVZQ-IEcx-_u2yh-VkV3N75coOGbE?usp=sharing)
 
-![](https://kittenbothk.readthedocs.io/en/latest/\_images/a4.png)
+![](https://kittenbothk.readthedocs.io/en/latest/_images/a4.png)
 
 ### 模型訓練參考程式
 
 {% embed url="https://makecode.microbit.org/_4c99hoUu71bC" %}
 
-[Armourbit版參考程式](https://makecode.microbit.org/\_9cYWWg5kwJ2C)
+[Armourbit版參考程式](https://makecode.microbit.org/_9cYWWg5kwJ2C)
 
-[Robotbit版參考程式](https://makecode.microbit.org/\_4c99hoUu71bC)
+[Robotbit版參考程式](https://makecode.microbit.org/_4c99hoUu71bC)
 
 #### 訓練方法
 
@@ -31,11 +31,29 @@ KOI 2播放聲音檔案需要 class10 或以上的micro SD卡才可以播放。
 
 {% embed url="https://makecode.microbit.org/_63ei2YUhoVzg" %}
 
-[Armourbit版參考程式](https://makecode.microbit.org/\_A465ksKCq4ia)
+[Armourbit版參考程式](https://makecode.microbit.org/_A465ksKCq4ia)
 
-[Robotbit版參考程式](https://makecode.microbit.org/\_63ei2YUhoVzg)
+[Robotbit版參考程式](https://makecode.microbit.org/_63ei2YUhoVzg)
 
 #### 辨認方法
 
 1. 按A啟動辨認功能。
 2. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
+
+### AIOT智能回收箱參考程式
+
+### Kzone平台
+
+{% embed url="https://makecode.microbit.org/_CibThzc4p6uo" %}
+
+[Robotbit版參考程式](https://makecode.microbit.org/_CibThzc4p6uo)
+
+#### 辨認方法
+
+1. 按A啟動辨認功能。
+2. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
+
+#### Kzone平台設定教學
+
+首先前往Kzone建立免費帳號。
+

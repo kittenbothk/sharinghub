@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Makecode 編程與Kittenbot自家IoT平台
 
 ![](https://kittenbothk.readthedocs.io/en/latest/_images/mcbanner8.png)
