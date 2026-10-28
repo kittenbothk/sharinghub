@@ -44,8 +44,6 @@
 
 <figure><img src="../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
-## 建立儀表板
-
 ## 參考程式
 
 {% embed url="https://makecode.microbit.org/_MUv68acd8bDX" %}
@@ -54,8 +52,38 @@
 
 #### 參考程式使用方法
 
-填入WiFi登入資料及話題資料
+1.填入WiFi登入資料及話題資料
 
 <figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
-打開電源等待
+2.打開電源等待KOI開機
+
+3.按下A鍵，將hello信息發送到Kzone平台
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+4.按下B鍵，將隨機數字發送到Kzone平台
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## 建立儀表板
+
+打開可視化面板然後新建項目。
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+左邊的組件庫有不同的模塊可以使用，可以將想要的模塊拖曳並添加到面板。
+
+<figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+
+點擊模塊可以修改MQTT話題等資訊，輸入要訂閱的話題。
+
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+
+完成設計面板後在左上方按運行。
+
+<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+
+向該話題發送訊息，儀錶板就會即時作出反應。
+
+<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>

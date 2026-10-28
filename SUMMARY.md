@@ -164,7 +164,7 @@
     * [KOI 2與物聯網平台](wifibrick_iot/wifibrick_makecode/koi_tutor/README.md)
       * [KOI 2與Makercloud編程教學](wifibrick_iot/wifibrick_makecode/koi_tutor/koi-2-yu-makercloud-bian-cheng-jiao-xue.md)
       * [KOI 2與Thingspeak編程教學](wifibrick_iot/wifibrick_makecode/koi_tutor/koi2_thingspeak.md)
-      * [KOI 2與Kzone編程教學](wifibrick_iot/wifibrick_makecode/koi_tutor/koi-2-yu-kzone-bian-cheng-jiao-xue.md)
+      * [KOI 2與Kzone編程教學](wifibrick_iot/wifibrick_makecode/koi_tutor/koi_kzone.md)
   * [未來板與各IoT平台編程教學](wifibrick_iot/futureboard/README.md)
     * [未來板與ThingSpeak編程快速入門](wifibrick_iot/futureboard/thingspeak.md)
     * [未來板與MakerCloud編程快速教學](wifibrick_iot/futureboard/makercloud.md)
