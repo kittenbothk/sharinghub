@@ -44,9 +44,9 @@ KOI 2播放聲音檔案需要 class10 或以上的micro SD卡才可以播放。
 
 ### Kzone平台
 
-{% embed url="https://makecode.microbit.org/_CibThzc4p6uo" %}
+{% embed url="https://makecode.microbit.org/_Wjd8xJW2x0EH" %}
 
-[Robotbit版參考程式](https://makecode.microbit.org/_CibThzc4p6uo)
+[Robotbit版參考程式](https://makecode.microbit.org/_Wjd8xJW2x0EH)
 
 #### 辨認方法
 
@@ -57,3 +57,27 @@ KOI 2播放聲音檔案需要 class10 或以上的micro SD卡才可以播放。
 
 首先前往Kzone建立免費帳號。
 
+{% content-ref url="../../wifibrick_iot/wifibrick_makecode/koi_tutor/koi_kzone.md" %}
+[koi\_kzone.md](../../wifibrick_iot/wifibrick_makecode/koi_tutor/koi_kzone.md)
+{% endcontent-ref %}
+
+建立3個MQTT話題：can, paper, bottle
+
+<figure><img src="../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+
+在參考程式填入MQTT話題。
+
+<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+
+填入WiFi登入資料。
+
+<figure><img src="../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+
+#### 程式使用教學
+
+1. 將程式下載到Microbit再打開Robotbit電源。
+2. 等待Micro:bit顯示剔號圖案，程式就會進入辨認模式。
+3. 辨認到can, bottle, paper這3種分類後舵機就會打開垃圾桶蓋。
+4. IoT平台亦會即時更新3種分類的辨認數量。
+
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
