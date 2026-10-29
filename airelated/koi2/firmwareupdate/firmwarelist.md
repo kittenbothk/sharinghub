@@ -1,5 +1,19 @@
 # KOI歷史固件一覽
 
+## 版本號 4.2.0
+
+### 適用KOI 1(Micro USB接頭版本):
+
+{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdatemicroUsb.zip" %}
+
+### 適用KOI 2(Type C接頭版本):
+
+{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdateTypeC.zip" %}
+
+此版本適用於:&#x20;
+
+1. 原裝KOI 2 (Type C 插頭) 的定時更新。
+
 ## 版本號 4.1.1
 
 固件更新內容:

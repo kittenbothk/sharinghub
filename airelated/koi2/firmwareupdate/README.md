@@ -1,6 +1,6 @@
 # KOI (KOI 1 & 2) 固件升級
 
-### KOI固件版本檢查
+## KOI固件版本檢查
 
 在KOI開機時，右下角會顯示現時版本，例如4.2.0。
 
@@ -10,34 +10,23 @@
 
 * 2者的升級的操作方法是一樣, 具體可參考後面的視頻說明。
 
-### 💡KOI 1升級到 KOI2
+## KOI鏡頭版本檢查
 
-KOI 1 用戶, 可以透過把固件升級到V4後, 便可享用到KOI 2的升級功能。
+KOI的固件版本有分銅色線及黑色線版本，請檢查KOI背後的鏡頭線的顏色再下載相應的固件檔案。
 
-首先需把KOI 1 的固件更新至V4。
+<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">**注意！**</mark>
+## 💡KOI 2 (Type C) 定期固件更新
 
-### <mark style="color:red;">**進行升級前，請移除KOI上的micro SD卡。**</mark>
+_<mark style="color:orange;">最新版本號 V4.2.2</mark>_
 
-### <mark style="color:red;">**KOI 1升級後，和KOI 2一樣都不需要SD卡儲存檔案，圖像辨識模型/相片等都可以儲存在內存上。**</mark>
+### 黑色鏡頭線版本
 
-#### 升級 KOI 1 (Micro USB) 至V4固件
+{% file src="../../../.gitbook/assets/koi_typec_4.2.2_black.zip" %}
 
-_<mark style="color:orange;">最新版本號 V4.2.0</mark>_
+### 銅色鏡頭線版本
 
-{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdatemicroUsb.zip" %}
-
-此版本適用於:&#x20;
-
-1. 原裝KOI 1 (Micro USB 插頭) 的定時更新。
-2. 較早時已為KOI 1 升級至V4 或以上, 其後再次更新。
-
-### 💡KOI 2 (Type C) 定期固件更新
-
-_<mark style="color:orange;">最新版本號 V4.2.0</mark>_
-
-{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdateTypeC.zip" %}
+{% file src="../../../.gitbook/assets/koi_typec_4.2.2_bronze.zip" %}
 
 此版本適用於:&#x20;
 
@@ -77,16 +66,6 @@ _<mark style="color:orange;">最新版本號 V4.2.0</mark>_
 
 {% embed url="https://youtu.be/3I2sggAglhY" %}
 
-### KOI V4固件刷回V1固件
-
-如需刷回V1固件，請按 KOI 1固件更新教學的步驟完成。
-
-{% content-ref url="../../koi/update/" %}
-[update](../../koi/update/)
-{% endcontent-ref %}
-
-{% embed url="https://youtu.be/3I2sggAglhY?si=2Nvj5qgIdHGvdur2&t=238" %}
-
 ## KOI 2特快固件升級方法(自備SD卡)
 
 V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
@@ -97,7 +76,13 @@ V4固件以上的KOI可以使用以下方法為KOI進行特快固件升級。
 
 ### 2. 下載以下固件檔案
 
-{% file src="../../../.gitbook/assets/20260323_4.2.0KOIUpdateSdcardFile.zip" %}
+### 黑色鏡頭線版本
+
+{% file src="../../../.gitbook/assets/koi_sd_4.2.2_blackcable.zip" %}
+
+### 銅色鏡頭線版本
+
+{% file src="../../../.gitbook/assets/koi_sd_4.2.2_bronzecable.zip" %}
 
 ### 3. 將檔案內容解壓縮到SD Card上
 

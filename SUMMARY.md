@@ -86,6 +86,7 @@
     * [KOI 2 x Teachable Machine 模型訓練方法](airelated/koi2/teachablemachine/README.md)
     * [KOI (KOI 1 & 2) 固件升級](airelated/koi2/firmwareupdate/README.md)
       * [KOI歷史固件一覽](airelated/koi2/firmwareupdate/firmwarelist.md)
+      * [KOI 1升級到 KOI2固件](airelated/koi2/firmwareupdate/koi1_upgradev4.md)
     * [KOI 2 串口指令API](airelated/koi2/koi-2-chuan-kou-zhi-ling-api.md)
     * [KOI x 未來板 DeepSeek 聯乘玩法](airelated/koi2/koix-wei-lai-ban-deepseek-lian-cheng-wan-fa.md)
   * [AI鏡頭KOI](airelated/koi/README.md)
