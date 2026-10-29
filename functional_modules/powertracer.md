@@ -15,6 +15,8 @@
 
 <figure><img src="../.gitbook/assets/powertrace_demo.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/powertrace_demo2.png" alt=""><figcaption></figcaption></figure>
+
 ## 產品參數
 
 * 工作電壓：3V\~5V
