@@ -22,7 +22,7 @@
 
 ## 參考程式
 
-#### MakeCode編程教學
+### MakeCode編程教學
 
 #### 加載Sugar插件：
 
@@ -47,3 +47,13 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 {% embed url="https://makecode.microbit.org/_cMEM25YH24uo" %}
 
 [參考程式](https://makecode.microbit.org/_MojJEjWVoEMV)
+
+### KittenBlock編程教學
+
+#### 參考程式
+
+{% embed url="https://kblock.kittenbot.cc/?share=8453212283" %}
+
+[https://kblock.kittenbot.cc?share=8453212283](https://kblock.kittenbot.cc/?share=8453212283)
+
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
