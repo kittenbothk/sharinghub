@@ -1,2 +1,0 @@
-# LiteAI x Google Sheets
-

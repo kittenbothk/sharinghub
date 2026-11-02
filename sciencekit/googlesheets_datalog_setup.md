@@ -10,8 +10,8 @@ description: 適用於 Future LiteAI：由本機讀數、Wi-Fi 與 Google 授權
 
 首先請按照以下教學設定好Google Sheets API帳戶。
 
-{% content-ref url="../mcu/liteai/liteai-x-google-sheets/liteaixgoogle-sheets-she-ding.md" %}
-[liteaixgoogle-sheets-she-ding.md](../mcu/liteai/liteai-x-google-sheets/liteaixgoogle-sheets-she-ding.md)
+{% content-ref url="../mcu/liteai/googlesheets_api.md" %}
+[googlesheets\_api.md](../mcu/liteai/googlesheets_api.md)
 {% endcontent-ref %}
 
 ## 2. 下載參考程式
