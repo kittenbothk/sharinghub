@@ -913,5 +913,5 @@
   * [9.pH酸鹼值測量](scientific_measures/phmeasure-1.md)
   * [未來板Lite AI 程式復原教學](sciencekit/recovery.md)
   * [未來板Lite 程式復原教學](sciencekit/recovery-1.md)
-  * [Google Sheets Datalogger設定教學](sciencekit/google-sheets-datalogger-she-ding-jiao-xue.md)
+  * [Google Sheets Datalogger設定教學](sciencekit/googlesheets_datalog_setup.md)
 * [Kittenbot HK Sharing Hub English](https://app.gitbook.com/o/HqOdZ0Kp19YWcfN0EH33/s/7Bv9xBdKh3R9w6Vp7asd/)
