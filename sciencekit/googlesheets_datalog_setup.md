@@ -147,16 +147,17 @@ description: 適用於 Future LiteAI：由本機讀數、Wi-Fi 與 Google 授權
 
 按 M 開始連線及記錄，再按 M 停止記錄。連線及首次 NTP 同步期間可能稍作等待。一般情況下，螢幕每 0.2 秒更新，雲端約每 2 秒上載。Future Lite AI會顯示裝置的IP地址及儀錶板網址。
 
-
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 手機或電腦連接同一本機網絡，在瀏覽器輸入裝置畫面顯示的網址：
 
 ```
-http://裝置IP/dashboard.html
-
+裝置IP/dashboard.html
 例:
-http://192.168.8.119/dashboard.html
+192.168.8.119/dashboard.html
 ```
+
+<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 底部選單可切換九種儀表板，亦可隱藏／顯示。只會載入選中的儀表板。
 
@@ -186,6 +187,3 @@ Google Sheets會即時更新Future Lite AI上傳的數據。
 * 圖表沒有資料：檢查 JSON 的分頁名稱、公開檢視設定、第 1 列標題及感測器是否已開始上載。
 * 憑證或授權錯誤：只在私人環境檢查 token.json。不要將權杖內容貼到公開討論區。
 * HTTP 429：多台裝置共用同一帳戶／Cloud 專案時會共用配額，需降低頻率或規劃上載排程。
-* 感測器／匯入模組錯誤：檢查接線及供應商韌體、對應的函式庫。
-
-本機版本已做程式檢查，仍需在正式交付前逐一實機驗證；Google Sheets 版本亦需驗證所有感測器與韌體組合。本套件不包含舊資料記錄、UV 或亮度測試程式。
