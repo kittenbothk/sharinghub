@@ -146,3 +146,6 @@ privacypolicies.com
 
 <figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
+將token.json複製到未來板Lite AI上。
+
+<figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
