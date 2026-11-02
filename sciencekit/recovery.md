@@ -1,4 +1,4 @@
-# 未來板Lite 程式復原教學
+# 未來板Lite AI 程式復原教學
 
 假如你的未來板Lite需要復原科學測量套件的預載程式，請參考以下教學將未來板恢復至出廠狀態。
 
@@ -12,7 +12,13 @@
 
 ## 3. 下載google drive所有檔案然後複製到Future移動硬碟上
 
+### TXT Datalogger版本
+
 ### [下載範例程式](https://drive.google.com/drive/folders/1HKidZEjgfFxdK_Tf2lhTxcfTq5cY3Bu_?usp=sharing)
+
+### Google Sheets Datalogger版本
+
+{% file src="../.gitbook/assets/科學測量套件Google Sheets PY.zip" %}
 
 <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
