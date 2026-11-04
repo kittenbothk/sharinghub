@@ -8,13 +8,9 @@
 
 ## 搭建說明書
 
-{% hint style="info" %}
-只需使用1-39頁的內容
-{% endhint %}
+{% embed url="https://canva.link/4e2ykqi1qbpcq4g" %}
 
-{% embed url="https://www.canva.com/design/DAGT0Vzko7w/UkGlFL_3BAoj2qkvPSl1GQ/view?utm_campaign=designshare&utm_content=DAGT0Vzko7w&utm_medium=link&utm_source=editor" %}
-
-[網上說明書](https://www.canva.com/design/DAGT0Vzko7w/UkGlFL_3BAoj2qkvPSl1GQ/view?utm_content=DAGT0Vzko7w\&utm_campaign=designshare\&utm_medium=link\&utm_source=editor)
+[網上說明書](https://canva.link/4e2ykqi1qbpcq4g)
 
 ## 開啟程式
 
