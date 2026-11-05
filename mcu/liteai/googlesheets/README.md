@@ -10,3 +10,6 @@ Lite AI現正開始支援使用Google Sheets API將數據上載到Google試算�
 
 ## 第二步: LiteAI編程
 
+{% content-ref url="sampleprogram.md" %}
+[sampleprogram.md](sampleprogram.md)
+{% endcontent-ref %}
