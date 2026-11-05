@@ -148,7 +148,7 @@
     * [Wifibrick 介紹](wifibrick_iot/wifibrick/wifibrick_intro.md)
     * [WifiBrick固件更新](wifibrick_iot/wifibrick/wifibrick_update.md)
   * [IoT平台介紹](wifibrick_iot/iotplatform/README.md)
-    * [Kittenbot 自家KZone IoT平台](wifibrick_iot/iotplatform/kittenbot-zi-jia-kzone-iot-ping-tai.md)
+    * [Kittenbot 自家KZone IoT平台](wifibrick_iot/iotplatform/kzone.md)
     * [ThingSpeak](wifibrick_iot/iotplatform/thingspeak.md)
     * [Copy of ThingSpeak](wifibrick_iot/iotplatform/copy-of-thingspeak.md)
     * [MakerCloud創客雲](wifibrick_iot/iotplatform/makercloud.md)
