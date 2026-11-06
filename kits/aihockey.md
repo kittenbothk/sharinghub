@@ -8,6 +8,8 @@ AI氣墊球機械人會自動追蹤圓球並防守龍門，結合了人工智能
 
 更高階的學生更可以透過Python編程編寫自己的AI氣墊球機械人。
 
+模型尺寸：長 60 cm × 闊 32 cm × 高 40 cm
+
 ### 搭建說明書
 
 {% embed url="https://www.canva.com/design/DAGS4jnuzC0/A3nRENty2-1jcZox0AfJkA/view?utm_campaign=designshare&utm_content=DAGS4jnuzC0&utm_medium=link&utm_source=editor" %}
