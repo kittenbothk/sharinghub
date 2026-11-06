@@ -1,6 +1,6 @@
 # Sugar ASR語音模組介紹
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/asr.png)
+![](../../.gitbook/assets/asr.png)
 
 這是一塊專為中小學STEM課程而設計的離線語音辨識模組。
 

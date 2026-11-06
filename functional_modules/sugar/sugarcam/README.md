@@ -1,6 +1,6 @@
 # Sugar二期 Sugar Cam
 
-<figure><img src="../../../.gitbook/assets/cam_render.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/camera.png" alt=""><figcaption></figcaption></figure>
 
 這是一個具備WiFi功能的智能FPV鏡頭。模組主打具備IP Cam功能，可以透過WiFi實現圖傳。模組亦都具備拍照，二維碼掃描，錄音、播放和MQTT等功能。適合應用於遙距監控錄影、WiFi小車，掃碼等的應用場景中。
 
@@ -49,15 +49,7 @@
 用任何文字編輯器都可以打開。
 ```
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/cam_usb1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/cam_usb2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/cam_usb1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/cam_usb2.png" alt=""><figcaption></figcaption></figure></div>
 
 將WiFi名稱和密碼輸入到ap和password裡面。
 
@@ -74,15 +66,7 @@
 * 指令模式: commandProcessing
 * 遙控模式: remoteControl
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/cam_commandprocessing.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/cam_remotecontrol.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/cam_commandprocessing.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/cam_remotecontrol.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 固件更新
 
