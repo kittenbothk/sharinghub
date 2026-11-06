@@ -1,10 +1,10 @@
 # 導電性檢測 Conductivity
 
-<figure><img src="../../.gitbook/assets/conductivity7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conductivity_v2.png" alt=""><figcaption></figcaption></figure>
 
 ## 硬件接線
 
-<figure><img src="../../.gitbook/assets/conductivity_futurelite_wiring.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conductivity_wiring_edu.png" alt=""><figcaption></figcaption></figure>
 
 ## 開啟程式
 
@@ -16,8 +16,15 @@
 
 未來板Lite會一直顯示測量到電路的閉合狀態和物料的導電性。
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+### 斷路
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conductivity_open.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+### 非導電物料
+
+<figure><img src="../../.gitbook/assets/conductivity_nonconduct.png" alt=""><figcaption></figcaption></figure>
+
+### 導電物料
+
+<figure><img src="../../.gitbook/assets/conductivity_conduct.png" alt=""><figcaption></figcaption></figure>
+
