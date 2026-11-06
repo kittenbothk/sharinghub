@@ -1,6 +1,6 @@
 # Sugar 人體紅外感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/pir1.png)
+![](../../.gitbook/assets/pir.png)
 
 這是一隻人體紅外感應模組，可以感測附近是否有人走過。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

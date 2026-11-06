@@ -1,6 +1,6 @@
 # Sugar二期 二氧化碳感應器模組
 
-<figure><img src="../../.gitbook/assets/co2_transparent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CO2.png" alt=""><figcaption></figcaption></figure>
 
 這是一個二氧化碳感應器，它可以感測到空氣中二氧化碳及環境溫度與濕度。
 

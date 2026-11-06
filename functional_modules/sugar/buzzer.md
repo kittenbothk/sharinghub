@@ -1,6 +1,6 @@
 # Sugar二期 蜂鳴器模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/buzzer_render.png)
+![](../../.gitbook/assets/buzzer-active.png)
 
 這是一個蜂鳴器模組，可以為Microbit V1+Robotbit EDU的用家補回蜂鳴器的功能。
 

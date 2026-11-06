@@ -1,6 +1,6 @@
 # Sugar 巡線模組(已停止生產)
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/line1.png)
+![](../../.gitbook/assets/tracker-digital.png)
 
 這是一隻紅外線巡線模組，主要用來檢測黑線。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

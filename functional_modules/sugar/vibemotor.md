@@ -1,6 +1,6 @@
 # Sugar二期 震子模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/vibe_render.png)
+![](../../.gitbook/assets/vibe-motor.png)
 
 這是一個震子模組，啟動時會發出震動。
 

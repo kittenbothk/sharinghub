@@ -1,6 +1,6 @@
 # Sugar 光敏感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/light1.png)
+![](../../.gitbook/assets/light.png)
 
 這是一隻光敏感應模組，可以檢測環境亮度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

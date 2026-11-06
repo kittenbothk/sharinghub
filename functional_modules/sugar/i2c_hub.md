@@ -1,6 +1,6 @@
 # Sugar二期 I2C分線模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/i2chub_render.png)
+![](../../.gitbook/assets/i2c-hub.png)
 
 I2C分線模組可以讓你連接多於一款I2C模組。
 

@@ -1,6 +1,6 @@
 # Sugar LED模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/led12.png)
+<div><img src="../../.gitbook/assets/led-green.png" alt=""> <figure><img src="../../.gitbook/assets/led-red.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/led-yellow.png" alt=""><figcaption></figcaption></figure></div>
 
 這是一粒LED模組。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

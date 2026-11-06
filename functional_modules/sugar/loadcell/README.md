@@ -1,6 +1,6 @@
 # Sugar二期 稱重模組
 
-<figure><img src="../../../.gitbook/assets/weight1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/称重.png" alt=""><figcaption></figcaption></figure>
 
 Sugar 稱重模組可以量度物件的重量。
 

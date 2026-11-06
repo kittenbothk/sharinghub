@@ -1,6 +1,6 @@
 # Sugar 火焰感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/flame1.png)
+![](../../.gitbook/assets/flame.png)
 
 這是一隻火焰感應模組，可以檢測火焰的強度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

@@ -1,6 +1,6 @@
 # Sugar二期 雷射模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/laser_render.png)
+![](../../.gitbook/assets/laser.png)
 
 這是一個雷射模組，啟動時會發出紅色的雷射光點，適合作雷射筆或逗貓之用。
 

@@ -1,6 +1,6 @@
 # Sugar二期 灰度感應器模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/gray_render.png)
+![](../../.gitbook/assets/grayscale.png)
 
 這是一個灰度感應器。
 

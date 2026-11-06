@@ -1,6 +1,6 @@
 # Sugar 土壤濕度模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/soil1.png)
+![](../../.gitbook/assets/soil-moisture.png)
 
 這是一隻土壤濕度模組，可以檢測土壤的濕度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

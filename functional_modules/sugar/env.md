@@ -1,6 +1,6 @@
 # Sugar 溫濕度模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/env1.png)
+![](../../.gitbook/assets/env-1.png)
 
 這是一隻溫濕度模組，可以檢測溫濕度，比起DHT11這塊模組的探測精準度較高。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

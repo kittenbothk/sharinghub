@@ -1,6 +1,6 @@
 # Sugar二期 環境氣壓模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/envii_render.png)
+![](../../.gitbook/assets/env-2.png)
 
 這個是環境氣壓模組，除了溫度之外它還可以探測到氣壓數值。
 

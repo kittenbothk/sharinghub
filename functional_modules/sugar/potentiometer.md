@@ -1,6 +1,6 @@
 # Sugar 電位器模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/poten1.png)
+![](../../.gitbook/assets/angle.png)
 
 這是一隻電位器模組，可以檢測旋轉的角度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

@@ -1,6 +1,6 @@
 # Sugar二期 碰撞模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/crash_render.png)
+![](../../.gitbook/assets/crash.png)
 
 這是一個碰撞模組，可以當作按鍵使用。
 

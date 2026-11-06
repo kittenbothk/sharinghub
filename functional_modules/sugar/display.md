@@ -1,6 +1,6 @@
 # Sugar二期 數碼顯示模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/display_render.png)
+![](../../.gitbook/assets/display.png)
 
 這是一個數碼顯示模組，可以用來顯示數字或時間等信息。
 

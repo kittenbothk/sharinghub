@@ -1,6 +1,6 @@
 # Sugar 激光測距模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/tof1.png)
+![](../../.gitbook/assets/tof-distance.png)
 
 這是一隻激光測距模組，可以檢測距離，比起超聲波測距，激光測距的精準度更加高。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

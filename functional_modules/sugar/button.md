@@ -1,6 +1,6 @@
 # Sugar 按鍵模組
 
-<figure><img src="https://kittenbothk.readthedocs.io/en/latest/_images/button1.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/button-blue.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/button-red.png" alt=""><figcaption></figcaption></figure></div>
 
 這是一件按鍵模組，可以感測按鍵狀態。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

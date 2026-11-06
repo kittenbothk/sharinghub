@@ -1,6 +1,6 @@
 # Sugar二期 太陽能電源管理模組
 
-<figure><img src="../../.gitbook/assets/solar.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/太阳能2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/太阳能1.png" alt=""><figcaption></figcaption></figure></div>
 
 太陽能電源管理模組是一個可以將太陽光轉換成為電力的模組，模組可以作為太陽能充電器，透過太陽能替模組的18650電池充電。更可以透過Micro:bit或未來板等主控板開啟或關閉太陽能板的輸出或休眠時間，模組亦搭載有實時時間模組，可以做到報時功能。
 

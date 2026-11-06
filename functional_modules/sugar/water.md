@@ -1,6 +1,6 @@
 # Sugar 雨滴水位模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/water1.png)
+![](../../.gitbook/assets/water-level.png)
 
 這是一隻雨滴水位模組，可以檢測雨滴和水位。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

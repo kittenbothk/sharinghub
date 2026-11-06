@@ -1,6 +1,6 @@
 # Sugar 磁力感應模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/magnet1.png)
+![](../../.gitbook/assets/hall.png)
 
 這是一隻磁力感應模組，可以感應附近是否有磁石。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 

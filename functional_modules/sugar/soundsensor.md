@@ -1,5 +1,7 @@
 # Sugar二期 聲音感應模組
 
+<figure><img src="../../.gitbook/assets/sound.png" alt=""><figcaption></figcaption></figure>
+
 這是一個聲音感應器。
 
 ### 產品參數

@@ -1,6 +1,6 @@
 # Sugar二期 觸碰模組
 
-![](https://kittenbothk.readthedocs.io/en/latest/_images/touch_render.png)
+![](../../.gitbook/assets/touch.png)
 
 這是一個觸碰模組，可以探測得到手指觸碰。
 
