@@ -307,6 +307,7 @@
   * [Geek Motor O360 續轉舵機](actuators/360servo.md)
   * [高速直流電機](actuators/130motor.md)
   * [9g小舵機](actuators/9g.md)
+  * [Sugar 舵機馬達](actuators/sugar-duo-ji-ma-da.md)
 * [Microsoft Jacdac 系列](jacdac/README.md)
   * [Jacdac介紹](jacdac/jacdac.md)
   * [Jacdac 硬件](jacdac/hardwares/README.md)
