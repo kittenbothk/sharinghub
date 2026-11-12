@@ -1,6 +1,6 @@
 # VibeCode AI創想家 編程套件
 
-<figure><img src="../../.gitbook/assets/for退地only (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/box4.png" alt=""><figcaption></figcaption></figure>
 
 ## 套件介紹
 
